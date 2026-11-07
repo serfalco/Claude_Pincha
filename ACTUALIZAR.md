@@ -11,6 +11,35 @@ Objetivo: que `data/home.json` y sus traducciones reflejen **cómo está hoy Est
 4. **Textos propios**, nunca copiados: titulares y bajadas reescritos, cortos, en tono de hincha pero informativo.
 5. Si no hay novedades, **no se hace commit**.
 
+## Fuentes
+
+Orden de prioridad. Lo oficial manda; los medios sirven para confirmar y para llegar antes.
+
+**Oficiales del club (se pueden leer automáticamente)**
+- Web: https://estudiantesdelaplata.com/ — sobre todo la sección Entradas: https://estudiantesdelaplata.com/category/entradas/ (ventanas por ranking, precios, requisitos) y Socios.
+- Asociarse: https://sumate.estudiantesdelaplata.com/
+
+**Oficiales del club (no se pueden leer desde afuera: login o bloqueo a robots)**
+- Canal de WhatsApp (oficial, ~102 mil seguidores): https://whatsapp.com/channel/0029Va6CN7H96H4KZqCeiF3e
+- Facebook: https://www.facebook.com/EdelpOficial/ · TikTok: https://www.tiktok.com/@edelpoficial
+- Instagram y X: el club publica ahí lo mismo que en WhatsApp, pero no se pueden leer.
+Lo que el club publica en estas redes lo levantan rápido los medios de abajo: buscarlo por ahí y, si se puede, confirmarlo en la web del club.
+
+**Competencias y entradas**
+- CONMEBOL / ElevenTickets (Libertadores): https://libertadores.eleventickets.com/
+- Liga Profesional / AFA para fixture y horarios oficiales.
+
+**Medios (confirmación y velocidad)**
+- La Plata: El Día (eldia.com), 0221 (0221.com.ar), Infocielo, Diario Hoy.
+- Nacionales: La Nación / Canchallena, Olé, TyC Sports, ESPN, Infobae, 442 Perfil, El Gráfico.
+- Tablas y números: futbolargentino.com, promediosinfo.com.
+
+## Para socios (prioridad alta)
+
+Si hay una venta de entradas o un trámite de socios en curso, es lo primero que va en `hoy`:
+qué ventana está abierta ahora, a qué puntajes le toca, hasta qué hora, dónde se compra y los requisitos clave.
+Las ventanas que ya cerraron se sacan.
+
 ## Qué revisar en cada corrida
 
 - **ultimo**: último partido oficial jugado (rival, goles, fecha, torneo, condición `local`/`visitante`/`neutral`). La mascota se calcula sola con los goles.
