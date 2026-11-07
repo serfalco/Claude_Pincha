@@ -16,6 +16,7 @@ Objetivo: que `data/home.json` y sus traducciones reflejen **cómo está hoy Est
 Orden de prioridad. Lo oficial manda; los medios sirven para confirmar y para llegar antes.
 
 **Oficiales del club (se pueden leer automáticamente)**
+- **Feed RSS de la web (empezar siempre por acá):** https://estudiantesdelaplata.com/feed/ — todas las publicaciones del club con fecha y hora, se actualiza en el momento.
 - Web: https://estudiantesdelaplata.com/ — sobre todo la sección Entradas: https://estudiantesdelaplata.com/category/entradas/ (ventanas por ranking, precios, requisitos) y Socios.
 - Asociarse: https://sumate.estudiantesdelaplata.com/
 
