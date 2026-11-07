@@ -40,7 +40,7 @@ const build = async () => {
   // Genera una página en todos los idiomas. render(ctx, lang) → { title, description, jsonLd, body }
   const pagina = async (slug, lastmod, render) => {
     const alternates = site.idiomas.map((lang) => ({
-      lang, path: ruta(lang, slug), abs: abs(ruta(lang, slug)), nombre: textos[lang].nombreIdioma, ogLocale: textos[lang].ogLocale,
+      lang, path: ruta(lang, slug), abs: abs(ruta(lang, slug)), nombre: textos[lang].nombreIdioma, etiqueta: textos[lang].etiqueta, ogLocale: textos[lang].ogLocale,
     }));
     for (const lang of site.idiomas) {
       const alts = alternates.map((a) => ({ ...a, actual: a.lang === lang, href: a.path }));

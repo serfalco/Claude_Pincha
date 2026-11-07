@@ -2,6 +2,7 @@ export default {
   lang: 'en',
   locale: 'en-GB',
   ogLocale: 'en_GB',
+  etiqueta: 'EN',
   nombreIdioma: 'English',
   title: 'El Pincha Hoy · Estudiantes de La Plata today',
   descripcion:

@@ -8,7 +8,9 @@
       "texto": {
         "es": "Se agotaron las populares para la final: cerca de 14 mil entradas. El club espera un remanente de plateas.",
         "en": "Terrace tickets for the final sold out: around 14,000. The club is waiting on remaining seats.",
-        "pt": "Esgotaram os ingressos populares para a final: cerca de 14 mil. O clube aguarda sobra de cadeiras."
+        "pt": "Esgotaram os ingressos populares para a final: cerca de 14 mil. O clube aguarda sobra de cadeiras.",
+        "zh": "决赛看台票售罄：约1.4万张。俱乐部正在等待剩余座席票。",
+        "hi": "फ़ाइनल के स्टैंड टिकट बिक गए: लगभग 14,000। क्लब बची हुई सीटों का इंतज़ार कर रहा है।"
       }
     },
     {
@@ -18,7 +20,9 @@
       "texto": {
         "es": "Convocados para Córdoba: vuelve Jalil Elías y Carrillo descansa.",
         "en": "Squad for Córdoba: Jalil Elías returns and Carrillo is rested.",
-        "pt": "Relacionados para Córdoba: Jalil Elías volta e Carrillo é poupado."
+        "pt": "Relacionados para Córdoba: Jalil Elías volta e Carrillo é poupado.",
+        "zh": "科尔多瓦之战大名单：哈利勒·埃利亚斯（Jalil Elías）回归，卡里略（Carrillo）轮休。",
+        "hi": "कॉर्डोबा के लिए टीम: Jalil Elías की वापसी, Carrillo को आराम।"
       }
     }
   ]

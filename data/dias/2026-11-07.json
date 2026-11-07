@@ -3,12 +3,16 @@
   "titular": {
     "es": "Hoy cierra el Clausura y en 21 días se juega la final de la Libertadores",
     "en": "The Clausura ends today, and the Libertadores final is 21 days away",
-    "pt": "Hoje termina o Clausura, e a final da Libertadores é daqui a 21 dias"
+    "pt": "Hoje termina o Clausura, e a final da Libertadores é daqui a 21 dias",
+    "zh": "今天阿根廷联赛闭幕赛收官，21天后迎来南美解放者杯决赛",
+    "hi": "आज क्लॉसुरा ख़त्म, और 21 दिन बाद कोपा लिबर्टाडोरेस का फ़ाइनल"
   },
   "resumen": {
     "es": "A las 15 el Pincha visita a Talleres por la última fecha, ya sin chances de octavos. La cabeza está en lo que viene: la Supercopa Argentina el jueves y la final con Palmeiras en Montevideo.",
     "en": "At 3 pm Pincha visit Talleres on the final matchday, already out of the play-off race. All eyes are on what comes next: the Supercopa Argentina on Thursday and the final against Palmeiras in Montevideo.",
-    "pt": "Às 15h o Pincha visita o Talleres na última rodada, já sem chances de ir às oitavas. A cabeça está no que vem por aí: a Supercopa Argentina na quinta e a final contra o Palmeiras em Montevidéu."
+    "pt": "Às 15h o Pincha visita o Talleres na última rodada, já sem chances de ir às oitavas. A cabeça está no que vem por aí: a Supercopa Argentina na quinta e a final contra o Palmeiras em Montevidéu.",
+    "zh": "下午3点，球队在最后一轮客场挑战Talleres，已无缘十六强。大家关注的是接下来的比赛：周四的阿根廷超级杯，以及在蒙得维的亚对阵帕尔梅拉斯（Palmeiras）的决赛。",
+    "hi": "दोपहर 3 बजे Pincha आख़िरी राउंड में Talleres के मैदान पर खेलेगा, प्लेऑफ़ की दौड़ से पहले ही बाहर। अब नज़र आगे पर है: गुरुवार को सुपरकोपा अर्जेंटीना और मोंटेवीडियो में Palmeiras के ख़िलाफ़ फ़ाइनल।"
   },
   "ultimo": {
     "rival": "Instituto",
@@ -26,7 +30,9 @@
       "texto": {
         "es": "La final del 28 obliga a mover casamientos, shows y cumpleaños en La Plata.",
         "en": "The final on the 28th is forcing weddings, gigs and birthday parties in La Plata to be moved.",
-        "pt": "A final do dia 28 obriga a remarcar casamentos, shows e aniversários em La Plata."
+        "pt": "A final do dia 28 obriga a remarcar casamentos, shows e aniversários em La Plata.",
+        "zh": "28日的决赛让拉普拉塔不少婚礼、演出和生日聚会不得不改期。",
+        "hi": "28 तारीख़ के फ़ाइनल की वजह से ला प्लाटा में शादियाँ, शो और जन्मदिन की पार्टियाँ आगे खिसकानी पड़ रही हैं।"
       }
     },
     {
@@ -36,7 +42,9 @@
       "texto": {
         "es": "Fútbol femenino: las chicas le ganaron 3-2 a River en el UNO y quedaron a un paso de la permanencia.",
         "en": "Women's football: a 3-2 win over River at the UNO leaves them one step from staying up.",
-        "pt": "Futebol feminino: vitória por 3 a 2 sobre o River no UNO deixa o time a um passo da permanência."
+        "pt": "Futebol feminino: vitória por 3 a 2 sobre o River no UNO deixa o time a um passo da permanência.",
+        "zh": "女足：在UNO球场3比2击败River，距离保级只差一步。",
+        "hi": "महिला फ़ुटबॉल: UNO में River पर 3-2 की जीत, लीग में बने रहने से बस एक क़दम दूर।"
       }
     },
     {
@@ -46,7 +54,9 @@
       "texto": {
         "es": "A las 15, último partido del Clausura ante Talleres en Córdoba.",
         "en": "At 3 pm, the last Clausura match away to Talleres in Córdoba.",
-        "pt": "Às 15h, último jogo do Clausura contra o Talleres, em Córdoba."
+        "pt": "Às 15h, último jogo do Clausura contra o Talleres, em Córdoba.",
+        "zh": "下午3点，闭幕赛最后一场，客场在科尔多瓦对阵Talleres。",
+        "hi": "दोपहर 3 बजे, क्लॉसुरा का आख़िरी मैच, कॉर्डोबा में Talleres के ख़िलाफ़।"
       }
     }
   ]

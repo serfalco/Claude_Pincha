@@ -182,3 +182,9 @@ abbr { text-decoration: none; }
 .dias__titulo { font-size: 1.6rem; font-weight: 800; margin-bottom: 12px; }
 .dias__link { display: flex; flex-direction: column-reverse; gap: 2px; text-decoration: none; }
 .footer__link { color: var(--text); font-weight: 700; }
+
+/* Chino e hindi: sin mayúsculas forzadas ni espaciado de letras (rompe la escritura) */
+:lang(zh) .kicker, :lang(zh) .card__label, :lang(zh) .block__title, :lang(zh) .linea__titulo,
+:lang(hi) .kicker, :lang(hi) .card__label, :lang(hi) .block__title, :lang(hi) .linea__titulo { letter-spacing: 0; text-transform: none; }
+:lang(hi) body { line-height: 1.65; }
+.langs { flex-wrap: wrap; justify-content: flex-end; }

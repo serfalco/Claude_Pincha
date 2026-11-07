@@ -10,7 +10,7 @@ const linea = (items = [], actualizado, t, f, enlace) =>
     ${items.map(
       (n) => html`<li class="linea__item">
       <time class="linea__hora" datetime="${n.hora}">${mismoDia(n.hora, actualizado, f) ? f.hora(n.hora) : t.ayer}</time>
-      <p class="linea__texto">${n.url ? html`<a href="${n.url}" rel="noopener">${n.texto}</a>` : n.texto} <span class="linea__fuente">${n.fuente}</span></p>
+      <p class="linea__texto">${n.url ? html`<a href="${n.url}" rel="noopener">${n.texto}</a>` : n.texto} <span class="linea__fuente">${n.fuente === 'Club' ? t.menu.club : n.fuente}</span></p>
     </li>`
     )}
   </ol>

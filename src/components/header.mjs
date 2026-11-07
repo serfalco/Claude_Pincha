@@ -12,8 +12,8 @@ export const header = ({ site, t, alternates, home }) => html`
     <nav class="langs" aria-label="${t.idiomas}">
       ${alternates.map((a) =>
         a.actual
-          ? html`<span class="langs__item is-actual" aria-current="true" title="${a.nombre}">${a.lang.toUpperCase()}</span>`
-          : html`<a class="langs__item" href="${a.href}" hreflang="${a.lang}" lang="${a.lang}" title="${a.nombre}">${a.lang.toUpperCase()}</a>`
+          ? html`<span class="langs__item is-actual" aria-current="true" title="${a.nombre}">${a.etiqueta}</span>`
+          : html`<a class="langs__item" href="${a.href}" hreflang="${a.lang}" lang="${a.lang}" title="${a.nombre}">${a.etiqueta}</a>`
       )}
     </nav>
     <nav class="nav" aria-label="${t.secciones}">

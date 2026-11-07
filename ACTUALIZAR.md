@@ -63,10 +63,12 @@ Las ventanas que ya cerraron se sacan.
 
 ## Traducciones
 
-Después de cambiar `data/home.json`, actualizar `data/i18n/home.en.json` y `data/i18n/home.pt.json` con **las mismas posiciones de arrays**.
+Después de cambiar `data/home.json`, actualizar `data/i18n/home.en.json`, `home.pt.json`, `home.zh.json` y `home.hi.json` con **las mismas posiciones de arrays**.
 Solo campos de texto: `hoy` (incluido `hoy.linea[].texto`), `instancia` de cada partido, `ultimo.torneo`, `posiciones[].tabla/detalle`, `tabla.nombre`, textos de `club`, `titulo`/`bajada` de noticias.
 
 - Inglés británico de fútbol (matchday, fixture, home/away). Portugués de Brasil (rodada, mandante).
+- Chino simplificado (zh-CN), registro de prensa deportiva. Clubes y jugadores en letras latinas, salvo nombres ya establecidos (帕尔梅拉斯 la primera vez, con "(Palmeiras)").
+- Hindi (hi-IN) en devanagari, registro de prensa deportiva; términos de fútbol como se usan en India (फ़ाइनल, राउंड, अंक). Clubes y jugadores en letras latinas.
 - **No se traducen**: Pincha, Pincharrata, el UNO, nombres de torneos (Torneo Clausura, Copa Libertadores, Supercopa Argentina), clubes y estadios.
 - Números en formato de cada idioma (63,002 en inglés; 63.002 en portugués). Montos en pesos como `ARS`.
 

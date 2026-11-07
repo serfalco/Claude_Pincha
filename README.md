@@ -1,12 +1,12 @@
 # El Pincha Hoy
 
-¿Cómo está hoy el Pincha? Respuesta en menos de un minuto, desde el celular. En español, inglés y portugués.
+¿Cómo está hoy el Pincha? Respuesta en menos de un minuto, desde el celular. En español, inglés, portugués, chino e hindi.
 
 ## Cómo funciona
 
 ```
 data/home.json  ─────────┐
-data/i18n/home.<idioma>  ├─► scripts/build.mjs ─► dist/ (HTML estático: /, /en/, /pt/) ─► Cloudflare Pages
+data/i18n/home.<idioma>  ├─► scripts/build.mjs ─► dist/ (HTML estático: /, /en/, /pt/, /zh/, /hi/) ─► Cloudflare Pages
 src/ (plantillas + i18n) ┘
 ```
 
@@ -43,7 +43,7 @@ El build genera `/dia/AAAA-MM-DD/` por día y `/dias/` con el índice, en cada i
 
 ## Idiomas
 
-- `site.config.mjs` → `idiomas: ['es', 'en', 'pt']`. El primero va en `/`, los demás en `/<idioma>/`.
+- `site.config.mjs` → `idiomas: ['es', 'en', 'pt', 'zh', 'hi']`. El primero va en `/`, los demás en `/<idioma>/`.
 - `src/i18n/<idioma>.mjs` → textos fijos de la interfaz (menú, etiquetas, fechas).
 - `data/i18n/home.<idioma>.json` → traducción del contenido del día.
 - SEO: `hreflang` + `x-default`, `og:locale` y sitemap con alternativas por idioma.

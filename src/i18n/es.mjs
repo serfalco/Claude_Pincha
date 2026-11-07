@@ -3,6 +3,7 @@ export default {
   lang: 'es',
   locale: 'es-AR',
   ogLocale: 'es_AR',
+  etiqueta: 'ES',
   nombreIdioma: 'Español',
   title: 'El Pincha Hoy · Cómo está hoy Estudiantes de La Plata',
   descripcion:

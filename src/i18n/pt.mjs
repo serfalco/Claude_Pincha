@@ -2,6 +2,7 @@ export default {
   lang: 'pt',
   locale: 'pt-BR',
   ogLocale: 'pt_BR',
+  etiqueta: 'PT',
   nombreIdioma: 'Português',
   title: 'El Pincha Hoy · Como está hoje o Estudiantes de La Plata',
   descripcion:

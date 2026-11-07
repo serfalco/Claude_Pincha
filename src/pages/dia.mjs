@@ -46,7 +46,7 @@ ${header(ctx)}
           ${dia.linea.map(
             (n) => html`<li class="linea__item">
             <time class="linea__hora" datetime="${n.hora}">${f.hora(n.hora)}</time>
-            <p class="linea__texto">${n.url ? html`<a href="${n.url}" rel="noopener">${tx(n.texto)}</a>` : tx(n.texto)} <span class="linea__fuente">${n.fuente}</span></p>
+            <p class="linea__texto">${n.url ? html`<a href="${n.url}" rel="noopener">${tx(n.texto)}</a>` : tx(n.texto)} <span class="linea__fuente">${n.fuente === 'Club' ? t.menu.club : n.fuente}</span></p>
           </li>`
           )}
         </ol>

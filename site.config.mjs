@@ -6,6 +6,6 @@ export default {
   equipo: 'Estudiantes de La Plata',
   colorTema: '#d4001f',
   // El primero es el idioma base (va en "/"); el resto va en "/<idioma>/".
-  idiomas: ['es', 'en', 'pt'],
+  idiomas: ['es', 'en', 'pt', 'zh', 'hi'],
   secciones: ['hoy', 'partidos', 'tabla', 'noticias', 'club'],
 };
