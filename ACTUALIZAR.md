@@ -11,6 +11,14 @@ Objetivo: que `data/home.json` y sus traducciones reflejen **cómo está hoy Est
 4. **Textos propios**, nunca copiados: titulares y bajadas reescritos, cortos, en tono de hincha pero informativo.
 5. Si no hay novedades, **no se hace commit**.
 
+## Primer paso: cobertura por RSS
+
+Correr `npm run cobertura`. Junta en `cobertura/ultimas.json` todo lo publicado en las últimas 72 h por el feed del club, 0221, La Nación, Infobae y Google Noticias (que suma El Día, Olé, TyC, ESPN, Infocielo, etc.), filtrado para Estudiantes de La Plata y sin duplicados.
+- `[CLUB]` = publicación oficial: manda sobre todo lo demás.
+- `[SOCIOS]` = entradas, ventanas, ranking, cuota: revisar primero.
+- `confirman` = otros medios que contaron lo mismo (sirve como segunda fuente).
+Abrir las notas relevantes (WebFetch) antes de usarlas: el título solo no alcanza. Si un feed falla, seguir con el resto y buscar en la web lo que falte.
+
 ## Fuentes
 
 Orden de prioridad. Lo oficial manda; los medios sirven para confirmar y para llegar antes.
