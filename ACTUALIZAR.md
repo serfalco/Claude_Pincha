@@ -56,6 +56,7 @@ Las ventanas que ya cerraron se sacan.
 - **proximos**: próximos partidos oficiales confirmados (máx. 4), ordenados por fecha. Sacar los ya jugados.
 - **tabla** y **posiciones**: tabla del torneo en curso (zona de Estudiantes), puesto en la anual y en promedios. Si el torneo terminó, la tabla final con su nombre indicando que es final. `clasifican` según el formato vigente.
 - **hoy**: titular + resumen (2 frases) + 3 puntos sobre lo más importante del día para el hincha (partido de hoy, resultado de ayer, lesiones, entradas, el club).
+- **hoy.linea** ("Lo último"): lo que pasó hoy, de lo más nuevo a lo más viejo, 3 a 6 ítems. Cada uno: `hora` (hora real de la publicación, en hora argentina), `texto` (una frase propia), `fuente` ("Club" si es oficial, si no el medio) y `url`. Si es temprano y hay poco del día, completar con lo de ayer a la tarde/noche (se muestra como "Ayer"). Nada de más de 24 h. No es minuto a minuto: solo hechos que le importan al hincha.
 - **noticias**: las 4 más relevantes de los últimos días, con link a la nota original y su fuente.
 - **club**: socios y balance solo si hay un dato oficial nuevo. Campaña de socios: mantener el link.
 - **actualizado**: fecha y hora de la corrida.
@@ -63,7 +64,7 @@ Las ventanas que ya cerraron se sacan.
 ## Traducciones
 
 Después de cambiar `data/home.json`, actualizar `data/i18n/home.en.json` y `data/i18n/home.pt.json` con **las mismas posiciones de arrays**.
-Solo campos de texto: `hoy`, `instancia` de cada partido, `ultimo.torneo`, `posiciones[].tabla/detalle`, `tabla.nombre`, textos de `club`, `titulo`/`bajada` de noticias.
+Solo campos de texto: `hoy` (incluido `hoy.linea[].texto`), `instancia` de cada partido, `ultimo.torneo`, `posiciones[].tabla/detalle`, `tabla.nombre`, textos de `club`, `titulo`/`bajada` de noticias.
 
 - Inglés británico de fútbol (matchday, fixture, home/away). Portugués de Brasil (rodada, mandante).
 - **No se traducen**: Pincha, Pincharrata, el UNO, nombres de torneos (Torneo Clausura, Copa Libertadores, Supercopa Argentina), clubes y estadios.

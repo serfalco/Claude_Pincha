@@ -12,6 +12,8 @@ export default {
   idiomas: 'Idioma',
   menu: { hoy: 'Hoje', partidos: 'Jogos', tabla: 'Tabela', noticias: 'Notícias', club: 'Clube' },
   hoyKicker: 'Hoje no Pincha',
+  lineaTitulo: 'Últimas',
+  ayer: 'Ontem',
   proximo: 'Próximo jogo',
   proximos: 'Próximos jogos',
   ultimo: 'Último resultado',

@@ -27,6 +27,9 @@ export const validarHome = (data) => {
   });
   if (!data.tabla?.filas?.length) errores.push('tabla.filas vacía');
 
+  (data.hoy?.linea ?? []).forEach((n, i) => {
+    if (!esFecha(n.hora) || !esTexto(n.texto)) errores.push(`hoy.linea[${i}] incompleta`);
+  });
   const CONDICIONES = ['local', 'visitante', 'neutral'];
   if (!data.proximos?.length) errores.push('proximos vacío');
   (data.proximos ?? []).forEach((p, i) => {

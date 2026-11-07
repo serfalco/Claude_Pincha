@@ -5,31 +5,82 @@
     "puntos": [
       "Libertadores final: Saturday 28/11, 5 pm, Estadio Centenario.",
       "Supercopa Argentina v Independiente Rivadavia: Thursday 12/11, 8 pm, in Córdoba.",
-      "Coming off a 3-3 draw with Instituto at the UNO."
+      "Terrace tickets for the final have sold out; the club is waiting on remaining seats."
+    ],
+    "linea": [
+      {
+        "texto": "The final on the 28th is forcing weddings, gigs and birthday parties in La Plata to be moved."
+      },
+      {
+        "texto": "Women's football: a 3-2 win over River at the UNO leaves them one step from staying up."
+      },
+      {
+        "texto": "At 3 pm, the last Clausura match away to Talleres in Córdoba."
+      },
+      {
+        "texto": "Terrace tickets for the final sold out: around 14,000. The club is waiting on remaining seats."
+      },
+      {
+        "texto": "Squad for Córdoba: Jalil Elías returns and Carrillo is rested."
+      }
     ]
   },
   "proximos": [
-    { "instancia": "Matchday 16" },
-    { "instancia": "Final" },
-    { "instancia": "Final" }
+    {
+      "instancia": "Matchday 16"
+    },
+    {
+      "instancia": "Final"
+    },
+    {
+      "instancia": "Final"
+    }
   ],
-  "ultimo": { "torneo": "Torneo Clausura · Matchday 15" },
+  "ultimo": {
+    "torneo": "Torneo Clausura · Matchday 15"
+  },
   "posiciones": [
-    { "tabla": "Clausura · Group A", "detalle": "15 pts" },
-    { "tabla": "Season table", "detalle": "46 pts" },
-    { "tabla": "Relegation average", "detalle": "1.451" }
+    {
+      "tabla": "Clausura · Group A",
+      "detalle": "15 pts"
+    },
+    {
+      "tabla": "Season table",
+      "detalle": "46 pts"
+    },
+    {
+      "tabla": "Relegation average",
+      "detalle": "1.451"
+    }
   ],
-  "tabla": { "nombre": "Torneo Clausura 2026 · Group A · before matchday 16" },
+  "tabla": {
+    "nombre": "Torneo Clausura 2026 · Group A · before matchday 16"
+  },
   "club": {
     "sociosDetalle": "At the General Assembly (17 October 2026). There were 58,720 at the end of the financial year.",
     "balance": {
       "ejercicio": "Financial year No. 121 · 1/7/2025 to 30/6/2026",
       "datos": [
-        { "dato": "Result", "valor": "Surplus of ARS 457 million" },
-        { "dato": "Net equity", "valor": "ARS 171,795 million (4.5× liabilities)" },
-        { "dato": "Liabilities", "valor": "ARS 38,539 million (−21.5%)" },
-        { "dato": "Operating expenses", "valor": "−14%" },
-        { "dato": "Dues up to date", "valor": "93% of members" }
+        {
+          "dato": "Result",
+          "valor": "Surplus of ARS 457 million"
+        },
+        {
+          "dato": "Net equity",
+          "valor": "ARS 171,795 million (4.5× liabilities)"
+        },
+        {
+          "dato": "Liabilities",
+          "valor": "ARS 38,539 million (−21.5%)"
+        },
+        {
+          "dato": "Operating expenses",
+          "valor": "−14%"
+        },
+        {
+          "dato": "Dues up to date",
+          "valor": "93% of members"
+        }
       ],
       "aprobado": "Unanimously approved at the General Assembly on 17 October 2026."
     },

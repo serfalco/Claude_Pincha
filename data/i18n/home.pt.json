@@ -5,31 +5,82 @@
     "puntos": [
       "Final da Libertadores: sábado 28/11, 17h, Estádio Centenario.",
       "Supercopa Argentina x Independiente Rivadavia: quinta 12/11, 20h, em Córdoba.",
-      "Vem de um empate em 3 a 3 com o Instituto no UNO."
+      "Ingressos populares esgotados para a final: o clube aguarda sobra de cadeiras."
+    ],
+    "linea": [
+      {
+        "texto": "A final do dia 28 obriga a remarcar casamentos, shows e aniversários em La Plata."
+      },
+      {
+        "texto": "Futebol feminino: vitória por 3 a 2 sobre o River no UNO deixa o time a um passo da permanência."
+      },
+      {
+        "texto": "Às 15h, último jogo do Clausura contra o Talleres, em Córdoba."
+      },
+      {
+        "texto": "Esgotaram os ingressos populares para a final: cerca de 14 mil. O clube aguarda sobra de cadeiras."
+      },
+      {
+        "texto": "Relacionados para Córdoba: Jalil Elías volta e Carrillo é poupado."
+      }
     ]
   },
   "proximos": [
-    { "instancia": "Rodada 16" },
-    { "instancia": "Final" },
-    { "instancia": "Final" }
+    {
+      "instancia": "Rodada 16"
+    },
+    {
+      "instancia": "Final"
+    },
+    {
+      "instancia": "Final"
+    }
   ],
-  "ultimo": { "torneo": "Torneo Clausura · Rodada 15" },
+  "ultimo": {
+    "torneo": "Torneo Clausura · Rodada 15"
+  },
   "posiciones": [
-    { "tabla": "Clausura · Grupo A", "detalle": "15 pts" },
-    { "tabla": "Tabela anual", "detalle": "46 pts" },
-    { "tabla": "Média (rebaixamento)", "detalle": "1,451" }
+    {
+      "tabla": "Clausura · Grupo A",
+      "detalle": "15 pts"
+    },
+    {
+      "tabla": "Tabela anual",
+      "detalle": "46 pts"
+    },
+    {
+      "tabla": "Média (rebaixamento)",
+      "detalle": "1,451"
+    }
   ],
-  "tabla": { "nombre": "Torneo Clausura 2026 · Grupo A · antes da rodada 16" },
+  "tabla": {
+    "nombre": "Torneo Clausura 2026 · Grupo A · antes da rodada 16"
+  },
   "club": {
     "sociosDetalle": "Na data da Assembleia (17 de outubro de 2026). Eram 58.720 no fechamento do exercício.",
     "balance": {
       "ejercicio": "Exercício nº 121 · 1/7/2025 a 30/6/2026",
       "datos": [
-        { "dato": "Resultado", "valor": "Superávit de ARS 457 milhões" },
-        { "dato": "Patrimônio líquido", "valor": "ARS 171.795 milhões (4,5× o passivo)" },
-        { "dato": "Passivo", "valor": "ARS 38.539 milhões (−21,5%)" },
-        { "dato": "Despesas ordinárias", "valor": "−14%" },
-        { "dato": "Mensalidade em dia", "valor": "93% dos sócios" }
+        {
+          "dato": "Resultado",
+          "valor": "Superávit de ARS 457 milhões"
+        },
+        {
+          "dato": "Patrimônio líquido",
+          "valor": "ARS 171.795 milhões (4,5× o passivo)"
+        },
+        {
+          "dato": "Passivo",
+          "valor": "ARS 38.539 milhões (−21,5%)"
+        },
+        {
+          "dato": "Despesas ordinárias",
+          "valor": "−14%"
+        },
+        {
+          "dato": "Mensalidade em dia",
+          "valor": "93% dos sócios"
+        }
       ],
       "aprobado": "Aprovado por unanimidade na Assembleia de 17 de outubro de 2026."
     },

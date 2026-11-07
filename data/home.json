@@ -1,13 +1,45 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-07T11:00:00-03:00",
+  "actualizado": "2026-11-07T11:50:00-03:00",
   "hoy": {
     "titular": "Hoy cierra el Clausura y en 21 días se juega la final de la Libertadores",
     "resumen": "A las 15 el Pincha visita a Talleres por la última fecha, ya sin chances de octavos. La cabeza está en lo que viene: la Supercopa Argentina el jueves y la final con Palmeiras en Montevideo.",
     "puntos": [
       "Final de la Libertadores: sábado 28/11, 17 h, Estadio Centenario.",
       "Supercopa Argentina vs Independiente Rivadavia: jueves 12/11, 20 h, en Córdoba.",
-      "Viene de empatar 3-3 con Instituto en el UNO."
+      "Populares agotadas para la final: el club espera un remanente de plateas."
+    ],
+    "linea": [
+      {
+        "hora": "2026-11-07T11:10:00-03:00",
+        "texto": "La final del 28 obliga a mover casamientos, shows y cumpleaños en La Plata.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/casamientos-shows-cumpleanos-y-mas-la-final-estudiantes-obliga-cambiar-los-planes-los-platenses-n137017"
+      },
+      {
+        "hora": "2026-11-07T10:17:00-03:00",
+        "texto": "Fútbol femenino: las chicas le ganaron 3-2 a River en el UNO y quedaron a un paso de la permanencia.",
+        "fuente": "Club",
+        "url": "https://estudiantesdelaplata.com/revancha-contra-river/"
+      },
+      {
+        "hora": "2026-11-07T09:00:00-03:00",
+        "texto": "A las 15, último partido del Clausura ante Talleres en Córdoba.",
+        "fuente": "Club",
+        "url": "https://estudiantesdelaplata.com/el-ultimo-del-clausura/"
+      },
+      {
+        "hora": "2026-11-06T19:37:00-03:00",
+        "texto": "Se agotaron las populares para la final: cerca de 14 mil entradas. El club espera un remanente de plateas.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/estudiantes-agoto-cerca-14-mil-entradas-la-final-la-copa-libertadores-n137080"
+      },
+      {
+        "hora": "2026-11-06T19:00:00-03:00",
+        "texto": "Convocados para Córdoba: vuelve Jalil Elías y Carrillo descansa.",
+        "fuente": "Club",
+        "url": "https://estudiantesdelaplata.com/jalil-elias-esta-de-regreso/"
+      }
     ]
   },
   "proximos": [
