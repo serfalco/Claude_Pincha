@@ -10,7 +10,6 @@ import { footer } from '../components/footer.mjs';
 // Una página = una función que recibe (site, data) y devuelve { path, title, description, jsonLd, body }.
 // Para sumar páginas nuevas se agrega un archivo acá y se registra en scripts/build.mjs.
 export default (site, data) => {
-  const p = data.proximo;
   return {
     path: '/',
     title: `${site.nombre} · Cómo está hoy Estudiantes de La Plata`,
@@ -24,17 +23,19 @@ export default (site, data) => {
         inLanguage: site.idioma,
         description: site.descripcion,
       },
-      {
+      ...data.proximos.map((p) => ({
         '@context': 'https://schema.org',
         '@type': 'SportsEvent',
-        name: p.local ? `Estudiantes vs ${p.rival}` : `${p.rival} vs Estudiantes`,
+        name: `${p.torneo}: ${p.condicion === 'visitante' ? `${p.rival} vs Estudiantes` : `Estudiantes vs ${p.rival}`}`,
         startDate: p.fecha,
         sport: 'Fútbol',
         eventStatus: 'https://schema.org/EventScheduled',
         ...(p.estadio && { location: { '@type': 'Place', name: p.estadio } }),
-        homeTeam: { '@type': 'SportsTeam', name: p.local ? site.equipo : p.rival },
-        awayTeam: { '@type': 'SportsTeam', name: p.local ? p.rival : site.equipo },
-      },
+        competitor: [
+          { '@type': 'SportsTeam', name: site.equipo },
+          { '@type': 'SportsTeam', name: p.rival },
+        ],
+      })),
     ],
     body: html`
 ${header(site)}

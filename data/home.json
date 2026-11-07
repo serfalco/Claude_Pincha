@@ -1,54 +1,160 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-07T10:45:00-03:00",
+  "actualizado": "2026-11-07T11:00:00-03:00",
   "hoy": {
-    "titular": "Último partido del Clausura: el Pincha visita a Talleres",
-    "resumen": "Hoy a las 15 se cierra el Clausura en Córdoba. Con 15 puntos y el 12° lugar de la Zona A, ya no le alcanza para meterse en los octavos: lo que queda en juego es la tabla anual.",
+    "titular": "Hoy cierra el Clausura y en 21 días se juega la final de la Libertadores",
+    "resumen": "A las 15 el Pincha visita a Talleres por la última fecha, ya sin chances de octavos. La cabeza está en lo que viene: la Supercopa Argentina el jueves y la final con Palmeiras en Montevideo.",
     "puntos": [
-      "Viene de empatar 3-3 con Instituto en el UNO.",
-      "En la tabla anual está 12° con 46 puntos.",
-      "El club cerró su balance 2025/26 con superávit y ya pasa los 63 mil socios."
+      "Final de la Libertadores: sábado 28/11, 17 h, Estadio Centenario.",
+      "Supercopa Argentina vs Independiente Rivadavia: jueves 12/11, 20 h, en Córdoba.",
+      "Viene de empatar 3-3 con Instituto en el UNO."
     ]
   },
-  "proximo": {
-    "rival": "Talleres de Córdoba",
-    "local": false,
-    "fecha": "2026-11-07T15:00:00-03:00",
-    "torneo": "Torneo Clausura",
-    "instancia": "Fecha 16"
-  },
+  "proximos": [
+    {
+      "rival": "Talleres",
+      "condicion": "visitante",
+      "fecha": "2026-11-07T15:00:00-03:00",
+      "torneo": "Torneo Clausura",
+      "instancia": "Fecha 16"
+    },
+    {
+      "rival": "Independiente Rivadavia",
+      "condicion": "neutral",
+      "fecha": "2026-11-12T20:00:00-03:00",
+      "torneo": "Supercopa Argentina",
+      "instancia": "Final",
+      "estadio": "Estadio Julio César Villagra, Córdoba"
+    },
+    {
+      "rival": "Palmeiras",
+      "condicion": "neutral",
+      "fecha": "2026-11-28T17:00:00-03:00",
+      "torneo": "Copa Libertadores",
+      "instancia": "Final",
+      "estadio": "Estadio Centenario, Montevideo"
+    }
+  ],
   "ultimo": {
     "rival": "Instituto",
-    "local": true,
     "golesPropios": 3,
     "golesRival": 3,
     "fecha": "2026-10-31T12:00:00-03:00",
-    "torneo": "Torneo Clausura · Fecha 15"
+    "torneo": "Torneo Clausura · Fecha 15",
+    "condicion": "local"
   },
   "posiciones": [
-    { "tabla": "Clausura · Zona A", "puesto": 12, "detalle": "15 pts" },
-    { "tabla": "Tabla anual", "puesto": 12, "detalle": "46 pts" },
-    { "tabla": "Promedios", "puesto": 9, "detalle": "1,451" }
+    {
+      "tabla": "Clausura · Zona A",
+      "puesto": 12,
+      "detalle": "15 pts"
+    },
+    {
+      "tabla": "Tabla anual",
+      "puesto": 12,
+      "detalle": "46 pts"
+    },
+    {
+      "tabla": "Promedios",
+      "puesto": 9,
+      "detalle": "1,451"
+    }
   ],
   "tabla": {
     "nombre": "Torneo Clausura 2026 · Zona A · antes de la fecha 16",
     "clasifican": 8,
     "filas": [
-      { "equipo": "Instituto", "pj": 15, "pts": 33, "dg": 11 },
-      { "equipo": "Boca Juniors", "pj": 15, "pts": 30, "dg": 9 },
-      { "equipo": "Vélez Sarsfield", "pj": 16, "pts": 28, "dg": 8 },
-      { "equipo": "Defensa y Justicia", "pj": 15, "pts": 28, "dg": 7 },
-      { "equipo": "Lanús", "pj": 15, "pts": 25, "dg": 7 },
-      { "equipo": "Independiente", "pj": 16, "pts": 23, "dg": -1 },
-      { "equipo": "Newell's", "pj": 15, "pts": 22, "dg": 3 },
-      { "equipo": "Gimnasia (M)", "pj": 15, "pts": 21, "dg": 1 },
-      { "equipo": "Unión", "pj": 16, "pts": 21, "dg": 0 },
-      { "equipo": "Platense", "pj": 16, "pts": 20, "dg": -2 },
-      { "equipo": "San Lorenzo", "pj": 16, "pts": 19, "dg": -7 },
-      { "equipo": "Estudiantes", "pj": 15, "pts": 15, "dg": -1, "propio": true },
-      { "equipo": "Talleres", "pj": 15, "pts": 12, "dg": -6 },
-      { "equipo": "Dep. Riestra", "pj": 16, "pts": 12, "dg": -8 },
-      { "equipo": "Central Córdoba", "pj": 15, "pts": 10, "dg": -14 }
+      {
+        "equipo": "Instituto",
+        "pj": 15,
+        "pts": 33,
+        "dg": 11
+      },
+      {
+        "equipo": "Boca Juniors",
+        "pj": 15,
+        "pts": 30,
+        "dg": 9
+      },
+      {
+        "equipo": "Vélez Sarsfield",
+        "pj": 16,
+        "pts": 28,
+        "dg": 8
+      },
+      {
+        "equipo": "Defensa y Justicia",
+        "pj": 15,
+        "pts": 28,
+        "dg": 7
+      },
+      {
+        "equipo": "Lanús",
+        "pj": 15,
+        "pts": 25,
+        "dg": 7
+      },
+      {
+        "equipo": "Independiente",
+        "pj": 16,
+        "pts": 23,
+        "dg": -1
+      },
+      {
+        "equipo": "Newell's",
+        "pj": 15,
+        "pts": 22,
+        "dg": 3
+      },
+      {
+        "equipo": "Gimnasia (M)",
+        "pj": 15,
+        "pts": 21,
+        "dg": 1
+      },
+      {
+        "equipo": "Unión",
+        "pj": 16,
+        "pts": 21,
+        "dg": 0
+      },
+      {
+        "equipo": "Platense",
+        "pj": 16,
+        "pts": 20,
+        "dg": -2
+      },
+      {
+        "equipo": "San Lorenzo",
+        "pj": 16,
+        "pts": 19,
+        "dg": -7
+      },
+      {
+        "equipo": "Estudiantes",
+        "pj": 15,
+        "pts": 15,
+        "dg": -1,
+        "propio": true
+      },
+      {
+        "equipo": "Talleres",
+        "pj": 15,
+        "pts": 12,
+        "dg": -6
+      },
+      {
+        "equipo": "Dep. Riestra",
+        "pj": 16,
+        "pts": 12,
+        "dg": -8
+      },
+      {
+        "equipo": "Central Córdoba",
+        "pj": 15,
+        "pts": 10,
+        "dg": -14
+      }
     ]
   },
   "club": {
@@ -57,17 +163,42 @@
     "balance": {
       "ejercicio": "Ejercicio N° 121 · 1/7/2025 al 30/6/2026",
       "datos": [
-        { "dato": "Resultado", "valor": "Superávit de $457 millones" },
-        { "dato": "Patrimonio neto", "valor": "$171.795 millones (4,5 veces el pasivo)" },
-        { "dato": "Pasivo", "valor": "$38.539 millones (−21,5%)" },
-        { "dato": "Gastos ordinarios", "valor": "−14%" },
-        { "dato": "Cuota al día", "valor": "93% de los socios" }
+        {
+          "dato": "Resultado",
+          "valor": "Superávit de $457 millones"
+        },
+        {
+          "dato": "Patrimonio neto",
+          "valor": "$171.795 millones (4,5 veces el pasivo)"
+        },
+        {
+          "dato": "Pasivo",
+          "valor": "$38.539 millones (−21,5%)"
+        },
+        {
+          "dato": "Gastos ordinarios",
+          "valor": "−14%"
+        },
+        {
+          "dato": "Cuota al día",
+          "valor": "93% de los socios"
+        }
       ],
       "aprobado": "Aprobado por unanimidad en la Asamblea del 17 de octubre de 2026.",
-      "fuente": { "nombre": "estudiantesdelaplata.com", "url": "https://estudiantesdelaplata.com/aprobacion-unanime-del-ejercicio-no-121/" }
+      "fuente": {
+        "nombre": "estudiantesdelaplata.com",
+        "url": "https://estudiantesdelaplata.com/aprobacion-unanime-del-ejercicio-no-121/"
+      }
     }
   },
   "noticias": [
+    {
+      "titulo": "Confirmado: la final con Palmeiras es el 28 a las 17",
+      "bajada": "Se juega en el Centenario de Montevideo. El Pincha va por su quinta Libertadores.",
+      "fecha": "2026-10-31T00:00:00-03:00",
+      "fuente": "Perfil",
+      "url": "https://442.perfil.com/noticias/futbol/final-de-la-copa-libertadores-conmebol-confirmo-el-horario-para-palmeiras-vs-estudiantes.phtml"
+    },
     {
       "titulo": "Empate 3-3 con Instituto en el UNO",
       "bajada": "Partidazo por la fecha 15 del Clausura ante el líder de la Zona A.",
@@ -94,6 +225,9 @@
     "https://www.futbolargentino.com/primera-division/clausura/tabla-de-posiciones",
     "https://promediosinfo.com/liga/argentina.html",
     "https://estudiantesdelaplata.com/aprobacion-unanime-del-ejercicio-no-121/",
-    "https://www.lanacion.com.ar/deportes/canchallena/estudiantes-de-la-plata-y-instituto-empataron-3-3-por-el-torneo-clausura-2026-nid31102026/"
+    "https://www.lanacion.com.ar/deportes/canchallena/estudiantes-de-la-plata-y-instituto-empataron-3-3-por-el-torneo-clausura-2026-nid31102026/",
+    "https://442.perfil.com/noticias/futbol/final-de-la-copa-libertadores-conmebol-confirmo-el-horario-para-palmeiras-vs-estudiantes.phtml",
+    "https://diariopanorama.com/noticia/569905/afa-reprogramo-supercopa-argentina-cuando-donde-jugaran-estudiantes-e-independiente-rivadavia",
+    "https://www.espn.com.mx/futbol/equipo/calendario/_/id/8/arg.estudiantes_la_plata"
   ]
 }

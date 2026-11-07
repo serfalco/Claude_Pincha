@@ -8,9 +8,6 @@ const reglas = {
   actualizado: esFecha,
   'hoy.titular': esTexto,
   'hoy.resumen': esTexto,
-  'proximo.rival': esTexto,
-  'proximo.fecha': esFecha,
-  'proximo.torneo': esTexto,
   'ultimo.rival': esTexto,
   'ultimo.fecha': esFecha,
   'ultimo.golesPropios': esNum,
@@ -29,6 +26,13 @@ export const validarHome = (data) => {
     if (!esTexto(f.equipo) || !esNum(f.pj) || !esNum(f.pts) || !esNum(f.dg)) errores.push(`tabla.filas[${i}] incompleta`);
   });
   if (!data.tabla?.filas?.length) errores.push('tabla.filas vacía');
+
+  const CONDICIONES = ['local', 'visitante', 'neutral'];
+  if (!data.proximos?.length) errores.push('proximos vacío');
+  (data.proximos ?? []).forEach((p, i) => {
+    if (!esTexto(p.rival) || !esFecha(p.fecha) || !esTexto(p.torneo) || !CONDICIONES.includes(p.condicion)) errores.push(`proximos[${i}] incompleto`);
+  });
+  if (!CONDICIONES.includes(data.ultimo?.condicion)) errores.push('ultimo.condicion inválida');
 
   (data.noticias ?? []).forEach((n, i) => {
     if (!esTexto(n.titulo) || !esFecha(n.fecha) || !esTexto(n.url)) errores.push(`noticias[${i}] incompleta`);

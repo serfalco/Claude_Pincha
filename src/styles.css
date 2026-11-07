@@ -80,10 +80,23 @@ abbr { text-decoration: none; }
 .score { margin-top: 8px; display: flex; align-items: center; gap: 6px; }
 .score__num { font-size: 2rem; font-weight: 800; line-height: 1; font-variant-numeric: tabular-nums; }
 .score__sep { font-size: 1.4rem; color: var(--muted); }
-.badge { margin-left: 8px; padding: 3px 9px; border-radius: 99px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.badge--G { color: var(--ok); }
-.badge--E { color: var(--warn); }
-.badge--P { color: var(--rojo); }
+.badge { display: inline-block; margin-top: 8px; padding: 3px 10px; border-radius: 99px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.badge--goleamos, .badge--ganamos { color: var(--ok); }
+.badge--empatamos { color: var(--warn); }
+.badge--perdimos, .badge--golearon { color: var(--rojo); }
+.card--mascota { display: flex; justify-content: space-between; gap: 8px; }
+.mascota { margin: -6px -6px -10px 0; width: 112px; flex-shrink: 0; text-align: center; }
+.mascota svg { display: block; width: 100%; height: auto; }
+.mascota figcaption { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+/* Agenda */
+.agenda { display: grid; gap: 8px; padding: 0; margin: 0; list-style: none; }
+.agenda__item { display: flex; gap: 14px; align-items: flex-start; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px 14px; }
+.agenda__fecha { display: flex; flex-direction: column; align-items: center; min-width: 58px; padding: 6px 4px; border-radius: 10px; background: var(--rojo); color: #fff; font-weight: 800; font-size: .95rem; line-height: 1.2; font-variant-numeric: tabular-nums; }
+.agenda__fecha span:first-child { font-size: 1.35rem; line-height: 1.05; }
+.agenda__fecha span { text-transform: uppercase; font-size: .75rem; letter-spacing: .04em; }
+.agenda__hora { margin-top: 2px; font-weight: 600; opacity: .9; text-transform: none !important; }
+.agenda__rival { font-weight: 750; font-size: 1.05rem; }
 
 /* Tabla */
 .table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
