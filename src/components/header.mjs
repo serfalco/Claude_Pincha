@@ -2,10 +2,10 @@ import { html } from '../lib/html.mjs';
 import { logo } from './logo.mjs';
 
 // alternates: [{ lang, nombre, href, actual }]
-export const header = ({ site, t, alternates }) => html`
+export const header = ({ site, t, alternates, home }) => html`
 <header class="header">
   <div class="wrap header__inner">
-    <a class="brand" href="${alternates.find((a) => a.actual).href}" aria-label="${site.nombre}, ${t.inicio}">
+    <a class="brand" href="${home}" aria-label="${site.nombre}, ${t.inicio}">
       ${logo()}
       <span class="brand__name">El Pincha <strong>Hoy</strong></span>
     </a>
@@ -18,7 +18,7 @@ export const header = ({ site, t, alternates }) => html`
     </nav>
     <nav class="nav" aria-label="${t.secciones}">
       <ul class="menu">
-        ${site.secciones.map((s) => html`<li><a href="#${s}">${t.menu[s]}</a></li>`)}
+        ${site.secciones.map((s) => html`<li><a href="${home}#${s}">${t.menu[s]}</a></li>`)}
       </ul>
     </nav>
   </div>

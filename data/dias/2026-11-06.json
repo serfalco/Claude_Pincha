@@ -1,0 +1,25 @@
+{
+  "fecha": "2026-11-06",
+  "linea": [
+    {
+      "hora": "2026-11-06T19:37:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/estudiantes-agoto-cerca-14-mil-entradas-la-final-la-copa-libertadores-n137080",
+      "texto": {
+        "es": "Se agotaron las populares para la final: cerca de 14 mil entradas. El club espera un remanente de plateas.",
+        "en": "Terrace tickets for the final sold out: around 14,000. The club is waiting on remaining seats.",
+        "pt": "Esgotaram os ingressos populares para a final: cerca de 14 mil. O clube aguarda sobra de cadeiras."
+      }
+    },
+    {
+      "hora": "2026-11-06T19:00:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/jalil-elias-esta-de-regreso/",
+      "texto": {
+        "es": "Convocados para Córdoba: vuelve Jalil Elías y Carrillo descansa.",
+        "en": "Squad for Córdoba: Jalil Elías returns and Carrillo is rested.",
+        "pt": "Relacionados para Córdoba: Jalil Elías volta e Carrillo é poupado."
+      }
+    }
+  ]
+}

@@ -34,6 +34,23 @@ export default {
   balance: 'Último balance',
   fuente: 'Fuente',
   campania: { meta: (n) => `Meta: ${n}`, cta: 'Asociate', info: 'Más info' },
+  dia: {
+    kicker: 'El día del Pincha',
+    title: (fecha) => `Estudiantes de La Plata, ${fecha}: lo que pasó · El Pincha Hoy`,
+    descripcion: (fecha) => `Lo que pasó con Estudiantes de La Plata el ${fecha}: partidos, club, socios y noticias, en un resumen.`,
+    sinTitular: 'Lo que pasó',
+    ultimoResultado: 'Último resultado',
+    anterior: 'Día anterior',
+    siguiente: 'Día siguiente',
+    todos: 'Todos los días',
+    verDia: 'Ver el día completo',
+  },
+  dias: {
+    title: 'Historial día por día · El Pincha Hoy',
+    descripcion: 'Todo lo que pasó con Estudiantes de La Plata, día por día.',
+    titulo: 'Día por día',
+    hechos: (n) => `${n} ${n === 1 ? 'hecho' : 'hechos'}`,
+  },
   footer: {
     hinchas: 'Sitio de hinchas, sin relación oficial con el Club Estudiantes de La Plata.',
     simulado: 'Datos de ejemplo: el sitio está en construcción.',

@@ -2,7 +2,7 @@ import { html } from '../lib/html.mjs';
 
 // "Lo último": lo que pasó hoy (y ayer a la noche), de lo más nuevo a lo más viejo. No es minuto a minuto.
 const mismoDia = (a, b, f) => f.corta(a) === f.corta(b);
-const linea = (items = [], actualizado, t, f) =>
+const linea = (items = [], actualizado, t, f, enlace) =>
   items.length
     ? html`<div class="linea">
   <h2 class="linea__titulo">${t.lineaTitulo}</h2>
@@ -14,17 +14,18 @@ const linea = (items = [], actualizado, t, f) =>
     </li>`
     )}
   </ol>
+  ${enlace ? html`<p class="linea__mas"><a href="${enlace}">${t.dia.verDia} →</a></p>` : ''}
 </div>`
     : '';
 
 // Bloque principal. En etapas futuras su contenido lo genera la IA; la forma de los datos no cambia.
-export const hoy = ({ hoy, actualizado }, { t, f }) => html`
+export const hoy = ({ hoy, actualizado }, { t, f, enlaceDia }) => html`
 <section id="hoy" class="hoy" aria-labelledby="hoy-titulo">
   <div class="wrap">
     <p class="kicker"><span class="dot" aria-hidden="true"></span>${t.hoyKicker} · <time datetime="${actualizado}">${f.larga(actualizado)}</time></p>
     <h1 id="hoy-titulo" class="hoy__titular">${hoy.titular}</h1>
     <p class="hoy__resumen">${hoy.resumen}</p>
     ${hoy.puntos?.length ? html`<ul class="hoy__puntos">${hoy.puntos.map((p) => html`<li>${p}</li>`)}</ul>` : ''}
-    ${linea(hoy.linea, actualizado, t, f)}
+    ${linea(hoy.linea, actualizado, t, f, enlaceDia)}
   </div>
 </section>`;

@@ -36,6 +36,11 @@ La mascota cambia sola según `ultimo.golesPropios` y `ultimo.golesRival`.
 
 Las plantillas no cambian.
 
+## Historial día por día
+
+Cada corrida guarda el día con `npm run archivar` en `data/dias/AAAA-MM-DD.json` (titular, resumen, último resultado y todo "Lo último" del día, en los 3 idiomas).
+El build genera `/dia/AAAA-MM-DD/` por día y `/dias/` con el índice, en cada idioma, y los suma al sitemap.
+
 ## Idiomas
 
 - `site.config.mjs` → `idiomas: ['es', 'en', 'pt']`. El primero va en `/`, los demás en `/<idioma>/`.

@@ -171,3 +171,14 @@ abbr { text-decoration: none; }
 .linea__texto a { text-decoration: none; }
 .linea__texto a:hover { text-decoration: underline; }
 .linea__fuente { font-size: .75rem; opacity: .75; white-space: nowrap; }
+
+/* Historial día por día */
+.linea__mas { margin-top: 10px; font-weight: 700; font-size: .9rem; }
+.linea__mas a { text-decoration: none; border-bottom: 2px solid rgb(255 255 255 / .5); }
+.dia__resultado { margin-top: 12px; display: inline-block; padding: 6px 12px; border-radius: 10px; background: rgb(0 0 0 / .14); font-weight: 700; }
+.dia__nav { display: flex; justify-content: space-between; gap: 12px; margin-top: var(--gap); font-weight: 700; font-size: .92rem; }
+.dia__nav a { color: var(--rojo); text-decoration: none; }
+@media (prefers-color-scheme: dark) { .dia__nav a { color: #ff5a6e; } }
+.dias__titulo { font-size: 1.6rem; font-weight: 800; margin-bottom: 12px; }
+.dias__link { display: flex; flex-direction: column-reverse; gap: 2px; text-decoration: none; }
+.footer__link { color: var(--text); font-weight: 700; }

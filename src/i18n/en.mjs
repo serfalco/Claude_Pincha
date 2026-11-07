@@ -33,6 +33,23 @@ export default {
   balance: 'Latest financial statement',
   fuente: 'Source',
   campania: { meta: (n) => `Goal: ${n}`, cta: 'Become a member', info: 'More info' },
+  dia: {
+    kicker: 'Pincha day by day',
+    title: (fecha) => `Estudiantes de La Plata, ${fecha}: what happened · El Pincha Hoy`,
+    descripcion: (fecha) => `What happened with Estudiantes de La Plata on ${fecha}: matches, the club, members and news, in one summary.`,
+    sinTitular: 'What happened',
+    ultimoResultado: 'Latest result',
+    anterior: 'Previous day',
+    siguiente: 'Next day',
+    todos: 'All days',
+    verDia: 'See the full day',
+  },
+  dias: {
+    title: 'Day by day archive · El Pincha Hoy',
+    descripcion: 'Everything that happened with Estudiantes de La Plata, day by day.',
+    titulo: 'Day by day',
+    hechos: (n) => `${n} ${n === 1 ? 'item' : 'items'}`,
+  },
   footer: {
     hinchas: 'A fan site, not officially affiliated with Club Estudiantes de La Plata.',
     simulado: 'Sample data: this site is under construction.',

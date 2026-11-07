@@ -72,6 +72,7 @@ Solo campos de texto: `hoy` (incluido `hoy.linea[].texto`), `instancia` de cada 
 
 ## Cierre
 
-1. `npm run build`: tiene que terminar sin errores y **sin avisos de "sin traducir"**. Si falla, corregir; si no se puede, no publicar.
-2. Commit en `main` con mensaje `Actualización AAAA-MM-DD HH:MM: <qué cambió>` y push. Cloudflare Pages publica solo.
-3. Resumen final corto: qué cambió, fuentes usadas y cualquier dato dudoso que se dejó sin tocar.
+1. `npm run archivar`: guarda el día en `data/dias/AAAA-MM-DD.json` (suma lo nuevo de "Lo último", no borra nada). Lo de ayer va solo al archivo de ayer.
+2. `npm run build`: tiene que terminar sin errores y **sin avisos de "sin traducir"**. Si falla, corregir; si no se puede, no publicar.
+3. Commit en `main` (incluye `data/dias/`) con mensaje `Actualización AAAA-MM-DD HH:MM: <qué cambió>` y push. Cloudflare Pages publica solo.
+4. Resumen final corto: qué cambió, fuentes usadas y cualquier dato dudoso que se dejó sin tocar.

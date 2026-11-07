@@ -1,6 +1,6 @@
 // Build estático sin dependencias: datos JSON + plantillas JS → HTML final en /dist, en cada idioma.
 // Resultado: HTML completo desde el servidor (ideal para SEO), CSS inline y cero JavaScript en el navegador.
-import { readFile, writeFile, mkdir, cp, rm, access } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, cp, rm, access, readdir } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -9,7 +9,9 @@ import { layout } from '../src/layout.mjs';
 import { toString } from '../src/lib/html.mjs';
 import { validarHome } from '../src/lib/validar.mjs';
 import { combinar, pendientes } from '../src/lib/traducir.mjs';
-import * as home from '../src/pages/home.mjs';
+import home from '../src/pages/home.mjs';
+import dia from '../src/pages/dia.mjs';
+import dias from '../src/pages/dias.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const dist = join(root, 'dist');
@@ -18,14 +20,13 @@ const leerJSON = async (rel) => JSON.parse(await readFile(join(root, rel), 'utf8
 const minCSS = (css) =>
   css.replace(/\/\*[\s\S]*?\*\//g, '').replace(/\s+/g, ' ').replace(/\s*([{}:;,>])\s*/g, '$1').replace(/;}/g, '}').trim();
 
-// Registro de páginas: módulo de página + su validador.
-const paginas = [{ mod: home, validar: validarHome }];
-
 const [idiomaBase] = site.idiomas;
 const textos = Object.fromEntries(
   await Promise.all(site.idiomas.map(async (l) => [l, (await import(`../src/i18n/${l}.mjs`)).default]))
 );
-const rutaDe = (lang, slug) => `/${lang === idiomaBase ? '' : `${lang}/`}${slug ? `${slug}/` : ''}`;
+// Ruta de una página en un idioma: "" → "/", "dia/2026-11-07" → "/en/dia/2026-11-07/".
+const ruta = (lang, slug = '') => `/${lang === idiomaBase ? '' : `${lang}/`}${slug ? `${slug}/` : ''}`;
+const abs = (path) => new URL(path, site.url).href;
 
 const build = async () => {
   await rm(dist, { recursive: true, force: true });
@@ -36,29 +37,55 @@ const build = async () => {
   const sitemap = [];
   const avisos = [];
 
-  for (const { mod, validar } of paginas) {
-    const base = validar(await leerJSON(`data/${mod.datos}.json`));
-    const alternates = site.idiomas.map((lang) => {
-      const path = rutaDe(lang, mod.slug);
-      return { lang, path, abs: new URL(path, site.url).href, nombre: textos[lang].nombreIdioma, ogLocale: textos[lang].ogLocale };
-    });
-
+  // Genera una página en todos los idiomas. render(ctx, lang) → { title, description, jsonLd, body }
+  const pagina = async (slug, lastmod, render) => {
+    const alternates = site.idiomas.map((lang) => ({
+      lang, path: ruta(lang, slug), abs: abs(ruta(lang, slug)), nombre: textos[lang].nombreIdioma, ogLocale: textos[lang].ogLocale,
+    }));
     for (const lang of site.idiomas) {
-      let data = base;
-      if (lang !== idiomaBase) {
-        const archivo = `data/i18n/${mod.datos}.${lang}.json`;
-        const trad = (await existe(join(root, archivo))) ? await leerJSON(archivo) : undefined;
-        pendientes(base, trad).forEach((p) => avisos.push(`${lang}: sin traducir ${p} (se muestra en español)`));
-        data = validar(combinar(base, trad));
-      }
       const alts = alternates.map((a) => ({ ...a, actual: a.lang === lang, href: a.path }));
       const actual = alts.find((a) => a.actual);
-      const p = mod.default({ site, t: textos[lang], alternates: alts }, data);
+      const ctx = { site, t: textos[lang], alternates: alts, home: ruta(lang), ruta: (s) => ruta(lang, s) };
+      const p = await render(ctx, lang);
       const out = join(dist, actual.path, 'index.html');
       await mkdir(dirname(out), { recursive: true });
       await writeFile(out, toString(layout({ site, t: textos[lang], css, url: actual.abs, alternates: alts, ...p })));
-      sitemap.push({ loc: actual.abs, lastmod: base.actualizado.slice(0, 10), alternates });
+      sitemap.push({ loc: actual.abs, lastmod, alternates });
     }
+  };
+
+  // Home
+  const base = validarHome(await leerJSON('data/home.json'));
+  const porIdioma = { [idiomaBase]: base };
+  for (const lang of site.idiomas.slice(1)) {
+    const archivo = `data/i18n/home.${lang}.json`;
+    const trad = (await existe(join(root, archivo))) ? await leerJSON(archivo) : undefined;
+    pendientes(base, trad).forEach((p) => avisos.push(`${lang}: sin traducir ${p} (se muestra en español)`));
+    porIdioma[lang] = validarHome(combinar(base, trad));
+  }
+
+  // Historial día por día
+  const dirDias = join(root, 'data/dias');
+  const archivos = (await existe(dirDias)) ? (await readdir(dirDias)).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort().reverse() : [];
+  const listaDias = await Promise.all(archivos.map((f) => leerJSON(`data/dias/${f}`)));
+  const hoyFecha = new Intl.DateTimeFormat('sv-SE', { timeZone: site.zonaHoraria }).format(new Date(base.actualizado));
+  const hayHoy = listaDias.some((d) => d.fecha === hoyFecha);
+
+  await pagina('', base.actualizado.slice(0, 10), (ctx, lang) =>
+    home({ ...ctx, enlaceDia: hayHoy ? ctx.ruta(`dia/${hoyFecha}`) : undefined }, porIdioma[lang])
+  );
+
+  for (const [i, d] of listaDias.entries()) {
+    await pagina(`dia/${d.fecha}`, d.fecha, (ctx) =>
+      dia(ctx, d, {
+        anterior: listaDias[i + 1] && ctx.ruta(`dia/${listaDias[i + 1].fecha}`),
+        siguiente: listaDias[i - 1] && ctx.ruta(`dia/${listaDias[i - 1].fecha}`),
+        todos: ctx.ruta('dias'),
+      })
+    );
+  }
+  if (listaDias.length) {
+    await pagina('dias', listaDias[0].fecha, (ctx) => dias(ctx, listaDias.map((d) => ({ dia: d, href: ctx.ruta(`dia/${d.fecha}`) }))));
   }
 
   await writeFile(
@@ -76,13 +103,13 @@ ${sitemap
 </urlset>
 `
   );
-  await writeFile(join(dist, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${new URL('/sitemap.xml', site.url).href}\n`);
+  await writeFile(join(dist, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${abs('/sitemap.xml')}\n`);
 
   avisos.forEach((a) => console.warn(`⚠ ${a}`));
-  console.log(`✓ ${sitemap.length} página(s) generadas en dist/ (${site.idiomas.join(', ')})`);
+  console.log(`✓ ${sitemap.length} página(s) generadas en dist/ (${site.idiomas.join(', ')}; ${listaDias.length} día(s) en el historial)`);
 };
 
 build().catch((e) => {
-  console.error(e.message);
+  console.error(e.stack ?? e.message);
   process.exit(1);
 });
