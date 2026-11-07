@@ -1,36 +1,65 @@
 # El Pincha Hoy
 
-¿Cómo está hoy el Pincha? Respuesta en menos de un minuto, desde el celular.
-
-**Etapa 1 — Infraestructura base.** Una Home rápida, clara y lista para crecer. Datos simulados.
+¿Cómo está hoy el Pincha? Respuesta en menos de un minuto, desde el celular. En español, inglés y portugués.
 
 ## Cómo funciona
 
 ```
-data/home.json  ─┐
-src/ (plantillas)├─► scripts/build.mjs ─► dist/ (HTML estático) ─► Cloudflare Pages
-site.config.mjs ─┘
+data/home.json  ─────────┐
+data/i18n/home.<idioma>  ├─► scripts/build.mjs ─► dist/ (HTML estático: /, /en/, /pt/) ─► Cloudflare Pages
+src/ (plantillas + i18n) ┘
 ```
 
-- **Cero dependencias.** Solo Node (≥20). Sin framework: para una home con 6 bloques, un framework suma peso y mantenimiento sin aportar nada.
-- **HTML generado en el build**, no en el navegador: los buscadores leen todo el contenido, y el sitio no carga JavaScript.
-- **CSS inline** (≈5 KB): una sola petición para ver la página. Home completa ≈ 4,5 KB comprimida.
-- **Datos separados de la vista.** Cambiar el contenido = editar `data/home.json`. El build valida los datos y falla si falta algo, para no publicar una home rota.
+- **Cero dependencias.** Solo Node (≥20). Sin framework: para una home de pocos bloques suma peso y mantenimiento sin aportar nada.
+- **HTML generado en el build**, no en el navegador: los buscadores leen todo, y el sitio no carga JavaScript.
+- **CSS inline**: una sola petición para ver la página (~7 KB comprimida por idioma).
+- **Datos separados de la vista.** El build valida los datos y falla si falta algo, para no publicar una home rota.
+
+## Cómo se actualiza
+
+**Hoy (manual, desde el celular):**
+
+1. En GitHub, abrir `data/home.json` → lápiz (editar).
+2. Cambiar lo que haga falta: resultado, próximos partidos, tabla, noticias, socios. Actualizar `actualizado`.
+3. Si cambian textos (titular, noticias, etc.), actualizar también `data/i18n/home.en.json` y `home.pt.json`.
+4. *Commit changes* → Cloudflare Pages publica solo en ~1 minuto.
+
+Si una traducción falta, ese texto sale en español y el build avisa qué quedó pendiente. Números, fechas, goles y links solo se cargan en `home.json`: las traducciones tienen únicamente texto.
+
+La mascota cambia sola según `ultimo.golesPropios` y `ultimo.golesRival`.
+
+**Etapa 2 (automático):** un Cloudflare Worker con cron:
+1. trae resultados, fixture y tabla de una API de fútbol,
+2. genera el bloque "Hoy" con IA,
+3. traduce los textos con IA (instrucciones de estilo + glosario: "Pincha", "el UNO", "clásico" no se traducen),
+4. hace commit de los JSON y Cloudflare vuelve a publicar.
+
+Las plantillas no cambian.
+
+## Idiomas
+
+- `site.config.mjs` → `idiomas: ['es', 'en', 'pt']`. El primero va en `/`, los demás en `/<idioma>/`.
+- `src/i18n/<idioma>.mjs` → textos fijos de la interfaz (menú, etiquetas, fechas).
+- `data/i18n/home.<idioma>.json` → traducción del contenido del día.
+- SEO: `hreflang` + `x-default`, `og:locale` y sitemap con alternativas por idioma.
+
+Sumar un idioma: copiar `src/i18n/es.mjs`, traducirlo, agregarlo a `idiomas` y crear su `data/i18n/home.<idioma>.json`.
 
 ## Estructura
 
 ```
-site.config.mjs        nombre, dominio, menú, textos SEO
-data/home.json         contenido de la home (hoy, partidos, tabla, noticias)
+site.config.mjs           nombre, dominio, idiomas, secciones
+data/home.json            contenido base (español)
+data/i18n/                traducciones del contenido
 src/
-  layout.mjs           <head> y SEO: title, description, canonical, Open Graph, JSON-LD
-  pages/home.mjs       arma la home con los componentes
-  components/          un archivo por bloque (header, hoy, partidos, tabla, noticias, footer)
-  lib/                 html (escape seguro), fechas (hora argentina), validar
-  styles.css           estilos mobile-first, modo oscuro automático
-scripts/build.mjs      genera dist/, sitemap.xml y robots.txt
-public/                favicon, íconos, imagen OG, _headers (seguridad y caché)
-assets/og.svg          fuente de la imagen Open Graph
+  layout.mjs              <head> y SEO
+  pages/home.mjs          arma la home
+  components/             un archivo por bloque + mascota.mjs (Pincharrata, 5 estados)
+  i18n/                   textos fijos por idioma
+  lib/                    html (escape), fechas, validar, traducir (combina traducciones)
+  styles.css              mobile-first, modo oscuro automático
+scripts/build.mjs         genera dist/, sitemap.xml y robots.txt
+public/                   favicon, íconos, imagen OG, _headers
 ```
 
 ## Uso
@@ -42,21 +71,8 @@ npm run preview   # build + servidor local
 
 ## Deploy (Cloudflare Pages)
 
-Conectar el repo en Cloudflare Pages:
-
-- Build command: `npm run build`
-- Output directory: `dist`
-- Variable: `NODE_VERSION = 20`
-
-Cada push a `main` publica.
-
-## Cómo crece
-
-- **Datos reales / IA (Etapa 2):** un Cloudflare Worker con cron obtiene datos, genera el bloque "Hoy" y actualiza `data/home.json` (o lo lee de KV en el build) y dispara el *deploy hook* de Pages. Las plantillas no cambian.
-- **Partido en vivo:** ruta dinámica aparte (Pages Function) solo para esa página; la home sigue estática.
-- **Páginas nuevas:** un archivo en `src/pages/` + una línea en el registro de `scripts/build.mjs`. Entran solas al sitemap.
-- **Publicidad / PWA / push:** se agregan en `layout.mjs` sin tocar los bloques.
+Conectar el repo: build command `npm run build`, output `dist`, variable `NODE_VERSION = 20`. Cada push a `main` publica.
 
 ## Identidad
 
-El logo es una marca propia (bastones rojo y blanco), no el escudo oficial. Sitio de hinchas, sin relación oficial con el club.
+El logo y el Pincharrata son diseños propios, no el escudo oficial. Sitio de hinchas, sin relación oficial con el club.

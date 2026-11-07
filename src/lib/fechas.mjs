@@ -1,14 +1,23 @@
-// Formateo de fechas siempre en hora argentina, independiente de dónde corra el build.
+// Formateo de fechas siempre en hora argentina, en el idioma de cada página.
 import config from '../../site.config.mjs';
 
-const fmt = (opts) => new Intl.DateTimeFormat(config.idioma, { timeZone: config.zonaHoraria, ...opts });
-
-const diaLargo = fmt({ weekday: 'long', day: 'numeric', month: 'long' });
-const diaCorto = fmt({ day: 'numeric', month: 'short' });
-const hora = fmt({ hour: '2-digit', minute: '2-digit', hour12: false });
-
 const mayus = (s) => s.charAt(0).toUpperCase() + s.slice(1);
+const cache = new Map();
 
-export const fechaLarga = (iso) => mayus(diaLargo.format(new Date(iso)));
-export const fechaCorta = (iso) => diaCorto.format(new Date(iso)).replace('.', '');
-export const horaCorta = (iso) => `${hora.format(new Date(iso))} h`;
+export const fechas = (locale) => {
+  if (cache.has(locale)) return cache.get(locale);
+  const fmt = (opts) => new Intl.DateTimeFormat(locale, { timeZone: config.zonaHoraria, ...opts });
+  const largo = fmt({ weekday: 'long', day: 'numeric', month: 'long' });
+  const dia = fmt({ day: 'numeric' });
+  const mes = fmt({ month: 'short' });
+  const hora = fmt({ hour: '2-digit', minute: '2-digit', hour12: false });
+  const f = {
+    larga: (iso) => mayus(largo.format(new Date(iso))),
+    dia: (iso) => dia.format(new Date(iso)),
+    mes: (iso) => mes.format(new Date(iso)).replace('.', ''),
+    corta: (iso) => `${f.dia(iso)} ${f.mes(iso)}`,
+    hora: (iso) => (locale.startsWith('es') ? `${hora.format(new Date(iso))} h` : hora.format(new Date(iso))),
+  };
+  cache.set(locale, f);
+  return f;
+};

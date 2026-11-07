@@ -71,13 +71,14 @@ const extras = (e) => ({
     <path d="M60 74 v24 M92 72 v26" fill="none" stroke="#7cc4f2" stroke-width="4" stroke-linecap="round"/>`,
 })[e];
 
-export const mascotaSVG = (estado = 'ganamos', { titulo = true } = {}) => {
+export const mascotaSVG = (estado = 'ganamos', { titulo = true, etiqueta } = {}) => {
   const e = ESTADOS[estado] ? estado : 'ganamos';
+  const nombre = `Pincharrata: ${etiqueta ?? ESTADOS[e]}`;
   const salto = e === 'goleamos' ? -10 : e === 'golearon' ? 4 : 0;
   const cabeza = e === 'golearon' ? 'rotate(10 110 90)' : e === 'perdimos' ? 'rotate(5 110 90)' : '';
   const [b1, b2] = BRAZOS[e];
   const [m1, m2] = MANOS[e];
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 280" role="img" aria-label="Pincharrata: ${ESTADOS[e]}">${titulo ? `<title>Pincharrata: ${ESTADOS[e]}</title>` : ''}
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 280" role="img" aria-label="${nombre}">${titulo ? `<title>${nombre}</title>` : ''}
 <defs><clipPath id="cam-${e}"><path d="M80 112 H146 L166 214 H58 Z"/></clipPath></defs>
 <ellipse cx="112" cy="268" rx="62" ry="7" fill="#000" opacity=".12"/>
 <g transform="translate(0 ${salto})">
@@ -109,5 +110,6 @@ export const mascotaSVG = (estado = 'ganamos', { titulo = true } = {}) => {
 </svg>`;
 };
 
-export const mascota = (estado) =>
-  html`<figure class="mascota">${raw(mascotaSVG(estado, { titulo: false }))}<figcaption>${ESTADOS[estado]}</figcaption></figure>`;
+// En la página el estado ya se lee en el badge, así que el dibujo queda como decorativo para lectores de pantalla.
+export const mascota = (estado, etiqueta) =>
+  html`<div class="mascota" aria-hidden="true">${raw(mascotaSVG(estado, { titulo: false, etiqueta }))}</div>`;

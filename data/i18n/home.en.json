@@ -1,0 +1,59 @@
+{
+  "hoy": {
+    "titular": "The Clausura ends today, and the Libertadores final is 21 days away",
+    "resumen": "At 3 pm Pincha visit Talleres on the final matchday, already out of the play-off race. All eyes are on what comes next: the Supercopa Argentina on Thursday and the final against Palmeiras in Montevideo.",
+    "puntos": [
+      "Libertadores final: Saturday 28/11, 5 pm, Estadio Centenario.",
+      "Supercopa Argentina v Independiente Rivadavia: Thursday 12/11, 8 pm, in Córdoba.",
+      "Coming off a 3-3 draw with Instituto at the UNO."
+    ]
+  },
+  "proximos": [
+    { "instancia": "Matchday 16" },
+    { "instancia": "Final" },
+    { "instancia": "Final" }
+  ],
+  "ultimo": { "torneo": "Torneo Clausura · Matchday 15" },
+  "posiciones": [
+    { "tabla": "Clausura · Group A", "detalle": "15 pts" },
+    { "tabla": "Season table", "detalle": "46 pts" },
+    { "tabla": "Relegation average", "detalle": "1.451" }
+  ],
+  "tabla": { "nombre": "Torneo Clausura 2026 · Group A · before matchday 16" },
+  "club": {
+    "sociosDetalle": "At the General Assembly (17 October 2026). There were 58,720 at the end of the financial year.",
+    "balance": {
+      "ejercicio": "Financial year No. 121 · 1/7/2025 to 30/6/2026",
+      "datos": [
+        { "dato": "Result", "valor": "Surplus of ARS 457 million" },
+        { "dato": "Net equity", "valor": "ARS 171,795 million (4.5× liabilities)" },
+        { "dato": "Liabilities", "valor": "ARS 38,539 million (−21.5%)" },
+        { "dato": "Operating expenses", "valor": "−14%" },
+        { "dato": "Dues up to date", "valor": "93% of members" }
+      ],
+      "aprobado": "Unanimously approved at the General Assembly on 17 October 2026."
+    },
+    "campania": {
+      "texto": "The club's drive to reach 100,000 members. Joining is online and takes less than 5 minutes.",
+      "promesa": "If the goal is reached, Verón promises to play one more official match at the UNO."
+    }
+  },
+  "noticias": [
+    {
+      "titulo": "Confirmed: the Palmeiras final is on the 28th at 5 pm",
+      "bajada": "It will be played at the Centenario in Montevideo. Pincha are going for a fifth Libertadores."
+    },
+    {
+      "titulo": "3-3 draw with Instituto at the UNO",
+      "bajada": "A thriller on matchday 15 of the Clausura against the Group A leaders."
+    },
+    {
+      "titulo": "Members unanimously approve the club's accounts",
+      "bajada": "A surplus for 2025/26, lower debt and more than 63,000 members."
+    },
+    {
+      "titulo": "The Clausura and season table before the final matchday",
+      "bajada": "Who is through, who is out and the race for continental places."
+    }
+  ]
+}

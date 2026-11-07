@@ -9,23 +9,23 @@ const resumen = (posiciones = []) =>
       )}</ul>`
     : '';
 
-export const tabla = ({ tabla: t, posiciones }) => html`
+export const tabla = ({ tabla: tb, posiciones }, { t }) => html`
 <section id="tabla" class="wrap block" aria-labelledby="tabla-titulo">
-  <h2 id="tabla-titulo" class="block__title">Posiciones</h2>
+  <h2 id="tabla-titulo" class="block__title">${t.posiciones}</h2>
   ${resumen(posiciones)}
   <div class="card card--flush">
     <table class="table">
-      <caption>${t.nombre}</caption>
+      <caption>${tb.nombre}</caption>
       <thead>
-        <tr><th scope="col">#</th><th scope="col">Equipo</th><th scope="col"><abbr title="Partidos jugados">PJ</abbr></th><th scope="col"><abbr title="Diferencia de gol">DG</abbr></th><th scope="col"><abbr title="Puntos">Pts</abbr></th></tr>
+        <tr><th scope="col">#</th><th scope="col">${t.tabla.equipo}</th><th scope="col"><abbr title="${t.tabla.pjLargo}">${t.tabla.pj}</abbr></th><th scope="col"><abbr title="${t.tabla.dgLargo}">${t.tabla.dg}</abbr></th><th scope="col"><abbr title="${t.tabla.ptsLargo}">${t.tabla.pts}</abbr></th></tr>
       </thead>
       <tbody>
-        ${t.filas.map((f, i) => {
-          const clases = [f.propio && 'is-propio', t.clasifican === i + 1 && 'is-corte'].filter(Boolean).join(' ');
-          return html`<tr${clases ? html` class="${clases}"` : ''}${f.propio ? html` aria-current="true"` : ''}><td>${i + 1}</td><th scope="row">${f.equipo}</th><td>${f.pj}</td><td>${signo(f.dg)}</td><td class="pts">${f.pts}</td></tr>`;
+        ${tb.filas.map((fila, i) => {
+          const clases = [fila.propio && 'is-propio', tb.clasifican === i + 1 && 'is-corte'].filter(Boolean).join(' ');
+          return html`<tr${clases ? html` class="${clases}"` : ''}${fila.propio ? html` aria-current="true"` : ''}><td>${i + 1}</td><th scope="row">${fila.equipo}</th><td>${fila.pj}</td><td>${signo(fila.dg)}</td><td class="pts">${fila.pts}</td></tr>`;
         })}
       </tbody>
     </table>
-    ${t.clasifican ? html`<p class="table__nota">Los primeros ${t.clasifican} pasan a octavos de final.</p>` : ''}
+    ${tb.clasifican ? html`<p class="table__nota">${t.tabla.clasifican(tb.clasifican)}</p>` : ''}
   </div>
 </section>`;

@@ -189,6 +189,14 @@
         "nombre": "estudiantesdelaplata.com",
         "url": "https://estudiantesdelaplata.com/aprobacion-unanime-del-ejercicio-no-121/"
       }
+    },
+    "campania": {
+      "nombre": "Somos hinchas, seamos socios",
+      "texto": "La campaña del club para llegar a 100.000 socios. Asociarse es online y lleva menos de 5 minutos.",
+      "promesa": "Si se llega a la meta, Verón promete volver a jugar un partido oficial en el UNO.",
+      "meta": 100000,
+      "url": "https://sumate.estudiantesdelaplata.com/",
+      "info": "https://estudiantesdelaplata.com/somos-hinchas-seamos-socios/"
     }
   },
   "noticias": [
@@ -228,6 +236,8 @@
     "https://www.lanacion.com.ar/deportes/canchallena/estudiantes-de-la-plata-y-instituto-empataron-3-3-por-el-torneo-clausura-2026-nid31102026/",
     "https://442.perfil.com/noticias/futbol/final-de-la-copa-libertadores-conmebol-confirmo-el-horario-para-palmeiras-vs-estudiantes.phtml",
     "https://diariopanorama.com/noticia/569905/afa-reprogramo-supercopa-argentina-cuando-donde-jugaran-estudiantes-e-independiente-rivadavia",
-    "https://www.espn.com.mx/futbol/equipo/calendario/_/id/8/arg.estudiantes_la_plata"
+    "https://www.espn.com.mx/futbol/equipo/calendario/_/id/8/arg.estudiantes_la_plata",
+    "https://estudiantesdelaplata.com/somos-hinchas-seamos-socios/",
+    "https://www.infobae.com/deportes/2026/07/31/estudiantes-de-la-plata-lanzo-una-campana-para-llegar-a-los-100-mil-socios-somos-hinchas-seamos-socios/"
   ]
 }

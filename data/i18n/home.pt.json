@@ -1,0 +1,59 @@
+{
+  "hoy": {
+    "titular": "Hoje termina o Clausura, e a final da Libertadores é daqui a 21 dias",
+    "resumen": "Às 15h o Pincha visita o Talleres na última rodada, já sem chances de ir às oitavas. A cabeça está no que vem por aí: a Supercopa Argentina na quinta e a final contra o Palmeiras em Montevidéu.",
+    "puntos": [
+      "Final da Libertadores: sábado 28/11, 17h, Estádio Centenario.",
+      "Supercopa Argentina x Independiente Rivadavia: quinta 12/11, 20h, em Córdoba.",
+      "Vem de um empate em 3 a 3 com o Instituto no UNO."
+    ]
+  },
+  "proximos": [
+    { "instancia": "Rodada 16" },
+    { "instancia": "Final" },
+    { "instancia": "Final" }
+  ],
+  "ultimo": { "torneo": "Torneo Clausura · Rodada 15" },
+  "posiciones": [
+    { "tabla": "Clausura · Grupo A", "detalle": "15 pts" },
+    { "tabla": "Tabela anual", "detalle": "46 pts" },
+    { "tabla": "Média (rebaixamento)", "detalle": "1,451" }
+  ],
+  "tabla": { "nombre": "Torneo Clausura 2026 · Grupo A · antes da rodada 16" },
+  "club": {
+    "sociosDetalle": "Na data da Assembleia (17 de outubro de 2026). Eram 58.720 no fechamento do exercício.",
+    "balance": {
+      "ejercicio": "Exercício nº 121 · 1/7/2025 a 30/6/2026",
+      "datos": [
+        { "dato": "Resultado", "valor": "Superávit de ARS 457 milhões" },
+        { "dato": "Patrimônio líquido", "valor": "ARS 171.795 milhões (4,5× o passivo)" },
+        { "dato": "Passivo", "valor": "ARS 38.539 milhões (−21,5%)" },
+        { "dato": "Despesas ordinárias", "valor": "−14%" },
+        { "dato": "Mensalidade em dia", "valor": "93% dos sócios" }
+      ],
+      "aprobado": "Aprovado por unanimidade na Assembleia de 17 de outubro de 2026."
+    },
+    "campania": {
+      "texto": "A campanha do clube para chegar a 100.000 sócios. A associação é online e leva menos de 5 minutos.",
+      "promesa": "Se a meta for alcançada, Verón promete voltar a jogar uma partida oficial no UNO."
+    }
+  },
+  "noticias": [
+    {
+      "titulo": "Confirmado: a final contra o Palmeiras é dia 28, às 17h",
+      "bajada": "O jogo será no Centenario, em Montevidéu. O Pincha busca a quinta Libertadores."
+    },
+    {
+      "titulo": "Empate em 3 a 3 com o Instituto no UNO",
+      "bajada": "Jogaço pela 15ª rodada do Clausura contra o líder do Grupo A."
+    },
+    {
+      "titulo": "Assembleia aprova por unanimidade o balanço do clube",
+      "bajada": "Superávit no exercício 2025/26, menos dívida e mais de 63 mil sócios."
+    },
+    {
+      "titulo": "Como estão o Clausura e a tabela anual antes da última rodada",
+      "bajada": "Classificados, eliminados e a briga pelas vagas nas copas."
+    }
+  ]
+}

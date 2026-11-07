@@ -1,0 +1,40 @@
+// Textos fijos de la interfaz en español (idioma base). Cada idioma nuevo copia estas claves.
+export default {
+  lang: 'es',
+  locale: 'es-AR',
+  ogLocale: 'es_AR',
+  nombreIdioma: 'Español',
+  title: 'El Pincha Hoy · Cómo está hoy Estudiantes de La Plata',
+  descripcion:
+    'Cómo está hoy Estudiantes de La Plata: próximos partidos, último resultado, tabla, noticias y el club en un minuto.',
+  saltar: 'Saltar al contenido',
+  inicio: 'inicio',
+  secciones: 'Secciones',
+  idiomas: 'Idioma',
+  menu: { hoy: 'Hoy', partidos: 'Partidos', tabla: 'Tabla', noticias: 'Noticias', club: 'Club' },
+  hoyKicker: 'Hoy en el Pincha',
+  proximo: 'Próximo partido',
+  proximos: 'Próximos partidos',
+  ultimo: 'Último resultado',
+  vs: 'vs',
+  condicion: { local: 'Local', visitante: 'Visitante', neutral: 'Cancha neutral' },
+  estados: {
+    goleamos: 'Goleamos', ganamos: 'Ganamos', empatamos: 'Empatamos', perdimos: 'Perdimos', golearon: 'Nos golearon',
+  },
+  posiciones: 'Posiciones',
+  tabla: {
+    equipo: 'Equipo', pj: 'PJ', pjLargo: 'Partidos jugados', dg: 'DG', dgLargo: 'Diferencia de gol', pts: 'Pts', ptsLargo: 'Puntos',
+    clasifican: (n) => `Los primeros ${n} pasan a octavos de final.`,
+  },
+  noticias: 'Noticias',
+  club: 'El club',
+  socios: 'Socios',
+  balance: 'Último balance',
+  fuente: 'Fuente',
+  campania: { meta: (n) => `Meta: ${n}`, cta: 'Asociate', info: 'Más info' },
+  footer: {
+    hinchas: 'Sitio de hinchas, sin relación oficial con el Club Estudiantes de La Plata.',
+    simulado: 'Datos de ejemplo: el sitio está en construcción.',
+    traduccion: '',
+  },
+};
