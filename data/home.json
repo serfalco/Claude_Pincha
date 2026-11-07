@@ -1,65 +1,99 @@
 {
-  "simulado": true,
-  "actualizado": "2026-11-07T09:00:00-03:00",
+  "simulado": false,
+  "actualizado": "2026-11-07T10:45:00-03:00",
   "hoy": {
-    "titular": "Semana corta: el Pincha piensa en el clásico",
-    "resumen": "Después del triunfo en el Uno, el plantel vuelve a entrenar en City Bell. El cuerpo técnico define si repite el equipo o rota pensando en el calendario apretado.",
+    "titular": "Último partido del Clausura: el Pincha visita a Talleres",
+    "resumen": "Hoy a las 15 se cierra el Clausura en Córdoba. Con 15 puntos y el 12° lugar de la Zona A, ya no le alcanza para meterse en los octavos: lo que queda en juego es la tabla anual.",
     "puntos": [
-      "Entrenamiento a las 9 en City Bell, a puertas cerradas.",
-      "Dos jugadores con molestias: se evalúan el jueves.",
-      "Entradas para socios: venta online desde el miércoles."
+      "Viene de empatar 3-3 con Instituto en el UNO.",
+      "En la tabla anual está 12° con 46 puntos.",
+      "El club cerró su balance 2025/26 con superávit y ya pasa los 63 mil socios."
     ]
   },
   "proximo": {
-    "rival": "Gimnasia y Esgrima La Plata",
+    "rival": "Talleres de Córdoba",
     "local": false,
-    "fecha": "2026-11-15T19:30:00-03:00",
+    "fecha": "2026-11-07T15:00:00-03:00",
     "torneo": "Torneo Clausura",
-    "instancia": "Fecha 16",
-    "estadio": "Estadio Juan Carmelo Zerillo"
+    "instancia": "Fecha 16"
   },
   "ultimo": {
-    "rival": "Racing Club",
+    "rival": "Instituto",
     "local": true,
-    "golesPropios": 2,
-    "golesRival": 1,
-    "fecha": "2026-11-02T17:00:00-03:00",
-    "torneo": "Torneo Clausura"
+    "golesPropios": 3,
+    "golesRival": 3,
+    "fecha": "2026-10-31T12:00:00-03:00",
+    "torneo": "Torneo Clausura · Fecha 15"
   },
+  "posiciones": [
+    { "tabla": "Clausura · Zona A", "puesto": 12, "detalle": "15 pts" },
+    { "tabla": "Tabla anual", "puesto": 12, "detalle": "46 pts" },
+    { "tabla": "Promedios", "puesto": 9, "detalle": "1,451" }
+  ],
   "tabla": {
-    "nombre": "Torneo Clausura · Zona A",
+    "nombre": "Torneo Clausura 2026 · Zona A · antes de la fecha 16",
+    "clasifican": 8,
     "filas": [
-      { "equipo": "Boca Juniors", "pj": 15, "pts": 31, "dg": 12 },
-      { "equipo": "Estudiantes", "pj": 15, "pts": 29, "dg": 10, "propio": true },
-      { "equipo": "Racing Club", "pj": 15, "pts": 26, "dg": 7 },
-      { "equipo": "Lanús", "pj": 15, "pts": 24, "dg": 4 },
-      { "equipo": "Gimnasia LP", "pj": 15, "pts": 22, "dg": 1 },
-      { "equipo": "Tigre", "pj": 15, "pts": 20, "dg": -1 },
-      { "equipo": "Banfield", "pj": 15, "pts": 17, "dg": -4 },
-      { "equipo": "Sarmiento", "pj": 15, "pts": 14, "dg": -9 }
+      { "equipo": "Instituto", "pj": 15, "pts": 33, "dg": 11 },
+      { "equipo": "Boca Juniors", "pj": 15, "pts": 30, "dg": 9 },
+      { "equipo": "Vélez Sarsfield", "pj": 16, "pts": 28, "dg": 8 },
+      { "equipo": "Defensa y Justicia", "pj": 15, "pts": 28, "dg": 7 },
+      { "equipo": "Lanús", "pj": 15, "pts": 25, "dg": 7 },
+      { "equipo": "Independiente", "pj": 16, "pts": 23, "dg": -1 },
+      { "equipo": "Newell's", "pj": 15, "pts": 22, "dg": 3 },
+      { "equipo": "Gimnasia (M)", "pj": 15, "pts": 21, "dg": 1 },
+      { "equipo": "Unión", "pj": 16, "pts": 21, "dg": 0 },
+      { "equipo": "Platense", "pj": 16, "pts": 20, "dg": -2 },
+      { "equipo": "San Lorenzo", "pj": 16, "pts": 19, "dg": -7 },
+      { "equipo": "Estudiantes", "pj": 15, "pts": 15, "dg": -1, "propio": true },
+      { "equipo": "Talleres", "pj": 15, "pts": 12, "dg": -6 },
+      { "equipo": "Dep. Riestra", "pj": 16, "pts": 12, "dg": -8 },
+      { "equipo": "Central Córdoba", "pj": 15, "pts": 10, "dg": -14 }
     ]
+  },
+  "club": {
+    "socios": 63002,
+    "sociosDetalle": "Al momento de la Asamblea (17 de octubre de 2026). Eran 58.720 al cierre del ejercicio.",
+    "balance": {
+      "ejercicio": "Ejercicio N° 121 · 1/7/2025 al 30/6/2026",
+      "datos": [
+        { "dato": "Resultado", "valor": "Superávit de $457 millones" },
+        { "dato": "Patrimonio neto", "valor": "$171.795 millones (4,5 veces el pasivo)" },
+        { "dato": "Pasivo", "valor": "$38.539 millones (−21,5%)" },
+        { "dato": "Gastos ordinarios", "valor": "−14%" },
+        { "dato": "Cuota al día", "valor": "93% de los socios" }
+      ],
+      "aprobado": "Aprobado por unanimidad en la Asamblea del 17 de octubre de 2026.",
+      "fuente": { "nombre": "estudiantesdelaplata.com", "url": "https://estudiantesdelaplata.com/aprobacion-unanime-del-ejercicio-no-121/" }
+    }
   },
   "noticias": [
     {
-      "titulo": "Los socios ya pueden renovar el abono para 2027",
-      "bajada": "El trámite es online y hay descuento por pago anticipado.",
-      "fecha": "2026-11-06T18:20:00-03:00",
-      "fuente": "Ejemplo",
-      "url": "#"
+      "titulo": "Empate 3-3 con Instituto en el UNO",
+      "bajada": "Partidazo por la fecha 15 del Clausura ante el líder de la Zona A.",
+      "fecha": "2026-10-31T23:27:00-03:00",
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/canchallena/estudiantes-de-la-plata-y-instituto-empataron-3-3-por-el-torneo-clausura-2026-nid31102026/"
     },
     {
-      "titulo": "Inferiores: la Reserva ganó y sigue arriba",
-      "bajada": "Triunfo 3-0 en el Country y cinco puntos de ventaja.",
-      "fecha": "2026-11-06T12:05:00-03:00",
-      "fuente": "Ejemplo",
-      "url": "#"
+      "titulo": "La Asamblea aprobó por unanimidad el balance del club",
+      "bajada": "Superávit en el ejercicio 2025/26, menos deuda y más de 63 mil socios.",
+      "fecha": "2026-10-17T00:00:00-03:00",
+      "fuente": "Estudiantes de La Plata",
+      "url": "https://estudiantesdelaplata.com/aprobacion-unanime-del-ejercicio-no-121/"
     },
     {
-      "titulo": "Cómo llegar al estadio el día del clásico",
-      "bajada": "Cortes de calle, colectivos y horarios de apertura de puertas.",
-      "fecha": "2026-11-05T20:40:00-03:00",
-      "fuente": "Ejemplo",
-      "url": "#"
+      "titulo": "Así están el Clausura y la tabla anual antes de la última fecha",
+      "bajada": "Clasificados, eliminados y la pelea por las copas.",
+      "fecha": "2026-11-07T00:00:00-03:00",
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/las-posiciones-del-torneo-clausura-y-la-lucha-por-la-tabla-anual-los-nuevos-clasificados-y-nid07112026/"
     }
+  ],
+  "fuentes": [
+    "https://www.futbolargentino.com/primera-division/clausura/tabla-de-posiciones",
+    "https://promediosinfo.com/liga/argentina.html",
+    "https://estudiantesdelaplata.com/aprobacion-unanime-del-ejercicio-no-121/",
+    "https://www.lanacion.com.ar/deportes/canchallena/estudiantes-de-la-plata-y-instituto-empataron-3-3-por-el-torneo-clausura-2026-nid31102026/"
   ]
 }

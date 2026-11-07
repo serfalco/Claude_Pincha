@@ -34,6 +34,11 @@ export const validarHome = (data) => {
     if (!esTexto(n.titulo) || !esFecha(n.fecha) || !esTexto(n.url)) errores.push(`noticias[${i}] incompleta`);
   });
 
+  (data.posiciones ?? []).forEach((p, i) => {
+    if (!esTexto(p.tabla) || !esNum(p.puesto)) errores.push(`posiciones[${i}] incompleta`);
+  });
+  if (data.club && (!esNum(data.club.socios) || !Array.isArray(data.club.balance?.datos))) errores.push('club incompleto');
+
   if (errores.length) throw new Error(`Datos inválidos en data/home.json:\n- ${errores.join('\n- ')}`);
   return data;
 };

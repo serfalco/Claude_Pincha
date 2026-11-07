@@ -13,5 +13,6 @@ export default {
     { texto: 'Partidos', href: '#partidos' },
     { texto: 'Tabla', href: '#tabla' },
     { texto: 'Noticias', href: '#noticias' },
+    { texto: 'Club', href: '#club' },
   ],
 };

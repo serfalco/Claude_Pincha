@@ -4,6 +4,7 @@ import { hoy } from '../components/hoy.mjs';
 import { partidos } from '../components/partidos.mjs';
 import { tabla } from '../components/tabla.mjs';
 import { noticias } from '../components/noticias.mjs';
+import { club } from '../components/club.mjs';
 import { footer } from '../components/footer.mjs';
 
 // Una página = una función que recibe (site, data) y devuelve { path, title, description, jsonLd, body }.
@@ -30,7 +31,7 @@ export default (site, data) => {
         startDate: p.fecha,
         sport: 'Fútbol',
         eventStatus: 'https://schema.org/EventScheduled',
-        location: p.estadio ? { '@type': 'Place', name: p.estadio } : undefined,
+        ...(p.estadio && { location: { '@type': 'Place', name: p.estadio } }),
         homeTeam: { '@type': 'SportsTeam', name: p.local ? site.equipo : p.rival },
         awayTeam: { '@type': 'SportsTeam', name: p.local ? p.rival : site.equipo },
       },
@@ -42,6 +43,7 @@ ${header(site)}
   ${partidos(data)}
   ${tabla(data)}
   ${noticias(data)}
+  ${club(data)}
 </main>
 ${footer({ nombre: site.nombre, simulado: data.simulado, anio: new Date(data.actualizado).getFullYear() })}`,
   };
