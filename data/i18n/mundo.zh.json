@@ -1,0 +1,133 @@
+{
+  "nota": {
+    "titulo": "世界冠军与遍布全球的球迷",
+    "parrafos": [
+      "1968年，拉普拉塔大学生队击败曼联，成为世界冠军。从那以后，Pincha的足迹遍布世界：如今共有97个官方球迷分会，其中24个在阿根廷以外，从伦敦到特拉维夫，从墨西哥城到阿布扎比。",
+      "梦想如今有了日期。如果11月28日在决赛中击败帕尔梅拉斯，Pincha将直接晋级2029年世俱杯。即便未能夺冠，球队在南美足联排名中依然位置靠前，而该排名还将产生两个名额。",
+      "这里属于远方的球迷：彼此相聚，组建还没有的分会，让Pincharrata拥有自己的护照。"
+    ]
+  },
+  "mundial": {
+    "titulo": "迈向2029年世俱杯",
+    "puntos": [
+      "南美洲预计有6个名额：2025至2028年解放者杯冠军，以及南美足联排名前2的俱乐部。",
+      "赢下11月28日的决赛即可直接晋级。",
+      "排名方面，Pincha以62分位列第3，落后于帕尔梅拉斯（82分）和弗拉门戈（80分，已作为2025年冠军晋级）。",
+      "通过排名晋级的俱乐部，同一国家最多2家。目前大学生队是排名最高的阿根廷俱乐部。"
+    ],
+    "aclaracion": "随着2027和2028年解放者杯的进行，排名会发生变化。举办地尚未确定。"
+  },
+  "argentina": {
+    "regiones": [
+      {
+        "region": "布宜诺斯艾利斯省"
+      },
+      {
+        "region": "北部"
+      },
+      {
+        "region": "中部"
+      },
+      {
+        "region": "布宜诺斯艾利斯市及大布宜诺斯艾利斯"
+      },
+      {
+        "region": "巴塔哥尼亚"
+      },
+      {
+        "region": "拉普拉塔及周边"
+      },
+      {
+        "region": "库约"
+      }
+    ]
+  },
+  "exterior": [
+    {
+      "ciudad": "Alicante"
+    },
+    {
+      "ciudad": "Barcelona"
+    },
+    {
+      "ciudad": "Ibiza"
+    },
+    {
+      "ciudad": "Málaga"
+    },
+    {
+      "ciudad": "Palma de Mallorca"
+    },
+    {
+      "ciudad": "Valencia"
+    },
+    {
+      "ciudad": "Como"
+    },
+    {
+      "ciudad": "Rome"
+    },
+    {
+      "ciudad": "Armação dos Búzios"
+    },
+    {
+      "ciudad": "Porto Alegre"
+    },
+    {
+      "ciudad": "London"
+    },
+    {
+      "ciudad": "Tel Aviv"
+    },
+    {
+      "ciudad": "Abu Dhabi"
+    },
+    {
+      "ciudad": "Winnipeg"
+    },
+    {
+      "ciudad": "Mexico City"
+    },
+    {
+      "ciudad": "Panama City"
+    },
+    {
+      "ciudad": "Havana"
+    },
+    {
+      "ciudad": "Caracas"
+    },
+    {
+      "ciudad": "Bogotá"
+    },
+    {
+      "ciudad": "Guayaquil"
+    },
+    {
+      "ciudad": "Lima"
+    },
+    {
+      "ciudad": "La Paz"
+    },
+    {
+      "ciudad": "Santiago"
+    },
+    {
+      "ciudad": "Punta del Este"
+    }
+  ],
+  "crear": {
+    "titulo": "组建还没有的分会",
+    "intro": "俱乐部没有公布正式要求，但通常的做法是：",
+    "pasos": [
+      "召集你所在城市的Pincha球迷：会员和支持者。最新成立的玻利瓦尔（Bolívar）分会起步时约有60人。",
+      "建一个群，开第一次会。",
+      "选出委员会，并写好记录各职务的会议纪要。",
+      "将纪要发给俱乐部的分会协调处，由其审核材料并批准。"
+    ],
+    "nota": "自2025年起，分会已获俱乐部章程认可：每个分会都有官方邮箱，并可通过专属应用申请礼宾票、协调公益活动、联系Tienda Pincha官方商店。如想以某位传奇球员命名，需要获得其本人授权。",
+    "contacto": {
+      "sede": "俱乐部总部：Av. 53 Nº 620, La Plata"
+    }
+  }
+}

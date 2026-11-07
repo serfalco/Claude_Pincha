@@ -1,0 +1,80 @@
+{
+  "actualizado": "2026-11-07T12:00:00-03:00",
+  "nota": {
+    "titulo": "El campeón del mundo y sus hinchas por el mundo",
+    "parrafos": [
+      "En 1968, ante el Manchester United, Estudiantes fue campeón del mundo. Desde entonces el Pincha viaja: hoy hay 97 filiales oficiales, 24 de ellas fuera de la Argentina, de Londres a Tel Aviv y de Ciudad de México a Abu Dabi.",
+      "El sueño ahora tiene fecha. Si le gana la final a Palmeiras el 28 de noviembre, el Pincha se mete en el Mundial de Clubes 2029. Y si no se da, sigue bien ubicado en el ranking de la CONMEBOL, que reparte dos lugares más.",
+      "Este espacio es para los que alientan lejos: para encontrarse, para armar la filial que falta y para que el Pincharrata tenga pasaporte."
+    ]
+  },
+  "mundial": {
+    "titulo": "Rumbo al Mundial de Clubes 2029",
+    "puntos": [
+      "Sudamérica tendría 6 lugares: los campeones de la Libertadores 2025 a 2028 y los 2 mejores del ranking de la CONMEBOL.",
+      "Ganar la final del 28/11 es el pase directo.",
+      "En el ranking, el Pincha está 3° con 62 puntos, detrás de Palmeiras (82) y Flamengo (80, ya clasificado como campeón 2025).",
+      "Por el ranking pueden entrar como máximo 2 clubes del mismo país. Hoy Estudiantes es el argentino mejor ubicado."
+    ],
+    "aclaracion": "Las posiciones cambian con las Libertadores 2027 y 2028. La sede todavía no está definida.",
+    "fuente": { "nombre": "Infobae", "url": "https://www.infobae.com/deportes/2026/10/28/como-estan-los-clubes-argentinos-en-la-clasificacion-conmebol-rumbo-al-mundial-de-clubes-2029/" }
+  },
+  "argentina": {
+    "total": 73,
+    "regiones": [
+      { "region": "Provincia de Buenos Aires", "cantidad": 25 },
+      { "region": "Norte", "cantidad": 14 },
+      { "region": "Centro", "cantidad": 10 },
+      { "region": "CABA y Gran Buenos Aires", "cantidad": 9 },
+      { "region": "Patagonia", "cantidad": 8 },
+      { "region": "La Plata y alrededores", "cantidad": 5 },
+      { "region": "Cuyo", "cantidad": 2 }
+    ]
+  },
+  "exterior": [
+    { "nombre": "Alicante «Mariano Andújar»", "ciudad": "Alicante", "pais": "ES", "mail": "alicante@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Filial Pablo Piatti Mística Pincha", "ciudad": "Barcelona", "pais": "ES", "mail": "barcelona@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Ibiza", "ciudad": "Ibiza", "pais": "ES", "mail": "ibiza@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Los leones de la costa del Sol – Alejandro Sabella", "ciudad": "Málaga", "pais": "ES", "mail": "malaga@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Mallorca Bambi Flores", "ciudad": "Palma de Mallorca", "pais": "ES", "mail": "mayorca@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Valencia", "ciudad": "Valencia", "pais": "ES", "mail": "valencia@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Italia Norte", "ciudad": "Como", "pais": "IT", "mail": "italianorte@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Roma «Juan Sebastián Verón»", "ciudad": "Roma", "pais": "IT", "mail": "roma@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Búzios Brasil", "ciudad": "Armação dos Búzios", "pais": "BR", "mail": "buzios@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Estudiantes FAED", "ciudad": "Porto Alegre", "pais": "BR", "mail": "porto_alegre@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Estudiantes London", "ciudad": "Londres", "pais": "GB", "mail": "londres@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Ruso Pratola Tel Aviv", "ciudad": "Tel Aviv", "pais": "IL", "mail": "telaviv@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Pinchas en EAU", "ciudad": "Abu Dabi", "pais": "AE", "mail": "abudhabi@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Canadá", "ciudad": "Winnipeg", "pais": "CA", "mail": "canada@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Ciudad de México", "ciudad": "Ciudad de México", "pais": "MX", "mail": "ciudad.mexico@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Alejandro Sabella – Panamá", "ciudad": "Panamá", "pais": "PA", "mail": "panama@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Leones en Cuba", "ciudad": "La Habana", "pais": "CU", "mail": "lahabana@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Brujita Verón", "ciudad": "Caracas", "pais": "VE", "mail": "caracas@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Estudiantes de La Plata Bogotá D.C.", "ciudad": "Bogotá", "pais": "CO", "mail": "bogota@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Estudiantes de La Plata Guayaquil", "ciudad": "Guayaquil", "pais": "EC", "mail": "guayaquil@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Perú", "ciudad": "Lima", "pais": "PE", "mail": "lima_peru@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Carlos Ángel López", "ciudad": "La Paz", "pais": "BO", "mail": "lapaz.bolivia@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Miguel Ignomiriello", "ciudad": "Santiago", "pais": "CL", "mail": "santiagochile@filiales.estudiantesdelaplata.com" },
+    { "nombre": "Mauro Boselli (Héroes del Mineirao)", "ciudad": "Punta del Este", "pais": "UY", "mail": "puntadeleste@filiales.estudiantesdelaplata.com" }
+  ],
+  "crear": {
+    "titulo": "Armá la filial que falta",
+    "intro": "El club no publica requisitos formales, pero así se viene haciendo:",
+    "pasos": [
+      "Juntá a los pinchas de tu ciudad: socios y simpatizantes. La última filial nueva, en Bolívar, arrancó con unas 60 personas.",
+      "Armen un grupo y hagan una primera reunión.",
+      "Elijan una comisión y labren un acta con los cargos.",
+      "Mándenla a la Coordinación de Filiales del club, que revisa la documentación y la aprueba."
+    ],
+    "nota": "Desde 2025 las filiales están reconocidas por el estatuto: cada una tiene su mail institucional y una app para pedir entradas de protocolo, coordinar acciones solidarias y hablar con la Tienda Pincha. Si quieren el nombre de un ídolo, hace falta su autorización.",
+    "contacto": { "mail": "filiales@estudiantesdelaplata.com", "telefono": "+54 221 521 7107", "sede": "Sede social: Av. 53 Nº 620, La Plata" }
+  },
+  "fuentes": [
+    "https://estudiantesdelaplata.com/filiales/",
+    "https://estudiantesdelaplata.com/un-paso-historico-para-nuestras-filiales/",
+    "https://estudiantesdelaplata.com/100-filiales-en-argentina-30-en-el-mundo/",
+    "https://www.presentenoticias.com/noticias/2025/03/15/15971-hinchas-pincharratas-de-bolivar-crearon-una-filial-del-club-estudiantes-de-la-plata",
+    "https://www.infobae.com/deportes/2026/10/28/como-estan-los-clubes-argentinos-en-la-clasificacion-conmebol-rumbo-al-mundial-de-clubes-2029/",
+    "https://www.radiogol.com.ar/futbol/estudiantes-ante-una-final-que-puede-asegurarle-un-lugar-en-el-mundial-de-clubes-2029-232710/"
+  ]
+}

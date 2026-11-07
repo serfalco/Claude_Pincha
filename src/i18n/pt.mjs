@@ -51,6 +51,17 @@ export default {
     titulo: 'Dia a dia',
     hechos: (n) => `${n} ${n === 1 ? 'fato' : 'fatos'}`,
   },
+  mundo: {
+    menu: 'Mundo',
+    title: 'O campeão do mundo e seus torcedores pelo mundo · El Pincha Hoy',
+    descripcion: 'As filiais do Estudiantes de La Plata pelo mundo, como montar uma e o sonho do Mundial de Clubes de 2029.',
+    kicker: 'Pinchas pelo mundo',
+    filialesFuera: 'Filiais pelo mundo',
+    filialesArg: (n) => `${n} filiais na Argentina`,
+    escribir: 'Escrever',
+    contacto: 'Contato',
+    todas: 'Ver todas no site do clube',
+  },
   footer: {
     hinchas: 'Site de torcedores, sem vínculo oficial com o Club Estudiantes de La Plata.',
     simulado: 'Dados de exemplo: o site está em construção.',

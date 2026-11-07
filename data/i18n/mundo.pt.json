@@ -1,0 +1,133 @@
+{
+  "nota": {
+    "titulo": "O campeão do mundo e seus torcedores pelo mundo",
+    "parrafos": [
+      "Em 1968, contra o Manchester United, o Estudiantes foi campeão do mundo. Desde então o Pincha viaja: hoje são 97 filiais oficiais, 24 delas fora da Argentina, de Londres a Tel Aviv e da Cidade do México a Abu Dhabi.",
+      "O sonho agora tem data. Se vencer o Palmeiras na final de 28 de novembro, o Pincha entra no Mundial de Clubes de 2029. E se não der, continua bem colocado no ranking da CONMEBOL, que distribui mais duas vagas.",
+      "Este espaço é para quem torce de longe: para se encontrar, para montar a filial que falta e para que o Pincharrata tenha passaporte."
+    ]
+  },
+  "mundial": {
+    "titulo": "Rumo ao Mundial de Clubes de 2029",
+    "puntos": [
+      "A América do Sul teria 6 vagas: os campeões da Libertadores de 2025 a 2028 e os 2 melhores do ranking da CONMEBOL.",
+      "Vencer a final de 28/11 garante a vaga direta.",
+      "No ranking, o Pincha está em 3º com 62 pontos, atrás do Palmeiras (82) e do Flamengo (80, já classificado como campeão de 2025).",
+      "Pelo ranking, no máximo 2 clubes do mesmo país podem se classificar. Hoje o Estudiantes é o argentino mais bem colocado."
+    ],
+    "aclaracion": "As posições mudam com as Libertadores de 2027 e 2028. A sede ainda não foi definida."
+  },
+  "argentina": {
+    "regiones": [
+      {
+        "region": "Província de Buenos Aires"
+      },
+      {
+        "region": "Norte"
+      },
+      {
+        "region": "Centro"
+      },
+      {
+        "region": "Capital Federal e Grande Buenos Aires"
+      },
+      {
+        "region": "Patagônia"
+      },
+      {
+        "region": "La Plata e arredores"
+      },
+      {
+        "region": "Cuyo"
+      }
+    ]
+  },
+  "exterior": [
+    {
+      "ciudad": "Alicante"
+    },
+    {
+      "ciudad": "Barcelona"
+    },
+    {
+      "ciudad": "Ibiza"
+    },
+    {
+      "ciudad": "Málaga"
+    },
+    {
+      "ciudad": "Palma de Mallorca"
+    },
+    {
+      "ciudad": "Valencia"
+    },
+    {
+      "ciudad": "Como"
+    },
+    {
+      "ciudad": "Roma"
+    },
+    {
+      "ciudad": "Armação dos Búzios"
+    },
+    {
+      "ciudad": "Porto Alegre"
+    },
+    {
+      "ciudad": "Londres"
+    },
+    {
+      "ciudad": "Tel Aviv"
+    },
+    {
+      "ciudad": "Abu Dhabi"
+    },
+    {
+      "ciudad": "Winnipeg"
+    },
+    {
+      "ciudad": "Cidade do México"
+    },
+    {
+      "ciudad": "Cidade do Panamá"
+    },
+    {
+      "ciudad": "Havana"
+    },
+    {
+      "ciudad": "Caracas"
+    },
+    {
+      "ciudad": "Bogotá"
+    },
+    {
+      "ciudad": "Guayaquil"
+    },
+    {
+      "ciudad": "Lima"
+    },
+    {
+      "ciudad": "La Paz"
+    },
+    {
+      "ciudad": "Santiago"
+    },
+    {
+      "ciudad": "Punta del Este"
+    }
+  ],
+  "crear": {
+    "titulo": "Monte a filial que falta",
+    "intro": "O clube não publica requisitos formais, mas é assim que tem sido feito:",
+    "pasos": [
+      "Reúna os pinchas da sua cidade: sócios e simpatizantes. A filial mais nova, em Bolívar, começou com cerca de 60 pessoas.",
+      "Criem um grupo e façam uma primeira reunião.",
+      "Escolham uma comissão e lavrem uma ata com os cargos.",
+      "Enviem para a Coordenação de Filiais do clube, que revisa a documentação e aprova."
+    ],
+    "nota": "Desde 2025 as filiais são reconhecidas pelo estatuto: cada uma tem e-mail institucional e um app para pedir ingressos de protocolo, coordenar ações solidárias e falar com a Tienda Pincha. Para usar o nome de um ídolo, é preciso a autorização dele.",
+    "contacto": {
+      "sede": "Sede social: Av. 53 Nº 620, La Plata"
+    }
+  }
+}

@@ -2,7 +2,7 @@ import { html } from '../lib/html.mjs';
 import { logo } from './logo.mjs';
 
 // alternates: [{ lang, nombre, href, actual }]
-export const header = ({ site, t, alternates, home }) => html`
+export const header = ({ site, t, alternates, home, ruta }) => html`
 <header class="header">
   <div class="wrap header__inner">
     <a class="brand" href="${home}" aria-label="${site.nombre}, ${t.inicio}">
@@ -19,6 +19,7 @@ export const header = ({ site, t, alternates, home }) => html`
     <nav class="nav" aria-label="${t.secciones}">
       <ul class="menu">
         ${site.secciones.map((s) => html`<li><a href="${home}#${s}">${t.menu[s]}</a></li>`)}
+        <li><a href="${ruta('mundo')}">${t.mundo.menu}</a></li>
       </ul>
     </nav>
   </div>

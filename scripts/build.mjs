@@ -12,6 +12,7 @@ import { combinar, pendientes } from '../src/lib/traducir.mjs';
 import home from '../src/pages/home.mjs';
 import dia from '../src/pages/dia.mjs';
 import dias from '../src/pages/dias.mjs';
+import mundo from '../src/pages/mundo.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const dist = join(root, 'dist');
@@ -54,15 +55,22 @@ const build = async () => {
     }
   };
 
+  // Datos base + traducción de cada idioma (si falta algo, queda en español y se avisa).
+  const traducidos = async (nombre, validar = (d) => d) => {
+    const base = validar(await leerJSON(`data/${nombre}.json`));
+    const out = { [idiomaBase]: base };
+    for (const lang of site.idiomas.slice(1)) {
+      const archivo = `data/i18n/${nombre}.${lang}.json`;
+      const trad = (await existe(join(root, archivo))) ? await leerJSON(archivo) : undefined;
+      pendientes(base, trad).forEach((p) => avisos.push(`${lang}: sin traducir ${nombre}.${p} (se muestra en español)`));
+      out[lang] = validar(combinar(base, trad));
+    }
+    return out;
+  };
+
   // Home
-  const base = validarHome(await leerJSON('data/home.json'));
-  const porIdioma = { [idiomaBase]: base };
-  for (const lang of site.idiomas.slice(1)) {
-    const archivo = `data/i18n/home.${lang}.json`;
-    const trad = (await existe(join(root, archivo))) ? await leerJSON(archivo) : undefined;
-    pendientes(base, trad).forEach((p) => avisos.push(`${lang}: sin traducir ${p} (se muestra en español)`));
-    porIdioma[lang] = validarHome(combinar(base, trad));
-  }
+  const porIdioma = await traducidos('home', validarHome);
+  const base = porIdioma[idiomaBase];
 
   // Historial día por día
   const dirDias = join(root, 'data/dias');
@@ -84,6 +92,10 @@ const build = async () => {
       })
     );
   }
+  // Sección global
+  const mundoPorIdioma = await traducidos('mundo');
+  await pagina('mundo', mundoPorIdioma[idiomaBase].actualizado.slice(0, 10), (ctx, lang) => mundo(ctx, mundoPorIdioma[lang]));
+
   if (listaDias.length) {
     await pagina('dias', listaDias[0].fecha, (ctx) => dias(ctx, listaDias.map((d) => ({ dia: d, href: ctx.ruta(`dia/${d.fecha}`) }))));
   }

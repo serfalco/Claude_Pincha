@@ -59,6 +59,7 @@ Las ventanas que ya cerraron se sacan.
 - **hoy.linea** ("Lo último"): lo que pasó hoy, de lo más nuevo a lo más viejo, 3 a 6 ítems. Cada uno: `hora` (hora real de la publicación, en hora argentina), `texto` (una frase propia), `fuente` ("Club" si es oficial, si no el medio) y `url`. Si es temprano y hay poco del día, completar con lo de ayer a la tarde/noche (se muestra como "Ayer"). Nada de más de 24 h. No es minuto a minuto: solo hechos que le importan al hincha.
 - **noticias**: las 4 más relevantes de los últimos días, con link a la nota original y su fuente.
 - **club**: socios y balance solo si hay un dato oficial nuevo. Campaña de socios: mantener el link.
+- **Sección Mundo** (`data/mundo.json` + `data/i18n/mundo.<idioma>.json`): revisar una vez por semana o cuando haya novedad. Filiales nuevas en https://estudiantesdelaplata.com/filiales/, y la situación rumbo al Mundial de Clubes 2029 (ranking CONMEBOL, clasificación). Después de la final del 28/11, actualizar la nota y el bloque del Mundial según el resultado.
 - **actualizado**: fecha y hora de la corrida.
 
 ## Traducciones

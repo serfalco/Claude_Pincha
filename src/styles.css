@@ -188,3 +188,20 @@ abbr { text-decoration: none; }
 :lang(hi) .kicker, :lang(hi) .card__label, :lang(hi) .block__title, :lang(hi) .linea__titulo { letter-spacing: 0; text-transform: none; }
 :lang(hi) body { line-height: 1.65; }
 .langs { flex-wrap: wrap; justify-content: flex-end; }
+
+/* Mundo */
+.mundo__hero { padding-bottom: 26px; }
+.mundo__hero .hoy__resumen + .hoy__resumen { margin-top: 10px; }
+.mundo__hero-inner { display: flex; align-items: flex-end; justify-content: space-between; gap: 8px; }
+.mundo__mascota { width: 92px; flex-shrink: 0; margin-bottom: -8px; }
+.mundo__mascota svg { display: block; width: 100%; height: auto; }
+.mundo__puntos { display: grid; gap: 8px; margin: 8px 0 10px; }
+.mundo__puntos li { position: relative; padding-left: 18px; }
+.mundo__puntos li::before { content: ""; position: absolute; left: 2px; top: .62em; width: 8px; height: 8px; border-radius: 2px; background: var(--rojo); }
+.mundo__paises { display: grid; gap: 10px; }
+@media (min-width: 600px) { .mundo__paises { grid-template-columns: 1fr 1fr; } }
+.mundo__pais-nombre { font-size: 1.05rem; font-weight: 800; margin-bottom: 6px; }
+.mundo__filiales { display: grid; gap: 6px; font-size: .92rem; }
+.mundo__filiales .link { margin-left: 4px; font-size: .82rem; }
+.mundo__pasos { margin: 10px 0; padding-left: 22px; display: grid; gap: 8px; }
+.mundo__contacto-titulo { margin-top: 14px; }

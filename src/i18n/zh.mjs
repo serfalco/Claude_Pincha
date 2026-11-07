@@ -48,6 +48,17 @@ export default {
     titulo: '每日回顾',
     hechos: (n) => `${n} 条动态`,
   },
+  mundo: {
+    menu: '全球',
+    title: '世界冠军与遍布全球的球迷 · El Pincha Hoy',
+    descripcion: '拉普拉塔大学生队的全球球迷分会、如何组建分会，以及2029年世俱杯之梦。',
+    kicker: '全球Pincha球迷',
+    filialesFuera: '海外球迷分会',
+    filialesArg: (n) => `阿根廷境内共 ${n} 个分会`,
+    escribir: '写邮件',
+    contacto: '联系方式',
+    todas: '在俱乐部官网查看全部',
+  },
   footer: {
     hinchas: '球迷网站，与拉普拉塔大学生俱乐部无官方关联。',
     simulado: '示例数据：网站建设中。',

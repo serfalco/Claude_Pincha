@@ -1,0 +1,133 @@
+{
+  "nota": {
+    "titulo": "The world champions and their fans around the world",
+    "parrafos": [
+      "In 1968, against Manchester United, Estudiantes became world champions. Pincha have been travelling ever since: today there are 97 official supporters' clubs, 24 of them outside Argentina, from London to Tel Aviv and from Mexico City to Abu Dhabi.",
+      "The dream now has a date. Beat Palmeiras in the final on 28 November and Pincha are in the 2029 Club World Cup. And if not, they are still well placed in the CONMEBOL ranking, which hands out two more places.",
+      "This space is for those who cheer from far away: to meet up, to set up the supporters' club that is still missing, and to give the Pincharrata a passport."
+    ]
+  },
+  "mundial": {
+    "titulo": "On the road to the 2029 Club World Cup",
+    "puntos": [
+      "South America would have 6 places: the Libertadores winners from 2025 to 2028 and the 2 best clubs in the CONMEBOL ranking.",
+      "Winning the final on 28/11 is a direct ticket.",
+      "In the ranking, Pincha are 3rd on 62 points, behind Palmeiras (82) and Flamengo (80, already in as 2025 champions).",
+      "No more than 2 clubs from the same country can qualify through the ranking. Estudiantes are currently the best-placed Argentine club."
+    ],
+    "aclaracion": "Positions will change with the 2027 and 2028 Libertadores. The host has not been decided yet."
+  },
+  "argentina": {
+    "regiones": [
+      {
+        "region": "Buenos Aires Province"
+      },
+      {
+        "region": "North"
+      },
+      {
+        "region": "Centre"
+      },
+      {
+        "region": "Buenos Aires City & Greater BA"
+      },
+      {
+        "region": "Patagonia"
+      },
+      {
+        "region": "La Plata & surroundings"
+      },
+      {
+        "region": "Cuyo"
+      }
+    ]
+  },
+  "exterior": [
+    {
+      "ciudad": "Alicante"
+    },
+    {
+      "ciudad": "Barcelona"
+    },
+    {
+      "ciudad": "Ibiza"
+    },
+    {
+      "ciudad": "Málaga"
+    },
+    {
+      "ciudad": "Palma de Mallorca"
+    },
+    {
+      "ciudad": "Valencia"
+    },
+    {
+      "ciudad": "Como"
+    },
+    {
+      "ciudad": "Rome"
+    },
+    {
+      "ciudad": "Armação dos Búzios"
+    },
+    {
+      "ciudad": "Porto Alegre"
+    },
+    {
+      "ciudad": "London"
+    },
+    {
+      "ciudad": "Tel Aviv"
+    },
+    {
+      "ciudad": "Abu Dhabi"
+    },
+    {
+      "ciudad": "Winnipeg"
+    },
+    {
+      "ciudad": "Mexico City"
+    },
+    {
+      "ciudad": "Panama City"
+    },
+    {
+      "ciudad": "Havana"
+    },
+    {
+      "ciudad": "Caracas"
+    },
+    {
+      "ciudad": "Bogotá"
+    },
+    {
+      "ciudad": "Guayaquil"
+    },
+    {
+      "ciudad": "Lima"
+    },
+    {
+      "ciudad": "La Paz"
+    },
+    {
+      "ciudad": "Santiago"
+    },
+    {
+      "ciudad": "Punta del Este"
+    }
+  ],
+  "crear": {
+    "titulo": "Start the supporters' club that's missing",
+    "intro": "The club does not publish formal requirements, but this is how it has been done:",
+    "pasos": [
+      "Gather the Pinchas in your city: members and fans. The newest one, in Bolívar, started with about 60 people.",
+      "Set up a group and hold a first meeting.",
+      "Choose a committee and write up minutes with the roles.",
+      "Send them to the club's Supporters' Clubs Office, which reviews the paperwork and approves it."
+    ],
+    "nota": "Since 2025 supporters' clubs are recognised in the club statutes: each one has an official email address and an app to request protocol tickets, coordinate charity work and deal with the Tienda Pincha shop. Naming it after an idol requires his permission.",
+    "contacto": {
+      "sede": "Club headquarters: Av. 53 Nº 620, La Plata"
+    }
+  }
+}
