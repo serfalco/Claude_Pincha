@@ -22,7 +22,8 @@ Orden de prioridad. Lo oficial manda; los medios sirven para confirmar y para ll
 **Oficiales del club (no se pueden leer desde afuera: login o bloqueo a robots)**
 - Canal de WhatsApp (oficial, ~102 mil seguidores): https://whatsapp.com/channel/0029Va6CN7H96H4KZqCeiF3e
 - Facebook: https://www.facebook.com/EdelpOficial/ · TikTok: https://www.tiktok.com/@edelpoficial
-- Instagram y X: el club publica ahí lo mismo que en WhatsApp, pero no se pueden leer.
+- Instagram (verificada, ~552 mil seguidores): https://www.instagram.com/edelpoficial/
+- X: cuenta oficial sin confirmar todavía.
 Lo que el club publica en estas redes lo levantan rápido los medios de abajo: buscarlo por ahí y, si se puede, confirmarlo en la web del club.
 
 **Competencias y entradas**
