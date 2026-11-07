@@ -1,0 +1,65 @@
+{
+  "simulado": true,
+  "actualizado": "2026-11-07T09:00:00-03:00",
+  "hoy": {
+    "titular": "Semana corta: el Pincha piensa en el clásico",
+    "resumen": "Después del triunfo en el Uno, el plantel vuelve a entrenar en City Bell. El cuerpo técnico define si repite el equipo o rota pensando en el calendario apretado.",
+    "puntos": [
+      "Entrenamiento a las 9 en City Bell, a puertas cerradas.",
+      "Dos jugadores con molestias: se evalúan el jueves.",
+      "Entradas para socios: venta online desde el miércoles."
+    ]
+  },
+  "proximo": {
+    "rival": "Gimnasia y Esgrima La Plata",
+    "local": false,
+    "fecha": "2026-11-15T19:30:00-03:00",
+    "torneo": "Torneo Clausura",
+    "instancia": "Fecha 16",
+    "estadio": "Estadio Juan Carmelo Zerillo"
+  },
+  "ultimo": {
+    "rival": "Racing Club",
+    "local": true,
+    "golesPropios": 2,
+    "golesRival": 1,
+    "fecha": "2026-11-02T17:00:00-03:00",
+    "torneo": "Torneo Clausura"
+  },
+  "tabla": {
+    "nombre": "Torneo Clausura · Zona A",
+    "filas": [
+      { "equipo": "Boca Juniors", "pj": 15, "pts": 31, "dg": 12 },
+      { "equipo": "Estudiantes", "pj": 15, "pts": 29, "dg": 10, "propio": true },
+      { "equipo": "Racing Club", "pj": 15, "pts": 26, "dg": 7 },
+      { "equipo": "Lanús", "pj": 15, "pts": 24, "dg": 4 },
+      { "equipo": "Gimnasia LP", "pj": 15, "pts": 22, "dg": 1 },
+      { "equipo": "Tigre", "pj": 15, "pts": 20, "dg": -1 },
+      { "equipo": "Banfield", "pj": 15, "pts": 17, "dg": -4 },
+      { "equipo": "Sarmiento", "pj": 15, "pts": 14, "dg": -9 }
+    ]
+  },
+  "noticias": [
+    {
+      "titulo": "Los socios ya pueden renovar el abono para 2027",
+      "bajada": "El trámite es online y hay descuento por pago anticipado.",
+      "fecha": "2026-11-06T18:20:00-03:00",
+      "fuente": "Ejemplo",
+      "url": "#"
+    },
+    {
+      "titulo": "Inferiores: la Reserva ganó y sigue arriba",
+      "bajada": "Triunfo 3-0 en el Country y cinco puntos de ventaja.",
+      "fecha": "2026-11-06T12:05:00-03:00",
+      "fuente": "Ejemplo",
+      "url": "#"
+    },
+    {
+      "titulo": "Cómo llegar al estadio el día del clásico",
+      "bajada": "Cortes de calle, colectivos y horarios de apertura de puertas.",
+      "fecha": "2026-11-05T20:40:00-03:00",
+      "fuente": "Ejemplo",
+      "url": "#"
+    }
+  ]
+}
