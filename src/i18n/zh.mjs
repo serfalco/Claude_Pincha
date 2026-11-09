@@ -14,7 +14,7 @@ export default {
   hoyKicker: 'Pincha 今日',
   lineaTitulo: '最新动态',
   ayer: '昨天',
-  video: { kicker: '这首歌', verEnYoutube: '在YouTube观看' },
+  video: { kicker: '这首歌', verEnInstagram: '在Instagram观看', verEnYoutube: '在YouTube观看' },
   proximo: '下一场比赛',
   proximos: '近期赛程',
   ultimo: '最新赛果',

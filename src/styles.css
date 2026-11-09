@@ -239,3 +239,4 @@ abbr { text-decoration: none; }
 .video__kicker { font-size: .78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; opacity: .9; margin-bottom: 8px; }
 :lang(zh) .video__kicker, :lang(hi) .video__kicker { letter-spacing: 0; text-transform: none; }
 .hoy .video__card { border: 0; color: var(--text); }
+.video__links { display: flex; gap: 16px; flex-wrap: wrap; }

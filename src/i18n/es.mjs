@@ -16,7 +16,7 @@ export default {
   hoyKicker: 'Hoy en el Pincha',
   lineaTitulo: 'Lo último',
   ayer: 'Ayer',
-  video: { kicker: 'La canción', verEnYoutube: 'Ver en YouTube' },
+  video: { kicker: 'La canción', verEnInstagram: 'Ver en Instagram', verEnYoutube: 'Ver en YouTube' },
   proximo: 'Próximo partido',
   proximos: 'Próximos partidos',
   ultimo: 'Último resultado',
