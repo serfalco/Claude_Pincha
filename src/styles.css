@@ -204,3 +204,16 @@ abbr { text-decoration: none; }
 .mundo__filiales .link { margin-left: 4px; font-size: .82rem; }
 .mundo__pasos { margin: 10px 0; padding-left: 22px; display: grid; gap: 8px; }
 .mundo__contacto-titulo { margin-top: 14px; }
+
+/* Campaña: cómo asociarse */
+.campania__sub { margin-top: 18px; margin-bottom: 6px; font-size: .78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: var(--rojo); }
+@media (prefers-color-scheme: dark) { .campania__sub { color: #ff5a6e; } }
+:lang(zh) .campania__sub, :lang(hi) .campania__sub { letter-spacing: 0; text-transform: none; }
+.campania__pasos { margin: 0; padding-left: 22px; display: grid; gap: 8px; }
+.campania__cuotas { margin: 2px 0 4px; }
+.campania__cuotas th[scope="row"], .campania__cuotas td { padding: 8px 4px; }
+.campania__sumar { margin-top: 18px; padding: 14px; border-radius: 12px; background: color-mix(in srgb, var(--rojo) 8%, transparent); }
+.campania__sumar .campania__sub { margin-top: 0; }
+.btn--wa { background: #1f8f4e; }
+.btn--wa:hover { background: #17723e; }
+.campania__cuotas td { white-space: nowrap; }

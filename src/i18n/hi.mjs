@@ -31,7 +31,7 @@ export default {
   socios: 'सदस्य',
   balance: 'ताज़ा वित्तीय विवरण',
   fuente: 'स्रोत',
-  campania: { meta: (n) => `लक्ष्य: ${n}`, cta: 'सदस्य बनें', info: 'और जानकारी' },
+  campania: { pasos: 'सदस्य कैसे बनें', beneficios: 'आपको क्या मिलता है', compartir: 'WhatsApp पर शेयर करें', ctaGrande: 'अभी सदस्य बनें', meta: (n) => `लक्ष्य: ${n}`, cta: 'सदस्य बनें', info: 'और जानकारी' },
   dia: {
     kicker: 'Pincha दिन-ब-दिन',
     title: (fecha) => `एस्टुडियांटेस डे ला प्लाटा, ${fecha}: क्या हुआ · El Pincha Hoy`,

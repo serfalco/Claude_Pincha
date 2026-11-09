@@ -4,6 +4,7 @@ import { html } from '../lib/html.mjs';
 const campania = (c, socios, { t }) => {
   const pct = Math.min(100, Math.round((socios / c.meta) * 100));
   const n = (x) => x.toLocaleString(t.locale);
+  const wa = c.sumar ? `https://wa.me/?text=${encodeURIComponent(`${c.sumar.compartir} ${c.url}`)}` : '';
   return html`
 <article class="card campania">
   <h3 class="campania__titulo">${c.nombre}</h3>
@@ -17,6 +18,31 @@ const campania = (c, socios, { t }) => {
     <a class="btn" href="${c.url}" rel="noopener">${t.campania.cta}</a>
     ${c.info ? html`<a class="link" href="${c.info}" rel="noopener">${t.campania.info}</a>` : ''}
   </p>
+
+  ${c.pasos?.length ? html`
+  <h4 class="campania__sub">${t.campania.pasos}</h4>
+  <ol class="campania__pasos">${c.pasos.map((p) => html`<li>${p}</li>`)}</ol>` : ''}
+
+  ${c.cuotas ? html`
+  <h4 class="campania__sub">${c.cuotas.titulo}</h4>
+  <table class="table campania__cuotas">
+    <tbody>${c.cuotas.filas.map((f) => html`<tr><th scope="row">${f.categoria}</th><td class="pts">${f.valor}</td></tr>`)}</tbody>
+  </table>
+  <p class="meta">${c.cuotas.vigencia}${c.cuotas.fuente ? html` ${t.fuente}: <a href="${c.cuotas.fuente.url}" rel="noopener">${c.cuotas.fuente.nombre}</a>` : ''}</p>` : ''}
+
+  ${c.beneficios?.length ? html`
+  <h4 class="campania__sub">${t.campania.beneficios}</h4>
+  <ul class="mundo__puntos">${c.beneficios.map((b) => html`<li>${b}</li>`)}</ul>` : ''}
+
+  ${c.sumar ? html`
+  <div class="campania__sumar">
+    <h4 class="campania__sub">${c.sumar.titulo}</h4>
+    <p>${c.sumar.texto}</p>
+    <p class="campania__acciones">
+      <a class="btn" href="${c.url}" rel="noopener">${t.campania.ctaGrande}</a>
+      <a class="btn btn--wa" href="${wa}" rel="noopener">${t.campania.compartir}</a>
+    </p>
+  </div>` : ''}
 </article>`;
 };
 

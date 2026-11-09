@@ -82,8 +82,60 @@
       "aprobado": "Unanimously approved at the General Assembly on 17 October 2026."
     },
     "campania": {
-      "texto": "The club's drive to reach 100,000 members. Joining is online and takes less than 5 minutes.",
-      "promesa": "If the goal is reached, Verón promises to play one more official match at the UNO."
+      "texto": "The club's drive to reach 100,000 members. Joining is online, takes less than 5 minutes and can be done from anywhere in the world.",
+      "promesa": "If the goal is reached, Verón promises to play one more official match at the UNO.",
+      "pasos": [
+        "Go to sumate.estudiantesdelaplata.com and enter your address: the system detects your area and works out your fee.",
+        "Choose the Individual Pack or the Family Pack (the whole group on a single direct debit).",
+        "Enter your details and pay online with Visa, Mastercard or American Express. You are now pre-registered.",
+        "The Members' Office contacts you on WhatsApp to complete the paperwork and confirm your membership.",
+        "Done: your digital membership card arrives on your phone."
+      ],
+      "cuotas": {
+        "titulo": "What it costs (per month)",
+        "vigencia": "Fees from September 2026.",
+        "filas": [
+          {
+            "categoria": "Adult (18 and over)",
+            "valor": "$39.000"
+          },
+          {
+            "categoria": "Cadet (12 to 17)",
+            "valor": "$39.000"
+          },
+          {
+            "categoria": "University student (up to 25)",
+            "valor": "$32.000"
+          },
+          {
+            "categoria": "Child (3 to 11)",
+            "valor": "$32.000"
+          },
+          {
+            "categoria": "Retirees and pensioners",
+            "valor": "$19.500"
+          },
+          {
+            "categoria": "Rest of Argentina and abroad",
+            "valor": "$19.500"
+          },
+          {
+            "categoria": "Babies (0 to 2)",
+            "valor": "Free"
+          }
+        ]
+      },
+      "beneficios": [
+        "Digital membership card on your phone.",
+        "Priority in ticket sales, ordered by the members' ranking.",
+        "Member prices and exclusive perks during the season.",
+        "\"Viví Estudiantes\" experiences at the club."
+      ],
+      "sumar": {
+        "titulo": "Bring in another Pincha",
+        "texto": "Already a member? Sign up your family with the Family Pack or send the link to a friend: every new member brings the goal closer.",
+        "compartir": "We are fans, let's be members. Join Estudiantes de La Plata in 5 minutes:"
+      }
     }
   },
   "noticias": [

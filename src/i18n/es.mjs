@@ -34,7 +34,7 @@ export default {
   socios: 'Socios',
   balance: 'Último balance',
   fuente: 'Fuente',
-  campania: { meta: (n) => `Meta: ${n}`, cta: 'Asociate', info: 'Más info' },
+  campania: { pasos: 'Cómo asociarte', beneficios: 'Qué te da', compartir: 'Compartir por WhatsApp', ctaGrande: 'Asociate ahora', meta: (n) => `Meta: ${n}`, cta: 'Asociate', info: 'Más info' },
   dia: {
     kicker: 'El día del Pincha',
     title: (fecha) => `Estudiantes de La Plata, ${fecha}: lo que pasó · El Pincha Hoy`,

@@ -82,8 +82,60 @@
       "aprobado": "Aprovado por unanimidade na Assembleia de 17 de outubro de 2026."
     },
     "campania": {
-      "texto": "A campanha do clube para chegar a 100.000 sócios. A associação é online e leva menos de 5 minutos.",
-      "promesa": "Se a meta for alcançada, Verón promete voltar a jogar uma partida oficial no UNO."
+      "texto": "A campanha do clube para chegar a 100.000 sócios. A associação é online, leva menos de 5 minutos e pode ser feita de qualquer lugar do mundo.",
+      "promesa": "Se a meta for alcançada, Verón promete voltar a jogar uma partida oficial no UNO.",
+      "pasos": [
+        "Entre em sumate.estudiantesdelaplata.com e informe seu endereço: o sistema detecta sua região e calcula a mensalidade.",
+        "Escolha o Pack Individual ou o Pack Familiar (todo o grupo em um só débito).",
+        "Preencha seus dados e pague online com Visa, Mastercard ou American Express. Você já fica pré-associado.",
+        "A Secretaria de Sócios entra em contato pelo WhatsApp para completar a documentação e confirmar a associação.",
+        "Pronto: a carteirinha digital chega no seu celular."
+      ],
+      "cuotas": {
+        "titulo": "Quanto custa (por mês)",
+        "vigencia": "Valores desde setembro de 2026.",
+        "filas": [
+          {
+            "categoria": "Ativo (18 anos ou mais)",
+            "valor": "$39.000"
+          },
+          {
+            "categoria": "Cadete (12 a 17)",
+            "valor": "$39.000"
+          },
+          {
+            "categoria": "Universitário (até 25)",
+            "valor": "$32.000"
+          },
+          {
+            "categoria": "Infantil (3 a 11)",
+            "valor": "$32.000"
+          },
+          {
+            "categoria": "Aposentados e pensionistas",
+            "valor": "$19.500"
+          },
+          {
+            "categoria": "Interior e exterior",
+            "valor": "$19.500"
+          },
+          {
+            "categoria": "Bebês (0 a 2)",
+            "valor": "Grátis"
+          }
+        ]
+      },
+      "beneficios": [
+        "Carteirinha digital no celular.",
+        "Prioridade na venda de ingressos, pela ordem do ranking de sócios.",
+        "Preço de sócio e benefícios exclusivos durante a temporada.",
+        "Experiências \"Viví Estudiantes\" no clube."
+      ],
+      "sumar": {
+        "titulo": "Traga outro pincha",
+        "texto": "Já é sócio? Associe sua família com o Pack Familiar ou mande o link para um amigo: cada sócio novo aproxima a meta.",
+        "compartir": "Somos torcedores, sejamos sócios. Associe-se ao Estudiantes de La Plata em 5 minutos:"
+      }
     }
   },
   "noticias": [

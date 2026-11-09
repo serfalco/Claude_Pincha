@@ -33,7 +33,7 @@ export default {
   socios: 'Members',
   balance: 'Latest financial statement',
   fuente: 'Source',
-  campania: { meta: (n) => `Goal: ${n}`, cta: 'Become a member', info: 'More info' },
+  campania: { pasos: 'How to join', beneficios: 'What you get', compartir: 'Share on WhatsApp', ctaGrande: 'Join now', meta: (n) => `Goal: ${n}`, cta: 'Become a member', info: 'More info' },
   dia: {
     kicker: 'Pincha day by day',
     title: (fecha) => `Estudiantes de La Plata, ${fecha}: what happened · El Pincha Hoy`,
