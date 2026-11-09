@@ -24,6 +24,30 @@
   },
   "linea": [
     {
+      "hora": "2026-11-07T17:43:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/punto-y-final/",
+      "texto": {
+        "es": "Final en Córdoba: 1-1 con Talleres para cerrar el Clausura.",
+        "en": "Full time in Córdoba: 1-1 with Talleres to close the Clausura.",
+        "pt": "Fim de jogo em Córdoba: 1 a 1 com o Talleres no encerramento do Clausura.",
+        "zh": "科尔多瓦终场：1比1战平Talleres，闭幕赛收官。",
+        "hi": "कॉर्डोबा में मैच ख़त्म: Talleres से 1-1 ड्रॉ के साथ क्लॉसुरा का समापन।"
+      }
+    },
+    {
+      "hora": "2026-11-07T16:50:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/joaquin-correa-se-retiro-una-molestia-y-preocupo-todos-20-dias-la-final-la-copa-libertadores-n137122",
+      "texto": {
+        "es": "Correa pidió el cambio por una molestia muscular y encendió la alarma a 20 días de la final.",
+        "en": "Correa asked to come off with a muscle problem, raising alarm 20 days before the final.",
+        "pt": "Correa pediu substituição por um incômodo muscular e acendeu o alerta a 20 dias da final.",
+        "zh": "Correa因肌肉不适要求换下，距决赛20天引发担忧。",
+        "hi": "Correa ने मांसपेशी में तकलीफ़ के चलते बदलाव माँगा, फ़ाइनल से 20 दिन पहले चिंता बढ़ी।"
+      }
+    },
+    {
       "hora": "2026-11-07T11:10:00-03:00",
       "fuente": "0221",
       "url": "https://www.0221.com.ar/estudiantes/casamientos-shows-cumpleanos-y-mas-la-final-estudiantes-obliga-cambiar-los-planes-los-platenses-n137017",
