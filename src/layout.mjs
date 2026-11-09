@@ -17,8 +17,8 @@ export const layout = ({ site, t, title, description, url, alternates, css, json
 ${alternates.map((a) => html`<link rel="alternate" hreflang="${a.lang}" href="${a.abs}">\n`)}<link rel="alternate" hreflang="x-default" href="${base.abs}">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="theme-color" content="${site.colorTema}">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="icon" href="/favicon.png" type="image/png">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="${t.ogLocale}">

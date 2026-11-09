@@ -60,7 +60,7 @@ export default {
     todas: '在俱乐部官网查看全部',
   },
   footer: {
-    hinchas: '球迷网站，与拉普拉塔大学生俱乐部无官方关联。',
+    hinchas: '球迷网站，与拉普拉塔大学生俱乐部无官方关联。官方队徽经俱乐部授权使用。',
     simulado: '示例数据：网站建设中。',
     traduccion: '译自西班牙语。',
   },

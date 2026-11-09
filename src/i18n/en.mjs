@@ -63,7 +63,7 @@ export default {
     todas: "See them all on the club's website",
   },
   footer: {
-    hinchas: 'A fan site, not officially affiliated with Club Estudiantes de La Plata.',
+    hinchas: 'A fan site, not officially affiliated with Club Estudiantes de La Plata. Official crest used with the club\'s permission.',
     simulado: 'Sample data: this site is under construction.',
     traduccion: 'Translated from Spanish.',
   },
