@@ -69,6 +69,7 @@ Las ventanas que ya cerraron se sacan.
 - **noticias**: las 4 más relevantes de los últimos días, con link a la nota original y su fuente.
 - **club**: socios y balance solo si hay un dato oficial nuevo. Campaña de socios: mantener el link. Las cuotas van como valores de referencia, sin fuente ni fecha (el texto ya pide verificar al asociarse); actualizarlas solo si el club anuncia valores nuevos. El bloque "mística" no se toca: es el tono del sitio (apoyar al club, no obtener beneficios).
 - **Sección Mundo** (`data/mundo.json` + `data/i18n/mundo.<idioma>.json`): revisar una vez por semana o cuando haya novedad. Filiales nuevas en https://estudiantesdelaplata.com/filiales/, y la situación rumbo al Mundial de Clubes 2029 (ranking CONMEBOL, clasificación). Después de la final del 28/11, actualizar la nota y el bloque del Mundial según el resultado.
+- **video** (canción destacada en Hoy): no se toca. Lo maneja el dueño del sitio. Si viene `vertical: null`, dejarlo así.
 - **actualizado**: fecha y hora de la corrida.
 
 ## Traducciones

@@ -223,3 +223,19 @@ abbr { text-decoration: none; }
 .mistica p + p { margin-top: 8px; }
 .mistica__titulo { font-size: 1.15rem; font-weight: 800; line-height: 1.2; margin-bottom: 8px; }
 .mistica__lema { margin-top: 12px !important; font-size: 1.25rem; font-weight: 800; line-height: 1.2; letter-spacing: -.01em; }
+
+/* Video destacado */
+.video__card { padding: 0; overflow: hidden; }
+.video__marco { position: relative; aspect-ratio: 16 / 9; background: #000; }
+.video__marco--vertical { aspect-ratio: 9 / 16; max-height: 78vh; margin: 0 auto; }
+.video__marco iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.video__vertical { display: none; background: #000; }
+@media (max-width: 599px) { .tiene-vertical { display: none; } .video__vertical { display: block; } }
+.video__texto { padding: 14px 16px 16px; }
+.video__titulo { font-size: 1.25rem; font-weight: 800; line-height: 1.2; margin-bottom: 4px; }
+.video__texto .meta a { color: inherit; font-weight: 600; }
+
+.hoy .video { margin-top: 18px; }
+.video__kicker { font-size: .78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; opacity: .9; margin-bottom: 8px; }
+:lang(zh) .video__kicker, :lang(hi) .video__kicker { letter-spacing: 0; text-transform: none; }
+.hoy .video__card { border: 0; color: var(--text); }

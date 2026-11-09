@@ -15,6 +15,7 @@ export default {
   hoyKicker: 'Pincha आज',
   lineaTitulo: 'ताज़ा',
   ayer: 'कल',
+  video: { kicker: 'गीत', verEnYoutube: 'YouTube पर देखें' },
   proximo: 'अगला मैच',
   proximos: 'आने वाले मैच',
   ultimo: 'ताज़ा नतीजा',

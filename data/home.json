@@ -42,6 +42,13 @@
       }
     ]
   },
+  "video": {
+    "titulo": "La quinta Libertadores",
+    "texto": "La canción de un hincha para el camino a Montevideo. Dale play, subí el volumen y compartila.",
+    "credito": "Canción y video: Sergio Falco.",
+    "youtube": "e7vsoAj6gzQ",
+    "vertical": null
+  },
   "proximos": [
     {
       "rival": "Independiente Rivadavia",
