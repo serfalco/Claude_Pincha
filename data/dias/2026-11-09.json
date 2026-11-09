@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-11-09",
+  "titular": {
+    "es": "Correa se desgarró: afuera de la Supercopa y en duda para la final",
+    "en": "Correa tears a muscle: out of the Supercopa and a doubt for the final",
+    "pt": "Correa sofre estiramento: fora da Supercopa e dúvida para a final",
+    "zh": "Correa肌肉拉伤：缺席阿根廷超级杯，决赛成疑",
+    "hi": "Correa की मांसपेशी फटी: सुपरकोपा से बाहर, फ़ाइनल पर संदेह"
+  },
+  "resumen": {
+    "es": "El club confirmó una lesión muscular grado 2 en el bíceps de la pierna derecha de Joaquín Correa, que se pierde la Supercopa del jueves en Córdoba. Medina se ilusiona con tenerlo para Palmeiras; mientras, ya se venden las entradas para la Supercopa y el jueves arranca la venta de micros a Montevideo.",
+    "en": "The club confirmed a grade 2 muscle injury in the biceps of Joaquín Correa's right leg, ruling him out of Thursday's Supercopa in Córdoba. Medina hopes to have him back for Palmeiras; meanwhile Supercopa tickets are on sale and coach seats to Montevideo go on sale on Thursday.",
+    "pt": "O clube confirmou uma lesão muscular grau 2 no bíceps da perna direita de Joaquín Correa, que desfalca a Supercopa de quinta-feira em Córdoba. Medina espera contar com ele contra o Palmeiras; enquanto isso, os ingressos da Supercopa já estão à venda e na quinta começa a venda de ônibus para Montevidéu.",
+    "zh": "俱乐部确认Joaquín Correa右腿股二头肌二级肌肉损伤，将缺席周四在科尔多瓦进行的阿根廷超级杯。主帅Medina希望他能赶上对阵帕尔梅拉斯（Palmeiras）的决赛；与此同时，超级杯门票已经开售，前往蒙得维的亚的大巴票将于周四开售。",
+    "hi": "क्लब ने पुष्टि की कि Joaquín Correa के दाएँ पैर की बाइसेप्स मांसपेशी में ग्रेड 2 चोट है, इसलिए वे गुरुवार को कॉर्डोबा में होने वाले सुपरकोपा से बाहर हैं। Medina को उम्मीद है कि वे Palmeiras के ख़िलाफ़ फ़ाइनल तक फ़िट हो जाएँगे; इस बीच सुपरकोपा के टिकट बिक रहे हैं और गुरुवार से मोंटेवीडियो जाने वाली बसों की बिक्री शुरू होगी।"
+  },
+  "ultimo": {
+    "rival": "Talleres",
+    "golesPropios": 1,
+    "golesRival": 1,
+    "fecha": "2026-11-07T15:00:00-03:00",
+    "torneo": "Torneo Clausura · Fecha 16",
+    "condicion": "visitante"
+  },
+  "linea": [
+    {
+      "hora": "2026-11-09T19:35:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/para-acercarse-al-objetivo/",
+      "texto": {
+        "es": "La Reserva juega ante San Martín (SJ) en el Country Club y busca acercarse a los playoffs.",
+        "en": "The reserves face San Martín (SJ) at the Country Club, looking to close in on the play-offs.",
+        "pt": "O time reserva enfrenta o San Martín (SJ) no Country Club e busca se aproximar dos playoffs.",
+        "zh": "预备队在Country Club迎战San Martín (SJ)，力争向季后赛靠近。",
+        "hi": "रिज़र्व टीम Country Club में San Martín (SJ) से भिड़ रही है, प्लेऑफ़ के क़रीब पहुँचने की कोशिश में।"
+      }
+    },
+    {
+      "hora": "2026-11-09T18:27:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/paridad-absoluta/",
+      "texto": {
+        "es": "Inferiores: ocho puntos ante Defensa y Justicia, con triunfos de Quinta y Novena.",
+        "en": "Academy: eight points against Defensa y Justicia, with wins for the U-17s and U-13s.",
+        "pt": "Base: oito pontos contra o Defensa y Justicia, com vitórias do sub-17 e do sub-13.",
+        "zh": "青训：对阵Defensa y Justicia共拿下8分，U17和U13梯队取胜。",
+        "hi": "यूथ टीमें: Defensa y Justicia के ख़िलाफ़ आठ अंक, अंडर-17 और अंडर-13 की जीत।"
+      }
+    },
+    {
+      "hora": "2026-11-09T15:57:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/estudiantes-confirmo-la-lesion-joaquin-correa-se-pierde-la-final-la-copa-libertadores-n137191",
+      "texto": {
+        "es": "Parte médico: Correa tiene una lesión grado 2 en el bíceps derecho, se pierde la Supercopa y es duda para la final.",
+        "en": "Medical update: Correa has a grade 2 biceps injury in his right leg, misses the Supercopa and is a doubt for the final.",
+        "pt": "Boletim médico: Correa tem lesão grau 2 no bíceps direito, perde a Supercopa e é dúvida para a final.",
+        "zh": "伤情通报：Correa右腿股二头肌二级损伤，缺席超级杯，决赛出场成疑。",
+        "hi": "मेडिकल अपडेट: Correa के दाएँ पैर की बाइसेप्स में ग्रेड 2 चोट, सुपरकोपा से बाहर और फ़ाइनल पर संदेह।"
+      }
+    },
+    {
+      "hora": "2026-11-09T15:42:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/comenzo-la-venta-entradas-la-supercopa-argentina-los-hinchas-estudiantes-n137190",
+      "texto": {
+        "es": "Arrancó la venta de entradas para la Supercopa: solo online por Deportick, de $65.000 a $140.000.",
+        "en": "Supercopa tickets are on sale: online only via Deportick, from ARS 65,000 to ARS 140,000.",
+        "pt": "Começou a venda de ingressos para a Supercopa: só online pela Deportick, de ARS 65.000 a ARS 140.000.",
+        "zh": "超级杯门票开售：仅限Deportick网上购买，价格ARS 65,000至ARS 140,000。",
+        "hi": "सुपरकोपा के टिकटों की बिक्री शुरू: सिर्फ़ Deportick पर ऑनलाइन, ARS 65,000 से ARS 140,000।"
+      }
+    }
+  ]
+}

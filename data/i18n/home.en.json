@@ -1,34 +1,31 @@
 {
   "hoy": {
-    "titular": "The Clausura ends today, and the Libertadores final is 21 days away",
-    "resumen": "At 3 pm Pincha visit Talleres on the final matchday, already out of the play-off race. All eyes are on what comes next: the Supercopa Argentina on Thursday and the final against Palmeiras in Montevideo.",
+    "titular": "Correa tears a muscle: out of the Supercopa and a doubt for the final",
+    "resumen": "The club confirmed a grade 2 muscle injury in the biceps of Joaquín Correa's right leg, ruling him out of Thursday's Supercopa in Córdoba. Medina hopes to have him back for Palmeiras; meanwhile Supercopa tickets are on sale and coach seats to Montevideo go on sale on Thursday.",
     "puntos": [
-      "Libertadores final: Saturday 28/11, 5 pm, Estadio Centenario.",
-      "Supercopa Argentina v Independiente Rivadavia: Thursday 12/11, 8 pm, in Córdoba.",
-      "Terrace tickets for the final have sold out; the club is waiting on remaining seats."
+      "Supercopa v Independiente Rivadavia: Thursday 12/11, 8 pm, Estadio Villagra (Córdoba). Tickets online via Deportick, ARS 65,000 to ARS 140,000, ID required.",
+      "Coaches to Montevideo (ARS 50,000 return, on the UNO app): Thursday 12 for members with 400+ points, Friday 13 for the rest, Saturday 14 general sale.",
+      "Libertadores final: Saturday 28/11, 5 pm, Estadio Centenario."
     ],
     "linea": [
       {
-        "texto": "The final on the 28th is forcing weddings, gigs and birthday parties in La Plata to be moved."
+        "texto": "The reserves face San Martín (SJ) at the Country Club, looking to close in on the play-offs."
       },
       {
-        "texto": "Women's football: a 3-2 win over River at the UNO leaves them one step from staying up."
+        "texto": "Academy: eight points against Defensa y Justicia, with wins for the U-17s and U-13s."
       },
       {
-        "texto": "At 3 pm, the last Clausura match away to Talleres in Córdoba."
+        "texto": "Medical update: Correa has a grade 2 biceps injury in his right leg, misses the Supercopa and is a doubt for the final."
       },
       {
-        "texto": "Terrace tickets for the final sold out: around 14,000. The club is waiting on remaining seats."
+        "texto": "Supercopa tickets are on sale: online only via Deportick, from ARS 65,000 to ARS 140,000."
       },
       {
-        "texto": "Squad for Córdoba: Jalil Elías returns and Carrillo is rested."
+        "texto": "The season table is final: Pincha finished 11th and will only play the 2027 Libertadores by winning the final."
       }
     ]
   },
   "proximos": [
-    {
-      "instancia": "Matchday 16"
-    },
     {
       "instancia": "Final"
     },
@@ -37,24 +34,24 @@
     }
   ],
   "ultimo": {
-    "torneo": "Torneo Clausura · Matchday 15"
+    "torneo": "Torneo Clausura · Matchday 16"
   },
   "posiciones": [
     {
       "tabla": "Clausura · Group A",
-      "detalle": "15 pts"
+      "detalle": "16 pts · final"
     },
     {
       "tabla": "Season table",
-      "detalle": "46 pts"
+      "detalle": "47 pts"
     },
     {
       "tabla": "Relegation average",
-      "detalle": "1.451"
+      "detalle": "1.448"
     }
   ],
   "tabla": {
-    "nombre": "Torneo Clausura 2026 · Group A · before matchday 16"
+    "nombre": "Torneo Clausura 2026 · Group A · end of regular phase"
   },
   "club": {
     "sociosDetalle": "At the General Assembly (17 October 2026). There were 58,720 at the end of the financial year.",
@@ -91,20 +88,20 @@
   },
   "noticias": [
     {
-      "titulo": "Confirmed: the Palmeiras final is on the 28th at 5 pm",
-      "bajada": "It will be played at the Centenario in Montevideo. Pincha are going for a fifth Libertadores."
+      "titulo": "Correa tears a muscle: out of the Supercopa and a doubt for the final",
+      "bajada": "Grade 2 injury to the biceps of his right leg. Recovery usually takes around three weeks."
     },
     {
-      "titulo": "3-3 draw with Instituto at the UNO",
-      "bajada": "A thriller on matchday 15 of the Clausura against the Group A leaders."
+      "titulo": "1-1 draw with Talleres to close the Clausura",
+      "bajada": "Muslera kept the side in it at the Kempes; Pincha finished 12th in Group A."
     },
     {
-      "titulo": "Members unanimously approve the club's accounts",
-      "bajada": "A surplus for 2025/26, lower debt and more than 63,000 members."
+      "titulo": "Season table: 11th, and the 2027 Libertadores hinges on the final",
+      "bajada": "If they don't win in Montevideo, they are first in line should a Sudamericana place open up."
     },
     {
-      "titulo": "The Clausura and season table before the final matchday",
-      "bajada": "Who is through, who is out and the race for continental places."
+      "titulo": "Coaches to Montevideo at ARS 50,000: the schedule",
+      "bajada": "The club covers 70% of the fare. On sale on the UNO app from Thursday 12, by points ranking."
     }
   ]
 }

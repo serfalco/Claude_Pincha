@@ -1,55 +1,48 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-07T11:50:00-03:00",
+  "actualizado": "2026-11-09T20:00:00-03:00",
   "hoy": {
-    "titular": "Hoy cierra el Clausura y en 21 días se juega la final de la Libertadores",
-    "resumen": "A las 15 el Pincha visita a Talleres por la última fecha, ya sin chances de octavos. La cabeza está en lo que viene: la Supercopa Argentina el jueves y la final con Palmeiras en Montevideo.",
+    "titular": "Correa se desgarró: afuera de la Supercopa y en duda para la final",
+    "resumen": "El club confirmó una lesión muscular grado 2 en el bíceps de la pierna derecha de Joaquín Correa, que se pierde la Supercopa del jueves en Córdoba. Medina se ilusiona con tenerlo para Palmeiras; mientras, ya se venden las entradas para la Supercopa y el jueves arranca la venta de micros a Montevideo.",
     "puntos": [
-      "Final de la Libertadores: sábado 28/11, 17 h, Estadio Centenario.",
-      "Supercopa Argentina vs Independiente Rivadavia: jueves 12/11, 20 h, en Córdoba.",
-      "Populares agotadas para la final: el club espera un remanente de plateas."
+      "Supercopa vs Independiente Rivadavia: jueves 12/11, 20 h, Estadio Villagra (Córdoba). Entradas online en Deportick, de $65.000 a $140.000, con DNI.",
+      "Micros a Montevideo ($50.000 ida y vuelta, en la app UNO): jueves 12 socios de +400 puntos, viernes 13 el resto, sábado 14 venta general.",
+      "Final de la Libertadores: sábado 28/11, 17 h, Estadio Centenario."
     ],
     "linea": [
       {
-        "hora": "2026-11-07T11:10:00-03:00",
-        "texto": "La final del 28 obliga a mover casamientos, shows y cumpleaños en La Plata.",
+        "hora": "2026-11-09T19:35:00-03:00",
+        "texto": "La Reserva juega ante San Martín (SJ) en el Country Club y busca acercarse a los playoffs.",
+        "fuente": "Club",
+        "url": "https://estudiantesdelaplata.com/para-acercarse-al-objetivo/"
+      },
+      {
+        "hora": "2026-11-09T18:27:00-03:00",
+        "texto": "Inferiores: ocho puntos ante Defensa y Justicia, con triunfos de Quinta y Novena.",
+        "fuente": "Club",
+        "url": "https://estudiantesdelaplata.com/paridad-absoluta/"
+      },
+      {
+        "hora": "2026-11-09T15:57:00-03:00",
+        "texto": "Parte médico: Correa tiene una lesión grado 2 en el bíceps derecho, se pierde la Supercopa y es duda para la final.",
         "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/casamientos-shows-cumpleanos-y-mas-la-final-estudiantes-obliga-cambiar-los-planes-los-platenses-n137017"
+        "url": "https://www.0221.com.ar/estudiantes/estudiantes-confirmo-la-lesion-joaquin-correa-se-pierde-la-final-la-copa-libertadores-n137191"
       },
       {
-        "hora": "2026-11-07T10:17:00-03:00",
-        "texto": "Fútbol femenino: las chicas le ganaron 3-2 a River en el UNO y quedaron a un paso de la permanencia.",
-        "fuente": "Club",
-        "url": "https://estudiantesdelaplata.com/revancha-contra-river/"
-      },
-      {
-        "hora": "2026-11-07T09:00:00-03:00",
-        "texto": "A las 15, último partido del Clausura ante Talleres en Córdoba.",
-        "fuente": "Club",
-        "url": "https://estudiantesdelaplata.com/el-ultimo-del-clausura/"
-      },
-      {
-        "hora": "2026-11-06T19:37:00-03:00",
-        "texto": "Se agotaron las populares para la final: cerca de 14 mil entradas. El club espera un remanente de plateas.",
+        "hora": "2026-11-09T15:42:00-03:00",
+        "texto": "Arrancó la venta de entradas para la Supercopa: solo online por Deportick, de $65.000 a $140.000.",
         "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/estudiantes-agoto-cerca-14-mil-entradas-la-final-la-copa-libertadores-n137080"
+        "url": "https://www.0221.com.ar/estudiantes/comenzo-la-venta-entradas-la-supercopa-argentina-los-hinchas-estudiantes-n137190"
       },
       {
-        "hora": "2026-11-06T19:00:00-03:00",
-        "texto": "Convocados para Córdoba: vuelve Jalil Elías y Carrillo descansa.",
-        "fuente": "Club",
-        "url": "https://estudiantesdelaplata.com/jalil-elias-esta-de-regreso/"
+        "hora": "2026-11-08T21:45:00-03:00",
+        "texto": "Cerró la tabla anual: el Pincha quedó 11° y solo jugará la Libertadores 2027 si gana la final.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-tabla-anual-2026-con-las-clasificaciones-a-las-copas-libertadores-y-sudamericana-tras-nid08112026/"
       }
     ]
   },
   "proximos": [
-    {
-      "rival": "Talleres",
-      "condicion": "visitante",
-      "fecha": "2026-11-07T15:00:00-03:00",
-      "torneo": "Torneo Clausura",
-      "instancia": "Fecha 16"
-    },
     {
       "rival": "Independiente Rivadavia",
       "condicion": "neutral",
@@ -68,45 +61,45 @@
     }
   ],
   "ultimo": {
-    "rival": "Instituto",
-    "golesPropios": 3,
-    "golesRival": 3,
-    "fecha": "2026-10-31T12:00:00-03:00",
-    "torneo": "Torneo Clausura · Fecha 15",
-    "condicion": "local"
+    "rival": "Talleres",
+    "golesPropios": 1,
+    "golesRival": 1,
+    "fecha": "2026-11-07T15:00:00-03:00",
+    "torneo": "Torneo Clausura · Fecha 16",
+    "condicion": "visitante"
   },
   "posiciones": [
     {
       "tabla": "Clausura · Zona A",
       "puesto": 12,
-      "detalle": "15 pts"
+      "detalle": "16 pts · final"
     },
     {
       "tabla": "Tabla anual",
-      "puesto": 12,
-      "detalle": "46 pts"
+      "puesto": 11,
+      "detalle": "47 pts"
     },
     {
       "tabla": "Promedios",
-      "puesto": 9,
-      "detalle": "1,451"
+      "puesto": 10,
+      "detalle": "1,448"
     }
   ],
   "tabla": {
-    "nombre": "Torneo Clausura 2026 · Zona A · antes de la fecha 16",
+    "nombre": "Torneo Clausura 2026 · Zona A · final de la fase regular",
     "clasifican": 8,
     "filas": [
       {
         "equipo": "Instituto",
-        "pj": 15,
-        "pts": 33,
+        "pj": 16,
+        "pts": 34,
         "dg": 11
       },
       {
         "equipo": "Boca Juniors",
-        "pj": 15,
-        "pts": 30,
-        "dg": 9
+        "pj": 16,
+        "pts": 33,
+        "dg": 10
       },
       {
         "equipo": "Vélez Sarsfield",
@@ -116,15 +109,21 @@
       },
       {
         "equipo": "Defensa y Justicia",
-        "pj": 15,
+        "pj": 16,
         "pts": 28,
-        "dg": 7
+        "dg": 6
       },
       {
         "equipo": "Lanús",
-        "pj": 15,
-        "pts": 25,
+        "pj": 16,
+        "pts": 26,
         "dg": 7
+      },
+      {
+        "equipo": "Newell's",
+        "pj": 16,
+        "pts": 23,
+        "dg": 3
       },
       {
         "equipo": "Independiente",
@@ -133,15 +132,9 @@
         "dg": -1
       },
       {
-        "equipo": "Newell's",
-        "pj": 15,
-        "pts": 22,
-        "dg": 3
-      },
-      {
         "equipo": "Gimnasia (M)",
-        "pj": 15,
-        "pts": 21,
+        "pj": 16,
+        "pts": 22,
         "dg": 1
       },
       {
@@ -164,15 +157,15 @@
       },
       {
         "equipo": "Estudiantes",
-        "pj": 15,
-        "pts": 15,
+        "pj": 16,
+        "pts": 16,
         "dg": -1,
         "propio": true
       },
       {
         "equipo": "Talleres",
-        "pj": 15,
-        "pts": 12,
+        "pj": 16,
+        "pts": 13,
         "dg": -6
       },
       {
@@ -183,8 +176,8 @@
       },
       {
         "equipo": "Central Córdoba",
-        "pj": 15,
-        "pts": 10,
+        "pj": 16,
+        "pts": 11,
         "dg": -14
       }
     ]
@@ -233,32 +226,32 @@
   },
   "noticias": [
     {
-      "titulo": "Confirmado: la final con Palmeiras es el 28 a las 17",
-      "bajada": "Se juega en el Centenario de Montevideo. El Pincha va por su quinta Libertadores.",
-      "fecha": "2026-10-31T00:00:00-03:00",
-      "fuente": "Perfil",
-      "url": "https://442.perfil.com/noticias/futbol/final-de-la-copa-libertadores-conmebol-confirmo-el-horario-para-palmeiras-vs-estudiantes.phtml"
+      "titulo": "Correa, desgarrado: se pierde la Supercopa y es duda para la final",
+      "bajada": "Lesión grado 2 en el bíceps de la pierna derecha. Los plazos rondan las tres semanas.",
+      "fecha": "2026-11-09T15:57:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/estudiantes-confirmo-la-lesion-joaquin-correa-se-pierde-la-final-la-copa-libertadores-n137191"
     },
     {
-      "titulo": "Empate 3-3 con Instituto en el UNO",
-      "bajada": "Partidazo por la fecha 15 del Clausura ante el líder de la Zona A.",
-      "fecha": "2026-10-31T23:27:00-03:00",
+      "titulo": "Empate 1-1 con Talleres en el cierre del Clausura",
+      "bajada": "Muslera sostuvo al equipo en el Kempes; el Pincha terminó 12° en la Zona A.",
+      "fecha": "2026-11-07T17:11:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/estudiantes-empato-1-1-talleres-cordoba-y-complico-su-clasificacion-la-copa-sudamericana-n137124"
+    },
+    {
+      "titulo": "Tabla anual: 11° y la Libertadores 2027 depende de la final",
+      "bajada": "Si no gana en Montevideo, es el primero en la fila si se libera un cupo de Sudamericana.",
+      "fecha": "2026-11-08T21:45:00-03:00",
       "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/canchallena/estudiantes-de-la-plata-y-instituto-empataron-3-3-por-el-torneo-clausura-2026-nid31102026/"
+      "url": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-tabla-anual-2026-con-las-clasificaciones-a-las-copas-libertadores-y-sudamericana-tras-nid08112026/"
     },
     {
-      "titulo": "La Asamblea aprobó por unanimidad el balance del club",
-      "bajada": "Superávit en el ejercicio 2025/26, menos deuda y más de 63 mil socios.",
-      "fecha": "2026-10-17T00:00:00-03:00",
-      "fuente": "Estudiantes de La Plata",
-      "url": "https://estudiantesdelaplata.com/aprobacion-unanime-del-ejercicio-no-121/"
-    },
-    {
-      "titulo": "Así están el Clausura y la tabla anual antes de la última fecha",
-      "bajada": "Clasificados, eliminados y la pelea por las copas.",
-      "fecha": "2026-11-07T00:00:00-03:00",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/las-posiciones-del-torneo-clausura-y-la-lucha-por-la-tabla-anual-los-nuevos-clasificados-y-nid07112026/"
+      "titulo": "Micros a Montevideo a $50.000: el cronograma",
+      "bajada": "El club cubre el 70% del pasaje. Venta en la app UNO desde el jueves 12, por puntaje.",
+      "fecha": "2026-11-08T12:54:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/cronograma-para-la-venta-de-pasajes-a-montevideo-deportes_1794203554"
     }
   ],
   "fuentes": [
@@ -270,6 +263,12 @@
     "https://diariopanorama.com/noticia/569905/afa-reprogramo-supercopa-argentina-cuando-donde-jugaran-estudiantes-e-independiente-rivadavia",
     "https://www.espn.com.mx/futbol/equipo/calendario/_/id/8/arg.estudiantes_la_plata",
     "https://estudiantesdelaplata.com/somos-hinchas-seamos-socios/",
-    "https://www.infobae.com/deportes/2026/07/31/estudiantes-de-la-plata-lanzo-una-campana-para-llegar-a-los-100-mil-socios-somos-hinchas-seamos-socios/"
+    "https://www.infobae.com/deportes/2026/07/31/estudiantes-de-la-plata-lanzo-una-campana-para-llegar-a-los-100-mil-socios-somos-hinchas-seamos-socios/",
+    "https://www.0221.com.ar/estudiantes/estudiantes-confirmo-la-lesion-joaquin-correa-se-pierde-la-final-la-copa-libertadores-n137191",
+    "https://www.unosantafe.com.ar/ovacion/correa-se-desgarro-y-es-duda-estudiantes-la-final-la-libertadores-n10291308.html",
+    "https://www.vavel.com/ar/futbol-argentino/2026/11/07/talleres-de-cordoba/1278500-igualdad-entre-la-t-y-el-pincha-en-el-kempes.html",
+    "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-tabla-anual-2026-con-las-clasificaciones-a-las-copas-libertadores-y-sudamericana-tras-nid08112026/",
+    "https://www.futbolargentino.com/primera-division/promedios",
+    "https://www.eldia.com/deportes/cronograma-para-la-venta-de-pasajes-a-montevideo-deportes_1794203554"
   ]
 }

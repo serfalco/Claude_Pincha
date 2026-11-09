@@ -1,34 +1,31 @@
 {
   "hoy": {
-    "titular": "Hoje termina o Clausura, e a final da Libertadores é daqui a 21 dias",
-    "resumen": "Às 15h o Pincha visita o Talleres na última rodada, já sem chances de ir às oitavas. A cabeça está no que vem por aí: a Supercopa Argentina na quinta e a final contra o Palmeiras em Montevidéu.",
+    "titular": "Correa sofre estiramento: fora da Supercopa e dúvida para a final",
+    "resumen": "O clube confirmou uma lesão muscular grau 2 no bíceps da perna direita de Joaquín Correa, que desfalca a Supercopa de quinta-feira em Córdoba. Medina espera contar com ele contra o Palmeiras; enquanto isso, os ingressos da Supercopa já estão à venda e na quinta começa a venda de ônibus para Montevidéu.",
     "puntos": [
-      "Final da Libertadores: sábado 28/11, 17h, Estádio Centenario.",
-      "Supercopa Argentina x Independiente Rivadavia: quinta 12/11, 20h, em Córdoba.",
-      "Ingressos populares esgotados para a final: o clube aguarda sobra de cadeiras."
+      "Supercopa contra o Independiente Rivadavia: quinta 12/11, 20h, Estádio Villagra (Córdoba). Ingressos online na Deportick, de ARS 65.000 a ARS 140.000, com documento.",
+      "Ônibus para Montevidéu (ARS 50.000 ida e volta, no app UNO): quinta 12 sócios com mais de 400 pontos, sexta 13 os demais, sábado 14 venda geral.",
+      "Final da Copa Libertadores: sábado 28/11, 17h, Estádio Centenario."
     ],
     "linea": [
       {
-        "texto": "A final do dia 28 obriga a remarcar casamentos, shows e aniversários em La Plata."
+        "texto": "O time reserva enfrenta o San Martín (SJ) no Country Club e busca se aproximar dos playoffs."
       },
       {
-        "texto": "Futebol feminino: vitória por 3 a 2 sobre o River no UNO deixa o time a um passo da permanência."
+        "texto": "Base: oito pontos contra o Defensa y Justicia, com vitórias do sub-17 e do sub-13."
       },
       {
-        "texto": "Às 15h, último jogo do Clausura contra o Talleres, em Córdoba."
+        "texto": "Boletim médico: Correa tem lesão grau 2 no bíceps direito, perde a Supercopa e é dúvida para a final."
       },
       {
-        "texto": "Esgotaram os ingressos populares para a final: cerca de 14 mil. O clube aguarda sobra de cadeiras."
+        "texto": "Começou a venda de ingressos para a Supercopa: só online pela Deportick, de ARS 65.000 a ARS 140.000."
       },
       {
-        "texto": "Relacionados para Córdoba: Jalil Elías volta e Carrillo é poupado."
+        "texto": "Tabela anual encerrada: o Pincha ficou em 11º e só jogará a Libertadores 2027 se for campeão."
       }
     ]
   },
   "proximos": [
-    {
-      "instancia": "Rodada 16"
-    },
     {
       "instancia": "Final"
     },
@@ -37,24 +34,24 @@
     }
   ],
   "ultimo": {
-    "torneo": "Torneo Clausura · Rodada 15"
+    "torneo": "Torneo Clausura · Rodada 16"
   },
   "posiciones": [
     {
       "tabla": "Clausura · Grupo A",
-      "detalle": "15 pts"
+      "detalle": "16 pts · final"
     },
     {
       "tabla": "Tabela anual",
-      "detalle": "46 pts"
+      "detalle": "47 pts"
     },
     {
       "tabla": "Média (rebaixamento)",
-      "detalle": "1,451"
+      "detalle": "1,448"
     }
   ],
   "tabla": {
-    "nombre": "Torneo Clausura 2026 · Grupo A · antes da rodada 16"
+    "nombre": "Torneo Clausura 2026 · Grupo A · fim da fase regular"
   },
   "club": {
     "sociosDetalle": "Na data da Assembleia (17 de outubro de 2026). Eram 58.720 no fechamento do exercício.",
@@ -91,20 +88,20 @@
   },
   "noticias": [
     {
-      "titulo": "Confirmado: a final contra o Palmeiras é dia 28, às 17h",
-      "bajada": "O jogo será no Centenario, em Montevidéu. O Pincha busca a quinta Libertadores."
+      "titulo": "Correa sofre estiramento: fora da Supercopa e dúvida para a final",
+      "bajada": "Lesão grau 2 no bíceps da perna direita. A recuperação costuma levar cerca de três semanas."
     },
     {
-      "titulo": "Empate em 3 a 3 com o Instituto no UNO",
-      "bajada": "Jogaço pela 15ª rodada do Clausura contra o líder do Grupo A."
+      "titulo": "Empate por 1 a 1 com o Talleres no encerramento do Clausura",
+      "bajada": "Muslera segurou o time no Kempes; o Pincha terminou em 12º no Grupo A."
     },
     {
-      "titulo": "Assembleia aprova por unanimidade o balanço do clube",
-      "bajada": "Superávit no exercício 2025/26, menos dívida e mais de 63 mil sócios."
+      "titulo": "Tabela anual: 11º, e a Libertadores 2027 depende da final",
+      "bajada": "Se não vencer em Montevidéu, é o primeiro da fila caso sobre uma vaga na Sul-Americana."
     },
     {
-      "titulo": "Como estão o Clausura e a tabela anual antes da última rodada",
-      "bajada": "Classificados, eliminados e a briga pelas vagas nas copas."
+      "titulo": "Ônibus para Montevidéu a ARS 50.000: o cronograma",
+      "bajada": "O clube cobre 70% da passagem. Venda no app UNO a partir de quinta 12, por pontuação."
     }
   ]
 }
