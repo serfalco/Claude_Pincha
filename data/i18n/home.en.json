@@ -93,7 +93,7 @@
       ],
       "cuotas": {
         "titulo": "What it costs (per month)",
-        "vigencia": "Fees from September 2026.",
+        "vigencia": "Reference prices: check the current fee when you join.",
         "filas": [
           {
             "categoria": "Adult (18 and over)",
@@ -125,16 +125,19 @@
           }
         ]
       },
-      "beneficios": [
-        "Digital membership card on your phone.",
-        "Priority in ticket sales, ordered by the members' ranking.",
-        "Member prices and exclusive perks during the season.",
-        "\"Viví Estudiantes\" experiences at the club."
-      ],
       "sumar": {
         "titulo": "Bring in another Pincha",
         "texto": "Already a member? Sign up your family with the Family Pack or send the link to a friend: every new member brings the goal closer.",
         "compartir": "We are fans, let's be members. Join Estudiantes de La Plata in 5 minutes:"
+      },
+      "mistica": {
+        "titulo": "Being a member means being part of it",
+        "parrafos": [
+          "It's not about what you get. It's about what you give.",
+          "Every member pushes the club forward: the youth teams, the stadium, the next cup. From the stands at the UNO or from the other side of the world, Pincha grows with those who stay, who stand by it and who never leave.",
+          "Make Pincha stronger. Bigger. More ours."
+        ],
+        "lema": "Add your support. Add your mística."
       }
     }
   },

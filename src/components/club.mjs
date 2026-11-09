@@ -19,6 +19,13 @@ const campania = (c, socios, { t }) => {
     ${c.info ? html`<a class="link" href="${c.info}" rel="noopener">${t.campania.info}</a>` : ''}
   </p>
 
+  ${c.mistica ? html`
+  <div class="mistica">
+    <h4 class="mistica__titulo">${c.mistica.titulo}</h4>
+    ${c.mistica.parrafos.map((p) => html`<p>${p}</p>`)}
+    <p class="mistica__lema">${c.mistica.lema}</p>
+  </div>` : ''}
+
   ${c.pasos?.length ? html`
   <h4 class="campania__sub">${t.campania.pasos}</h4>
   <ol class="campania__pasos">${c.pasos.map((p) => html`<li>${p}</li>`)}</ol>` : ''}
@@ -28,11 +35,7 @@ const campania = (c, socios, { t }) => {
   <table class="table campania__cuotas">
     <tbody>${c.cuotas.filas.map((f) => html`<tr><th scope="row">${f.categoria}</th><td class="pts">${f.valor}</td></tr>`)}</tbody>
   </table>
-  <p class="meta">${c.cuotas.vigencia}${c.cuotas.fuente ? html` ${t.fuente}: <a href="${c.cuotas.fuente.url}" rel="noopener">${c.cuotas.fuente.nombre}</a>` : ''}</p>` : ''}
-
-  ${c.beneficios?.length ? html`
-  <h4 class="campania__sub">${t.campania.beneficios}</h4>
-  <ul class="mundo__puntos">${c.beneficios.map((b) => html`<li>${b}</li>`)}</ul>` : ''}
+  <p class="meta">${c.cuotas.vigencia}</p>` : ''}
 
   ${c.sumar ? html`
   <div class="campania__sumar">

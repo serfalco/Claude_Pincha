@@ -222,6 +222,15 @@
       "meta": 100000,
       "url": "https://sumate.estudiantesdelaplata.com/",
       "info": "https://estudiantesdelaplata.com/somos-hinchas-seamos-socios/",
+      "mistica": {
+        "titulo": "Ser socio es ser parte",
+        "parrafos": [
+          "No se trata de lo que recibís. Se trata de lo que das.",
+          "Cada socio empuja al club: a las inferiores, al estadio, a la próxima copa. Desde la tribuna del UNO o desde la otra punta del mundo, el Pincha se hace grande con los que se quedan, los que bancan y los que no se van nunca.",
+          "Hacé un Pincha más fuerte. Más grande. Más nuestro."
+        ],
+        "lema": "Sumá tu apoyo. Sumá tu mística."
+      },
       "pasos": [
         "Entrá a sumate.estudiantesdelaplata.com y poné tu domicilio: el sistema detecta tu zona y te calcula la cuota.",
         "Elegí el Pack Individual o el Pack Familiar (todo el grupo con un solo débito).",
@@ -231,11 +240,7 @@
       ],
       "cuotas": {
         "titulo": "Cuánto sale (por mes)",
-        "vigencia": "Valores desde septiembre de 2026.",
-        "fuente": {
-          "nombre": "El Día",
-          "url": "https://www.eldia.com/deportes/estudiantes-anuncio-un-incremento-en-la-cuota-de-socios-cuales-seran-los-nuevos-valores-deportes_1787861280"
-        },
+        "vigencia": "Valores de referencia: verificá el precio actualizado al asociarte.",
         "filas": [
           {
             "categoria": "Activo (18 años o más)",
@@ -267,12 +272,6 @@
           }
         ]
       },
-      "beneficios": [
-        "Carnet digital en el celular.",
-        "Prioridad en la venta de entradas, ordenada por el ranking de socios.",
-        "Precio de socio y beneficios exclusivos durante la temporada.",
-        "Experiencias \"Viví Estudiantes\" en el club."
-      ],
       "sumar": {
         "titulo": "Sumá a otro pincha",
         "texto": "¿Ya sos socio? Asociá a tu familia con el Pack Familiar o pasale el link a un amigo: cada socio nuevo acerca la meta.",

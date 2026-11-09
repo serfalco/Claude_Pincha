@@ -93,7 +93,7 @@
       ],
       "cuotas": {
         "titulo": "Quanto custa (por mês)",
-        "vigencia": "Valores desde setembro de 2026.",
+        "vigencia": "Valores de referência: confira o preço atualizado ao se associar.",
         "filas": [
           {
             "categoria": "Ativo (18 anos ou mais)",
@@ -125,16 +125,19 @@
           }
         ]
       },
-      "beneficios": [
-        "Carteirinha digital no celular.",
-        "Prioridade na venda de ingressos, pela ordem do ranking de sócios.",
-        "Preço de sócio e benefícios exclusivos durante a temporada.",
-        "Experiências \"Viví Estudiantes\" no clube."
-      ],
       "sumar": {
         "titulo": "Traga outro pincha",
         "texto": "Já é sócio? Associe sua família com o Pack Familiar ou mande o link para um amigo: cada sócio novo aproxima a meta.",
         "compartir": "Somos torcedores, sejamos sócios. Associe-se ao Estudiantes de La Plata em 5 minutos:"
+      },
+      "mistica": {
+        "titulo": "Ser sócio é fazer parte",
+        "parrafos": [
+          "Não é sobre o que você recebe. É sobre o que você dá.",
+          "Cada sócio empurra o clube: as categorias de base, o estádio, a próxima copa. Da arquibancada do UNO ou do outro lado do mundo, o Pincha cresce com quem fica, quem apoia e quem nunca vai embora.",
+          "Faça um Pincha mais forte. Maior. Mais nosso."
+        ],
+        "lema": "Some seu apoio. Some sua mística."
       }
     }
   },
