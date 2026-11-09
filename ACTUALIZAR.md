@@ -24,7 +24,8 @@ Abrir las notas relevantes (WebFetch) antes de usarlas: el título solo no alcan
 El sitio no puede parecer un rebote de un solo medio.
 - En **"Lo último"** y en **noticias**: como máximo **2 ítems de la misma fuente** (el club cuenta como una fuente más).
 - Si un hecho lo cuentan varios, elegir el medio que menos aparece ese día (`confirman` en la cobertura dice quién más lo publicó). Priorizar medios de La Plata: El Día, 0221, Diario Hoy, Infocielo, Punto Capital.
-- Linkear siempre a la nota original del medio, nunca al agregador (Google Noticias).
+- Linkear a la nota original del medio. Si el medio solo aparece por Google Noticias y no se encuentra la URL original, se puede usar el link de Google Noticias (redirige al medio cuando lo abre una persona); en `fuente` va el nombre del medio, nunca "Google Noticias".
+- **El build lo controla:** falla si hay más de 2 ítems de la misma fuente en "Lo último" o en noticias, o más de 3 sumando los dos.
 - Rotar entre días: si ayer dominó un medio, hoy darle lugar a otros.
 - `npm run cobertura` imprime "Fuentes distintas" con el conteo por medio: usarlo para chequear.
 

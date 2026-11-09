@@ -29,10 +29,10 @@
       "url": "https://estudiantesdelaplata.com/para-acercarse-al-objetivo/",
       "texto": {
         "es": "La Reserva juega ante San Martín (SJ) en el Country Club y busca acercarse a los playoffs.",
-        "en": "The reserves face San Martín (SJ) at the Country Club, looking to close in on the play-offs.",
-        "pt": "O time reserva enfrenta o San Martín (SJ) no Country Club e busca se aproximar dos playoffs.",
-        "zh": "预备队在Country Club迎战San Martín (SJ)，力争向季后赛靠近。",
-        "hi": "रिज़र्व टीम Country Club में San Martín (SJ) से भिड़ रही है, प्लेऑफ़ के क़रीब पहुँचने की कोशिश में।"
+        "en": "The reserves play San Martín (SJ) at the Country and look to move closer to the play-offs.",
+        "pt": "O time reserva enfrenta o San Martín (SJ) no Country e busca se aproximar dos playoffs.",
+        "zh": "预备队在Country迎战San Martín（圣胡安），力争接近季后赛。",
+        "hi": "रिज़र्व टीम Country में San Martín (SJ) से खेल रही है और प्लेऑफ़ के क़रीब पहुँचना चाहती है।"
       }
     },
     {
@@ -45,6 +45,30 @@
         "pt": "Base: oito pontos contra o Defensa y Justicia, com vitórias do sub-17 e do sub-13.",
         "zh": "青训：对阵Defensa y Justicia共拿下8分，U17和U13梯队取胜。",
         "hi": "यूथ टीमें: Defensa y Justicia के ख़िलाफ़ आठ अंक, अंडर-17 और अंडर-13 की जीत।"
+      }
+    },
+    {
+      "hora": "2026-11-09T17:45:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbDFuWW1uQVZNWjhJRk9WVVJRclZrT2VfaHNwNDZVeEFBOXJRbWxqWjBScDFyTXR4RWtSMDc5Q2Y3RU5VV2E0LWFEYUI4VDc3VFdzU1BBX2hLRjV6d0JxTnlydFkwV2Z1M0VLNkMxWnRJRmtTbEdyc0NPX2VEbEFHR3d3bTJidUJXeUdoM055WExkazV2b2hiUTFkdVB5SVZqcF9FV0p6a2xRRHFfSVdBYU1NeHIyT3FoYlFQNDl2X2dLcGFob0N5dHNVNXllS0hCUk5xbDduR1pxX0N3TFpfNWoxLXNzOGplejJxU01nQTg?oc=5",
+      "texto": {
+        "es": "Palmeiras, el equipo más goleador, contra una de las defensas menos vencidas: así llega la final.",
+        "en": "Palmeiras, the top-scoring side, against one of the meanest defences: this is how the final shapes up.",
+        "pt": "Palmeiras, o ataque mais goleador, contra uma das defesas menos vazadas: assim chega a final.",
+        "zh": "进球最多的帕尔梅拉斯，对阵失球最少的防线之一：决赛就这样展开。",
+        "hi": "सबसे ज़्यादा गोल करने वाला Palmeiras, सबसे कम गोल खाने वाली रक्षा पंक्तियों में से एक के सामने: ऐसा है फ़ाइनल का मुक़ाबला।"
+      }
+    },
+    {
+      "hora": "2026-11-09T16:34:00-03:00",
+      "fuente": "Perfil",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLVhEVWR4YzE1UFFRN2FWQUVYNGZhSVRLcnZia0FpN00xV1lTcWZwaTBCWUJyaHhGazQtTlZFTXNodExtQ2gtUF9Pa1NHUWJWTkJ6YlBOWUJtOEdrbHNpLWoza2NUQVQ5NzdfVGJVTkJXdWZVTmg0VDVpcmpFVVkxS09XTXhNZ1RyMm9GM1NVaThJVkI1WC0zUzRTMVJpME1IeGZwQ1d0NjlCd3NsdllJd0FpR0RZd1FLckhDSVRkczB3V0JUNUoxVHlRcFU5VkRicmZBbm1kSlg1d9IB3wFBVV95cUxQdS1MWm4zcUE0MDB6T3RCdm9VMlBEZGNCeGhUTWJlRHpJb0t4UWo1VFZmVXZRd1pHZWZQaVZKWG9tRnNjbzJSQ3hQMWNyY1p2X2kteDh6dXJHaEtoMk5PbjI3c0tVR291ZExHeTVqNWNLM09yUUJydHdpenlId2VtT1J1RVZNMWl5VS1iZ3BvTlRVX2dTLVpudHRpUlpMNWtXSG9nb3pFOC1yUW1vNUdqWXpBZFBsX1NTSEp3SjFMaXV1Y3hCZEFQN2laSzdPN1BaMS1hNjZYelVnVHhlMHZ3?oc=5",
+      "texto": {
+        "es": "El papa León XIV recibió una camiseta de Estudiantes durante su visita a la Argentina.",
+        "en": "Pope Leo XIV was given an Estudiantes shirt during his visit to Argentina.",
+        "pt": "O papa Leão XIV recebeu uma camisa do Estudiantes durante sua visita à Argentina.",
+        "zh": "教皇良十四世访问阿根廷期间收到了一件大学生队球衣。",
+        "hi": "अर्जेंटीना यात्रा के दौरान पोप लियो XIV को एस्टुडियांटेस की जर्सी भेंट की गई।"
       }
     },
     {
@@ -65,10 +89,22 @@
       "url": "https://www.0221.com.ar/estudiantes/comenzo-la-venta-entradas-la-supercopa-argentina-los-hinchas-estudiantes-n137190",
       "texto": {
         "es": "Arrancó la venta de entradas para la Supercopa: solo online por Deportick, de $65.000 a $140.000.",
-        "en": "Supercopa tickets are on sale: online only via Deportick, from ARS 65,000 to ARS 140,000.",
-        "pt": "Começou a venda de ingressos para a Supercopa: só online pela Deportick, de ARS 65.000 a ARS 140.000.",
-        "zh": "超级杯门票开售：仅限Deportick网上购买，价格ARS 65,000至ARS 140,000。",
-        "hi": "सुपरकोपा के टिकटों की बिक्री शुरू: सिर्फ़ Deportick पर ऑनलाइन, ARS 65,000 से ARS 140,000।"
+        "en": "Supercopa tickets are on sale online only via Deportick, from ARS 65,000 to ARS 140,000.",
+        "pt": "Ingressos da Supercopa à venda só online pela Deportick, de ARS 65.000 a ARS 140.000.",
+        "zh": "超级杯门票仅通过Deportick在线发售，价格从6.5万到14万阿根廷比索。",
+        "hi": "सुपरकोपा के टिकट केवल Deportick पर ऑनलाइन, ARS 65,000 से ARS 140,000 तक।"
+      }
+    },
+    {
+      "hora": "2026-11-09T15:41:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/se-confirmo-la-lesion-del-tucu-correa-a-semanas-de-la-final-de-la-copa-que-dice-el-parte-medico-deportes_1794249710",
+      "texto": {
+        "es": "Parte médico: Correa tiene una lesión grado 2 en el bíceps derecho, se pierde la Supercopa y es duda para la final.",
+        "en": "Medical update: Correa has a grade 2 hamstring injury on his right leg, misses the Supercopa and is a doubt for the final.",
+        "pt": "Boletim médico: Correa tem uma lesão grau 2 no posterior da coxa direita, perde a Supercopa e é dúvida para a final.",
+        "zh": "伤情通报：科雷亚右腿股二头肌二级拉伤，缺席超级杯，决赛成疑。",
+        "hi": "मेडिकल अपडेट: Correa की दाहिनी जाँघ की मांसपेशी में ग्रेड 2 चोट, सुपरकोपा नहीं खेलेंगे और फ़ाइनल पर संदेह।"
       }
     }
   ]

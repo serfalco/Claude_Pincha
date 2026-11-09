@@ -46,6 +46,14 @@ export const validarHome = (data) => {
   });
   if (data.club && (!esNum(data.club.socios) || !Array.isArray(data.club.balance?.datos))) errores.push('club incompleto');
 
+  // Variedad de fuentes: máximo 2 ítems por fuente en "Lo último" y en noticias, y 3 entre los dos.
+  const cuenta = (lista) => lista.reduce((a, n) => ({ ...a, [n.fuente]: (a[n.fuente] ?? 0) + 1 }), {});
+  const linea = data.hoy?.linea ?? [];
+  const notis = data.noticias ?? [];
+  for (const [nombre, lista, max] of [['hoy.linea', linea, 2], ['noticias', notis, 2], ['linea+noticias', [...linea, ...notis], 3]]) {
+    for (const [f, n] of Object.entries(cuenta(lista))) if (n > max) errores.push(`${nombre}: ${n} ítems de "${f}" (máximo ${max}); usar otras fuentes`);
+  }
+
   if (errores.length) throw new Error(`Datos inválidos en data/home.json:\n- ${errores.join('\n- ')}`);
   return data;
 };
