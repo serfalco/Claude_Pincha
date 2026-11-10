@@ -22,5 +22,18 @@
     "torneo": "Torneo Clausura · Fecha 16",
     "condicion": "visitante"
   },
-  "linea": []
+  "linea": [
+    {
+      "hora": "2026-11-10T07:27:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/estudiantes-definio-su-agenda-la-supercopa-argentina-cuando-viaja-cordoba-y-donde-concentra-n137197",
+      "texto": {
+        "es": "El plantel entrena hoy y mañana en City Bell, viaja a Córdoba el miércoles por la tarde y concentra en el hotel Quinto Centenario.",
+        "en": "The squad train today and tomorrow at City Bell, travel to Córdoba on Wednesday afternoon and will stay at the Quinto Centenario hotel.",
+        "pt": "O elenco treina hoje e amanhã em City Bell, viaja a Córdoba na quarta à tarde e fica concentrado no hotel Quinto Centenario.",
+        "zh": "球队今明两天在City Bell训练，周三下午前往科尔多瓦，入住Quinto Centenario酒店集中备战。",
+        "hi": "टीम आज और कल City Bell में अभ्यास करेगी, बुधवार दोपहर Córdoba रवाना होगी और Quinto Centenario होटल में ठहरेगी।"
+      }
+    }
+  ]
 }

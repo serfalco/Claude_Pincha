@@ -1,6 +1,6 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-10T04:30:00-03:00",
+  "actualizado": "2026-11-10T08:45:00-03:00",
   "hoy": {
     "titular": "Correa se desgarró: afuera de la Supercopa y en duda para la final",
     "resumen": "El club confirmó una lesión muscular grado 2 en el bíceps de la pierna derecha de Joaquín Correa. Se pierde la Supercopa del jueves y Medina se ilusiona con tenerlo para Palmeiras.",
@@ -10,6 +10,12 @@
       "Baltasar Rodríguez, el candidato a reemplazar a Correa el jueves. Palacios arrastra una molestia en la rodilla: si no llega, juega Rojo."
     ],
     "linea": [
+      {
+        "hora": "2026-11-10T07:27:00-03:00",
+        "texto": "El plantel entrena hoy y mañana en City Bell, viaja a Córdoba el miércoles por la tarde y concentra en el hotel Quinto Centenario.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/estudiantes-definio-su-agenda-la-supercopa-argentina-cuando-viaja-cordoba-y-donde-concentra-n137197"
+      },
       {
         "hora": "2026-11-09T19:35:00-03:00",
         "texto": "La Reserva juega ante San Martín (SJ) en el Country Club y busca acercarse a los playoffs.",
@@ -33,12 +39,6 @@
         "texto": "El papa León XIV recibió una camiseta de Estudiantes durante su visita a la Argentina.",
         "fuente": "Perfil",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLVhEVWR4YzE1UFFRN2FWQUVYNGZhSVRLcnZia0FpN00xV1lTcWZwaTBCWUJyaHhGazQtTlZFTXNodExtQ2gtUF9Pa1NHUWJWTkJ6YlBOWUJtOEdrbHNpLWoza2NUQVQ5NzdfVGJVTkJXdWZVTmg0VDVpcmpFVVkxS09XTXhNZ1RyMm9GM1NVaThJVkI1WC0zUzRTMVJpME1IeGZwQ1d0NjlCd3NsdllJd0FpR0RZd1FLckhDSVRkczB3V0JUNUoxVHlRcFU5VkRicmZBbm1kSlg1d9IB3wFBVV95cUxQdS1MWm4zcUE0MDB6T3RCdm9VMlBEZGNCeGhUTWJlRHpJb0t4UWo1VFZmVXZRd1pHZWZQaVZKWG9tRnNjbzJSQ3hQMWNyY1p2X2kteDh6dXJHaEtoMk5PbjI3c0tVR291ZExHeTVqNWNLM09yUUJydHdpenlId2VtT1J1RVZNMWl5VS1iZ3BvTlRVX2dTLVpudHRpUlpMNWtXSG9nb3pFOC1yUW1vNUdqWXpBZFBsX1NTSEp3SjFMaXV1Y3hCZEFQN2laSzdPN1BaMS1hNjZYelVnVHhlMHZ3?oc=5"
-      },
-      {
-        "hora": "2026-11-09T15:42:00-03:00",
-        "texto": "Arrancó la venta de entradas para la Supercopa: solo online por Deportick, de $65.000 a $140.000.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/comenzo-la-venta-entradas-la-supercopa-argentina-los-hinchas-estudiantes-n137190"
       },
       {
         "hora": "2026-11-09T15:41:00-03:00",
