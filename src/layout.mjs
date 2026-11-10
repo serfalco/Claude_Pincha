@@ -2,7 +2,7 @@ import { html, raw } from './lib/html.mjs';
 
 // Documento base: todo el SEO técnico vive acá.
 // alternates: [{ lang, href (absoluta), actual }] → hreflang + x-default para cada idioma.
-export const layout = ({ site, t, title, description, url, alternates, css, jsonLd = [], body }) => {
+export const layout = ({ site, t, title, description, url, alternates, css, jsonLd = [], body, indexar = true }) => {
   const ogImage = new URL('/og.png', site.url).href;
   const ld = JSON.stringify(jsonLd.length === 1 ? jsonLd[0] : jsonLd).replace(/</g, '\\u003c');
   const base = alternates[0];
@@ -15,7 +15,7 @@ export const layout = ({ site, t, title, description, url, alternates, css, json
 <meta name="description" content="${description}">
 <link rel="canonical" href="${url}">
 ${alternates.map((a) => html`<link rel="alternate" hreflang="${a.lang}" href="${a.abs}">\n`)}<link rel="alternate" hreflang="x-default" href="${base.abs}">
-<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="robots" content="${indexar ? 'index, follow, max-image-preview:large' : 'noindex, follow'}">
 <meta name="theme-color" content="${site.colorTema}">
 <link rel="icon" href="/favicon.png" type="image/png">
 <link rel="icon" href="/favicon.ico" sizes="48x48">

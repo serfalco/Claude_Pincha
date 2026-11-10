@@ -39,14 +39,14 @@ Las plantillas no cambian.
 ## Historial día por día
 
 Cada corrida guarda el día con `npm run archivar` en `data/dias/AAAA-MM-DD.json` (titular, resumen, último resultado y todo "Lo último" del día, en los 3 idiomas).
-El build genera `/dia/AAAA-MM-DD/` por día y `/dias/` con el índice, en cada idioma, y los suma al sitemap.
+El build genera `/dia/AAAA-MM-DD/` por día y `/dias/` con el índice, en cada idioma, y los suma al sitemap. Un día sin hechos todavía se publica con `noindex` y queda fuera del sitemap (y la home no lo enlaza) hasta que tenga contenido.
 
 ## Idiomas
 
 - `site.config.mjs` → `idiomas: ['es', 'en', 'pt', 'zh', 'hi']`. El primero va en `/`, los demás en `/<idioma>/`.
 - `src/i18n/<idioma>.mjs` → textos fijos de la interfaz (menú, etiquetas, fechas).
 - `data/i18n/home.<idioma>.json` → traducción del contenido del día.
-- SEO: `hreflang` + `x-default`, `og:locale` y sitemap con alternativas por idioma.
+- SEO: `hreflang` + `x-default`, `og:locale` y sitemap con alternativas por idioma (incluido `x-default`).
 
 Sumar un idioma: copiar `src/i18n/es.mjs`, traducirlo, agregarlo a `idiomas` y crear su `data/i18n/home.<idioma>.json`.
 

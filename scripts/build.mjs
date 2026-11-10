@@ -39,7 +39,8 @@ const build = async () => {
   const avisos = [];
 
   // Genera una página en todos los idiomas. render(ctx, lang) → { title, description, jsonLd, body }
-  const pagina = async (slug, lastmod, render) => {
+  // indexar: false → la página se publica con noindex y no entra al sitemap (p. ej. un día todavía sin hechos).
+  const pagina = async (slug, lastmod, render, { indexar = true } = {}) => {
     const alternates = site.idiomas.map((lang) => ({
       lang, path: ruta(lang, slug), abs: abs(ruta(lang, slug)), nombre: textos[lang].nombreIdioma, etiqueta: textos[lang].etiqueta, ogLocale: textos[lang].ogLocale,
     }));
@@ -50,8 +51,8 @@ const build = async () => {
       const p = await render(ctx, lang);
       const out = join(dist, actual.path, 'index.html');
       await mkdir(dirname(out), { recursive: true });
-      await writeFile(out, toString(layout({ site, t: textos[lang], css, url: actual.abs, alternates: alts, ...p })));
-      sitemap.push({ loc: actual.abs, lastmod, alternates });
+      await writeFile(out, toString(layout({ site, t: textos[lang], css, url: actual.abs, alternates: alts, indexar, ...p })));
+      if (indexar) sitemap.push({ loc: actual.abs, lastmod, alternates });
     }
   };
 
@@ -77,7 +78,7 @@ const build = async () => {
   const archivos = (await existe(dirDias)) ? (await readdir(dirDias)).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort().reverse() : [];
   const listaDias = await Promise.all(archivos.map((f) => leerJSON(`data/dias/${f}`)));
   const hoyFecha = new Intl.DateTimeFormat('sv-SE', { timeZone: site.zonaHoraria }).format(new Date(base.actualizado));
-  const hayHoy = listaDias.some((d) => d.fecha === hoyFecha);
+  const hayHoy = listaDias.some((d) => d.fecha === hoyFecha && d.linea.length);
 
   await pagina('', base.actualizado.slice(0, 10), (ctx, lang) =>
     home({ ...ctx, enlaceDia: hayHoy ? ctx.ruta(`dia/${hoyFecha}`) : undefined }, porIdioma[lang])
@@ -89,7 +90,8 @@ const build = async () => {
         anterior: listaDias[i + 1] && ctx.ruta(`dia/${listaDias[i + 1].fecha}`),
         siguiente: listaDias[i - 1] && ctx.ruta(`dia/${listaDias[i - 1].fecha}`),
         todos: ctx.ruta('dias'),
-      })
+      }),
+      { indexar: d.linea.length > 0 }
     );
   }
   // Sección global
@@ -109,7 +111,7 @@ ${sitemap
     (u) =>
       `  <url><loc>${u.loc}</loc><lastmod>${u.lastmod}</lastmod>${u.alternates
         .map((a) => `<xhtml:link rel="alternate" hreflang="${a.lang}" href="${a.abs}"/>`)
-        .join('')}</url>`
+        .join('')}<xhtml:link rel="alternate" hreflang="x-default" href="${u.alternates[0].abs}"/></url>`
   )
   .join('\n')}
 </urlset>
@@ -118,7 +120,7 @@ ${sitemap
   await writeFile(join(dist, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${abs('/sitemap.xml')}\n`);
 
   avisos.forEach((a) => console.warn(`⚠ ${a}`));
-  console.log(`✓ ${sitemap.length} página(s) generadas en dist/ (${site.idiomas.join(', ')}; ${listaDias.length} día(s) en el historial)`);
+  console.log(`✓ dist/ generado: ${sitemap.length} URL(s) en el sitemap (${site.idiomas.join(', ')}; ${listaDias.length} día(s) en el historial)`);
 };
 
 build().catch((e) => {
