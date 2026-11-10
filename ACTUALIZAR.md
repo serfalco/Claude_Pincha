@@ -25,7 +25,7 @@ Correr `npm run cobertura`. Junta en `cobertura/ultimas.json` todo lo publicado 
 ## Segundo paso: datos estructurados
 
 Correr `npm run datos`. Trae de ESPN (API pública, no oficial) el último partido y los próximos de todas las competencias, ya en hora argentina, y la tabla de la zona de Estudiantes, que compara contra futbolargentino. Lo deja en `cobertura/datos.json` y muestra qué difiere de `data/home.json`.
-- **Partidos**: es una sola fuente. Si difiere de `home.json`, confirmar con el club o un medio (cobertura o web) antes de cambiar. Los nombres de torneo que da ESPN vienen en inglés: en `home.json` van los nuestros.
+- **Partidos**: cada partido de ESPN se compara con la página del club en futbolargentino. `✓ confirmado` = las dos fuentes coinciden en rival, día, hora y resultado: cuenta como dos fuentes. Si dice `solo ESPN` (futbolargentino no lista la Supercopa, por ejemplo) o hay diferencia, confirmar con el club o un medio antes de cambiar. Los nombres de torneo que da ESPN vienen en inglés: en `home.json` van los nuestros.
 - **Tabla**: si ESPN y futbolargentino coinciden y `home.json` está desactualizada, `npm run datos -- --aplicar` escribe `tabla.filas`. `tabla.nombre`, `posiciones` y las traducciones siguen a mano. Si las fuentes no coinciden (suele pasar cuando una todavía no cargó un partido), no se toca y se anota en el resumen.
 - Si una fuente falla, el script avisa y sigue: completar con la web como antes.
 
