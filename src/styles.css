@@ -291,3 +291,12 @@ abbr { text-decoration: none; }
 .tabla[open] .tabla__ocultar { display: inline; }
 .tabla[open] .tabla__toggle { border-bottom: 1px solid var(--line); }
 .tabla__resumen:focus-visible { outline: 3px solid var(--rojo); outline-offset: -3px; }
+
+/* Cita (Verón) */
+.cita { margin: 18px 0 0; padding: 16px 16px 14px 18px; border-radius: 12px; background: var(--grafito); color: #fff; position: relative; overflow: hidden; }
+.cita::before { content: "\201C"; position: absolute; right: 10px; top: -18px; font-size: 7rem; line-height: 1; color: var(--rojo); opacity: .55; font-family: Georgia, serif; }
+.cita blockquote { margin: 0; position: relative; }
+.cita blockquote p { font-size: 1.2rem; font-weight: 800; line-height: 1.3; letter-spacing: -.01em; }
+.cita__traduccion { margin-top: 6px; font-size: .9rem; opacity: .8; font-style: italic; }
+.cita figcaption { margin-top: 10px; font-size: .85rem; color: var(--oro); }
+.cita figcaption strong { color: #fff; }

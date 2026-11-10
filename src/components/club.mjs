@@ -20,6 +20,13 @@ const campania = (c, socios, { t }) => {
     ${c.info ? html`<a class="link" href="${c.info}" rel="noopener">${t.campania.info}</a>` : ''}
   </p>
 
+  ${c.cita ? html`
+  <figure class="cita">
+    <blockquote lang="es"><p>${c.cita.texto}</p></blockquote>
+    ${c.cita.traduccion ? html`<p class="cita__traduccion">${c.cita.traduccion}</p>` : ''}
+    <figcaption>— <strong>${c.cita.autor}</strong>, ${c.cita.via}</figcaption>
+  </figure>` : ''}
+
   ${c.mistica ? html`
   <div class="mistica">
     <h4 class="mistica__titulo">${c.mistica.titulo}</h4>
