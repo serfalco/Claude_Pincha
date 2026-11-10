@@ -10,6 +10,7 @@
     "build": "node scripts/build.mjs",
     "preview": "node scripts/build.mjs && npx --yes serve dist",
     "cobertura": "node scripts/cobertura.mjs",
-    "archivar": "node scripts/archivar.mjs"
+    "archivar": "node scripts/archivar.mjs",
+    "indexnow": "node scripts/indexnow.mjs"
   }
 }

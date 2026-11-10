@@ -22,11 +22,19 @@ export default (ctx, dia, nav) => {
     description: t.dia.descripcion(larga),
     jsonLd: [
       {
+        // Cada día es una nota: ayuda a aparecer en búsquedas de noticias.
         '@context': 'https://schema.org',
-        '@type': 'WebPage',
-        name: t.dia.title(larga),
+        '@type': 'NewsArticle',
+        headline: (titular ?? t.dia.title(larga)).slice(0, 110),
+        description: tx(dia.resumen) ?? t.dia.descripcion(larga),
         inLanguage: t.locale,
-        datePublished: dia.fecha,
+        datePublished: dia.linea.at(-1)?.hora ?? `${dia.fecha}T08:00:00-03:00`,
+        dateModified: dia.linea[0]?.hora ?? `${dia.fecha}T08:00:00-03:00`,
+        image: [new URL('/og.png', site.url).href],
+        mainEntityOfPage: new URL(ctx.ruta(`dia/${dia.fecha}`), site.url).href,
+        about: { '@type': 'SportsTeam', name: site.equipo },
+        author: { '@type': 'Organization', name: site.nombre, url: site.url },
+        publisher: { '@type': 'Organization', name: site.nombre, url: site.url, logo: { '@type': 'ImageObject', url: new URL('/apple-touch-icon.png', site.url).href } },
         isPartOf: { '@type': 'WebSite', name: site.nombre, url: site.url },
       },
     ],
