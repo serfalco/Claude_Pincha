@@ -1,5 +1,5 @@
 import { html } from '../lib/html.mjs';
 
-// Logo propio de El Pincha Hoy (almanaque a bastones con "HOY").
-// Archivo: public/logo.svg (vectorial, texto convertido a trazos).
-export const logo = () => html`<img class="brand__logo" src="/logo.svg" width="36" height="36" alt="">`;
+// Escudo oficial de Estudiantes de La Plata.
+// Archivo: public/escudo.png (44×72, se muestra a 22×36 para pantallas de alta densidad).
+export const logo = () => html`<img class="brand__logo" src="/escudo.png" width="22" height="36" alt="">`;

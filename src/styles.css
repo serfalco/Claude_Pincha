@@ -46,7 +46,7 @@ abbr { text-decoration: none; }
 .header { position: sticky; top: 0; z-index: 5; background: var(--rojo); color: #fff; }
 .header__inner { display: flex; align-items: center; justify-content: space-between; gap: 4px 12px; min-height: 56px; flex-wrap: wrap; padding-top: 6px; padding-bottom: 4px; }
 .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; }
-.brand__logo { display: block; width: 36px; height: 36px; }
+.brand__logo { display: block; width: 22px; height: 36px; }
 .brand__name { font-size: 1.15rem; letter-spacing: -.01em; }
 .nav { order: 3; width: 100%; }
 .menu { display: flex; justify-content: space-between; gap: 2px; margin: 0 -7px; overflow-x: auto; scrollbar-width: none; }
