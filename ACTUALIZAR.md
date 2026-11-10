@@ -17,7 +17,10 @@ Correr `npm run cobertura`. Junta en `cobertura/ultimas.json` todo lo publicado 
 - `[CLUB]` = publicación oficial: manda sobre todo lo demás.
 - `[SOCIOS]` = entradas, ventanas, ranking, cuota: revisar primero.
 - `confirman` = otros medios que contaron lo mismo (sirve como segunda fuente).
-Abrir las notas relevantes (WebFetch) antes de usarlas: el título solo no alcanza. Si un feed falla, seguir con el resto y buscar en la web lo que falte.
+- Las notas del club traen `texto` (el cuerpo completo, desde la API de la web del club): leerlo ahí, no hace falta abrirlas.
+- Las de Google Noticias traen `sitio` (el dominio del medio). Su link de Google no se puede abrir ni decodificar desde acá (Google lo bloquea): para leer la nota y conseguir el link original, buscar el título con WebSearch limitado a ese dominio (`allowed_domains`). Si no aparece, se puede usar el link de Google, pero solo si otro medio confirma el dato.
+- Abrir las notas relevantes (WebFetch) antes de usarlas: el título solo no alcanza.
+- **Salud de las fuentes**: la cobertura avisa si un feed da error, responde vacío, si la API del club cayó al RSS o si un feed propio (club, 0221, El Día) lleva más de 36 h sin notas. Si aparece algún aviso, seguir con el resto, buscar en la web lo que falte y mencionarlo en el resumen final.
 
 ## Segundo paso: datos estructurados
 
