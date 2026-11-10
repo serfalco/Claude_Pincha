@@ -64,6 +64,7 @@ src/
   lib/                    html (escape), fechas, validar, traducir (combina traducciones)
   styles.css              mobile-first, modo oscuro automático
 scripts/build.mjs         genera dist/, sitemap.xml y robots.txt
+scripts/datos.mjs         partidos y tabla desde ESPN + futbolargentino (npm run datos)
 public/                   favicon, íconos, imagen OG, _headers
 ```
 

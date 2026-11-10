@@ -17,17 +17,27 @@ export const FUENTES = [
   { id: '0221', nombre: '0221', tipo: 'medio', url: 'https://www.0221.com.ar/rss/pages/estudiantes.xml', filtrar: false },
   { id: 'eldia', nombre: 'El Día', tipo: 'medio', url: 'https://www.eldia.com/rss/estudiantes', filtrar: false },
   { id: 'puntocapital', nombre: 'Punto Capital', tipo: 'medio', url: 'https://www.puntocapitalnoticias.com/feed/', filtrar: true },
-  { id: 'ole', nombre: 'Olé', tipo: 'medio', url: 'https://www.ole.com.ar/rss/futbol-primera/', filtrar: true },
   { id: 'perfil', nombre: 'Perfil', tipo: 'medio', url: 'https://www.perfil.com/feed/deportes', filtrar: true },
-  { id: 'clarin', nombre: 'Clarín', tipo: 'medio', url: 'https://www.clarin.com/rss/deportes/', filtrar: true },
   { id: 'lanacion', nombre: 'La Nación', tipo: 'medio', url: 'https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/deportes/futbol/', filtrar: true },
   { id: 'infobae', nombre: 'Infobae', tipo: 'medio', url: 'https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/', filtrar: true },
   // Google Noticias suma a TyC, ESPN, DSports, Minuto Uno y otros sin RSS útil. El título trae " - Medio" al final.
-  // Infocielo y Diario Hoy (La Plata) bloquean su RSS: se leen por Google Noticias filtrando por sitio.
+  // Por sitio: medios que bloquean su RSS (Olé, Clarín: 403; Infocielo, Diario Hoy) y medios cuyo feed general
+  // trae pocas notas y deja afuera las del Pincha (Perfil, La Nación, Punto Capital). Los feeds directos van
+  // antes en la lista: si una nota aparece en los dos, queda el link original del medio.
   gnews('gnews', 'Google Noticias', '%22Estudiantes+de+La+Plata%22'),
   gnews('infocielo', 'Infocielo', 'site:infocielo.com+Estudiantes'),
   gnews('diariohoy', 'Diario Hoy', 'site:diariohoy.net+Estudiantes'),
+  gnews('ole', 'Olé', 'site:ole.com.ar+Estudiantes'),
+  gnews('clarin', 'Clarín', 'site:clarin.com+Estudiantes'),
+  gnews('perfil-gn', 'Perfil', 'site:perfil.com+Estudiantes'),
+  gnews('lanacion-gn', 'La Nación', 'site:lanacion.com.ar+Estudiantes'),
+  gnews('puntocapital-gn', 'Punto Capital', 'site:puntocapitalnoticias.com+Estudiantes'),
+  gnews('tyc', 'TyC Sports', 'site:tycsports.com+Estudiantes'),
 ];
+
+// Google Noticias firma algunos medios con otro nombre: se unifican para contar bien la variedad de fuentes.
+const MEDIOS = { 'punto capital noticias': 'Punto Capital', 'la nacion': 'La Nación', 'clarin.com': 'Clarín', 'ole': 'Olé', 'diario el dia': 'El Día', 'eldia.com': 'El Día', 'tycsports.com': 'TyC Sports', 'perfil.com': 'Perfil' };
+const medio = (m) => MEDIOS[m.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()] ?? m;
 
 const SI = /\b(estudiantes de la plata|estudiantes lp|el pincha|los pinchas|pincharratas?|edlp|el le[oó]n)\b/i;
 const ESTUDIANTES = /\bestudiantes\b/i;
@@ -71,7 +81,7 @@ const leer = async (f) => {
     if (f.agregador) {
       items = items.map((n) => {
         const m = n.titulo.match(/^(.*) - ([^-]+)$/);
-        return m ? { ...n, titulo: m[1].trim(), medio: m[2].trim() } : n;
+        return m ? { ...n, titulo: m[1].trim(), medio: medio(m[2].trim()) } : n;
       });
       // Lo que el club ya publica en su feed no hace falta repetirlo desde el agregador.
       items = items.filter((n) => !/estudiantes de la plata$/i.test(n.medio ?? ''));
@@ -105,7 +115,7 @@ const main = async () => {
   const root = join(dirname(fileURLToPath(import.meta.url)), '..');
   const out = join(root, 'cobertura', 'ultimas.json');
   await mkdir(dirname(out), { recursive: true });
-  const estado = resultados.map(({ f, items, error }) => ({ fuente: f.nombre, ok: !error, notas: items.length, error }));
+  const estado = resultados.map(({ f, items, error }) => ({ fuente: f.agregador && f.id !== 'gnews' ? `${f.nombre} (Google)` : f.nombre, ok: !error, notas: items.length, error }));
   await writeFile(out, JSON.stringify({ generado: new Date().toISOString(), horas, estado, notas }, null, 2));
 
   for (const e of estado) console.log(`${e.ok ? '✓' : '✗'} ${e.fuente.padEnd(24)} ${e.ok ? `${e.notas} notas` : e.error}`);
