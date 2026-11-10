@@ -288,7 +288,7 @@ abbr { text-decoration: none; }
 /* Franja "en un vistazo" + cuenta regresiva */
 .franja { margin-top: 14px; display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
 .franja__item { position: relative; display: flex; flex-direction: column; gap: 2px; padding: 10px 12px; border-radius: 12px; background: rgb(255 255 255 / .07); border: 1px solid rgb(255 255 255 / .12); text-decoration: none; min-height: 96px; }
-.franja__item--ultimo > :not(.franja__label) { padding-right: 44px; }
+.franja__item--ultimo > :not(.franja__label, .franja__mascota) { padding-right: 52px; }
 .franja__label { display: flex; align-items: center; gap: 6px; font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--oro); }
 .franja__label .ico { width: 14px; height: 14px; }
 :lang(zh) .franja__label, :lang(hi) .franja__label { letter-spacing: 0; text-transform: none; }
@@ -296,7 +296,7 @@ abbr { text-decoration: none; }
 .franja__dato { font-weight: 700; font-size: .9rem; font-variant-numeric: tabular-nums; }
 .franja__meta { font-size: .78rem; opacity: .75; }
 .franja__meta time { white-space: nowrap; }
-.franja__mascota { position: absolute; right: 4px; bottom: 2px; width: 46px; }
+.franja__mascota { position: absolute; right: 6px; bottom: 6px; width: 50px; }
 .franja__mascota svg { display: block; width: 100%; height: auto; }
 .cuenta { margin-top: 8px; display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-radius: 12px; text-decoration: none;
   background: linear-gradient(100deg, rgb(211 18 47 / .9), rgb(211 18 47 / .55)); border: 1px solid rgb(255 255 255 / .18); }
