@@ -87,3 +87,11 @@ Conectar el repo: build command `npm run build`, output `dist`, variable `NODE_V
 ## Identidad
 
 El logo y el Pincharrata son diseños propios, no el escudo oficial. Sitio de hinchas, sin relación oficial con el club.
+
+## Foto de la cita del club
+
+La cita de la campaña de socios (`club.campania.cita` en `data/home.json`) muestra un avatar redondo al estilo Instagram. Sin foto, muestra las iniciales del autor. Para poner una foto:
+
+1. Subí la imagen a `public/` (por ejemplo `public/img/cita-autor.jpg`), cuadrada y de 120×120 px o más. Tiene que ser una foto que el sitio pueda usar (por ejemplo, una foto oficial del club con permiso).
+2. En `data/home.json`, agregá `"foto": "/img/cita-autor.jpg"` dentro de `cita`.
+
