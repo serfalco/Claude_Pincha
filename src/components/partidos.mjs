@@ -1,3 +1,4 @@
+import { icono } from './iconos.mjs';
 import { html } from '../lib/html.mjs';
 import { mascota, estadoPorResultado } from './mascota.mjs';
 
@@ -5,7 +6,7 @@ const meta = (p, t) => `${p.torneo}${p.instancia ? ` · ${p.instancia}` : ''} ·
 
 const proximo = (p, { t, f }) => html`
 <article class="card" aria-labelledby="prox-titulo">
-  <h2 id="prox-titulo" class="card__label">${t.proximo}</h2>
+  <h2 id="prox-titulo" class="card__label">${icono('calendario')}${t.proximo}</h2>
   <p class="match__rival">${t.vs} ${p.rival}</p>
   <p class="match__when">
     <time datetime="${p.fecha}">${f.larga(p.fecha)}</time>
@@ -20,7 +21,7 @@ const ultimo = (u, { t, f }) => {
   return html`
 <article class="card card--mascota" aria-labelledby="ult-titulo">
   <div>
-    <h2 id="ult-titulo" class="card__label">${t.ultimo}</h2>
+    <h2 id="ult-titulo" class="card__label">${icono('marcador')}${t.ultimo}</h2>
     <p class="match__rival">${t.vs} ${u.rival}</p>
     <p class="score" aria-label="Estudiantes ${u.golesPropios}, ${u.rival} ${u.golesRival}">
       <span class="score__num">${u.golesPropios}</span><span class="score__sep">-</span><span class="score__num">${u.golesRival}</span>
@@ -36,7 +37,7 @@ const agenda = (lista, { t, f }) =>
   lista.length
     ? html`
 <section class="block" aria-labelledby="agenda-titulo">
-  <h2 id="agenda-titulo" class="block__title">${t.proximos}</h2>
+  <h2 id="agenda-titulo" class="block__title">${icono('calendario')}${t.proximos}</h2>
   <ol class="agenda">
     ${lista.map(
       (p) => html`<li class="agenda__item">

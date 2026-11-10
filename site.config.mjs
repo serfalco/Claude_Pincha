@@ -4,7 +4,7 @@ export default {
   url: 'https://elpinchahoy.com.ar',
   zonaHoraria: 'America/Argentina/Buenos_Aires',
   equipo: 'Estudiantes de La Plata',
-  colorTema: '#d4001f',
+  colorTema: '#17171a',
   // El primero es el idioma base (va en "/"); el resto va en "/<idioma>/".
   idiomas: ['es', 'en', 'pt', 'zh', 'hi'],
   secciones: ['hoy', 'partidos', 'tabla', 'noticias', 'club'],

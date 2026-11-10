@@ -1,3 +1,4 @@
+import { icono } from './iconos.mjs';
 import { html } from '../lib/html.mjs';
 
 // Video destacado de YouTube, sin cargar YouTube hasta que se toca "play" (el sitio sigue sin JavaScript).
@@ -18,7 +19,7 @@ export const video = ({ video: v }, { t }) =>
   v
     ? html`
 <section class="video" aria-labelledby="video-titulo">
-  <h2 class="video__kicker">${t.video.kicker}</h2>
+  <h2 class="video__kicker">${icono('nota')}${t.video.kicker}</h2>
   <article class="card video__card">
     <div class="video__horizontal${v.instagram ? ' tiene-vertical' : ''}">${reproductor(v.youtube, v.titulo)}</div>
     ${v.instagram

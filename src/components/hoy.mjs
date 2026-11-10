@@ -1,3 +1,4 @@
+import { icono } from './iconos.mjs';
 import { html } from '../lib/html.mjs';
 
 // "Lo último": lo que pasó hoy (y ayer a la noche), de lo más nuevo a lo más viejo. No es minuto a minuto.
@@ -5,7 +6,7 @@ const mismoDia = (a, b, f) => f.corta(a) === f.corta(b);
 const linea = (items = [], actualizado, t, f, enlace) =>
   items.length
     ? html`<div class="linea">
-  <h2 class="linea__titulo">${t.lineaTitulo}</h2>
+  <h2 class="linea__titulo">${icono('reloj')}${t.lineaTitulo}</h2>
   <ol class="linea__lista">
     ${items.map(
       (n) => html`<li class="linea__item">

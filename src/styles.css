@@ -1,12 +1,14 @@
 /* El Pincha Hoy · estilos base. Mobile first, sin fuentes externas, se inyecta inline en el build. */
 :root {
-  --rojo: #d4001f;
-  --rojo-osc: #a30018;
-  --bg: #f5f4f2;
+  --rojo: #d3122f;
+  --rojo-osc: #a00e25;
+  --grafito: #17171a;
+  --oro: #b39b6a;
+  --bg: #ececee;
   --surface: #fff;
-  --text: #16161a;
-  --muted: #5e5e66;
-  --line: #e4e2de;
+  --text: #18181b;
+  --muted: #62626b;
+  --line: #dedee2;
   --ok: #0f7b3e;
   --warn: #9a6a00;
   --radius: 14px;
@@ -16,8 +18,8 @@
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #111114;
-    --surface: #1b1b20;
+    --bg: #0e0e10;
+    --surface: #1b1b1f;
     --text: #f2f2f4;
     --muted: #a3a3ad;
     --line: #2c2c33;
@@ -240,3 +242,37 @@ abbr { text-decoration: none; }
 :lang(zh) .video__kicker, :lang(hi) .video__kicker { letter-spacing: 0; text-transform: none; }
 .hoy .video__card { border: 0; color: var(--text); }
 .video__links { display: flex; gap: 16px; flex-wrap: wrap; }
+
+/* Íconos en títulos */
+.block__title, .card__label, .linea__titulo, .video__kicker { display: flex; align-items: center; gap: 8px; }
+.ico { flex-shrink: 0; width: 18px; height: 18px; }
+
+/* Tema Noche de copa: grafito + rojo + dorado del escudo */
+.header { background: var(--grafito); border-bottom: 3px solid var(--rojo); }
+.langs__item.is-actual { background: var(--rojo); color: #fff; }
+.hoy { background-color: var(--grafito);
+  background-image: radial-gradient(120% 70% at 100% 0%, rgb(211 18 47 / .55), transparent 60%),
+                    repeating-linear-gradient(90deg, rgb(255 255 255 / .035) 0 40px, transparent 40px 80px);
+  border-radius: 0 0 24px 24px; }
+.kicker { color: var(--oro); opacity: 1; }
+.dot { background: var(--rojo); box-shadow: 0 0 0 4px rgb(211 18 47 / .25); }
+.hoy__puntos li { background: rgb(255 255 255 / .06); border-left: 3px solid var(--rojo); border-radius: 8px; }
+.hoy__puntos li::before { display: none; }
+.hoy__puntos li { padding-left: 14px; }
+.linea__titulo, .video__kicker { color: var(--oro); opacity: 1; }
+.card, .news__item, .pos__item, .agenda__item { border: 1px solid var(--line); box-shadow: 0 2px 10px rgb(0 0 0 / .04); }
+.block__title { color: var(--text); font-size: .82rem; margin-bottom: 12px; padding-bottom: 8px; border-bottom: 2px solid var(--text); }
+.block__title .ico { color: var(--rojo); width: 22px; height: 22px; }
+.card__label { color: var(--muted); }
+.card__label .ico { color: var(--rojo); }
+.agenda__fecha { background: var(--grafito); border-bottom: 3px solid var(--rojo); }
+.pos__item { background: var(--grafito); color: #fff; border-color: var(--grafito); }
+.pos__num { color: #fff; }
+.pos__det { color: var(--oro); }
+.footer { background: var(--grafito); color: #A6A6AE; border-top: 3px solid var(--rojo); }
+.footer .aviso, .footer__link { color: #fff; }
+
+@media (prefers-color-scheme: dark) {
+  .block__title { border-bottom-color: var(--muted); }
+  .pos__item { background: #000; border-color: var(--line); }
+}

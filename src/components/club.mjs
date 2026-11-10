@@ -1,3 +1,4 @@
+import { icono } from './iconos.mjs';
 import { html } from '../lib/html.mjs';
 
 // El club fuera de la cancha: campaña de socios, cantidad de socios y último balance aprobado.
@@ -54,16 +55,16 @@ export const club = ({ club: c }, ctx) => {
   const { t } = ctx;
   return html`
 <section id="club" class="wrap block" aria-labelledby="club-titulo">
-  <h2 id="club-titulo" class="block__title">${t.club}</h2>
+  <h2 id="club-titulo" class="block__title">${icono('escudo')}${t.club}</h2>
   ${c.campania ? campania(c.campania, c.socios, ctx) : ''}
   <div class="grid-2 grid-2--tight">
     <article class="card">
-      <h3 class="card__label">${t.socios}</h3>
+      <h3 class="card__label">${icono('persona')}${t.socios}</h3>
       <p class="big">${c.socios.toLocaleString(t.locale)}</p>
       ${c.sociosDetalle ? html`<p class="meta">${c.sociosDetalle}</p>` : ''}
     </article>
     <article class="card">
-      <h3 class="card__label">${t.balance}</h3>
+      <h3 class="card__label">${icono('diario')}${t.balance}</h3>
       <p class="meta">${c.balance.ejercicio}</p>
       <dl class="kv">
         ${c.balance.datos.map((d) => html`<div><dt>${d.dato}</dt><dd>${d.valor}</dd></div>`)}

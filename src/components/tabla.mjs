@@ -1,3 +1,4 @@
+import { icono } from './iconos.mjs';
 import { html } from '../lib/html.mjs';
 
 const signo = (n) => (n > 0 ? `+${n}` : String(n));
@@ -11,7 +12,7 @@ const resumen = (posiciones = []) =>
 
 export const tabla = ({ tabla: tb, posiciones }, { t }) => html`
 <section id="tabla" class="wrap block" aria-labelledby="tabla-titulo">
-  <h2 id="tabla-titulo" class="block__title">${t.posiciones}</h2>
+  <h2 id="tabla-titulo" class="block__title">${icono('tabla')}${t.posiciones}</h2>
   ${resumen(posiciones)}
   <div class="card card--flush">
     <table class="table">

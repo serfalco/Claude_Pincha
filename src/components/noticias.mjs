@@ -1,8 +1,9 @@
+import { icono } from './iconos.mjs';
 import { html } from '../lib/html.mjs';
 
 export const noticias = ({ noticias: lista }, { t, f }) => html`
 <section id="noticias" class="wrap block" aria-labelledby="noticias-titulo">
-  <h2 id="noticias-titulo" class="block__title">${t.noticias}</h2>
+  <h2 id="noticias-titulo" class="block__title">${icono('diario')}${t.noticias}</h2>
   <ul class="news">
     ${lista.map(
       (n) => html`<li class="news__item">

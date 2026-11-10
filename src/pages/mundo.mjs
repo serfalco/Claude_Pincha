@@ -1,3 +1,4 @@
+import { icono } from '../components/iconos.mjs';
 import { html, raw } from '../lib/html.mjs';
 import { header } from '../components/header.mjs';
 import { footer } from '../components/footer.mjs';
@@ -43,7 +44,7 @@ ${header(ctx)}
   </section>
 
   <section class="wrap block" aria-labelledby="fuera-titulo">
-    <h2 id="fuera-titulo" class="block__title">${t.mundo.filialesFuera} · ${m.exterior.length}</h2>
+    <h2 id="fuera-titulo" class="block__title">${icono('mundo')}${t.mundo.filialesFuera} · ${m.exterior.length}</h2>
     <ul class="mundo__paises">
       ${grupos.map(
         (g) => html`<li class="card mundo__pais">
@@ -59,7 +60,7 @@ ${header(ctx)}
   </section>
 
   <section class="wrap block" aria-labelledby="arg-titulo">
-    <h2 id="arg-titulo" class="block__title">${t.mundo.filialesArg(m.argentina.total)}</h2>
+    <h2 id="arg-titulo" class="block__title">${icono('pelota')}${t.mundo.filialesArg(m.argentina.total)}</h2>
     <div class="card card--flush">
       <table class="table">
         <tbody>
@@ -71,7 +72,7 @@ ${header(ctx)}
   </section>
 
   <section class="wrap block" aria-labelledby="crear-titulo">
-    <h2 id="crear-titulo" class="block__title">${m.crear.titulo}</h2>
+    <h2 id="crear-titulo" class="block__title">${icono('corazon')}${m.crear.titulo}</h2>
     <article class="card">
       <p>${m.crear.intro}</p>
       <ol class="mundo__pasos">${m.crear.pasos.map((p) => html`<li>${p}</li>`)}</ol>
