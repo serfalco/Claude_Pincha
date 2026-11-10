@@ -1,12 +1,13 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-09T20:00:00-03:00",
+  "actualizado": "2026-11-10T04:30:00-03:00",
   "hoy": {
     "titular": "Correa se desgarró: afuera de la Supercopa y en duda para la final",
     "resumen": "El club confirmó una lesión muscular grado 2 en el bíceps de la pierna derecha de Joaquín Correa. Se pierde la Supercopa del jueves y Medina se ilusiona con tenerlo para Palmeiras.",
     "puntos": [
       "Entradas para la Supercopa: online en Deportick, de $65.000 a $140.000, con DNI.",
-      "Micros a Montevideo ($50.000 ida y vuelta, en la app UNO): jueves 12 socios de +400 puntos, viernes 13 el resto, sábado 14 venta general."
+      "Micros a Montevideo ($50.000 ida y vuelta, en la app UNO): jueves 12 socios de +400 puntos, viernes 13 el resto, sábado 14 venta general.",
+      "Baltasar Rodríguez, el candidato a reemplazar a Correa el jueves. Palacios arrastra una molestia en la rodilla: si no llega, juega Rojo."
     ],
     "linea": [
       {
@@ -14,6 +15,12 @@
         "texto": "La Reserva juega ante San Martín (SJ) en el Country Club y busca acercarse a los playoffs.",
         "fuente": "Club",
         "url": "https://estudiantesdelaplata.com/para-acercarse-al-objetivo/"
+      },
+      {
+        "hora": "2026-11-09T18:58:00-03:00",
+        "texto": "Sin Correa, Baltasar Rodríguez se perfila para volver a la titularidad en la Supercopa.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/quien-sera-el-reemplazante-joaquin-correa-la-supercopa-argentina-n137201"
       },
       {
         "hora": "2026-11-09T17:45:00-03:00",
@@ -28,16 +35,16 @@
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLVhEVWR4YzE1UFFRN2FWQUVYNGZhSVRLcnZia0FpN00xV1lTcWZwaTBCWUJyaHhGazQtTlZFTXNodExtQ2gtUF9Pa1NHUWJWTkJ6YlBOWUJtOEdrbHNpLWoza2NUQVQ5NzdfVGJVTkJXdWZVTmg0VDVpcmpFVVkxS09XTXhNZ1RyMm9GM1NVaThJVkI1WC0zUzRTMVJpME1IeGZwQ1d0NjlCd3NsdllJd0FpR0RZd1FLckhDSVRkczB3V0JUNUoxVHlRcFU5VkRicmZBbm1kSlg1d9IB3wFBVV95cUxQdS1MWm4zcUE0MDB6T3RCdm9VMlBEZGNCeGhUTWJlRHpJb0t4UWo1VFZmVXZRd1pHZWZQaVZKWG9tRnNjbzJSQ3hQMWNyY1p2X2kteDh6dXJHaEtoMk5PbjI3c0tVR291ZExHeTVqNWNLM09yUUJydHdpenlId2VtT1J1RVZNMWl5VS1iZ3BvTlRVX2dTLVpudHRpUlpMNWtXSG9nb3pFOC1yUW1vNUdqWXpBZFBsX1NTSEp3SjFMaXV1Y3hCZEFQN2laSzdPN1BaMS1hNjZYelVnVHhlMHZ3?oc=5"
       },
       {
-        "hora": "2026-11-09T15:41:00-03:00",
-        "texto": "Parte médico: Correa tiene una lesión grado 2 en el bíceps derecho, se pierde la Supercopa y es duda para la final.",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/se-confirmo-la-lesion-del-tucu-correa-a-semanas-de-la-final-de-la-copa-que-dice-el-parte-medico-deportes_1794249710"
-      },
-      {
         "hora": "2026-11-09T15:42:00-03:00",
         "texto": "Arrancó la venta de entradas para la Supercopa: solo online por Deportick, de $65.000 a $140.000.",
         "fuente": "0221",
         "url": "https://www.0221.com.ar/estudiantes/comenzo-la-venta-entradas-la-supercopa-argentina-los-hinchas-estudiantes-n137190"
+      },
+      {
+        "hora": "2026-11-09T15:41:00-03:00",
+        "texto": "Parte médico: Correa tiene una lesión grado 2 en el bíceps derecho, se pierde la Supercopa y es duda para la final.",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/se-confirmo-la-lesion-del-tucu-correa-a-semanas-de-la-final-de-la-copa-que-dice-el-parte-medico-deportes_1794249710"
       }
     ]
   },
@@ -336,6 +343,7 @@
     "https://www.vavel.com/ar/futbol-argentino/2026/11/07/talleres-de-cordoba/1278500-igualdad-entre-la-t-y-el-pincha-en-el-kempes.html",
     "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-tabla-anual-2026-con-las-clasificaciones-a-las-copas-libertadores-y-sudamericana-tras-nid08112026/",
     "https://www.futbolargentino.com/primera-division/promedios",
-    "https://www.eldia.com/deportes/cronograma-para-la-venta-de-pasajes-a-montevideo-deportes_1794203554"
+    "https://www.eldia.com/deportes/cronograma-para-la-venta-de-pasajes-a-montevideo-deportes_1794203554",
+    "https://www.0221.com.ar/estudiantes/quien-sera-el-reemplazante-joaquin-correa-la-supercopa-argentina-n137201"
   ]
 }

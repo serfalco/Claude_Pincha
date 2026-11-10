@@ -4,11 +4,15 @@
     "resumen": "O clube confirmou uma lesão muscular grau 2 no posterior da coxa direita de Joaquín Correa. Ele perde a Supercopa de quinta e Medina espera tê-lo contra o Palmeiras.",
     "puntos": [
       "Ingressos da Supercopa: online pela Deportick, de ARS 65.000 a ARS 140.000, com documento.",
-      "Ônibus para Montevidéu (ARS 50.000 ida e volta, no app UNO): quinta 12 sócios com +400 pontos, sexta 13 os demais, sábado 14 venda geral."
+      "Ônibus para Montevidéu (ARS 50.000 ida e volta, no app UNO): quinta 12 sócios com +400 pontos, sexta 13 os demais, sábado 14 venda geral.",
+      "Baltasar Rodríguez é o candidato a substituir Correa na quinta. Palacios sente um incômodo no joelho: se não tiver condições, Rojo joga."
     ],
     "linea": [
       {
         "texto": "O time reserva enfrenta o San Martín (SJ) no Country e busca se aproximar dos playoffs."
+      },
+      {
+        "texto": "Sem Correa, Baltasar Rodríguez deve voltar a ser titular na Supercopa."
       },
       {
         "texto": "Palmeiras, o ataque mais goleador, contra uma das defesas menos vazadas: assim chega a final."
@@ -17,10 +21,10 @@
         "texto": "O papa Leão XIV recebeu uma camisa do Estudiantes durante sua visita à Argentina."
       },
       {
-        "texto": "Boletim médico: Correa tem uma lesão grau 2 no posterior da coxa direita, perde a Supercopa e é dúvida para a final."
+        "texto": "Ingressos da Supercopa à venda só online pela Deportick, de ARS 65.000 a ARS 140.000."
       },
       {
-        "texto": "Ingressos da Supercopa à venda só online pela Deportick, de ARS 65.000 a ARS 140.000."
+        "texto": "Boletim médico: Correa tem uma lesão grau 2 no posterior da coxa direita, perde a Supercopa e é dúvida para a final."
       }
     ]
   },
