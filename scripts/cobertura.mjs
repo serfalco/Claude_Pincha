@@ -13,7 +13,13 @@ const gnews = (id, nombre, q) => ({
 
 // tipo: 'club' (oficial) | 'medio'. filtrar: true si el feed es general y hay que quedarse con lo del Pincha.
 export const FUENTES = [
-  { id: 'club', nombre: 'Estudiantes de La Plata', tipo: 'club', url: 'https://estudiantesdelaplata.com/feed/', filtrar: false },
+  // El club usa WordPress: su API trae el texto completo de cada nota (el RSS solo trae título y resumen).
+  // Si la API falla, se cae al RSS.
+  {
+    id: 'club', nombre: 'Estudiantes de La Plata', tipo: 'club', filtrar: false, wp: true,
+    url: 'https://estudiantesdelaplata.com/wp-json/wp/v2/posts?per_page=30&_fields=date_gmt,link,title,excerpt,content,categories',
+    rss: 'https://estudiantesdelaplata.com/feed/',
+  },
   { id: '0221', nombre: '0221', tipo: 'medio', url: 'https://www.0221.com.ar/rss/pages/estudiantes.xml', filtrar: false },
   { id: 'eldia', nombre: 'El Día', tipo: 'medio', url: 'https://www.eldia.com/rss/estudiantes', filtrar: false },
   { id: 'puntocapital', nombre: 'Punto Capital', tipo: 'medio', url: 'https://www.puntocapitalnoticias.com/feed/', filtrar: true },
@@ -63,6 +69,20 @@ export const parsear = (xml) =>
     url: limpiar(campo(it, 'link') ?? campo(it, 'guid') ?? it.match(/<link>\s*(https?:\/\/\S+?)\s*</i)?.[1]),
     fecha: new Date(limpiar(campo(it, 'pubDate') ?? campo(it, 'dc:date') ?? '')),
     resumen: limpiar(campo(it, 'description')).slice(0, 280),
+    // Google Noticias indica el sitio del medio: sirve para buscar el link original (WebSearch con ese dominio).
+    sitio: it.match(/<source[^>]*url="([^"]+)"/i)?.[1],
+  }));
+
+// Categorías del club que son de socios: Venta de Entradas, Socios, Abonos.
+const CATEGORIAS_SOCIOS = [53, 230, 57];
+const desdeWP = (posts) =>
+  posts.map((p) => ({
+    titulo: limpiar(p.title?.rendered),
+    url: p.link,
+    fecha: new Date(`${p.date_gmt}Z`),
+    resumen: limpiar(p.excerpt?.rendered).slice(0, 280),
+    texto: limpiar(p.content?.rendered).slice(0, 2000),
+    socios: (p.categories ?? []).some((c) => CATEGORIAS_SOCIOS.includes(c)) || undefined,
   }));
 
 const esDelPincha = (n) => {
@@ -73,11 +93,24 @@ const esDelPincha = (n) => {
 
 const clave = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9 ]/g, '').split(' ').filter((w) => w.length > 3).slice(0, 8).join(' ');
 
+const bajar = async (url) => {
+  const r = await fetch(url, { headers: { 'user-agent': 'Mozilla/5.0 (compatible; ElPinchaHoy/1.0; +https://elpinchahoy.com.ar)' }, signal: AbortSignal.timeout(15000) });
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.text();
+};
+
 const leer = async (f) => {
   try {
-    const r = await fetch(f.url, { headers: { 'user-agent': 'Mozilla/5.0 (compatible; ElPinchaHoy/1.0; +https://elpinchahoy.com.ar)' }, signal: AbortSignal.timeout(15000) });
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    let items = parsear(await r.text()).filter((n) => n.titulo && n.url && !Number.isNaN(n.fecha.getTime()));
+    let crudos, aviso;
+    if (f.wp) {
+      try {
+        crudos = desdeWP(JSON.parse(await bajar(f.url)));
+      } catch (e) {
+        aviso = `API falló (${e.message}), se usó el RSS`;
+        crudos = parsear(await bajar(f.rss));
+      }
+    } else crudos = parsear(await bajar(f.url));
+    let items = crudos.filter((n) => n.titulo && n.url && !Number.isNaN(n.fecha.getTime()));
     if (f.agregador) {
       items = items.map((n) => {
         const m = n.titulo.match(/^(.*) - ([^-]+)$/);
@@ -86,7 +119,7 @@ const leer = async (f) => {
       // Lo que el club ya publica en su feed no hace falta repetirlo desde el agregador.
       items = items.filter((n) => !/estudiantes de la plata$/i.test(n.medio ?? ''));
     }
-    return { f, items: f.filtrar ? items.filter(esDelPincha) : items };
+    return { f, aviso, total: crudos.length, items: f.filtrar ? items.filter(esDelPincha) : items };
   } catch (e) {
     return { f, error: e.message, items: [] };
   }
@@ -103,7 +136,7 @@ const main = async () => {
     for (const n of items) {
       if (n.fecha.getTime() < desde) continue;
       const k = clave(n.titulo);
-      const nota = { ...n, fecha: n.fecha.toISOString(), fuente: n.medio ?? f.nombre, via: n.medio ? f.nombre : undefined, tipo: f.tipo, socios: SOCIOS.test(`${n.titulo} ${n.resumen}`) };
+      const nota = { ...n, fecha: n.fecha.toISOString(), fuente: n.medio ?? f.nombre, via: n.medio ? f.nombre : undefined, tipo: f.tipo, socios: n.socios ?? SOCIOS.test(`${n.titulo} ${n.resumen}`) };
       const prev = vistos.get(k);
       // Si dos fuentes cuentan lo mismo, queda la oficial (o la primera) y se anota la confirmación.
       if (prev) prev.confirman = [...new Set([...(prev.confirman ?? []), nota.fuente])];
@@ -115,13 +148,29 @@ const main = async () => {
   const root = join(dirname(fileURLToPath(import.meta.url)), '..');
   const out = join(root, 'cobertura', 'ultimas.json');
   await mkdir(dirname(out), { recursive: true });
-  const estado = resultados.map(({ f, items, error }) => ({ fuente: f.agregador && f.id !== 'gnews' ? `${f.nombre} (Google)` : f.nombre, ok: !error, notas: items.length, error }));
+  const estado = resultados.map(({ f, items, error, aviso, total }) => ({
+    fuente: f.agregador && f.id !== 'gnews' ? `${f.nombre} (Google)` : f.nombre,
+    ok: !error, notas: items.length, error, aviso, total,
+    dedicado: !f.filtrar,
+    ultima: items.reduce((m, n) => (n.fecha > m ? n.fecha : m), new Date(0)).toISOString(),
+  }));
   await writeFile(out, JSON.stringify({ generado: new Date().toISOString(), horas, estado, notas }, null, 2));
 
   for (const e of estado) console.log(`${e.ok ? '✓' : '✗'} ${e.fuente.padEnd(24)} ${e.ok ? `${e.notas} notas` : e.error}`);
   console.log(`\n${notas.length} notas en las últimas ${horas} h (${notas.filter((n) => n.tipo === 'club').length} del club, ${notas.filter((n) => n.socios).length} de socios/entradas) → cobertura/ultimas.json\n`);
   const porFuente = Object.entries(notas.reduce((a, n) => ({ ...a, [n.fuente]: (a[n.fuente] ?? 0) + 1 }), {})).sort((a, b) => b[1] - a[1]);
   console.log(`Fuentes distintas: ${porFuente.length} → ${porFuente.slice(0, 12).map(([f, c]) => `${f} ${c}`).join(' · ')}\n`);
+  // Salud: no hay historial entre corridas (cada una arranca de cero), así que se mira lo que se ve hoy.
+  const horasDesde = (iso) => Math.round((Date.now() - new Date(iso)) / 3600e3);
+  const alertas = estado.flatMap((e) => [
+    ...(e.error ? [`✗ ${e.fuente}: ${e.error}`] : []),
+    ...(e.aviso ? [`⚠ ${e.fuente}: ${e.aviso}`] : []),
+    ...(e.ok && !e.total ? [`⚠ ${e.fuente}: el feed respondió vacío (¿cambió la URL?)`] : []),
+    // Los feeds propios del Pincha (club, 0221, El Día) publican todos los días: 36 h sin nada es raro.
+    ...(e.ok && e.total && e.dedicado && horasDesde(e.ultima) > 36 ? [`⚠ ${e.fuente}: última nota hace ${horasDesde(e.ultima)} h (¿feed trabado?)`] : []),
+  ]);
+  console.log(alertas.length ? `Salud de las fuentes:\n${alertas.map((a) => `  ${a}`).join('\n')}\n` : 'Salud de las fuentes: ✓ todas responden y los feeds propios están al día\n');
+
   for (const n of notas.slice(0, 15)) console.log(`${n.fecha.slice(5, 16).replace('T', ' ')}Z  ${n.tipo === 'club' ? '[CLUB]' : '      '}${n.socios ? '[SOCIOS]' : ''} ${n.titulo} — ${n.fuente}`);
 };
 
