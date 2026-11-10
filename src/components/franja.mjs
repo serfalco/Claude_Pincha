@@ -28,7 +28,7 @@ export const franja = ({ proximos, ultimo: u }, { t, f, site }) => {
     <span class="franja__label">${icono('marcador')}${t.ultimo}</span>
     <span class="franja__rival">${t.vs} ${u.rival}</span>
     <span class="franja__dato">${u.golesPropios} - ${u.golesRival}</span>
-    <span class="franja__meta">${t.estados[estado]}</span>
+    <span class="franja__meta">${t.estados[estado]} · <time datetime="${u.fecha}">${f.corta(u.fecha)}</time></span>
     <span class="franja__mascota" aria-hidden="true">${raw(mascotaSVG(estado, { titulo: false }))}</span>
   </a>
 </div>

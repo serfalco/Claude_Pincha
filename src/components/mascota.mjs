@@ -1,4 +1,3 @@
-import { html, raw } from '../lib/html.mjs';
 
 // El Pincharrata: mascota del sitio. Una sola figura en SVG; cada estado cambia cara, brazos y extras.
 // Se elige el estado según el último resultado (ver estadoPorResultado).
@@ -109,7 +108,3 @@ export const mascotaSVG = (estado = 'ganamos', { titulo = true, etiqueta } = {})
 </g>
 </svg>`;
 };
-
-// En la página el estado ya se lee en el badge, así que el dibujo queda como decorativo para lectores de pantalla.
-export const mascota = (estado, etiqueta) =>
-  html`<div class="mascota" aria-hidden="true">${raw(mascotaSVG(estado, { titulo: false, etiqueta }))}</div>`;
