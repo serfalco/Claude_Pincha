@@ -26,6 +26,8 @@ export default {
   },
   posiciones: 'Classificação',
   tabla: {
+    ver: (n) => `Ver tabela completa (${n} times)`,
+    ocultar: 'Ocultar tabela',
     equipo: 'Time', pj: 'J', pjLargo: 'Jogos', dg: 'SG', dgLargo: 'Saldo de gols', pts: 'Pts', ptsLargo: 'Pontos',
     clasifican: (n) => `Os ${n} primeiros vão às oitavas de final.`,
   },

@@ -276,3 +276,18 @@ abbr { text-decoration: none; }
   .block__title { border-bottom-color: var(--muted); }
   .pos__item { background: #000; border-color: var(--line); }
 }
+
+/* Tabla plegable */
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.tabla__resumen { list-style: none; cursor: pointer; display: block; }
+.tabla__resumen::-webkit-details-marker { display: none; }
+.tabla__nombre { display: block; padding: 12px 14px 4px; font-size: .85rem; color: var(--muted); }
+.tabla[open] .tabla__mini { display: none; }
+.tabla__toggle { display: flex; align-items: center; justify-content: center; gap: 6px; padding: 11px 14px; border-top: 1px solid var(--line); font-size: .88rem; font-weight: 700; color: var(--rojo); }
+@media (prefers-color-scheme: dark) { .tabla__toggle { color: #ff5a6e; } }
+.tabla__toggle::after { content: ""; width: 8px; height: 8px; border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: translateY(-2px) rotate(45deg); transition: transform .2s; }
+.tabla[open] .tabla__toggle::after { transform: translateY(2px) rotate(-135deg); }
+.tabla__ocultar, .tabla[open] .tabla__ver { display: none; }
+.tabla[open] .tabla__ocultar { display: inline; }
+.tabla[open] .tabla__toggle { border-bottom: 1px solid var(--line); }
+.tabla__resumen:focus-visible { outline: 3px solid var(--rojo); outline-offset: -3px; }

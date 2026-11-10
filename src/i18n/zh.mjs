@@ -23,6 +23,8 @@ export default {
   estados: { goleamos: '大胜！', ganamos: '赢了', empatamos: '打平', perdimos: '输了', golearon: '惨败' },
   posiciones: '排名',
   tabla: {
+    ver: (n) => `查看完整积分榜（${n}支球队）`,
+    ocultar: '收起积分榜',
     equipo: '球队', pj: '场次', pjLargo: '已赛场次', dg: '净胜球', dgLargo: '净胜球', pts: '积分', ptsLargo: '积分',
     clasifican: (n) => `前 ${n} 名晋级十六强。`,
   },

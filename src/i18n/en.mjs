@@ -26,6 +26,8 @@ export default {
   },
   posiciones: 'Standings',
   tabla: {
+    ver: (n) => `See full table (${n} teams)`,
+    ocultar: 'Hide table',
     equipo: 'Team', pj: 'P', pjLargo: 'Played', dg: 'GD', dgLargo: 'Goal difference', pts: 'Pts', ptsLargo: 'Points',
     clasifican: (n) => `Top ${n} reach the round of 16.`,
   },

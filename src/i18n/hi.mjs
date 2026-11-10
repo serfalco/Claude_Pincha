@@ -24,6 +24,8 @@ export default {
   estados: { goleamos: 'शानदार जीत!', ganamos: 'जीत गए', empatamos: 'ड्रॉ', perdimos: 'हार गए', golearon: 'बड़ी हार' },
   posiciones: 'स्थिति',
   tabla: {
+    ver: (n) => `पूरी तालिका देखें (${n} टीमें)`,
+    ocultar: 'तालिका छिपाएँ',
     equipo: 'टीम', pj: 'मै', pjLargo: 'खेले गए मैच', dg: 'गो.अं', dgLargo: 'गोल अंतर', pts: 'अंक', ptsLargo: 'अंक',
     clasifican: (n) => `शीर्ष ${n} टीमें राउंड ऑफ़ 16 में पहुँचती हैं।`,
   },
