@@ -3,7 +3,8 @@ import { html } from '../lib/html.mjs';
 
 // El club fuera de la cancha: campaña de socios, cantidad de socios y último balance aprobado.
 
-// Iniciales para el avatar de la cita ("Juan Sebastián Verón" → "JV"). Sin fotos: el avatar es un dibujo.
+// Avatar de la cita: la foto de `cita.foto` (archivo en public/, la carga el dueño del sitio) o, si no hay,
+// las iniciales del autor ("Juan Sebastián Verón" → "JV").
 const iniciales = (nombre) => {
   const p = nombre.trim().split(/\s+/);
   return (p[0][0] + (p.length > 1 ? p.at(-1)[0] : '')).toUpperCase();
@@ -29,7 +30,9 @@ const campania = (c, socios, { t }) => {
   ${c.cita ? html`
   <figure class="cita">
     <figcaption class="cita__autor">
-      <span class="cita__avatar" aria-hidden="true"><span>${iniciales(c.cita.autor)}</span></span>
+      <span class="cita__avatar" aria-hidden="true">${c.cita.foto
+        ? html`<img src="${c.cita.foto}" alt="" width="40" height="40" loading="lazy" decoding="async">`
+        : html`<span>${iniciales(c.cita.autor)}</span>`}</span>
       <span class="cita__quien"><strong>${c.cita.autor}</strong><span class="cita__via">${c.cita.via}</span></span>
     </figcaption>
     <blockquote lang="es"><p>${c.cita.texto}</p></blockquote>
