@@ -47,8 +47,10 @@ const campania = (c, socios, { t }) => {
       <h4 class="mistica__titulo">${c.mistica.titulo}</h4>
       ${c.mistica.parrafos.map((p, i) => html`<p class="${i === 0 ? 'mistica__lead' : i === c.mistica.parrafos.length - 1 ? 'mistica__em' : ''}">${p}</p>`)}
       <p class="mistica__lema">${c.mistica.lema}</p>
+      <p class="mistica__accion"><a class="btn mistica__btn" href="${c.url}" rel="noopener">${t.campania.ctaGrande}</a></p>
       ${c.mistica.cifras?.length ? html`<ul class="mistica__cifras">${c.mistica.cifras.map((x) => html`<li><b>${x.n.toLocaleString(t.locale)}</b><span>${x.t}</span></li>`)}</ul>` : ''}
     </div>
+    <script src="/globo.js" defer></script>
   </div>` : ''}
 
   ${c.pasos?.length ? html`

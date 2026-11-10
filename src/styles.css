@@ -219,6 +219,8 @@ abbr { text-decoration: none; }
 .mistica .mistica__lead { font-size: 1.15rem; font-weight: 700; opacity: 1; }
 .mistica .mistica__em { font-weight: 700; opacity: 1; }
 .mistica .mistica__lema { margin-top: 18px; font-size: 1.5rem; font-weight: 900; line-height: 1.1; letter-spacing: -.01em; color: #ff3352; opacity: 1; }
+.mistica__accion { margin-top: 18px !important; opacity: 1 !important; }
+.mistica__btn { display: inline-block; padding: 14px 26px; font-size: 1.05rem; box-shadow: 0 8px 28px rgba(211,18,47,.45); }
 .mistica__cifras { list-style: none; display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 18px 0 0; padding: 0; }
 .mistica__cifras li { padding: 10px 4px; border-radius: 12px; background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.12); }
 .mistica__cifras b { display: block; font-size: 1.6rem; font-weight: 900; line-height: 1; }
