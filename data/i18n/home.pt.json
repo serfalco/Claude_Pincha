@@ -137,10 +137,22 @@
         "titulo": "Ser sócio é fazer parte",
         "parrafos": [
           "Não é sobre o que você recebe. É sobre o que você dá.",
-          "Cada sócio empurra o clube: as categorias de base, o estádio, a próxima copa. Da arquibancada do UNO ou do outro lado do mundo, o Pincha cresce com quem fica, quem apoia e quem nunca vai embora.",
+          "Cada sócio empurra o clube: as categorias de base, o estádio, a próxima copa. O Pincha fica grande com quem o apoia de qualquer lugar do mundo. Associe-se, apoie o Estudiantes.",
           "Faça um Pincha mais forte. Maior. Mais nosso."
         ],
-        "lema": "Some seu apoio. Some sua mística."
+        "lema": "Some seu apoio. Some sua mística.",
+        "kicker": "Do UNO para o mundo",
+        "cifras": [
+          {
+            "t": "filiais"
+          },
+          {
+            "t": "países"
+          },
+          {
+            "t": "uma só mística"
+          }
+        ]
       },
       "cita": {
         "traduccion": "Se puder, seja sócio.. temos que chegar a 100 mil sócios! Vamos",

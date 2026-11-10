@@ -137,10 +137,22 @@
         "titulo": "Being a member means being part of it",
         "parrafos": [
           "It's not about what you get. It's about what you give.",
-          "Every member pushes the club forward: the youth teams, the stadium, the next cup. From the stands at the UNO or from the other side of the world, Pincha grows with those who stay, who stand by it and who never leave.",
+          "Every member pushes the club forward: the youth teams, the stadium, the next cup. Estudiantes grows with those who support it from anywhere in the world. Become a member, back Estudiantes.",
           "Make Pincha stronger. Bigger. More ours."
         ],
-        "lema": "Add your support. Add your mística."
+        "lema": "Add your support. Add your mística.",
+        "kicker": "From UNO to the world",
+        "cifras": [
+          {
+            "t": "supporters' clubs"
+          },
+          {
+            "t": "countries"
+          },
+          {
+            "t": "one mística"
+          }
+        ]
       },
       "cita": {
         "traduccion": "If you can, become a member.. we have to reach 100,000 members! Come on",

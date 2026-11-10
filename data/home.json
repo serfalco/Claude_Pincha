@@ -246,10 +246,25 @@
         "titulo": "Ser socio es ser parte",
         "parrafos": [
           "No se trata de lo que recibís. Se trata de lo que das.",
-          "Cada socio empuja al club: a las inferiores, al estadio, a la próxima copa. Desde la tribuna del UNO o desde la otra punta del mundo, el Pincha se hace grande con los que se quedan, los que bancan y los que no se van nunca.",
+          "Cada socio empuja al club: a las inferiores, al estadio, a la próxima copa. El Pincha se hace grande con los que lo apoyan desde cualquier lugar del mundo. Asociate, apoyá a Estudiantes.",
           "Hacé un Pincha más fuerte. Más grande. Más nuestro."
         ],
-        "lema": "Sumá tu apoyo. Sumá tu mística."
+        "lema": "Sumá tu apoyo. Sumá tu mística.",
+        "kicker": "De UNO al mundo",
+        "cifras": [
+          {
+            "n": 97,
+            "t": "filiales"
+          },
+          {
+            "n": 18,
+            "t": "países"
+          },
+          {
+            "n": 1,
+            "t": "sola mística"
+          }
+        ]
       },
       "pasos": [
         "Entrá a sumate.estudiantesdelaplata.com y poné tu domicilio: el sistema detecta tu zona y te calcula la cuota.",
