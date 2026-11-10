@@ -27,7 +27,7 @@ export default {
   },
   posiciones: 'Posiciones',
   tabla: {
-    ver: (n) => `Ver tabla completa (${n} equipos)`,
+    ver: () => 'Ver tabla completa',
     ocultar: 'Ocultar tabla',
     equipo: 'Equipo', pj: 'PJ', pjLargo: 'Partidos jugados', dg: 'DG', dgLargo: 'Diferencia de gol', pts: 'Pts', ptsLargo: 'Puntos',
     clasifican: (n) => `Los primeros ${n} pasan a octavos de final.`,
