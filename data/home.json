@@ -3,11 +3,10 @@
   "actualizado": "2026-11-09T20:00:00-03:00",
   "hoy": {
     "titular": "Correa se desgarró: afuera de la Supercopa y en duda para la final",
-    "resumen": "El club confirmó una lesión muscular grado 2 en el bíceps de la pierna derecha de Joaquín Correa, que se pierde la Supercopa del jueves en Córdoba. Medina se ilusiona con tenerlo para Palmeiras; mientras, ya se venden las entradas para la Supercopa y el jueves arranca la venta de micros a Montevideo.",
+    "resumen": "El club confirmó una lesión muscular grado 2 en el bíceps de la pierna derecha de Joaquín Correa. Se pierde la Supercopa del jueves y Medina se ilusiona con tenerlo para Palmeiras.",
     "puntos": [
-      "Supercopa vs Independiente Rivadavia: jueves 12/11, 20 h, Estadio Villagra (Córdoba). Entradas online en Deportick, de $65.000 a $140.000, con DNI.",
-      "Micros a Montevideo ($50.000 ida y vuelta, en la app UNO): jueves 12 socios de +400 puntos, viernes 13 el resto, sábado 14 venta general.",
-      "Final de la Libertadores: sábado 28/11, 17 h, Estadio Centenario."
+      "Entradas para la Supercopa: online en Deportick, de $65.000 a $140.000, con DNI.",
+      "Micros a Montevideo ($50.000 ida y vuelta, en la app UNO): jueves 12 socios de +400 puntos, viernes 13 el resto, sábado 14 venta general."
     ],
     "linea": [
       {
@@ -64,7 +63,8 @@
       "fecha": "2026-11-28T17:00:00-03:00",
       "torneo": "Copa Libertadores",
       "instancia": "Final",
-      "estadio": "Estadio Centenario, Montevideo"
+      "estadio": "Estadio Centenario, Montevideo",
+      "destacado": true
     }
   ],
   "ultimo": {

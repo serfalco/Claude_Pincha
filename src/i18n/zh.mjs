@@ -15,6 +15,7 @@ export default {
   lineaTitulo: '最新动态',
   ayer: '昨天',
   video: { kicker: '这首歌', verEnInstagram: '在Instagram观看', verEnYoutube: '在YouTube观看' },
+  cuenta: { faltan: (n) => `还有 ${n} 天`, hoy: '就是今天！', manana: '就在明天' },
   proximo: '下一场比赛',
   proximos: '近期赛程',
   ultimo: '最新赛果',

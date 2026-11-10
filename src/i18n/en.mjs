@@ -16,6 +16,7 @@ export default {
   lineaTitulo: 'Latest',
   ayer: 'Yesterday',
   video: { kicker: 'The song', verEnInstagram: 'Watch on Instagram', verEnYoutube: 'Watch on YouTube' },
+  cuenta: { faltan: (n) => `${n} days to go`, hoy: 'It\'s today!', manana: 'It\'s tomorrow' },
   proximo: 'Next match',
   proximos: 'Upcoming matches',
   ultimo: 'Latest result',

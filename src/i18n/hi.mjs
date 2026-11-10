@@ -16,6 +16,7 @@ export default {
   lineaTitulo: 'ताज़ा',
   ayer: 'कल',
   video: { kicker: 'गीत', verEnInstagram: 'Instagram पर देखें', verEnYoutube: 'YouTube पर देखें' },
+  cuenta: { faltan: (n) => `${n} दिन बाक़ी`, hoy: 'आज है!', manana: 'कल है' },
   proximo: 'अगला मैच',
   proximos: 'आने वाले मैच',
   ultimo: 'ताज़ा नतीजा',

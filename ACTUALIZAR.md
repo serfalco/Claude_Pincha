@@ -65,6 +65,8 @@ Las ventanas que ya cerraron se sacan.
 - **ultimo**: último partido oficial jugado (rival, goles, fecha, torneo, condición `local`/`visitante`/`neutral`). La mascota se calcula sola con los goles.
 - **proximos**: próximos partidos oficiales confirmados (máx. 4), ordenados por fecha. Sacar los ya jugados.
 - **tabla** y **posiciones**: tabla del torneo en curso (zona de Estudiantes), puesto en la anual y en promedios. Si el torneo terminó, la tabla final con su nombre indicando que es final. `clasifican` según el formato vigente.
+- **proximos[].destacado**: `true` en el partido más importante que viene (activa la cuenta regresiva arriba de todo). Uno solo; sacarlo cuando se juegue.
+- **hoy.puntos**: no repetir lo que ya muestra la franja de arriba (rival, fecha y hora del próximo partido, último resultado, cuenta regresiva). Usarlos para lo práctico: entradas, micros, trámites, lesiones.
 - **hoy**: titular + resumen (2 frases) + 3 puntos sobre lo más importante del día para el hincha (partido de hoy, resultado de ayer, lesiones, entradas, el club).
 - **hoy.linea** ("Lo último"): lo que pasó hoy, de lo más nuevo a lo más viejo, 3 a 6 ítems. Cada uno: `hora` (hora real de la publicación, en hora argentina), `texto` (una frase propia), `fuente` ("Club" si es oficial, si no el medio) y `url`. Si es temprano y hay poco del día, completar con lo de ayer a la tarde/noche (se muestra como "Ayer"). Nada de más de 24 h. No es minuto a minuto: solo hechos que le importan al hincha.
 - **noticias**: las 4 más relevantes de los últimos días, con link a la nota original y su fuente.

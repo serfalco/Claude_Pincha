@@ -17,6 +17,7 @@ export default {
   lineaTitulo: 'Lo último',
   ayer: 'Ayer',
   video: { kicker: 'La canción', verEnInstagram: 'Ver en Instagram', verEnYoutube: 'Ver en YouTube' },
+  cuenta: { faltan: (n) => `Faltan ${n} días`, hoy: '¡Es hoy!', manana: 'Es mañana' },
   proximo: 'Próximo partido',
   proximos: 'Próximos partidos',
   ultimo: 'Último resultado',
