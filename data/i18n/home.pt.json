@@ -94,40 +94,6 @@
         "A Secretaria de Sócios entra em contato pelo WhatsApp para completar a documentação e confirmar a associação.",
         "Pronto: a carteirinha digital chega no seu celular."
       ],
-      "cuotas": {
-        "titulo": "Quanto custa (por mês)",
-        "vigencia": "Valores de referência: confira o preço atualizado ao se associar.",
-        "filas": [
-          {
-            "categoria": "Ativo (18 anos ou mais)",
-            "valor": "$39.000"
-          },
-          {
-            "categoria": "Cadete (12 a 17)",
-            "valor": "$39.000"
-          },
-          {
-            "categoria": "Universitário (até 25)",
-            "valor": "$32.000"
-          },
-          {
-            "categoria": "Infantil (3 a 11)",
-            "valor": "$32.000"
-          },
-          {
-            "categoria": "Aposentados e pensionistas",
-            "valor": "$19.500"
-          },
-          {
-            "categoria": "Interior e exterior",
-            "valor": "$19.500"
-          },
-          {
-            "categoria": "Bebês (0 a 2)",
-            "valor": "Grátis"
-          }
-        ]
-      },
       "sumar": {
         "titulo": "Traga outro pincha",
         "texto": "Já é sócio? Associe sua família com o Pack Familiar ou mande o link para um amigo: cada sócio novo aproxima a meta.",

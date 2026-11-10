@@ -273,40 +273,6 @@
         "La Oficina de Socios te escribe por WhatsApp para completar la documentación y darte el alta.",
         "Listo: te llega el carnet digital al celular."
       ],
-      "cuotas": {
-        "titulo": "Cuánto sale (por mes)",
-        "vigencia": "Valores de referencia: verificá el precio actualizado al asociarte.",
-        "filas": [
-          {
-            "categoria": "Activo (18 años o más)",
-            "valor": "$39.000"
-          },
-          {
-            "categoria": "Cadete (12 a 17)",
-            "valor": "$39.000"
-          },
-          {
-            "categoria": "Universitario (hasta 25)",
-            "valor": "$32.000"
-          },
-          {
-            "categoria": "Infantil (3 a 11)",
-            "valor": "$32.000"
-          },
-          {
-            "categoria": "Jubilados y pensionados",
-            "valor": "$19.500"
-          },
-          {
-            "categoria": "Interior y exterior",
-            "valor": "$19.500"
-          },
-          {
-            "categoria": "Bebés (0 a 2)",
-            "valor": "Sin costo"
-          }
-        ]
-      },
       "sumar": {
         "titulo": "Sumá a otro pincha",
         "texto": "¿Ya sos socio? Asociá a tu familia con el Pack Familiar o pasale el link a un amigo: cada socio nuevo acerca la meta.",

@@ -94,40 +94,6 @@
         "The Members' Office contacts you on WhatsApp to complete the paperwork and confirm your membership.",
         "Done: your digital membership card arrives on your phone."
       ],
-      "cuotas": {
-        "titulo": "What it costs (per month)",
-        "vigencia": "Reference prices: check the current fee when you join.",
-        "filas": [
-          {
-            "categoria": "Adult (18 and over)",
-            "valor": "$39.000"
-          },
-          {
-            "categoria": "Cadet (12 to 17)",
-            "valor": "$39.000"
-          },
-          {
-            "categoria": "University student (up to 25)",
-            "valor": "$32.000"
-          },
-          {
-            "categoria": "Child (3 to 11)",
-            "valor": "$32.000"
-          },
-          {
-            "categoria": "Retirees and pensioners",
-            "valor": "$19.500"
-          },
-          {
-            "categoria": "Rest of Argentina and abroad",
-            "valor": "$19.500"
-          },
-          {
-            "categoria": "Babies (0 to 2)",
-            "valor": "Free"
-          }
-        ]
-      },
       "sumar": {
         "titulo": "Bring in another Pincha",
         "texto": "Already a member? Sign up your family with the Family Pack or send the link to a friend: every new member brings the goal closer.",
