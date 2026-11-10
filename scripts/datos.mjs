@@ -5,8 +5,9 @@
 //
 // Fuentes:
 // - ESPN (API JSON pública, no oficial): calendario de todas las competencias y tabla de la Liga Profesional.
-// - futbolargentino.com: tabla del torneo en curso (segunda fuente para la tabla).
-// Los partidos salen de una sola fuente estructurada: la segunda sigue siendo el club o los medios (npm run cobertura).
+// - futbolargentino.com: tabla del torneo en curso y partidos del club (segunda fuente para los dos).
+// Si un partido está solo en una fuente (futbolargentino no lista la Supercopa, por ejemplo), la segunda sigue
+// siendo el club o los medios (npm run cobertura).
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -20,6 +21,7 @@ const FUENTES = {
   fixture: `${ESPN}/site/v2/sports/soccer/all/teams/${ESPN_EQUIPO}/schedule?fixture=true`,
   tablaEspn: `${ESPN}/v2/sports/soccer/arg.1/standings`,
   tablaFA: 'https://www.futbolargentino.com/primera-division/clausura/tabla-de-posiciones',
+  partidosFA: 'https://www.futbolargentino.com/clubes/estudiantes-de-la-plata/',
 };
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -113,6 +115,43 @@ const tablaFA = (html) => {
   return zonas.find((z) => z.some((f) => f.equipo === 'Estudiantes'));
 };
 
+// futbolargentino, página del club: bloques por fecha ("Sábado, 28 Noviembre 2026") con local, visitante,
+// hora ("5:00 PM", hora argentina) y resultado. Trae partidos de todas sus competencias, mezclados.
+const MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+const fechaFA = (dia, hora = '') => {
+  const d = sinTildes(dia).match(/(\d{1,2}) (\w+) (\d{4})/);
+  const mes = d && MESES.indexOf(d[2]) + 1;
+  if (!mes) return undefined;
+  const h = hora.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
+  const hh = h ? (Number(h[1]) % 12) + (/pm/i.test(h[3]) ? 12 : 0) : 0;
+  const dos = (n) => String(n).padStart(2, '0');
+  return `${d[3]}-${dos(mes)}-${dos(d[1])}T${dos(hh)}:${h ? h[2] : '00'}:00-03:00`;
+};
+const partidosFA = (html) => {
+  const out = [];
+  let dia;
+  for (const t of html.matchAll(/<span class="date">([^<]+)<\/span>|<li><div class="event-body ([\w-]+)">([\s\S]*?)<\/li>/g)) {
+    if (t[1]) { dia = t[1].trim(); continue; }
+    const b = t[3];
+    const [local, visita] = [...b.matchAll(/team-name d-none d-md-inline">([^<]+)</g)].map((m) => nombre(m[1].trim()));
+    if (local !== 'Estudiantes' && visita !== 'Estudiantes') continue;
+    // Partidos cancelados o postergados quedan listados con 0-0: no cuentan.
+    if (/class="timer">\s*(Cancelado|Suspendido|Postergado|Aplazado)/i.test(b)) continue;
+    // La hora y el resultado a veces vienen dentro de un link: se toma el texto sin etiquetas.
+    const hora = b.match(/match-hour[^>]*>([\s\S]*?)<\/div>/)?.[1].replace(/<[^>]+>/g, '').trim();
+    const fecha = fechaFA(dia ?? '', hora);
+    if (!fecha) continue;
+    const goles = [...b.matchAll(/(?:local|visit)-result"><span>(\d+)</g)].map((m) => Number(m[1]));
+    const propioLocal = local === 'Estudiantes';
+    const jugado = t[2] === 'finished';
+    out.push({
+      rival: propioLocal ? visita : local, fecha, jugado,
+      ...(jugado && goles.length === 2 ? { golesPropios: goles[propioLocal ? 0 : 1], golesRival: goles[propioLocal ? 1 : 0] } : {}),
+    });
+  }
+  return out.sort((a, b) => a.fecha.localeCompare(b.fecha));
+};
+
 const igualTabla = (a = [], b = []) =>
   a.length === b.length && a.every((f, i) => f.equipo === b[i].equipo && f.pj === b[i].pj && f.pts === b[i].pts && f.dg === b[i].dg);
 const difTabla = (a = [], b = []) =>
@@ -128,37 +167,62 @@ const main = async () => {
   const errores = [];
   const intentar = (p, que) => p.catch((e) => (errores.push(`${que}: ${e.message}`), undefined));
 
-  const [cal, fix, te, fa] = await Promise.all([
+  const [cal, fix, te, fa, pfa] = await Promise.all([
     intentar(traer(FUENTES.calendario), 'ESPN calendario'),
     intentar(traer(FUENTES.fixture), 'ESPN fixture'),
     intentar(traer(FUENTES.tablaEspn), 'ESPN tabla'),
     intentar(traer(FUENTES.tablaFA, 'text'), 'futbolargentino tabla'),
+    intentar(traer(FUENTES.partidosFA, 'text'), 'futbolargentino partidos'),
   ]);
 
   const jugados = (cal?.events ?? []).map(partido).filter((p) => /FULL_TIME|FINAL/.test(p.estado ?? '')).sort((a, b) => b.fecha.localeCompare(a.fecha));
   const proximos = (fix?.events ?? []).map(partido).filter((p) => p.fecha > horaAR(new Date().toISOString())).sort((a, b) => a.fecha.localeCompare(b.fecha)).slice(0, 4);
   const tE = te && tablaEspn(te);
   const tF = fa && tablaFA(fa);
+  const pF = pfa ? partidosFA(pfa) : [];
+  const ahora = horaAR(new Date().toISOString());
+  const jugadosFA = pF.filter((p) => p.jugado).reverse();
+  // Segunda fuente para un partido de ESPN: mismo rival el mismo día en futbolargentino.
+  const enFA = (p) => pF.find((x) => x.rival === p.rival && x.fecha.slice(0, 10) === p.fecha.slice(0, 10));
+  const confirmar = (p, conGoles) => {
+    const x = enFA(p);
+    if (!pfa) return '(futbolargentino no respondió)';
+    if (!x) return '· solo ESPN: confirmar con el club o un medio';
+    if (x.fecha !== p.fecha) return `≠ futbolargentino dice ${x.fecha.slice(11, 16)} h: confirmar con el club`;
+    if (conGoles && (x.golesPropios !== p.golesPropios || x.golesRival !== p.golesRival))
+      return `≠ futbolargentino dice ${x.golesPropios ?? '?'}-${x.golesRival ?? '?'}: confirmar`;
+    return '✓ confirmado por futbolargentino';
+  };
 
-  const salida = { generado: new Date().toISOString(), fuentes: FUENTES, errores, ultimo: jugados[0], proximos, tabla: { espn: tE, futbolargentino: tF } };
+  const salida = {
+    generado: new Date().toISOString(), fuentes: FUENTES, errores,
+    ultimo: jugados[0], proximos, partidosFutbolargentino: pF.filter((p) => p.fecha >= jugadosFA[0]?.fecha || p.fecha > ahora),
+    tabla: { espn: tE, futbolargentino: tF },
+  };
   await mkdir(join(root, 'cobertura'), { recursive: true });
   await writeFile(join(root, 'cobertura/datos.json'), JSON.stringify(salida, null, 2));
 
   // Reporte
   errores.forEach((e) => console.log(`✗ ${e}`));
-  console.log('\nPartidos (ESPN, todas las competencias, hora argentina)');
+  console.log('\nPartidos (ESPN, todas las competencias, hora argentina; segunda fuente: futbolargentino)');
   if (jugados[0]) {
     const u = jugados[0], h = home.ultimo;
     const ok = mismo(u, h) && u.golesPropios === h.golesPropios && u.golesRival === h.golesRival;
-    console.log(`  último:   ${fmt(u)}  ${ok ? '✓ igual a home.json' : `≠ home.json tiene ${fmt(h)}`}`);
+    console.log(`  último:   ${fmt(u)}`);
+    console.log(`            ${confirmar(u, true)} · ${ok ? '✓ igual a home.json' : `≠ home.json tiene ${fmt(h)}`}`);
+    if (jugadosFA[0] && !(jugadosFA[0].rival === u.rival && jugadosFA[0].fecha.slice(0, 10) === u.fecha.slice(0, 10)))
+      console.log(`            ⚠ para futbolargentino el último es ${fmt({ torneo: '', ...jugadosFA[0] })}`);
   }
   for (const p of proximos) {
     const h = home.proximos.find((x) => x.rival === p.rival);
-    console.log(`  próximo:  ${fmt(p)}  ${mismo(p, h) ? '✓ igual a home.json' : h ? `≠ home.json tiene ${h.fecha.slice(0, 16)}` : '+ no está en home.json'}`);
+    console.log(`  próximo:  ${fmt(p)}`);
+    console.log(`            ${confirmar(p, false)} · ${mismo(p, h) ? '✓ igual a home.json' : h ? `≠ home.json tiene ${h.fecha.slice(0, 16)}` : '+ no está en home.json'}`);
   }
+  for (const x of pF.filter((x) => x.fecha > ahora && !proximos.some((p) => p.rival === x.rival)))
+    console.log(`  ?         ${fmt({ torneo: '', ...x })}  está en futbolargentino pero no en ESPN`);
   for (const h of home.proximos.filter((x) => !proximos.some((p) => p.rival === x.rival)))
     console.log(`  ?         ${fmt(h)}  está en home.json pero no en ESPN`);
-  console.log('  Partidos: una sola fuente estructurada. Confirmar con el club o un medio antes de cambiar.');
+  console.log('  ✓ confirmado = ESPN y futbolargentino coinciden: cuenta como dos fuentes. Si no, confirmar con el club o un medio.');
 
   console.log('\nTabla del torneo (zona de Estudiantes)');
   if (tE && tF) {
