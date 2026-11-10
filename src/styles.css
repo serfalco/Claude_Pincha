@@ -328,3 +328,9 @@ abbr { text-decoration: none; }
 .cuenta__que { font-size: .78rem; font-weight: 600; opacity: .9; }
 .cuenta__num { font-size: 1.35rem; font-weight: 800; line-height: 1.15; letter-spacing: -.01em; }
 .cuenta__cuando { font-size: .8rem; opacity: .85; }
+
+/* Sumá a otro pincha: frase + botones; los pasos quedan plegados en "¿Cómo me asocio?" */
+.campania__facil { font-size: 1.35rem; font-weight: 900; line-height: 1.15; letter-spacing: -.01em; text-transform: uppercase; margin-bottom: 12px; }
+.campania__ver { margin-top: 14px; border-top: 1px solid var(--line); padding-top: 12px; }
+.campania__ver summary { cursor: pointer; font-weight: 700; color: var(--rojo); list-style-position: inside; }
+.campania__ver[open] summary { margin-bottom: 8px; }

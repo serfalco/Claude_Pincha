@@ -53,25 +53,19 @@ const campania = (c, socios, { t }) => {
     <script src="/globo.js" defer></script>
   </div>` : ''}
 
-  ${c.pasos?.length ? html`
-  <h4 class="campania__sub">${t.campania.pasos}</h4>
-  <ol class="campania__pasos">${c.pasos.map((p) => html`<li>${p}</li>`)}</ol>` : ''}
-
-  ${c.cuotas ? html`
-  <h4 class="campania__sub">${c.cuotas.titulo}</h4>
-  <table class="table campania__cuotas">
-    <tbody>${c.cuotas.filas.map((f) => html`<tr><th scope="row">${f.categoria}</th><td class="pts">${f.valor}</td></tr>`)}</tbody>
-  </table>
-  <p class="meta">${c.cuotas.vigencia}</p>` : ''}
-
   ${c.sumar ? html`
   <div class="campania__sumar">
-    <h4 class="campania__sub">${c.sumar.titulo}</h4>
-    <p>${c.sumar.texto}</p>
+    <h4 class="campania__facil">${c.sumar.titulo}</h4>
     <p class="campania__acciones">
       <a class="btn" href="${c.url}" rel="noopener">${t.campania.ctaGrande}</a>
       <a class="btn btn--wa" href="${wa}" rel="noopener">${t.campania.compartir}</a>
     </p>
+    ${c.pasos?.length ? html`
+    <details class="campania__ver">
+      <summary>${t.campania.ver}</summary>
+      ${t.campania.aviso ? html`<p class="meta">${t.campania.aviso}</p>` : ''}
+      <ol class="campania__pasos">${c.pasos.map((p) => html`<li>${p}</li>`)}</ol>
+    </details>` : ''}
   </div>` : ''}
 </article>`;
 };

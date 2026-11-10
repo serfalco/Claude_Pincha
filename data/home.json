@@ -267,15 +267,12 @@
         ]
       },
       "pasos": [
-        "Entrá a sumate.estudiantesdelaplata.com y poné tu domicilio: el sistema detecta tu zona y te calcula la cuota.",
-        "Elegí el Pack Individual o el Pack Familiar (todo el grupo con un solo débito).",
-        "Cargá tus datos y pagá online con Visa, Mastercard o American Express. Ya quedás pre-asociado.",
-        "La Oficina de Socios te escribe por WhatsApp para completar la documentación y darte el alta.",
-        "Listo: te llega el carnet digital al celular."
+        "Entrá a sumate.estudiantesdelaplata.com y poné tu domicilio.",
+        "Elegí plan individual o familiar, cargá tus datos y pagá online.",
+        "La Oficina de Socios te escribe por WhatsApp y te llega el carnet digital."
       ],
       "sumar": {
-        "titulo": "Sumá a otro pincha",
-        "texto": "¿Ya sos socio? Asociá a tu familia con el Pack Familiar o pasale el link a un amigo: cada socio nuevo acerca la meta.",
+        "titulo": "Asociarte es fácil. Sumá a otro pincha.",
         "compartir": "Somos hinchas, seamos socios. Asociate a Estudiantes de La Plata en 5 minutos:"
       }
     }

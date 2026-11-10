@@ -88,15 +88,12 @@
       "texto": "The club's drive to reach 100,000 members. Joining is online, takes less than 5 minutes and can be done from anywhere in the world.",
       "promesa": "If the goal is reached, Verón promises to play one more official match at the UNO.",
       "pasos": [
-        "Go to sumate.estudiantesdelaplata.com and enter your address: the system detects your area and works out your fee.",
-        "Choose the Individual Pack or the Family Pack (the whole group on a single direct debit).",
-        "Enter your details and pay online with Visa, Mastercard or American Express. You are now pre-registered.",
-        "The Members' Office contacts you on WhatsApp to complete the paperwork and confirm your membership.",
-        "Done: your digital membership card arrives on your phone."
+        "Go to sumate.estudiantesdelaplata.com and enter your address.",
+        "Choose the individual or family plan, fill in your details and pay online.",
+        "The Members' Office contacts you on WhatsApp and your digital card arrives on your phone."
       ],
       "sumar": {
-        "titulo": "Bring in another Pincha",
-        "texto": "Already a member? Sign up your family with the Family Pack or send the link to a friend: every new member brings the goal closer.",
+        "titulo": "Joining is easy. Bring in another Pincha.",
         "compartir": "We are fans, let's be members. Join Estudiantes de La Plata in 5 minutes:"
       },
       "mistica": {

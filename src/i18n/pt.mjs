@@ -37,7 +37,7 @@ export default {
   socios: 'Sócios',
   balance: 'Último balanço',
   fuente: 'Fonte',
-  campania: { pasos: 'Como se associar', beneficios: 'O que você ganha', compartir: 'Compartilhar no WhatsApp', ctaGrande: 'Associe-se agora', meta: (n) => `Meta: ${n}`, cta: 'Seja sócio', info: 'Saiba mais' },
+  campania: { pasos: 'Como se associar', beneficios: 'O que você ganha', compartir: 'Mande para um pincha', ver: 'Como me associo?', aviso: 'O site do clube está em espanhol; estes passos te guiam.', ctaGrande: 'Associe-se agora', meta: (n) => `Meta: ${n}`, cta: 'Seja sócio', info: 'Saiba mais' },
   dia: {
     kicker: 'O dia do Pincha',
     title: (fecha) => `Estudiantes de La Plata, ${fecha}: o que aconteceu · El Pincha Hoy`,
