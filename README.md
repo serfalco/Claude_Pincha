@@ -78,6 +78,11 @@ npm run preview   # build + servidor local
 
 Conectar el repo: build command `npm run build`, output `dist`, variable `NODE_VERSION = 20`. Cada push a `main` publica.
 
+## Dominio y métricas
+
+- Dominio: https://elpinchahoy.com.ar (DNS en Cloudflare, delegado desde NIC.ar) y www. Provisorio: elpinchahoy.pages.dev.
+- Visitas: Cloudflare Web Analytics, activado en el proyecto de Pages (Métricas). Cloudflare inyecta el script en cada deploy; sin cookies. Muestra visitas, páginas, países, referentes y dispositivos.
+
 ## Identidad
 
 El logo y el Pincharrata son diseños propios, no el escudo oficial. Sitio de hinchas, sin relación oficial con el club.
