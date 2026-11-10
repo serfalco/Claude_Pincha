@@ -3,7 +3,7 @@ import { html, raw } from './lib/html.mjs';
 // Documento base: todo el SEO técnico vive acá.
 // alternates: [{ lang, href (absoluta), actual }] → hreflang + x-default para cada idioma.
 export const layout = ({ site, t, title, description, url, alternates, css, jsonLd = [], body, indexar = true }) => {
-  const ogImage = new URL('/og.png', site.url).href;
+  const ogImage = new URL('/og.jpg', site.url).href;
   const ld = JSON.stringify(jsonLd.length === 1 ? jsonLd[0] : jsonLd).replace(/</g, '\\u003c');
   const base = alternates[0];
   return html`<!doctype html>
@@ -17,8 +17,8 @@ export const layout = ({ site, t, title, description, url, alternates, css, json
 ${alternates.map((a) => html`<link rel="alternate" hreflang="${a.lang}" href="${a.abs}">\n`)}<link rel="alternate" hreflang="x-default" href="${base.abs}">
 <meta name="robots" content="${indexar ? 'index, follow, max-image-preview:large' : 'noindex, follow'}">
 <meta name="theme-color" content="${site.colorTema}">
-<link rel="icon" href="/favicon.png" type="image/png">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="${t.ogLocale}">
@@ -29,7 +29,13 @@ ${alternates.filter((a) => !a.actual).map((a) => html`<meta property="og:locale:
 <meta property="og:image" content="${ogImage}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="${site.nombre}">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="${title}">
+<meta name="twitter:description" content="${description}">
+<meta name="twitter:image" content="${ogImage}">
+<meta name="twitter:image:alt" content="${site.nombre}">
 <style>${raw(css)}</style>
 <script type="application/ld+json">${raw(ld)}</script>
 </head>

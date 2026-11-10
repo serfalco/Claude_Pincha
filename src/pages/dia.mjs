@@ -30,7 +30,7 @@ export default (ctx, dia, nav) => {
         inLanguage: t.locale,
         datePublished: dia.linea.at(-1)?.hora ?? `${dia.fecha}T08:00:00-03:00`,
         dateModified: dia.linea[0]?.hora ?? `${dia.fecha}T08:00:00-03:00`,
-        image: [new URL('/og.png', site.url).href],
+        image: [new URL('/og.jpg', site.url).href],
         mainEntityOfPage: new URL(ctx.ruta(`dia/${dia.fecha}`), site.url).href,
         about: { '@type': 'SportsTeam', name: site.equipo },
         author: { '@type': 'Organization', name: site.nombre, url: site.url },
