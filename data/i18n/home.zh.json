@@ -1,21 +1,24 @@
 {
   "hoy": {
-    "titular": "又是Castro：第二例肌肉拉伤，超级杯再添伤兵",
-    "resumen": "继Tucu Correa之后，Alexis Castro小腿二级拉伤：两人都将缺席周四的超级杯。俱乐部对他们赶上28日对阵帕尔梅拉斯的决赛持乐观态度。",
+    "titular": "今天17点起：决赛看台座位票再次开售",
+    "resumen": "俱乐部争取到更多二类座位（Centenario球场Olímpica看台，250美元），按积分优先卖给此前没买到票的会员，同时也有公开发售。球队今天下午前往科尔多瓦备战周四的超级杯，Tucu Correa和Alexis Castro缺阵。",
     "puntos": [
-      "超级杯门票：通过Deportick在线购买，6.5万至14万阿根廷比索，需身份证件。",
+      "会员座位票在libertadores.eleventickets.com购买（选择“Socio Estudiantes”）：17至20点，积分545至400（外地会员362至290）；20至22点，399至200（289至150）；22至24点，199至0（149至0）。数量极少：积分不保证能买到票。",
       "前往蒙得维的亚的大巴（往返5万阿根廷比索，在UNO应用购买）：12日（周四）积分400以上的会员，13日（周五）其他会员，14日（周六）公开发售。",
-      "锋线上还有Carrillo和Gaich，Baltasar Rodríguez有望替补登场。Palacios膝盖有些不适：如果赶不上，将由Rojo首发。"
+      "超级杯门票：通过Deportick在线购买，6.5万至14万阿根廷比索，需身份证件。"
     ],
     "linea": [
+      {
+        "texto": "俱乐部宣布决赛二类座位票再次开售：会员从第2时段起按积分购买，另有公开发售，今天17点开始。"
+      },
       {
         "texto": "俱乐部确认Alexis Castro小腿二级拉伤：缺席超级杯，决赛成疑。"
       },
       {
-        "texto": "预备队在City Bell以3比0击败San Martín（圣胡安），Franco Domínguez Ávila再度出色，球队仍在争夺季后赛资格。"
+        "texto": "Castro确定缺阵，梅迪纳尝试了两套替代方案迎战Independiente Rivadavia。"
       },
       {
-        "texto": "球队在City Bell训练，周三下午前往科尔多瓦，入住Quinto Centenario酒店集中备战。"
+        "texto": "预备队在City Bell以3比0击败San Martín（圣胡安），Franco Domínguez Ávila再度出色，球队仍在争夺季后赛资格。"
       }
     ]
   },
@@ -116,16 +119,16 @@
   },
   "noticias": [
     {
+      "titulo": "蒙得维的亚决赛再添座位票",
+      "bajada": "Olímpica看台二类座位，250美元：为没买到票的会员按积分分时段销售，另有公开发售。"
+    },
+    {
       "titulo": "Alexis Castro，关键战役的又一疑问",
       "bajada": "小腿二级拉伤：周四缺阵，与时间赛跑争取赶上蒙得维的亚。"
     },
     {
       "titulo": "在永恒荣耀与为决赛保护球员之间",
       "bajada": "超级杯夹在中间，梅迪纳的两难选择。"
-    },
-    {
-      "titulo": "年度积分榜第11：2027年解放者杯资格取决于决赛",
-      "bajada": "若未能在蒙得维的亚夺冠，一旦南美杯出现空缺名额，球队将排在首位。"
     },
     {
       "titulo": "前往蒙得维的亚的大巴票价ARS 50,000：销售安排",

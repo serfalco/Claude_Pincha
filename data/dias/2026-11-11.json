@@ -1,0 +1,26 @@
+{
+  "fecha": "2026-11-11",
+  "titular": {
+    "es": "Hoy desde las 17: nueva venta de plateas para la final",
+    "en": "Today from 5pm: a new sale of seated tickets for the final",
+    "pt": "Hoje a partir das 17h: nova venda de cadeiras para a final",
+    "zh": "今天17点起：决赛看台座位票再次开售",
+    "hi": "आज शाम 5 बजे से: फ़ाइनल के लिए सीटों की नई बिक्री"
+  },
+  "resumen": {
+    "es": "El club consiguió más plateas de categoría 2 (tribuna Olímpica del Centenario, USD 250) para socios que no pudieron comprar, por ranking, y también habrá venta general. El plantel viaja esta tarde a Córdoba para la Supercopa del jueves, sin el Tucu Correa ni Alexis Castro.",
+    "en": "The club secured more category 2 seats (Olímpica stand at the Centenario, USD 250) for members who missed out, by points ranking, and there will also be a general sale. The squad travel to Córdoba this afternoon for Thursday's Supercopa, without Tucu Correa or Alexis Castro.",
+    "pt": "O clube conseguiu mais cadeiras de categoria 2 (arquibancada Olímpica do Centenario, USD 250) para sócios que não conseguiram comprar, por ranking, e também haverá venda geral. O elenco viaja hoje à tarde a Córdoba para a Supercopa de quinta, sem Tucu Correa nem Alexis Castro.",
+    "zh": "俱乐部争取到更多二类座位（Centenario球场Olímpica看台，250美元），按积分优先卖给此前没买到票的会员，同时也有公开发售。球队今天下午前往科尔多瓦备战周四的超级杯，Tucu Correa和Alexis Castro缺阵。",
+    "hi": "क्लब ने कैटेगरी 2 की और सीटें (Centenario की Olímpica स्टैंड, USD 250) हासिल की हैं, जो रैंकिंग के आधार पर उन सदस्यों को मिलेंगी जो पहले टिकट नहीं ले पाए; आम बिक्री भी होगी। टीम आज दोपहर गुरुवार के Supercopa Argentina के लिए Córdoba रवाना होगी, Tucu Correa और Alexis Castro के बिना।"
+  },
+  "ultimo": {
+    "rival": "Talleres",
+    "golesPropios": 1,
+    "golesRival": 1,
+    "fecha": "2026-11-07T15:00:00-03:00",
+    "torneo": "Torneo Clausura · Fecha 16",
+    "condicion": "visitante"
+  },
+  "linea": []
+}

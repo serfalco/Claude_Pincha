@@ -1,15 +1,21 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-10T23:45:00-03:00",
+  "actualizado": "2026-11-11T08:50:00-03:00",
   "hoy": {
-    "titular": "Ahora Castro: segundo desgarro y otra baja para la Supercopa",
-    "resumen": "Al Tucu Correa se sumó Alexis Castro, con un desgarro grado 2 en el gemelo: los dos se pierden la Supercopa del jueves. En el club son optimistas con tenerlos para Palmeiras el 28.",
+    "titular": "Hoy desde las 17: nueva venta de plateas para la final",
+    "resumen": "El club consiguió más plateas de categoría 2 (tribuna Olímpica del Centenario, USD 250) para socios que no pudieron comprar, por ranking, y también habrá venta general. El plantel viaja esta tarde a Córdoba para la Supercopa del jueves, sin el Tucu Correa ni Alexis Castro.",
     "puntos": [
-      "Entradas para la Supercopa: online en Deportick, de $65.000 a $140.000, con DNI.",
+      "Plateas para socios en libertadores.eleventickets.com (opción «Socio Estudiantes»): 17 a 20 h, 545 a 400 puntos (interior 362 a 290); 20 a 22 h, 399 a 200 (289 a 150); 22 a 24 h, 199 a 0 (149 a 0). Son muy pocas: el puntaje no garantiza entrada.",
       "Micros a Montevideo ($50.000 ida y vuelta, en la app UNO): jueves 12 socios de +400 puntos, viernes 13 el resto, sábado 14 venta general.",
-      "Arriba quedan Carrillo y Gaich, y Baltasar Rodríguez se perfila para entrar. Palacios arrastra una molestia en la rodilla: si no llega, juega Rojo."
+      "Entradas para la Supercopa: online en Deportick, de $65.000 a $140.000, con DNI."
     ],
     "linea": [
+      {
+        "hora": "2026-11-10T23:12:00-03:00",
+        "texto": "El club anunció una nueva venta de plateas de categoría 2 para la final: socios por ranking desde la Ventana 2 y también público general, hoy desde las 17.",
+        "fuente": "Club",
+        "url": "https://estudiantesdelaplata.com/nueva-venta-de-plateas-para-la-final/"
+      },
       {
         "hora": "2026-11-10T17:31:00-03:00",
         "texto": "El club confirmó que Alexis Castro tiene un desgarro grado 2 en el gemelo: se pierde la Supercopa y es duda para la final.",
@@ -17,16 +23,16 @@
         "url": "https://noticiasargentinas.com/deportes/la-sensible-baja-que-sufrio-estudiantes--llega-a-la-final-de-la-libertadores-_a6af38619dea8ef7a642f4367"
       },
       {
+        "hora": "2026-11-10T17:23:00-03:00",
+        "texto": "Con Castro descartado, Medina probó dos alternativas para reemplazarlo ante Independiente Rivadavia.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/los-candidatos-reemplazar-alexis-castro-estudiantes-la-supercopa-argentina-n137264"
+      },
+      {
         "hora": "2026-11-10T16:52:00-03:00",
         "texto": "La Reserva le ganó 3-0 a San Martín (SJ) en City Bell, con otra gran tarde de Franco Domínguez Ávila, y sigue en carrera por los playoffs.",
         "fuente": "0221",
         "url": "https://www.0221.com.ar/estudiantes/franco-dominguez-avila-estiro-su-gran-momento-y-abrio-el-camino-la-goleada-la-reserva-estudiantes-n137260"
-      },
-      {
-        "hora": "2026-11-10T07:27:00-03:00",
-        "texto": "El plantel entrena en City Bell, viaja a Córdoba el miércoles por la tarde y concentra en el hotel Quinto Centenario.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/estudiantes-definio-su-agenda-la-supercopa-argentina-cuando-viaja-cordoba-y-donde-concentra-n137197"
       }
     ]
   },
@@ -261,6 +267,13 @@
   },
   "noticias": [
     {
+      "titulo": "Hay más plateas para Montevideo",
+      "bajada": "Categoría 2 en la Olímpica, USD 250: ventanas por ranking para socios que se quedaron sin entrada, y venta general.",
+      "fecha": "2026-11-10T23:12:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/nueva-venta-de-plateas-para-la-final/"
+    },
+    {
       "titulo": "Alexis Castro, la otra duda para las definiciones",
       "bajada": "Desgarro grado 2 en el gemelo: afuera el jueves y carrera contra el reloj para Montevideo.",
       "fecha": "2026-11-10T21:47:00-03:00",
@@ -273,13 +286,6 @@
       "fecha": "2026-11-09T00:00:00-03:00",
       "fuente": "Diario Hoy",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3ZzZjN0N0hVMkZ1QlZOUTFOVXZlUGpORVdBbTh1My1WYjBYclVJUm1XLVI2eDR6SFAydmNhdU5STk44blFfVnVBQlkwVUVJem1lQ1A0N2RXLS1FWU9UVGlod2hhSV9GRkRvdG1PWlRBVzdiOFRrOWZraV9UeFQ1QTlHVnc4R01RSE5TTVNhSmF4X0JCZnFSdU55MUFJaVZFLUxLZVlmeGdZenM4V0ZyN24wZWxFYW9URWV6N0lUUkV4eUJlNm56NU9oNHhGQdIB0wFBVV95cUxPbmpzampvdFNqMTN5OHVheER1OFJ2QUNoZ2tNTVEyUjd0aF9TME9TMjBRQjd0QjZZT1k1SEZsZmh4WmNPUGY3UzM5TUNYMFJvdG1xTmljVzBVOTZSaTNFNjlQckFnWDZnUng1MFdyY25nd2dVM1Z6ekVmNWNyY21Ma2ItUUZrUjdSazd0emtIYkxfb2dZMk9kZzFLMW94aEV3UHpKQWdIUldOVFREM3ZGTmJSUHNVajlfSUcyUHY1VnNOamJ4TnpabjJEbHhBbUx4TEdJ?oc=5"
-    },
-    {
-      "titulo": "Tabla anual: 11° y la Libertadores 2027 depende de la final",
-      "bajada": "Si no gana en Montevideo, es el primero en la fila si se libera un cupo de Sudamericana.",
-      "fecha": "2026-11-08T21:45:00-03:00",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-tabla-anual-2026-con-las-clasificaciones-a-las-copas-libertadores-y-sudamericana-tras-nid08112026/"
     },
     {
       "titulo": "Micros a Montevideo a $50.000: el cronograma",
@@ -308,6 +314,7 @@
     "https://www.0221.com.ar/estudiantes/quien-sera-el-reemplazante-joaquin-correa-la-supercopa-argentina-n137201",
     "https://noticiasargentinas.com/deportes/la-sensible-baja-que-sufrio-estudiantes--llega-a-la-final-de-la-libertadores-_a6af38619dea8ef7a642f4367",
     "https://www.eleco.com.ar/deportes/alexis-castro-otra-duda-para-las-definiciones-de-estudiantes",
-    "https://www.0221.com.ar/estudiantes/franco-dominguez-avila-estiro-su-gran-momento-y-abrio-el-camino-la-goleada-la-reserva-estudiantes-n137260"
+    "https://www.0221.com.ar/estudiantes/franco-dominguez-avila-estiro-su-gran-momento-y-abrio-el-camino-la-goleada-la-reserva-estudiantes-n137260",
+    "https://estudiantesdelaplata.com/nueva-venta-de-plateas-para-la-final/"
   ]
 }

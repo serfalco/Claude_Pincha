@@ -1,21 +1,24 @@
 {
   "hoy": {
-    "titular": "Agora Castro: segundo estiramento e outro desfalque para a Supercopa",
-    "resumen": "Alexis Castro se juntou ao Tucu Correa, com uma lesão grau 2 na panturrilha: os dois perdem a Supercopa de quinta. O clube está otimista em tê-los contra o Palmeiras no dia 28.",
+    "titular": "Hoje a partir das 17h: nova venda de cadeiras para a final",
+    "resumen": "O clube conseguiu mais cadeiras de categoria 2 (arquibancada Olímpica do Centenario, USD 250) para sócios que não conseguiram comprar, por ranking, e também haverá venda geral. O elenco viaja hoje à tarde a Córdoba para a Supercopa de quinta, sem Tucu Correa nem Alexis Castro.",
     "puntos": [
-      "Ingressos da Supercopa: online pela Deportick, de ARS 65.000 a ARS 140.000, com documento.",
+      "Cadeiras para sócios em libertadores.eleventickets.com (opção «Socio Estudiantes»): 17h às 20h, 545 a 400 pontos (interior 362 a 290); 20h às 22h, 399 a 200 (289 a 150); 22h às 24h, 199 a 0 (149 a 0). São muito poucas: a pontuação não garante ingresso.",
       "Ônibus para Montevidéu (ARS 50.000 ida e volta, no app UNO): quinta 12 sócios com +400 pontos, sexta 13 os demais, sábado 14 venda geral.",
-      "No ataque restam Carrillo e Gaich, e Baltasar Rodríguez deve entrar. Palacios sente um incômodo no joelho: se não tiver condições, Rojo joga."
+      "Ingressos da Supercopa: online pela Deportick, de ARS 65.000 a ARS 140.000, com documento."
     ],
     "linea": [
+      {
+        "texto": "O clube anunciou nova venda de cadeiras de categoria 2 para a final: sócios por ranking a partir da Janela 2 e também público geral, hoje a partir das 17h."
+      },
       {
         "texto": "O clube confirmou que Alexis Castro tem uma lesão grau 2 na panturrilha: perde a Supercopa e é dúvida para a final."
       },
       {
-        "texto": "O time reserva venceu o San Martín (SJ) por 3 a 0 em City Bell, com outra grande tarde de Franco Domínguez Ávila, e segue na briga pelos playoffs."
+        "texto": "Com Castro descartado, Medina testou duas alternativas para substituí-lo contra o Independiente Rivadavia."
       },
       {
-        "texto": "O elenco treina em City Bell, viaja a Córdoba na quarta à tarde e fica concentrado no hotel Quinto Centenario."
+        "texto": "O time reserva venceu o San Martín (SJ) por 3 a 0 em City Bell, com outra grande tarde de Franco Domínguez Ávila, e segue na briga pelos playoffs."
       }
     ]
   },
@@ -116,16 +119,16 @@
   },
   "noticias": [
     {
+      "titulo": "Mais cadeiras para Montevidéu",
+      "bajada": "Categoria 2 na Olímpica, USD 250: janelas por ranking para sócios que ficaram sem ingresso, e venda geral."
+    },
+    {
       "titulo": "Alexis Castro, a outra dúvida para as decisões",
       "bajada": "Lesão grau 2 na panturrilha: fora na quinta e corrida contra o tempo por Montevidéu."
     },
     {
       "titulo": "Entre a glória eterna e poupar jogadores para a final",
       "bajada": "O dilema de Medina, com a Supercopa no meio."
-    },
-    {
-      "titulo": "Tabela anual: 11º, e a Libertadores 2027 depende da final",
-      "bajada": "Se não vencer em Montevidéu, é o primeiro da fila caso sobre uma vaga na Sul-Americana."
     },
     {
       "titulo": "Ônibus para Montevidéu a ARS 50.000: o cronograma",

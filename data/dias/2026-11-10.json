@@ -24,6 +24,18 @@
   },
   "linea": [
     {
+      "hora": "2026-11-10T23:12:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/nueva-venta-de-plateas-para-la-final/",
+      "texto": {
+        "es": "El club anunció una nueva venta de plateas de categoría 2 para la final: socios por ranking desde la Ventana 2 y también público general, hoy desde las 17.",
+        "en": "The club announced a new sale of category 2 seats for the final: members by ranking from Window 2, plus the general public, today from 5pm.",
+        "pt": "O clube anunciou nova venda de cadeiras de categoria 2 para a final: sócios por ranking a partir da Janela 2 e também público geral, hoje a partir das 17h.",
+        "zh": "俱乐部宣布决赛二类座位票再次开售：会员从第2时段起按积分购买，另有公开发售，今天17点开始。",
+        "hi": "क्लब ने फ़ाइनल के लिए कैटेगरी 2 सीटों की नई बिक्री की घोषणा की: सदस्यों के लिए विंडो 2 से रैंकिंग के अनुसार, और आम जनता के लिए भी, आज शाम 5 बजे से।"
+      }
+    },
+    {
       "hora": "2026-11-10T17:31:00-03:00",
       "fuente": "Noticias Argentinas",
       "url": "https://noticiasargentinas.com/deportes/la-sensible-baja-que-sufrio-estudiantes--llega-a-la-final-de-la-libertadores-_a6af38619dea8ef7a642f4367",
@@ -33,6 +45,18 @@
         "pt": "O clube confirmou que Alexis Castro tem uma lesão grau 2 na panturrilha: perde a Supercopa e é dúvida para a final.",
         "zh": "俱乐部确认Alexis Castro小腿二级拉伤：缺席超级杯，决赛成疑。",
         "hi": "क्लब ने पुष्टि की कि Alexis Castro की पिंडली में ग्रेड 2 चोट है: सुपरकोपा नहीं खेलेंगे और फ़ाइनल पर संदेह।"
+      }
+    },
+    {
+      "hora": "2026-11-10T17:23:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/los-candidatos-reemplazar-alexis-castro-estudiantes-la-supercopa-argentina-n137264",
+      "texto": {
+        "es": "Con Castro descartado, Medina probó dos alternativas para reemplazarlo ante Independiente Rivadavia.",
+        "en": "With Castro ruled out, Medina tried two options to replace him against Independiente Rivadavia.",
+        "pt": "Com Castro descartado, Medina testou duas alternativas para substituí-lo contra o Independiente Rivadavia.",
+        "zh": "Castro确定缺阵，梅迪纳尝试了两套替代方案迎战Independiente Rivadavia。",
+        "hi": "Castro के बाहर होने पर Medina ने Independiente Rivadavia के ख़िलाफ़ उनकी जगह के लिए दो विकल्प आज़माए।"
       }
     },
     {
