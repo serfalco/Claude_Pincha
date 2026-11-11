@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-10",
   "titular": {
-    "es": "Correa se desgarró: afuera de la Supercopa y en duda para la final",
-    "en": "Correa tears a muscle: out of the Supercopa and a doubt for the final",
-    "pt": "Correa sofre estiramento: fora da Supercopa e dúvida para a final",
-    "zh": "Correa肌肉拉伤：缺席阿根廷超级杯，决赛成疑",
-    "hi": "Correa की मांसपेशी फटी: सुपरकोपा से बाहर, फ़ाइनल पर संदेह"
+    "es": "Ahora Castro: segundo desgarro y otra baja para la Supercopa",
+    "en": "Now Castro: a second muscle tear and another absence for the Supercopa",
+    "pt": "Agora Castro: segundo estiramento e outro desfalque para a Supercopa",
+    "zh": "又是Castro：第二例肌肉拉伤，超级杯再添伤兵",
+    "hi": "अब Castro: दूसरी मांसपेशी चोट, सुपरकोपा में एक और खिलाड़ी बाहर"
   },
   "resumen": {
-    "es": "El club confirmó una lesión muscular grado 2 en el bíceps de la pierna derecha de Joaquín Correa. Se pierde la Supercopa del jueves y Medina se ilusiona con tenerlo para Palmeiras.",
-    "en": "The club confirmed a grade 2 muscle injury in Joaquín Correa's right hamstring. He misses Thursday's Supercopa and Medina hopes to have him for Palmeiras.",
-    "pt": "O clube confirmou uma lesão muscular grau 2 no posterior da coxa direita de Joaquín Correa. Ele perde a Supercopa de quinta e Medina espera tê-lo contra o Palmeiras.",
-    "zh": "俱乐部确认华金·科雷亚右腿股二头肌二级肌肉拉伤。他将缺席周四的超级杯，梅迪纳希望他能赶上对阵帕尔梅拉斯的决赛。",
-    "hi": "क्लब ने पुष्टि की कि Joaquín Correa की दाहिनी जाँघ की मांसपेशी में ग्रेड 2 चोट है। वे गुरुवार का सुपरकोपा नहीं खेलेंगे और Medina को उम्मीद है कि वे Palmeiras के ख़िलाफ़ उपलब्ध होंगे।"
+    "es": "Al Tucu Correa se sumó Alexis Castro, con un desgarro grado 2 en el gemelo: los dos se pierden la Supercopa del jueves. En el club son optimistas con tenerlos para Palmeiras el 28.",
+    "en": "Alexis Castro joins Tucu Correa on the sidelines with a grade 2 calf tear: both miss Thursday's Supercopa. The club is optimistic about having them for Palmeiras on the 28th.",
+    "pt": "Alexis Castro se juntou ao Tucu Correa, com uma lesão grau 2 na panturrilha: os dois perdem a Supercopa de quinta. O clube está otimista em tê-los contra o Palmeiras no dia 28.",
+    "zh": "继Tucu Correa之后，Alexis Castro小腿二级拉伤：两人都将缺席周四的超级杯。俱乐部对他们赶上28日对阵帕尔梅拉斯的决赛持乐观态度。",
+    "hi": "Tucu Correa के बाद अब Alexis Castro की पिंडली में ग्रेड 2 चोट: दोनों गुरुवार का सुपरकोपा नहीं खेलेंगे। क्लब को उम्मीद है कि 28 तारीख़ को Palmeiras के ख़िलाफ़ दोनों उपलब्ध होंगे।"
   },
   "ultimo": {
     "rival": "Talleres",
@@ -24,15 +24,39 @@
   },
   "linea": [
     {
+      "hora": "2026-11-10T17:31:00-03:00",
+      "fuente": "Noticias Argentinas",
+      "url": "https://noticiasargentinas.com/deportes/la-sensible-baja-que-sufrio-estudiantes--llega-a-la-final-de-la-libertadores-_a6af38619dea8ef7a642f4367",
+      "texto": {
+        "es": "El club confirmó que Alexis Castro tiene un desgarro grado 2 en el gemelo: se pierde la Supercopa y es duda para la final.",
+        "en": "The club confirmed Alexis Castro has a grade 2 calf tear: he misses the Supercopa and is a doubt for the final.",
+        "pt": "O clube confirmou que Alexis Castro tem uma lesão grau 2 na panturrilha: perde a Supercopa e é dúvida para a final.",
+        "zh": "俱乐部确认Alexis Castro小腿二级拉伤：缺席超级杯，决赛成疑。",
+        "hi": "क्लब ने पुष्टि की कि Alexis Castro की पिंडली में ग्रेड 2 चोट है: सुपरकोपा नहीं खेलेंगे और फ़ाइनल पर संदेह।"
+      }
+    },
+    {
+      "hora": "2026-11-10T16:52:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/franco-dominguez-avila-estiro-su-gran-momento-y-abrio-el-camino-la-goleada-la-reserva-estudiantes-n137260",
+      "texto": {
+        "es": "La Reserva le ganó 3-0 a San Martín (SJ) en City Bell, con otra gran tarde de Franco Domínguez Ávila, y sigue en carrera por los playoffs.",
+        "en": "The reserves beat San Martín (SJ) 3-0 at City Bell, with another fine afternoon from Franco Domínguez Ávila, and remain in the play-off race.",
+        "pt": "O time reserva venceu o San Martín (SJ) por 3 a 0 em City Bell, com outra grande tarde de Franco Domínguez Ávila, e segue na briga pelos playoffs.",
+        "zh": "预备队在City Bell以3比0击败San Martín（圣胡安），Franco Domínguez Ávila再度出色，球队仍在争夺季后赛资格。",
+        "hi": "रिज़र्व टीम ने City Bell में San Martín (SJ) को 3-0 से हराया, Franco Domínguez Ávila फिर चमके, और टीम प्लेऑफ़ की दौड़ में बनी हुई है।"
+      }
+    },
+    {
       "hora": "2026-11-10T07:27:00-03:00",
       "fuente": "0221",
       "url": "https://www.0221.com.ar/estudiantes/estudiantes-definio-su-agenda-la-supercopa-argentina-cuando-viaja-cordoba-y-donde-concentra-n137197",
       "texto": {
-        "es": "El plantel entrena hoy y mañana en City Bell, viaja a Córdoba el miércoles por la tarde y concentra en el hotel Quinto Centenario.",
-        "en": "The squad train today and tomorrow at City Bell, travel to Córdoba on Wednesday afternoon and will stay at the Quinto Centenario hotel.",
-        "pt": "O elenco treina hoje e amanhã em City Bell, viaja a Córdoba na quarta à tarde e fica concentrado no hotel Quinto Centenario.",
-        "zh": "球队今明两天在City Bell训练，周三下午前往科尔多瓦，入住Quinto Centenario酒店集中备战。",
-        "hi": "टीम आज और कल City Bell में अभ्यास करेगी, बुधवार दोपहर Córdoba रवाना होगी और Quinto Centenario होटल में ठहरेगी।"
+        "es": "El plantel entrena en City Bell, viaja a Córdoba el miércoles por la tarde y concentra en el hotel Quinto Centenario.",
+        "en": "The squad train at City Bell, travel to Córdoba on Wednesday afternoon and will stay at the Quinto Centenario hotel.",
+        "pt": "O elenco treina em City Bell, viaja a Córdoba na quarta à tarde e fica concentrado no hotel Quinto Centenario.",
+        "zh": "球队在City Bell训练，周三下午前往科尔多瓦，入住Quinto Centenario酒店集中备战。",
+        "hi": "टीम City Bell में अभ्यास कर रही है, बुधवार दोपहर Córdoba रवाना होगी और Quinto Centenario होटल में ठहरेगी।"
       }
     }
   ]

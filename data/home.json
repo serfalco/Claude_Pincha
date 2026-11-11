@@ -1,50 +1,32 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-10T08:45:00-03:00",
+  "actualizado": "2026-11-10T23:45:00-03:00",
   "hoy": {
-    "titular": "Correa se desgarró: afuera de la Supercopa y en duda para la final",
-    "resumen": "El club confirmó una lesión muscular grado 2 en el bíceps de la pierna derecha de Joaquín Correa. Se pierde la Supercopa del jueves y Medina se ilusiona con tenerlo para Palmeiras.",
+    "titular": "Ahora Castro: segundo desgarro y otra baja para la Supercopa",
+    "resumen": "Al Tucu Correa se sumó Alexis Castro, con un desgarro grado 2 en el gemelo: los dos se pierden la Supercopa del jueves. En el club son optimistas con tenerlos para Palmeiras el 28.",
     "puntos": [
       "Entradas para la Supercopa: online en Deportick, de $65.000 a $140.000, con DNI.",
       "Micros a Montevideo ($50.000 ida y vuelta, en la app UNO): jueves 12 socios de +400 puntos, viernes 13 el resto, sábado 14 venta general.",
-      "Baltasar Rodríguez, el candidato a reemplazar a Correa el jueves. Palacios arrastra una molestia en la rodilla: si no llega, juega Rojo."
+      "Arriba quedan Carrillo y Gaich, y Baltasar Rodríguez se perfila para entrar. Palacios arrastra una molestia en la rodilla: si no llega, juega Rojo."
     ],
     "linea": [
       {
+        "hora": "2026-11-10T17:31:00-03:00",
+        "texto": "El club confirmó que Alexis Castro tiene un desgarro grado 2 en el gemelo: se pierde la Supercopa y es duda para la final.",
+        "fuente": "Noticias Argentinas",
+        "url": "https://noticiasargentinas.com/deportes/la-sensible-baja-que-sufrio-estudiantes--llega-a-la-final-de-la-libertadores-_a6af38619dea8ef7a642f4367"
+      },
+      {
+        "hora": "2026-11-10T16:52:00-03:00",
+        "texto": "La Reserva le ganó 3-0 a San Martín (SJ) en City Bell, con otra gran tarde de Franco Domínguez Ávila, y sigue en carrera por los playoffs.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/franco-dominguez-avila-estiro-su-gran-momento-y-abrio-el-camino-la-goleada-la-reserva-estudiantes-n137260"
+      },
+      {
         "hora": "2026-11-10T07:27:00-03:00",
-        "texto": "El plantel entrena hoy y mañana en City Bell, viaja a Córdoba el miércoles por la tarde y concentra en el hotel Quinto Centenario.",
+        "texto": "El plantel entrena en City Bell, viaja a Córdoba el miércoles por la tarde y concentra en el hotel Quinto Centenario.",
         "fuente": "0221",
         "url": "https://www.0221.com.ar/estudiantes/estudiantes-definio-su-agenda-la-supercopa-argentina-cuando-viaja-cordoba-y-donde-concentra-n137197"
-      },
-      {
-        "hora": "2026-11-09T19:35:00-03:00",
-        "texto": "La Reserva juega ante San Martín (SJ) en el Country Club y busca acercarse a los playoffs.",
-        "fuente": "Club",
-        "url": "https://estudiantesdelaplata.com/para-acercarse-al-objetivo/"
-      },
-      {
-        "hora": "2026-11-09T18:58:00-03:00",
-        "texto": "Sin Correa, Baltasar Rodríguez se perfila para volver a la titularidad en la Supercopa.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/quien-sera-el-reemplazante-joaquin-correa-la-supercopa-argentina-n137201"
-      },
-      {
-        "hora": "2026-11-09T17:45:00-03:00",
-        "texto": "Palmeiras, el equipo más goleador, contra una de las defensas menos vencidas: así llega la final.",
-        "fuente": "Infocielo",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbDFuWW1uQVZNWjhJRk9WVVJRclZrT2VfaHNwNDZVeEFBOXJRbWxqWjBScDFyTXR4RWtSMDc5Q2Y3RU5VV2E0LWFEYUI4VDc3VFdzU1BBX2hLRjV6d0JxTnlydFkwV2Z1M0VLNkMxWnRJRmtTbEdyc0NPX2VEbEFHR3d3bTJidUJXeUdoM055WExkazV2b2hiUTFkdVB5SVZqcF9FV0p6a2xRRHFfSVdBYU1NeHIyT3FoYlFQNDl2X2dLcGFob0N5dHNVNXllS0hCUk5xbDduR1pxX0N3TFpfNWoxLXNzOGplejJxU01nQTg?oc=5"
-      },
-      {
-        "hora": "2026-11-09T16:34:00-03:00",
-        "texto": "El papa León XIV recibió una camiseta de Estudiantes durante su visita a la Argentina.",
-        "fuente": "Perfil",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLVhEVWR4YzE1UFFRN2FWQUVYNGZhSVRLcnZia0FpN00xV1lTcWZwaTBCWUJyaHhGazQtTlZFTXNodExtQ2gtUF9Pa1NHUWJWTkJ6YlBOWUJtOEdrbHNpLWoza2NUQVQ5NzdfVGJVTkJXdWZVTmg0VDVpcmpFVVkxS09XTXhNZ1RyMm9GM1NVaThJVkI1WC0zUzRTMVJpME1IeGZwQ1d0NjlCd3NsdllJd0FpR0RZd1FLckhDSVRkczB3V0JUNUoxVHlRcFU5VkRicmZBbm1kSlg1d9IB3wFBVV95cUxQdS1MWm4zcUE0MDB6T3RCdm9VMlBEZGNCeGhUTWJlRHpJb0t4UWo1VFZmVXZRd1pHZWZQaVZKWG9tRnNjbzJSQ3hQMWNyY1p2X2kteDh6dXJHaEtoMk5PbjI3c0tVR291ZExHeTVqNWNLM09yUUJydHdpenlId2VtT1J1RVZNMWl5VS1iZ3BvTlRVX2dTLVpudHRpUlpMNWtXSG9nb3pFOC1yUW1vNUdqWXpBZFBsX1NTSEp3SjFMaXV1Y3hCZEFQN2laSzdPN1BaMS1hNjZYelVnVHhlMHZ3?oc=5"
-      },
-      {
-        "hora": "2026-11-09T15:41:00-03:00",
-        "texto": "Parte médico: Correa tiene una lesión grado 2 en el bíceps derecho, se pierde la Supercopa y es duda para la final.",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/se-confirmo-la-lesion-del-tucu-correa-a-semanas-de-la-final-de-la-copa-que-dice-el-parte-medico-deportes_1794249710"
       }
     ]
   },
@@ -279,11 +261,11 @@
   },
   "noticias": [
     {
-      "titulo": "Dos figuras de Palmeiras palpitaron la final y le dejaron un mensaje al Pincha",
-      "bajada": "Del otro lado también se juega la previa.",
-      "fecha": "2026-11-09T00:00:00-03:00",
-      "fuente": "0221",
-      "url": "https://www.0221.com.ar/estudiantes/dos-figuras-del-palmeiras-palpitaron-la-final-la-copa-libertadores-y-le-dejaron-una-mensaje-estudiantes-n137203"
+      "titulo": "Alexis Castro, la otra duda para las definiciones",
+      "bajada": "Desgarro grado 2 en el gemelo: afuera el jueves y carrera contra el reloj para Montevideo.",
+      "fecha": "2026-11-10T21:47:00-03:00",
+      "fuente": "El Eco de Tandil",
+      "url": "https://www.eleco.com.ar/deportes/alexis-castro-otra-duda-para-las-definiciones-de-estudiantes"
     },
     {
       "titulo": "Entre la gloria eterna y cuidar jugadores para la final",
@@ -323,6 +305,9 @@
     "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-tabla-anual-2026-con-las-clasificaciones-a-las-copas-libertadores-y-sudamericana-tras-nid08112026/",
     "https://www.futbolargentino.com/primera-division/promedios",
     "https://www.eldia.com/deportes/cronograma-para-la-venta-de-pasajes-a-montevideo-deportes_1794203554",
-    "https://www.0221.com.ar/estudiantes/quien-sera-el-reemplazante-joaquin-correa-la-supercopa-argentina-n137201"
+    "https://www.0221.com.ar/estudiantes/quien-sera-el-reemplazante-joaquin-correa-la-supercopa-argentina-n137201",
+    "https://noticiasargentinas.com/deportes/la-sensible-baja-que-sufrio-estudiantes--llega-a-la-final-de-la-libertadores-_a6af38619dea8ef7a642f4367",
+    "https://www.eleco.com.ar/deportes/alexis-castro-otra-duda-para-las-definiciones-de-estudiantes",
+    "https://www.0221.com.ar/estudiantes/franco-dominguez-avila-estiro-su-gran-momento-y-abrio-el-camino-la-goleada-la-reserva-estudiantes-n137260"
   ]
 }
