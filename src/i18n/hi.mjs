@@ -12,7 +12,6 @@ export default {
   secciones: 'सेक्शन',
   idiomas: 'भाषा',
   menu: { hoy: 'आज', partidos: 'मैच', tabla: 'तालिका', noticias: 'ख़बरें', club: 'क्लब' },
-  hoyKicker: 'Pincha आज',
   lineaTitulo: 'ताज़ा',
   ayer: 'कल',
   video: { kicker: 'गीत', verEnInstagram: 'Instagram पर देखें', verEnYoutube: 'YouTube पर देखें' },

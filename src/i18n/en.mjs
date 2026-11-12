@@ -12,7 +12,6 @@ export default {
   secciones: 'Sections',
   idiomas: 'Language',
   menu: { hoy: 'Today', partidos: 'Matches', tabla: 'Table', noticias: 'News', club: 'Club' },
-  hoyKicker: 'Pincha today',
   lineaTitulo: 'Latest',
   ayer: 'Yesterday',
   video: { kicker: 'The song', verEnInstagram: 'Watch on Instagram', verEnYoutube: 'Watch on YouTube' },

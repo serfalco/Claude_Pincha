@@ -13,7 +13,6 @@ export default {
   secciones: 'Secciones',
   idiomas: 'Idioma',
   menu: { hoy: 'Hoy', partidos: 'Partidos', tabla: 'Tabla', noticias: 'Noticias', club: 'Club' },
-  hoyKicker: 'Hoy en el Pincha',
   lineaTitulo: 'Lo último',
   ayer: 'Ayer',
   video: { kicker: 'La canción', verEnInstagram: 'Ver en Instagram', verEnYoutube: 'Ver en YouTube' },

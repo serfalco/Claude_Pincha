@@ -1,4 +1,5 @@
 import { html, raw } from '../lib/html.mjs';
+import { mascota } from './mascota.mjs';
 
 // Partido en vivo. Ocupa el lugar de la franja y la cuenta regresiva solo mientras se juega:
 // el HTML sale vacío y oculto; el script se activa desde 30 min antes del próximo partido hasta 5 h después,
@@ -11,6 +12,7 @@ export const vivo = ({ proximos }, { t, f }) => {
   return html`
 <section class="vivo" aria-live="polite" aria-labelledby="vivo-titulo" hidden>
   <p class="vivo__kicker"><span class="dot" aria-hidden="true"></span><span id="vivo-titulo">${t.vivo.kicker} · ${p.torneo}</span></p>
+  <span class="vivo__feli" aria-hidden="true">${raw(mascota('vivo'))}</span>
   <div class="vivo__caja">
     <div class="vivo__top"><span class="vivo__ronda"></span><span class="vivo__tag"></span></div>
     <div class="vivo__marcador">

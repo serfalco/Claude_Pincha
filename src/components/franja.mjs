@@ -1,6 +1,6 @@
 import { html, raw } from '../lib/html.mjs';
 import { icono } from './iconos.mjs';
-import { mascotaSVG, estadoPorResultado } from './mascota.mjs';
+import { mascota, estadoPorResultado } from './mascota.mjs';
 
 // Franja "en un vistazo" debajo del titular: próximo partido + último resultado,
 // y cuenta regresiva al partido marcado como `destacado` (ej. la final).
@@ -29,7 +29,7 @@ export const franja = ({ proximos, ultimo: u }, { t, f, site }) => {
     <span class="franja__rival">${t.vs} ${u.rival}</span>
     <span class="franja__dato">${u.golesPropios} - ${u.golesRival}</span>
     <span class="franja__meta">${t.estados[estado]} · <time datetime="${u.fecha}">${f.corta(u.fecha)}</time></span>
-    <span class="franja__mascota" aria-hidden="true">${raw(mascotaSVG(estado, { titulo: false }))}</span>
+    <span class="franja__mascota" aria-hidden="true">${raw(mascota(estado))}</span>
   </a>
 </div>
 ${dest && n >= 0
