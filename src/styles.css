@@ -165,7 +165,10 @@ abbr { text-decoration: none; }
 .dia__nav a { color: var(--rojo); text-decoration: none; }
 @media (prefers-color-scheme: dark) { .dia__nav a { color: #ff5a6e; } }
 .dias__titulo { font-size: 1.6rem; font-weight: 800; margin-bottom: 12px; }
-.dias__link { display: flex; flex-direction: column-reverse; gap: 2px; text-decoration: none; }
+.dias__link { display: flex; flex-direction: column; gap: 4px; text-decoration: none; }
+.dias__link .meta { margin-top: 0; font-size: .78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.dias__link .meta time { color: #8a7344; }
+:lang(zh) .dias__link .meta, :lang(hi) .dias__link .meta { letter-spacing: 0; text-transform: none; }
 .dias__hechos { margin: 10px 0 0; padding-left: 18px; display: grid; gap: 6px; font-size: .92rem; line-height: 1.4; }
 .dias__hechos a { color: inherit; text-decoration-color: var(--rojo); }
 .dias__mas { margin-top: 8px; font-size: .88rem; font-weight: 700; }

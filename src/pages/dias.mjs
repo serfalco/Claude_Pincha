@@ -21,7 +21,7 @@ ${header(ctx)}
     ${lista.map(
       ({ dia, href }) => html`<li class="news__item">
       <a class="dias__link" href="${href}">
-        <span class="meta"><time datetime="${dia.fecha}">${fecha(dia.fecha)}</time> · ${t.dias.hechos(dia.linea.length)}</span>
+        <span class="meta"><time datetime="${dia.fecha}">${fecha(dia.fecha)}</time></span>
         <span class="news__title">${tx(dia.titular) ?? t.dia.sinTitular}</span>
       </a>
       ${tx(dia.resumen) ? html`<p class="news__bajada">${tx(dia.resumen)}</p>` : ''}
