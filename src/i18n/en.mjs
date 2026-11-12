@@ -17,6 +17,13 @@ export default {
   ayer: 'Yesterday',
   video: { kicker: 'The song', verEnInstagram: 'Watch on Instagram', verEnYoutube: 'Watch on YouTube' },
   cuenta: { faltan: (n) => `${n} days to go`, hoy: 'It\'s today!', manana: 'It\'s tomorrow' },
+  vivo: {
+    kicker: 'Live', etiqueta: 'LIVE', final: 'Full time', entretiempo: 'Half time',
+    pen: '(pen)', ec: '(og)', penales: 'Penalties {l}-{v}',
+    titular: { gana: 'The Pincha are winning', empata: 'All square for the Pincha', pierde: 'The Pincha are behind', fin_gana: 'The Pincha win!', fin_empata: 'It ends level', fin_pierde: 'Defeat for the Pincha' },
+    ev: { golPropio: 'Pincha goal', golRival: '{r} goal', amarilla: 'Yellow card for {j}', roja: 'Red card for {j}', cambio: '{j} on, {s} off', inicio: 'Kick-off', entretiempo: 'Half time', segundo: 'Second half under way' },
+    nota: 'Updates automatically · data up to 1 minute behind · source: ESPN',
+  },
   proximo: 'Next match',
   proximos: 'Upcoming matches',
   ultimo: 'Latest result',

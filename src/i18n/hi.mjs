@@ -17,6 +17,13 @@ export default {
   ayer: 'कल',
   video: { kicker: 'गीत', verEnInstagram: 'Instagram पर देखें', verEnYoutube: 'YouTube पर देखें' },
   cuenta: { faltan: (n) => `${n} दिन बाक़ी`, hoy: 'आज है!', manana: 'कल है' },
+  vivo: {
+    kicker: 'लाइव', etiqueta: 'लाइव', final: 'फ़ुल टाइम', entretiempo: 'हाफ़ टाइम',
+    pen: '(पेनल्टी)', ec: '(आत्मघाती)', penales: 'पेनल्टी {l}-{v}',
+    titular: { gana: 'Pincha आगे', empata: 'मुक़ाबला बराबरी पर', pierde: 'Pincha पीछे', fin_gana: 'Pincha जीता!', fin_empata: 'मैच ड्रॉ', fin_pierde: 'Pincha हारा' },
+    ev: { golPropio: 'Pincha का गोल', golRival: '{r} का गोल', amarilla: '{j} को पीला कार्ड', roja: '{j} को लाल कार्ड', cambio: '{j} अंदर, {s} बाहर', inicio: 'मैच शुरू', entretiempo: 'हाफ़ टाइम', segundo: 'दूसरा हाफ़ शुरू' },
+    nota: 'अपने आप अपडेट · डेटा में 1 मिनट तक की देरी · स्रोत: ESPN',
+  },
   proximo: 'अगला मैच',
   proximos: 'आने वाले मैच',
   ultimo: 'ताज़ा नतीजा',
