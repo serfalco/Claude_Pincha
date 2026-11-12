@@ -1,24 +1,27 @@
 {
   "hoy": {
-    "titular": "Today from 5pm: a new sale of seated tickets for the final",
-    "resumen": "The club secured more category 2 seats (Olímpica stand at the Centenario, USD 250) for members who missed out, by points ranking, and there will also be a general sale. The squad travel to Córdoba this afternoon for Thursday's Supercopa, without Tucu Correa or Alexis Castro.",
+    "titular": "Extra seats sold out, and the Pincha are already in Córdoba",
+    "resumen": "The category 2 seats the club secured for Montevideo sold out within hours, amid complaints about the virtual queue; members will be told if any remain. The squad travelled to Córdoba for the Supercopa without Tucu Correa or Alexis Castro, and with Guido Carrillo fit again.",
     "puntos": [
-      "Seats for members at libertadores.eleventickets.com (choose «Socio Estudiantes»): 5–8pm, 545 to 400 points (outside La Plata 362 to 290); 8–10pm, 399 to 200 (289 to 150); 10pm–midnight, 199 to 0 (149 to 0). Very few available: points do not guarantee a ticket.",
+      "Supercopa at the Villagra: gates open at 5pm. Terraces via Bautista Mestre and La Tablada; seats via Bautista Mestre and Hualfín. TV: ESPN Premium and TNT Sports.",
       "Coaches to Montevideo (ARS 50,000 return, in the UNO app): Thursday 12 for members with 400+ points, Friday 13 for the rest, Saturday 14 general sale.",
-      "Supercopa tickets: online via Deportick, from ARS 65,000 to ARS 140,000, with ID."
+      "Seats for the final: sold out. The club will tell members if any more become available."
     ],
     "linea": [
       {
-        "texto": "The club announced a new sale of category 2 seats for the final: members by ranking from Window 2, plus the general public, today from 5pm."
+        "texto": "The club said the category 2 seats for the final have sold out; many fans complained about the virtual queue and the CONMEBOL website."
       },
       {
-        "texto": "The club confirmed Alexis Castro has a grade 2 calf tear: he misses the Supercopa and is a doubt for the final."
+        "texto": "Muslera, Núñez, Rojo, Piovi and Carrillo in the likely Supercopa line-up; Yael Falcón Pérez referees."
       },
       {
-        "texto": "With Castro ruled out, Medina tried two options to replace him against Independiente Rivadavia."
+        "texto": "Good news: Guido Carrillo has recovered and should start; Tomás Palacios travels but is set for the bench."
       },
       {
-        "texto": "The reserves beat San Martín (SJ) 3-0 at City Bell, with another fine afternoon from Franco Domínguez Ávila, and remain in the play-off race."
+        "texto": "Villagra entry points confirmed: terraces via Bautista Mestre and La Tablada, seats via Bautista Mestre and Hualfín."
+      },
+      {
+        "texto": "The squad travelled to Córdoba without Correa or Castro, who is being saved for Montevideo."
       }
     ]
   },
@@ -119,16 +122,16 @@
   },
   "noticias": [
     {
-      "titulo": "More seats for Montevideo",
-      "bajada": "Category 2 in the Olímpica stand, USD 250: ranking windows for members who missed out, plus a general sale."
+      "titulo": "Seats sold out, and another wave of complaints",
+      "bajada": "The extra category 2 sale was over within hours; the club will say if any remain."
+    },
+    {
+      "titulo": "Supercopa: Thursday at 8pm in Córdoba",
+      "bajada": "Date, kick-off time and TV for the final against Independiente Rivadavia at the Gigante de Alberdi."
     },
     {
       "titulo": "Alexis Castro, the other doubt for the decisive games",
       "bajada": "Grade 2 calf tear: out on Thursday and a race against time for Montevideo."
-    },
-    {
-      "titulo": "Between eternal glory and protecting players for the final",
-      "bajada": "Medina's dilemma, with the Supercopa in between."
     },
     {
       "titulo": "Coaches to Montevideo at ARS 50,000: the schedule",

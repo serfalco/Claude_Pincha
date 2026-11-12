@@ -1,24 +1,27 @@
 {
   "hoy": {
-    "titular": "Hoje a partir das 17h: nova venda de cadeiras para a final",
-    "resumen": "O clube conseguiu mais cadeiras de categoria 2 (arquibancada Olímpica do Centenario, USD 250) para sócios que não conseguiram comprar, por ranking, e também haverá venda geral. O elenco viaja hoje à tarde a Córdoba para a Supercopa de quinta, sem Tucu Correa nem Alexis Castro.",
+    "titular": "Cadeiras extras esgotadas, e o Pincha já está em Córdoba",
+    "resumen": "As cadeiras de categoria 2 que o clube conseguiu para Montevidéu esgotaram em poucas horas, entre reclamações sobre a fila virtual; se sobrar algum lote, os sócios serão avisados. O elenco viajou a Córdoba para a Supercopa sem Tucu Correa nem Alexis Castro, e com Guido Carrillo recuperado.",
     "puntos": [
-      "Cadeiras para sócios em libertadores.eleventickets.com (opção «Socio Estudiantes»): 17h às 20h, 545 a 400 pontos (interior 362 a 290); 20h às 22h, 399 a 200 (289 a 150); 22h às 24h, 199 a 0 (149 a 0). São muito poucas: a pontuação não garante ingresso.",
+      "Supercopa no Villagra: portões abertos às 17h. Arquibancada popular por Bautista Mestre e La Tablada; cadeiras por Bautista Mestre e Hualfín. TV: ESPN Premium e TNT Sports.",
       "Ônibus para Montevidéu (ARS 50.000 ida e volta, no app UNO): quinta 12 sócios com +400 pontos, sexta 13 os demais, sábado 14 venda geral.",
-      "Ingressos da Supercopa: online pela Deportick, de ARS 65.000 a ARS 140.000, com documento."
+      "Cadeiras para a final: esgotadas. O clube avisará os sócios se surgir algum lote."
     ],
     "linea": [
       {
-        "texto": "O clube anunciou nova venda de cadeiras de categoria 2 para a final: sócios por ranking a partir da Janela 2 e também público geral, hoje a partir das 17h."
+        "texto": "O clube informou que as cadeiras de categoria 2 para a final esgotaram; houve muitas reclamações sobre a fila virtual e o site da CONMEBOL."
       },
       {
-        "texto": "O clube confirmou que Alexis Castro tem uma lesão grau 2 na panturrilha: perde a Supercopa e é dúvida para a final."
+        "texto": "Muslera, Núñez, Rojo, Piovi e Carrillo no provável time para a Supercopa; o árbitro é Yael Falcón Pérez."
       },
       {
-        "texto": "Com Castro descartado, Medina testou duas alternativas para substituí-lo contra o Independiente Rivadavia."
+        "texto": "Boa notícia: Guido Carrillo se recuperou e deve ser titular; Tomás Palacios viaja, mas começaria no banco."
       },
       {
-        "texto": "O time reserva venceu o San Martín (SJ) por 3 a 0 em City Bell, com outra grande tarde de Franco Domínguez Ávila, e segue na briga pelos playoffs."
+        "texto": "Acessos ao Villagra confirmados: popular por Bautista Mestre e La Tablada, cadeiras por Bautista Mestre e Hualfín."
+      },
+      {
+        "texto": "O elenco viajou a Córdoba sem Correa nem Castro, que é poupado para Montevidéu."
       }
     ]
   },
@@ -119,16 +122,16 @@
   },
   "noticias": [
     {
-      "titulo": "Mais cadeiras para Montevidéu",
-      "bajada": "Categoria 2 na Olímpica, USD 250: janelas por ranking para sócios que ficaram sem ingresso, e venda geral."
+      "titulo": "Cadeiras esgotadas e nova onda de reclamações",
+      "bajada": "A venda extra de categoria 2 acabou em horas; o clube avisará se sobrar algum lote."
+    },
+    {
+      "titulo": "Supercopa: quinta às 20h em Córdoba",
+      "bajada": "Dia, horário e TV da final contra o Independiente Rivadavia no Gigante de Alberdi."
     },
     {
       "titulo": "Alexis Castro, a outra dúvida para as decisões",
       "bajada": "Lesão grau 2 na panturrilha: fora na quinta e corrida contra o tempo por Montevidéu."
-    },
-    {
-      "titulo": "Entre a glória eterna e poupar jogadores para a final",
-      "bajada": "O dilema de Medina, com a Supercopa no meio."
     },
     {
       "titulo": "Ônibus para Montevidéu a ARS 50.000: o cronograma",

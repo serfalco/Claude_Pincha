@@ -1,24 +1,27 @@
 {
   "hoy": {
-    "titular": "今天17点起：决赛看台座位票再次开售",
-    "resumen": "俱乐部争取到更多二类座位（Centenario球场Olímpica看台，250美元），按积分优先卖给此前没买到票的会员，同时也有公开发售。球队今天下午前往科尔多瓦备战周四的超级杯，Tucu Correa和Alexis Castro缺阵。",
+    "titular": "追加座位票售罄，Pincha已抵达科尔多瓦",
+    "resumen": "俱乐部为蒙得维的亚决赛争取到的二类座位票在几小时内售罄，球迷对线上排队颇有怨言；若有余票，俱乐部将通知会员。球队已前往科尔多瓦出战Supercopa Argentina，Tucu Correa和Alexis Castro缺阵，Guido Carrillo已经伤愈。",
     "puntos": [
-      "会员座位票在libertadores.eleventickets.com购买（选择“Socio Estudiantes”）：17至20点，积分545至400（外地会员362至290）；20至22点，399至200（289至150）；22至24点，199至0（149至0）。数量极少：积分不保证能买到票。",
-      "前往蒙得维的亚的大巴（往返5万阿根廷比索，在UNO应用购买）：12日（周四）积分400以上的会员，13日（周五）其他会员，14日（周六）公开发售。",
-      "超级杯门票：通过Deportick在线购买，6.5万至14万阿根廷比索，需身份证件。"
+      "Villagra球场的Supercopa Argentina：17点开门。看台区从Bautista Mestre与La Tablada路口入场；座位区从Bautista Mestre与Hualfín路口入场。转播：ESPN Premium和TNT Sports。",
+      "前往蒙得维的亚的大巴（往返ARS 50,000，在UNO应用购买）：12日周四积分400以上会员，13日周五其余会员，14日周六公开发售。",
+      "决赛座位票：已售罄。若有余票，俱乐部将通知会员。"
     ],
     "linea": [
       {
-        "texto": "俱乐部宣布决赛二类座位票再次开售：会员从第2时段起按积分购买，另有公开发售，今天17点开始。"
+        "texto": "俱乐部宣布决赛二类座位票已售罄；许多球迷抱怨线上排队和CONMEBOL网站的问题。"
       },
       {
-        "texto": "俱乐部确认Alexis Castro小腿二级拉伤：缺席超级杯，决赛成疑。"
+        "texto": "Muslera、Núñez、Rojo、Piovi和Carrillo进入Supercopa Argentina预计首发；主裁判为Yael Falcón Pérez。"
       },
       {
-        "texto": "Castro确定缺阵，梅迪纳尝试了两套替代方案迎战Independiente Rivadavia。"
+        "texto": "好消息：Guido Carrillo伤愈，有望首发；Tomás Palacios随队出征，但预计替补。"
       },
       {
-        "texto": "预备队在City Bell以3比0击败San Martín（圣胡安），Franco Domínguez Ávila再度出色，球队仍在争夺季后赛资格。"
+        "texto": "Villagra球场入口确定：看台区走Bautista Mestre与La Tablada，座位区走Bautista Mestre与Hualfín。"
+      },
+      {
+        "texto": "球队前往科尔多瓦，Correa和Castro未随队，后者为蒙得维的亚决赛保存体力。"
       }
     ]
   },
@@ -119,16 +122,16 @@
   },
   "noticias": [
     {
-      "titulo": "蒙得维的亚决赛再添座位票",
-      "bajada": "Olímpica看台二类座位，250美元：为没买到票的会员按积分分时段销售，另有公开发售。"
+      "titulo": "座位票售罄，球迷再度抱怨",
+      "bajada": "追加的二类座位票几小时内售完；若有余票，俱乐部将另行通知。"
+    },
+    {
+      "titulo": "Supercopa Argentina：周四20点科尔多瓦开战",
+      "bajada": "对阵Independiente Rivadavia的决赛日期、时间与转播，地点Gigante de Alberdi。"
     },
     {
       "titulo": "Alexis Castro，关键战役的又一疑问",
       "bajada": "小腿二级拉伤：周四缺阵，与时间赛跑争取赶上蒙得维的亚。"
-    },
-    {
-      "titulo": "在永恒荣耀与为决赛保护球员之间",
-      "bajada": "超级杯夹在中间，梅迪纳的两难选择。"
     },
     {
       "titulo": "前往蒙得维的亚的大巴票价ARS 50,000：销售安排",
