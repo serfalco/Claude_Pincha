@@ -2,7 +2,7 @@ import { icono } from '../components/iconos.mjs';
 import { html, raw } from '../lib/html.mjs';
 import { header } from '../components/header.mjs';
 import { footer } from '../components/footer.mjs';
-import { mascotaSVG } from '../components/mascota.mjs';
+import { mascota } from '../components/mascota.mjs';
 
 // Sección global: /mundo/. Nota de bienvenida, sueño del Mundial de Clubes, filiales y cómo armar una.
 // Los nombres de países salen de Intl en cada idioma (no hace falta traducirlos).
@@ -30,7 +30,7 @@ ${header(ctx)}
         <p class="kicker"><span class="dot" aria-hidden="true"></span>${t.mundo.kicker}</p>
         <h1 id="mundo-titulo" class="hoy__titular">${m.nota.titulo}</h1>
       </div>
-      <div class="mundo__mascota" aria-hidden="true">${raw(mascotaSVG('ganamos', { titulo: false }))}</div>
+      <div class="mundo__mascota" aria-hidden="true">${raw(mascota('ganamos'))}</div>
     </div>
     <div class="wrap">${m.nota.parrafos.map((p) => html`<p class="hoy__resumen">${p}</p>`)}</div>
   </section>

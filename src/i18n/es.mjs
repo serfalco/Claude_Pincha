@@ -13,7 +13,6 @@ export default {
   secciones: 'Secciones',
   idiomas: 'Idioma',
   menu: { hoy: 'Hoy', partidos: 'Partidos', tabla: 'Tabla', noticias: 'Noticias', club: 'Club' },
-  hoyKicker: 'Hoy en el Pincha',
   lineaTitulo: 'Lo último',
   ayer: 'Ayer',
   video: { kicker: 'La canción', verEnInstagram: 'Ver en Instagram', verEnYoutube: 'Ver en YouTube' },
@@ -55,7 +54,7 @@ export default {
     anterior: 'Día anterior',
     siguiente: 'Día siguiente',
     todos: 'Todos los días',
-    verDia: 'Ver el día completo',
+    verDia: 'Ver toda la info',
   },
   dias: {
     title: 'Historial día por día · El Pincha Hoy',

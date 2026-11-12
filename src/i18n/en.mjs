@@ -12,7 +12,6 @@ export default {
   secciones: 'Sections',
   idiomas: 'Language',
   menu: { hoy: 'Today', partidos: 'Matches', tabla: 'Table', noticias: 'News', club: 'Club' },
-  hoyKicker: 'Pincha today',
   lineaTitulo: 'Latest',
   ayer: 'Yesterday',
   video: { kicker: 'The song', verEnInstagram: 'Watch on Instagram', verEnYoutube: 'Watch on YouTube' },
@@ -54,7 +53,7 @@ export default {
     anterior: 'Previous day',
     siguiente: 'Next day',
     todos: 'All days',
-    verDia: 'See the full day',
+    verDia: 'See all the news',
   },
   dias: {
     title: 'Day by day archive · El Pincha Hoy',

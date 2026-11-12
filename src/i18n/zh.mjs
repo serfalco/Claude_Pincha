@@ -11,7 +11,6 @@ export default {
   secciones: '栏目',
   idiomas: '语言',
   menu: { hoy: '今日', partidos: '比赛', tabla: '积分榜', noticias: '新闻', club: '俱乐部' },
-  hoyKicker: 'Pincha 今日',
   lineaTitulo: '最新动态',
   ayer: '昨天',
   video: { kicker: '这首歌', verEnInstagram: '在Instagram观看', verEnYoutube: '在YouTube观看' },
@@ -51,7 +50,7 @@ export default {
     anterior: '前一天',
     siguiente: '后一天',
     todos: '全部日期',
-    verDia: '查看当天全部动态',
+    verDia: '查看全部信息',
   },
   dias: {
     title: '每日回顾 · El Pincha Hoy',

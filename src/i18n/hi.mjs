@@ -12,7 +12,6 @@ export default {
   secciones: 'सेक्शन',
   idiomas: 'भाषा',
   menu: { hoy: 'आज', partidos: 'मैच', tabla: 'तालिका', noticias: 'ख़बरें', club: 'क्लब' },
-  hoyKicker: 'Pincha आज',
   lineaTitulo: 'ताज़ा',
   ayer: 'कल',
   video: { kicker: 'गीत', verEnInstagram: 'Instagram पर देखें', verEnYoutube: 'YouTube पर देखें' },
@@ -52,7 +51,7 @@ export default {
     anterior: 'पिछला दिन',
     siguiente: 'अगला दिन',
     todos: 'सभी दिन',
-    verDia: 'पूरा दिन देखें',
+    verDia: 'पूरी जानकारी देखें',
   },
   dias: {
     title: 'दिन-ब-दिन · El Pincha Hoy',

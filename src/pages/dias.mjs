@@ -21,9 +21,14 @@ ${header(ctx)}
     ${lista.map(
       ({ dia, href }) => html`<li class="news__item">
       <a class="dias__link" href="${href}">
-        <span class="meta"><time datetime="${dia.fecha}">${fecha(dia.fecha)}</time> · ${t.dias.hechos(dia.linea.length)}</span>
+        <span class="meta"><time datetime="${dia.fecha}">${fecha(dia.fecha)}</time></span>
         <span class="news__title">${tx(dia.titular) ?? t.dia.sinTitular}</span>
       </a>
+      ${tx(dia.resumen) ? html`<p class="news__bajada">${tx(dia.resumen)}</p>` : ''}
+      ${dia.linea.length
+        ? html`<ul class="dias__hechos">${dia.linea.slice(0, 4).map((n) => html`<li>${n.url ? html`<a href="${n.url}" rel="noopener">${tx(n.texto)}</a>` : tx(n.texto)}</li>`)}</ul>
+      ${dia.linea.length > 4 ? html`<p class="dias__mas"><a href="${href}">${t.dias.hechos(dia.linea.length)} →</a></p>` : ''}`
+        : ''}
     </li>`
     )}
   </ul>
