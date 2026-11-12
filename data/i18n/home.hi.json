@@ -1,13 +1,16 @@
 {
   "hoy": {
-    "titular": "अतिरिक्त सीटें बिक गईं, और Pincha पहुंच चुका है Córdoba",
-    "resumen": "क्लब ने Montevideo के लिए जो कैटेगरी 2 सीटें हासिल की थीं, वे कुछ ही घंटों में बिक गईं, वर्चुअल कतार को लेकर शिकायतों के बीच; अगर कुछ टिकट बचते हैं तो सदस्यों को बताया जाएगा। टीम Supercopa Argentina के लिए Córdoba पहुंच गई है, Tucu Correa और Alexis Castro के बिना, और Guido Carrillo फिट होकर लौटे हैं।",
+    "titular": "फ़ाइनल का दिन: Pincha अपने 20वें ख़िताब की तलाश में",
+    "resumen": "Montevideo से पहले यह आख़िरी मुक़ाबला है और Córdoba के Villagra में ख़िताब दांव पर है। Estudiantes, Tucu Correa और Alexis Castro के बिना उतरेगा, Guido Carrillo फिट हो चुके हैं, और फ़ाइनल की अतिरिक्त सीटें पहले ही बिक चुकी हैं।",
     "puntos": [
       "Villagra में Supercopa Argentina: गेट शाम 5 बजे खुलेंगे। पॉपुलर स्टैंड का प्रवेश Bautista Mestre और La Tablada से; सीटों का Bautista Mestre और Hualfín से। प्रसारण: ESPN Premium और TNT Sports।",
-      "Montevideo के लिए बसें (आना-जाना ARS 50,000, UNO ऐप में): गुरुवार 12 को 400+ अंक वाले सदस्य, शुक्रवार 13 को बाकी, शनिवार 14 को आम बिक्री।",
+      "Montevideo के लिए बसें (आना-जाना ARS 50,000, UNO ऐप में): आज से 400+ अंक वाले सदस्य; शुक्रवार 13 को बाकी सदस्य; शनिवार 14 को आम बिक्री।",
       "फ़ाइनल की सीटें: बिक चुकी हैं। अगर और टिकट आते हैं तो क्लब सदस्यों को बताएगा।"
     ],
     "linea": [
+      {
+        "texto": "आज रात जीत मिली तो Pincha के इतिहास का 20वाँ ख़िताब होगा; रेफ़री Yael Falcón Pérez, VAR पर Héctor Paletta।"
+      },
       {
         "texto": "क्लब ने बताया कि फ़ाइनल की कैटेगरी 2 सीटें बिक चुकी हैं; कई प्रशंसकों ने वर्चुअल कतार और CONMEBOL वेबसाइट की शिकायत की।"
       },
@@ -19,9 +22,6 @@
       },
       {
         "texto": "Villagra के प्रवेश द्वार तय: पॉपुलर स्टैंड Bautista Mestre और La Tablada से, सीटें Bautista Mestre और Hualfín से।"
-      },
-      {
-        "texto": "टीम Correa और Castro के बिना Córdoba रवाना हुई; Castro को Montevideo के लिए बचाया जा रहा है।"
       }
     ]
   },

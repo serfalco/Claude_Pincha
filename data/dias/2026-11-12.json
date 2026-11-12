@@ -1,0 +1,39 @@
+{
+  "fecha": "2026-11-12",
+  "titular": {
+    "es": "Día de final: el Pincha va por su estrella 20",
+    "en": "Final day: the Pincha go for their 20th star",
+    "pt": "Dia de final: o Pincha vai atrás da sua estrela 20",
+    "zh": "决赛日：Pincha冲击队史第20座冠军",
+    "hi": "फ़ाइनल का दिन: Pincha अपने 20वें ख़िताब की तलाश में"
+  },
+  "resumen": {
+    "es": "Es el último partido antes de Montevideo y hay un título en juego en el Villagra de Córdoba. Estudiantes llega sin el Tucu Correa ni Alexis Castro, con Guido Carrillo recuperado, y con las plateas extra para la final ya agotadas.",
+    "en": "It is the last game before Montevideo and there is a trophy at stake at the Villagra in Córdoba. Estudiantes arrive without Tucu Correa or Alexis Castro, with Guido Carrillo fit again, and with the extra seats for the final already sold out.",
+    "pt": "É o último jogo antes de Montevidéu e há um título em jogo no Villagra, em Córdoba. O Estudiantes chega sem Tucu Correa nem Alexis Castro, com Guido Carrillo recuperado e com os ingressos extras de cadeira para a final já esgotados.",
+    "zh": "这是前往蒙得维的亚之前的最后一战，科尔多瓦的Villagra球场将决出冠军。Estudiantes缺少Tucu Correa和Alexis Castro，Guido Carrillo已经伤愈，而决赛的加售看台票已经售罄。",
+    "hi": "Montevideo से पहले यह आख़िरी मुक़ाबला है और Córdoba के Villagra में ख़िताब दांव पर है। Estudiantes, Tucu Correa और Alexis Castro के बिना उतरेगा, Guido Carrillo फिट हो चुके हैं, और फ़ाइनल की अतिरिक्त सीटें पहले ही बिक चुकी हैं।"
+  },
+  "ultimo": {
+    "rival": "Talleres",
+    "golesPropios": 1,
+    "golesRival": 1,
+    "fecha": "2026-11-07T15:00:00-03:00",
+    "torneo": "Torneo Clausura · Fecha 16",
+    "condicion": "visitante"
+  },
+  "linea": [
+    {
+      "hora": "2026-11-12T07:58:00-03:00",
+      "fuente": "LV12",
+      "url": "https://www.lv12.com.ar/estudiantes/estudiantes-y-independiente-rivadavia-se-miden-la-supercopa-argentina-n206524",
+      "texto": {
+        "es": "Si gana esta noche, el Pincha suma el título número 20 de su historia; arbitra Yael Falcón Pérez con Héctor Paletta en el VAR.",
+        "en": "A win tonight would give the Pincha the 20th title in their history; Yael Falcón Pérez referees, with Héctor Paletta on VAR.",
+        "pt": "Se vencer esta noite, o Pincha soma o 20º título da sua história; Yael Falcón Pérez apita, com Héctor Paletta no VAR.",
+        "zh": "今晚若获胜，Pincha将拿下队史第20座冠军；主裁判Yael Falcón Pérez，VAR为Héctor Paletta。",
+        "hi": "आज रात जीत मिली तो Pincha के इतिहास का 20वाँ ख़िताब होगा; रेफ़री Yael Falcón Pérez, VAR पर Héctor Paletta।"
+      }
+    }
+  ]
+}

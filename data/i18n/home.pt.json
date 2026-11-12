@@ -1,13 +1,16 @@
 {
   "hoy": {
-    "titular": "Cadeiras extras esgotadas, e o Pincha já está em Córdoba",
-    "resumen": "As cadeiras de categoria 2 que o clube conseguiu para Montevidéu esgotaram em poucas horas, entre reclamações sobre a fila virtual; se sobrar algum lote, os sócios serão avisados. O elenco viajou a Córdoba para a Supercopa sem Tucu Correa nem Alexis Castro, e com Guido Carrillo recuperado.",
+    "titular": "Dia de final: o Pincha vai atrás da sua estrela 20",
+    "resumen": "É o último jogo antes de Montevidéu e há um título em jogo no Villagra, em Córdoba. O Estudiantes chega sem Tucu Correa nem Alexis Castro, com Guido Carrillo recuperado e com os ingressos extras de cadeira para a final já esgotados.",
     "puntos": [
       "Supercopa no Villagra: portões abertos às 17h. Arquibancada popular por Bautista Mestre e La Tablada; cadeiras por Bautista Mestre e Hualfín. TV: ESPN Premium e TNT Sports.",
-      "Ônibus para Montevidéu (ARS 50.000 ida e volta, no app UNO): quinta 12 sócios com +400 pontos, sexta 13 os demais, sábado 14 venda geral.",
+      "Ônibus para Montevidéu (ARS 50.000 ida e volta, no app UNO): a partir de hoje, sócios com 400+ pontos; sexta 13 os demais; sábado 14 venda geral.",
       "Cadeiras para a final: esgotadas. O clube avisará os sócios se surgir algum lote."
     ],
     "linea": [
+      {
+        "texto": "Se vencer esta noite, o Pincha soma o 20º título da sua história; Yael Falcón Pérez apita, com Héctor Paletta no VAR."
+      },
       {
         "texto": "O clube informou que as cadeiras de categoria 2 para a final esgotaram; houve muitas reclamações sobre a fila virtual e o site da CONMEBOL."
       },
@@ -19,9 +22,6 @@
       },
       {
         "texto": "Acessos ao Villagra confirmados: popular por Bautista Mestre e La Tablada, cadeiras por Bautista Mestre e Hualfín."
-      },
-      {
-        "texto": "O elenco viajou a Córdoba sem Correa nem Castro, que é poupado para Montevidéu."
       }
     ]
   },

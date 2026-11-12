@@ -1,13 +1,16 @@
 {
   "hoy": {
-    "titular": "Extra seats sold out, and the Pincha are already in Córdoba",
-    "resumen": "The category 2 seats the club secured for Montevideo sold out within hours, amid complaints about the virtual queue; members will be told if any remain. The squad travelled to Córdoba for the Supercopa without Tucu Correa or Alexis Castro, and with Guido Carrillo fit again.",
+    "titular": "Final day: the Pincha go for their 20th star",
+    "resumen": "It is the last game before Montevideo and there is a trophy at stake at the Villagra in Córdoba. Estudiantes arrive without Tucu Correa or Alexis Castro, with Guido Carrillo fit again, and with the extra seats for the final already sold out.",
     "puntos": [
       "Supercopa at the Villagra: gates open at 5pm. Terraces via Bautista Mestre and La Tablada; seats via Bautista Mestre and Hualfín. TV: ESPN Premium and TNT Sports.",
-      "Coaches to Montevideo (ARS 50,000 return, in the UNO app): Thursday 12 for members with 400+ points, Friday 13 for the rest, Saturday 14 general sale.",
+      "Coaches to Montevideo (ARS 50,000 return, in the UNO app): from today, members with 400+ points; Friday 13 the rest; Saturday 14 general sale.",
       "Seats for the final: sold out. The club will tell members if any more become available."
     ],
     "linea": [
+      {
+        "texto": "A win tonight would give the Pincha the 20th title in their history; Yael Falcón Pérez referees, with Héctor Paletta on VAR."
+      },
       {
         "texto": "The club said the category 2 seats for the final have sold out; many fans complained about the virtual queue and the CONMEBOL website."
       },
@@ -19,9 +22,6 @@
       },
       {
         "texto": "Villagra entry points confirmed: terraces via Bautista Mestre and La Tablada, seats via Bautista Mestre and Hualfín."
-      },
-      {
-        "texto": "The squad travelled to Córdoba without Correa or Castro, who is being saved for Montevideo."
       }
     ]
   },

@@ -1,13 +1,16 @@
 {
   "hoy": {
-    "titular": "追加座位票售罄，Pincha已抵达科尔多瓦",
-    "resumen": "俱乐部为蒙得维的亚决赛争取到的二类座位票在几小时内售罄，球迷对线上排队颇有怨言；若有余票，俱乐部将通知会员。球队已前往科尔多瓦出战Supercopa Argentina，Tucu Correa和Alexis Castro缺阵，Guido Carrillo已经伤愈。",
+    "titular": "决赛日：Pincha冲击队史第20座冠军",
+    "resumen": "这是前往蒙得维的亚之前的最后一战，科尔多瓦的Villagra球场将决出冠军。Estudiantes缺少Tucu Correa和Alexis Castro，Guido Carrillo已经伤愈，而决赛的加售看台票已经售罄。",
     "puntos": [
       "Villagra球场的Supercopa Argentina：17点开门。看台区从Bautista Mestre与La Tablada路口入场；座位区从Bautista Mestre与Hualfín路口入场。转播：ESPN Premium和TNT Sports。",
-      "前往蒙得维的亚的大巴（往返ARS 50,000，在UNO应用购买）：12日周四积分400以上会员，13日周五其余会员，14日周六公开发售。",
+      "前往蒙得维的亚的大巴（往返ARS 50,000，在UNO应用购买）：今天起积分400以上的会员购买；13日周五其他会员；14日周六公开发售。",
       "决赛座位票：已售罄。若有余票，俱乐部将通知会员。"
     ],
     "linea": [
+      {
+        "texto": "今晚若获胜，Pincha将拿下队史第20座冠军；主裁判Yael Falcón Pérez，VAR为Héctor Paletta。"
+      },
       {
         "texto": "俱乐部宣布决赛二类座位票已售罄；许多球迷抱怨线上排队和CONMEBOL网站的问题。"
       },
@@ -19,9 +22,6 @@
       },
       {
         "texto": "Villagra球场入口确定：看台区走Bautista Mestre与La Tablada，座位区走Bautista Mestre与Hualfín。"
-      },
-      {
-        "texto": "球队前往科尔多瓦，Correa和Castro未随队，后者为蒙得维的亚决赛保存体力。"
       }
     ]
   },
