@@ -9,5 +9,5 @@ export default {
   colorTema: '#17171a',
   // El primero es el idioma base (va en "/"); el resto va en "/<idioma>/".
   idiomas: ['es', 'en', 'pt', 'zh', 'hi'],
-  secciones: ['hoy', 'partidos', 'tabla', 'noticias', 'club'],
+  secciones: ['hoy', 'partidos', 'club', 'noticias', 'tabla'],
 };

@@ -70,13 +70,22 @@ const campania = (c, socios, { t }) => {
 </article>`;
 };
 
+// Campaña de socios: bloque propio, va arriba en la home (justo después de Hoy).
+export const socio = ({ club: c }, ctx) =>
+  c?.campania
+    ? html`
+<section id="club" class="wrap block" aria-labelledby="club-titulo">
+  <h2 id="club-titulo" class="block__title">${icono('escudo')}${ctx.t.club}</h2>
+  ${campania(c.campania, c.socios, ctx)}
+</section>`
+    : '';
+
+// Los números del club (socios y balance): al final de la home.
 export const club = ({ club: c }, ctx) => {
   if (!c) return '';
   const { t } = ctx;
   return html`
-<section id="club" class="wrap block" aria-labelledby="club-titulo">
-  <h2 id="club-titulo" class="block__title">${icono('escudo')}${t.club}</h2>
-  ${c.campania ? campania(c.campania, c.socios, ctx) : ''}
+<section${c.campania ? '' : html` id="club"`} class="wrap block" aria-label="${t.balance}">
   <div class="grid-2 grid-2--tight">
     <article class="card">
       <h3 class="card__label">${icono('persona')}${t.socios}</h3>
