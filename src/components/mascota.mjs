@@ -1,6 +1,6 @@
 // Feli: mascota del sitio, inspirado en Felipe, el primer pincharrata.
 // Una imagen por estado en public/feli/; se elige según el último resultado (ver estadoPorResultado).
-// "vivo" se usa mientras se juega el partido.
+// Durante el partido: "vivo" (nervioso), "gol-pincha" y "gol-rival" (los cambia public/vivo.js).
 
 export const ESTADOS = {
   goleamos: 'Goleamos',
@@ -23,6 +23,7 @@ export const estadoPorResultado = (propios, rival) => {
 const TAM = {
   goleamos: [260, 400], ganamos: [260, 475], empatamos: [260, 464],
   perdimos: [260, 463], golearon: [260, 480], vivo: [260, 266],
+  'gol-pincha': [260, 270], 'gol-rival': [260, 269],
 };
 
 export const mascota = (estado = 'ganamos', { alt = '', clase = '' } = {}) => {

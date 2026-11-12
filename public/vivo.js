@@ -18,6 +18,17 @@
   let visto = 0;
   let timer;
 
+  // Feli reacciona: festeja o se agarra la cabeza hasta 5 minutos después de un gol; si no, mira nervioso.
+  // Terminado: festeja si ganamos, se agarra la cabeza si perdimos, queda nervioso si empatamos.
+  const feli = $('.vivo__feli img');
+  const minuto = (s) => parseInt(String(s ?? ''), 10) || 0;
+  const cara = (d, dif, final) => {
+    if (final) return dif > 0 ? 'gol-pincha' : dif < 0 ? 'gol-rival' : 'vivo';
+    const gol = d.eventos.filter((e) => e.tipo === 'gol').at(-1);
+    if (gol && !d.entretiempo && minuto(d.reloj) - minuto(gol.min) <= 5) return gol.equipo === 'propio' ? 'gol-pincha' : 'gol-rival';
+    return 'vivo';
+  };
+
   const goleadores = (d, propio) => {
     const porJugador = new Map();
     for (const e of d.eventos) {
@@ -71,6 +82,7 @@
       .join('');
     visto = evs.length;
 
+    if (feli) { const src = `/feli/${cara(d, dif, final)}.webp`; if (!feli.src.endsWith(src)) feli.src = src; }
     if (titulo) titulo.textContent = T.titular[clave];
     el.hidden = false;
     document.querySelectorAll('.franja, .cuenta').forEach((x) => (x.hidden = true));
