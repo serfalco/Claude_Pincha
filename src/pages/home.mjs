@@ -4,6 +4,7 @@ import { header } from '../components/header.mjs';
 import { hoy } from '../components/hoy.mjs';
 import { video } from '../components/video.mjs';
 import { franja } from '../components/franja.mjs';
+import { vivo } from '../components/vivo.mjs';
 import { partidos } from '../components/partidos.mjs';
 import { tabla } from '../components/tabla.mjs';
 import { noticias } from '../components/noticias.mjs';
@@ -72,7 +73,7 @@ export default (ctx, data) => {
     body: html`
 ${header(ctxF)}
 <main>
-  ${hoy(data, ctxF, video(data, ctxF), franja(data, ctxF))}
+  ${hoy(data, ctxF, video(data, ctxF), html`${vivo(data, ctxF)}${franja(data, ctxF)}`)}
   ${partidos(data, ctxF)}
   ${tabla(data, ctxF)}
   ${noticias(data, ctxF)}

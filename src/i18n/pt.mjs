@@ -17,6 +17,13 @@ export default {
   ayer: 'Ontem',
   video: { kicker: 'A canção', verEnInstagram: 'Ver no Instagram', verEnYoutube: 'Ver no YouTube' },
   cuenta: { faltan: (n) => `Faltam ${n} dias`, hoy: 'É hoje!', manana: 'É amanhã' },
+  vivo: {
+    kicker: 'Ao vivo', etiqueta: 'AO VIVO', final: 'Encerrado', entretiempo: 'Intervalo',
+    pen: '(pên.)', ec: '(contra)', penales: 'Pênaltis {l}-{v}',
+    titular: { gana: 'O Pincha está vencendo', empata: 'O Pincha está empatando', pierde: 'O Pincha está perdendo', fin_gana: 'Vitória do Pincha!', fin_empata: 'Terminou empatado', fin_pierde: 'Derrota do Pincha' },
+    ev: { golPropio: 'Gol do Pincha', golRival: 'Gol do {r}', amarilla: 'Amarelo para {j}', roja: 'Vermelho para {j}', cambio: 'Entra {j}, sai {s}', inicio: 'Começou o jogo', entretiempo: 'Intervalo', segundo: 'Começou o segundo tempo' },
+    nota: 'Atualiza sozinho · dados com até 1 minuto de atraso · fonte: ESPN',
+  },
   proximo: 'Próximo jogo',
   proximos: 'Próximos jogos',
   ultimo: 'Último resultado',

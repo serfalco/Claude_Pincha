@@ -16,6 +16,13 @@ export default {
   ayer: '昨天',
   video: { kicker: '这首歌', verEnInstagram: '在Instagram观看', verEnYoutube: '在YouTube观看' },
   cuenta: { faltan: (n) => `还有 ${n} 天`, hoy: '就是今天！', manana: '就在明天' },
+  vivo: {
+    kicker: '直播', etiqueta: '直播中', final: '全场结束', entretiempo: '中场休息',
+    pen: '（点球）', ec: '（乌龙）', penales: '点球 {l}-{v}',
+    titular: { gana: 'Pincha领先', empata: 'Pincha战平中', pierde: 'Pincha落后', fin_gana: 'Pincha获胜！', fin_empata: '双方战平', fin_pierde: 'Pincha告负' },
+    ev: { golPropio: 'Pincha进球', golRival: '{r}进球', amarilla: '{j}吃到黄牌', roja: '{j}被红牌罚下', cambio: '{j}替换{s}', inicio: '比赛开始', entretiempo: '中场休息', segundo: '下半场开始' },
+    nota: '自动更新 · 数据最多延迟1分钟 · 来源：ESPN',
+  },
   proximo: '下一场比赛',
   proximos: '近期赛程',
   ultimo: '最新赛果',
