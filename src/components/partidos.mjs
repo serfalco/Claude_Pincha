@@ -23,9 +23,9 @@ const agenda = (lista, { t, f }) =>
 </section>`
     : '';
 
-// El próximo partido y el último resultado ya están arriba, en la franja de Hoy:
-// acá va solo la agenda completa, con el detalle (instancia, condición, estadio).
-export const partidos = ({ proximos }, ctx) => html`
-<section id="partidos" class="wrap" aria-label="${ctx.t.menu.partidos}">
-  ${agenda(proximos, ctx)}
-</section>`;
+// El próximo partido, el último resultado y el partido destacado (cuenta regresiva) ya están arriba,
+// en la franja de Hoy: acá van solo los partidos que siguen. Si no hay más, el bloque no se muestra.
+export const partidos = ({ proximos }, ctx) => {
+  const resto = proximos.filter((p, i) => i > 0 && !p.destacado);
+  return resto.length ? html`<div class="wrap">${agenda(resto, ctx)}</div>` : '';
+};

@@ -18,29 +18,30 @@ export const franja = ({ proximos, ultimo: u }, { t, f, site }) => {
   const n = dest ? diasHasta(dest.fecha, new Date(), site.zonaHoraria) : null;
   return html`
 <div class="franja">
-  <a class="franja__item" href="#partidos">
+  <div class="franja__item">
     <span class="franja__label">${icono('calendario')}${t.proximo}</span>
     <span class="franja__rival">${t.vs} ${p.rival}</span>
     <span class="franja__dato"><time datetime="${p.fecha}">${f.corta(p.fecha)} · ${f.hora(p.fecha)}</time></span>
-    <span class="franja__meta">${p.torneo}</span>
-  </a>
-  <a class="franja__item franja__item--ultimo" href="#partidos">
+    <span class="franja__meta">${p.torneo}${p.instancia ? ` · ${p.instancia}` : ''}</span>
+    ${p.estadio ? html`<span class="franja__meta">${p.estadio}</span>` : ''}
+  </div>
+  <div class="franja__item franja__item--ultimo">
     <span class="franja__label">${icono('marcador')}${t.ultimo}</span>
     <span class="franja__rival">${t.vs} ${u.rival}</span>
     <span class="franja__dato">${u.golesPropios} - ${u.golesRival}</span>
     <span class="franja__meta">${t.estados[estado]} · <time datetime="${u.fecha}">${f.corta(u.fecha)}</time></span>
     <span class="franja__mascota" aria-hidden="true">${raw(mascota(estado))}</span>
-  </a>
+  </div>
 </div>
 ${dest && n >= 0
-  ? html`<a class="cuenta" href="#partidos" data-fecha="${dest.fecha}">
+  ? html`<div class="cuenta" data-fecha="${dest.fecha}">
   <span class="cuenta__ico">${icono('copa')}</span>
   <span class="cuenta__texto">
     <span class="cuenta__que">${dest.torneo} · ${dest.instancia ?? ''} ${t.vs} ${dest.rival}</span>
     <strong class="cuenta__num" data-t0="${t.cuenta.hoy}" data-t1="${t.cuenta.manana}" data-tn="${t.cuenta.faltan(0)}">${n === 0 ? t.cuenta.hoy : n === 1 ? t.cuenta.manana : t.cuenta.faltan(n)}</strong>
-    <span class="cuenta__cuando">${f.larga(dest.fecha)} · ${f.hora(dest.fecha)}</span>
+    <span class="cuenta__cuando">${f.larga(dest.fecha)} · ${f.hora(dest.fecha)}${dest.estadio ? ` · ${dest.estadio}` : ''}</span>
   </span>
-</a>
+</div>
 <script>${raw(`(()=>{const e=document.querySelector('.cuenta');if(!e)return;const z='${site.zonaHoraria}',k=x=>new Date(new Intl.DateTimeFormat('sv-SE',{timeZone:z}).format(x)+'T00:00:00Z'),n=Math.round((k(new Date(e.dataset.fecha))-k(new Date()))/864e5),s=e.querySelector('.cuenta__num');if(n<0){e.remove();return}s.textContent=n===0?s.dataset.t0:n===1?s.dataset.t1:s.dataset.tn.replace('0',n)})()`)}</script>`
   : ''}`;
 };

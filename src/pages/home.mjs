@@ -8,7 +8,7 @@ import { vivo } from '../components/vivo.mjs';
 import { partidos } from '../components/partidos.mjs';
 import { tabla } from '../components/tabla.mjs';
 import { noticias } from '../components/noticias.mjs';
-import { club } from '../components/club.mjs';
+import { club, socio } from '../components/club.mjs';
 import { footer } from '../components/footer.mjs';
 
 // Organizador de cada competencia (schema.org SportsEvent.organizer).
@@ -73,10 +73,11 @@ export default (ctx, data) => {
     body: html`
 ${header(ctxF)}
 <main>
-  ${hoy(data, ctxF, video(data, ctxF), html`${vivo(data, ctxF)}${franja(data, ctxF)}`)}
+  ${hoy(data, ctxF, video(data, ctxF), html`<div id="partidos">${vivo(data, ctxF)}${franja(data, ctxF)}</div>`)}
   ${partidos(data, ctxF)}
-  ${tabla(data, ctxF)}
+  ${socio(data, ctxF)}
   ${noticias(data, ctxF)}
+  ${tabla(data, ctxF)}
   ${club(data, ctxF)}
 </main>
 ${footer(data, ctxF)}`,
