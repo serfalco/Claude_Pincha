@@ -53,7 +53,7 @@ export default {
     anterior: 'Dia anterior',
     siguiente: 'Dia seguinte',
     todos: 'Todos os dias',
-    verDia: 'Ver o dia completo',
+    verDia: 'Ver todas as informações',
   },
   dias: {
     title: 'Dia a dia · El Pincha Hoy',

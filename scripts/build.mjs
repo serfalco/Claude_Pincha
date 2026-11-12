@@ -77,11 +77,10 @@ const build = async () => {
   const dirDias = join(root, 'data/dias');
   const archivos = (await existe(dirDias)) ? (await readdir(dirDias)).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort().reverse() : [];
   const listaDias = await Promise.all(archivos.map((f) => leerJSON(`data/dias/${f}`)));
-  const hoyFecha = new Intl.DateTimeFormat('sv-SE', { timeZone: site.zonaHoraria }).format(new Date(base.actualizado));
-  const hayHoy = listaDias.some((d) => d.fecha === hoyFecha && d.linea.length);
+  const hayHistorial = listaDias.some((d) => d.linea.length);
 
   await pagina('', base.actualizado.slice(0, 10), (ctx, lang) =>
-    home({ ...ctx, enlaceDia: hayHoy ? ctx.ruta(`dia/${hoyFecha}`) : undefined }, porIdioma[lang])
+    home({ ...ctx, enlaceDia: hayHistorial ? ctx.ruta('dias') : undefined }, porIdioma[lang])
   );
 
   for (const [i, d] of listaDias.entries()) {

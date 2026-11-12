@@ -51,7 +51,7 @@ export default {
     anterior: 'पिछला दिन',
     siguiente: 'अगला दिन',
     todos: 'सभी दिन',
-    verDia: 'पूरा दिन देखें',
+    verDia: 'पूरी जानकारी देखें',
   },
   dias: {
     title: 'दिन-ब-दिन · El Pincha Hoy',

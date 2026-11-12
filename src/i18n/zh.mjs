@@ -50,7 +50,7 @@ export default {
     anterior: '前一天',
     siguiente: '后一天',
     todos: '全部日期',
-    verDia: '查看当天全部动态',
+    verDia: '查看全部信息',
   },
   dias: {
     title: '每日回顾 · El Pincha Hoy',

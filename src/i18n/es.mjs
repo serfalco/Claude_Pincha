@@ -54,7 +54,7 @@ export default {
     anterior: 'Día anterior',
     siguiente: 'Día siguiente',
     todos: 'Todos los días',
-    verDia: 'Ver el día completo',
+    verDia: 'Ver toda la info',
   },
   dias: {
     title: 'Historial día por día · El Pincha Hoy',

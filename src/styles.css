@@ -166,6 +166,10 @@ abbr { text-decoration: none; }
 @media (prefers-color-scheme: dark) { .dia__nav a { color: #ff5a6e; } }
 .dias__titulo { font-size: 1.6rem; font-weight: 800; margin-bottom: 12px; }
 .dias__link { display: flex; flex-direction: column-reverse; gap: 2px; text-decoration: none; }
+.dias__hechos { margin: 10px 0 0; padding-left: 18px; display: grid; gap: 6px; font-size: .92rem; line-height: 1.4; }
+.dias__hechos a { color: inherit; text-decoration-color: var(--rojo); }
+.dias__mas { margin-top: 8px; font-size: .88rem; font-weight: 700; }
+.dias__mas a { color: var(--rojo); text-decoration: none; }
 .footer__link { color: var(--text); font-weight: 700; }
 
 /* Chino e hindi: sin mayúsculas forzadas ni espaciado de letras (rompe la escritura) */
