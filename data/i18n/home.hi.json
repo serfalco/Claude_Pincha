@@ -1,40 +1,37 @@
 {
   "hoy": {
-    "titular": "फ़ाइनल का दिन: Pincha अपने 20वें ख़िताब की तलाश में",
-    "resumen": "Montevideo से पहले यह आख़िरी मुक़ाबला है और Córdoba के Villagra में ख़िताब दांव पर है। Estudiantes, Tucu Correa और Alexis Castro के बिना उतरेगा, Guido Carrillo फिट हो चुके हैं, और फ़ाइनल की अतिरिक्त सीटें पहले ही बिक चुकी हैं।",
+    "titular": "चैंपियन! Pincha ने Supercopa Argentina जीता, 20वाँ सितारा",
+    "resumen": "Estudiantes ने कोर्दोबा में एक्स्ट्रा टाइम में Independiente Rivadavia को 3-2 से हराया; विरोधी टीम के स्टॉपेज टाइम में बराबरी करने के बाद Lucas Alario के हेडर ने मैच जिताया। अब पूरा ध्यान मोंटेवीडियो पर: 28 तारीख को Palmeiras के ख़िलाफ़ Copa Libertadores का फ़ाइनल है।",
     "puntos": [
-      "Villagra में Supercopa Argentina: गेट शाम 5 बजे खुलेंगे। पॉपुलर स्टैंड का प्रवेश Bautista Mestre और La Tablada से; सीटों का Bautista Mestre और Hualfín से। प्रसारण: ESPN Premium और TNT Sports।",
-      "Montevideo के लिए बसें (आना-जाना ARS 50,000, UNO ऐप में): आज से 400+ अंक वाले सदस्य; शुक्रवार 13 को बाकी सदस्य; शनिवार 14 को आम बिक्री।",
-      "फ़ाइनल की सीटें: बिक चुकी हैं। अगर और टिकट आते हैं तो क्लब सदस्यों को बताएगा।"
+      "मोंटेवीडियो के लिए बसें (आने-जाने का ARS 50,000, UNO ऐप में): आज शुक्रवार 13 को बाक़ी सदस्य; शनिवार 14 को आम बिक्री।",
+      "फ़ाइनल की सीटें: बिक चुकी हैं। अगर कुछ टिकट बचते हैं तो क्लब सदस्यों को बताएगा।",
+      "शनिवार 14, शाम 7 से रात 12 बजे तक: Estudiantes संग्रहालय 'Museos a la Luz de la Luna' में अपना नया रूप दिखाएगा, क्लब मुख्यालय (53 नंबर 620) में।"
     ],
     "linea": [
       {
-        "texto": "आज रात जीत मिली तो Pincha के इतिहास का 20वाँ ख़िताब होगा; रेफ़री Yael Falcón Pérez, VAR पर Héctor Paletta।"
+        "texto": "चैंपियन! Pincha ने कोर्दोबा में एक्स्ट्रा टाइम में Independiente Rivadavia को 3-2 से हराया।"
       },
       {
-        "texto": "क्लब ने बताया कि फ़ाइनल की कैटेगरी 2 सीटें बिक चुकी हैं; कई प्रशंसकों ने वर्चुअल कतार और CONMEBOL वेबसाइट की शिकायत की।"
+        "texto": "पहला गोल करने वाले Carrillo: \"यह कुछ हद तक हमारे जीने का तरीक़ा है।\" उन्होंने 2-2 के बाद टीम की वापसी की तारीफ़ की।"
       },
       {
-        "texto": "Supercopa Argentina की संभावित टीम में Muslera, Núñez, Rojo, Piovi और Carrillo; रेफ़री Yael Falcón Pérez होंगे।"
+        "texto": "ख़िताबी गोल: एक्स्ट्रा टाइम में Alario का हेडर, Baltasar Rodríguez के सेट-पीस क्रॉस पर।"
       },
       {
-        "texto": "अच्छी खबर: Guido Carrillo फिट हैं और शुरुआत कर सकते हैं; Tomás Palacios टीम के साथ हैं, पर बेंच पर रहेंगे।"
+        "texto": "अतिरिक्त इनाम: Supercopa Argentina जीतकर Estudiantes 2027 की Recopa de Campeones खेलेगा।"
       },
       {
-        "texto": "Villagra के प्रवेश द्वार तय: पॉपुलर स्टैंड Bautista Mestre और La Tablada से, सीटें Bautista Mestre और Hualfín से।"
+        "texto": "20 ख़िताबों के साथ Pincha ऐतिहासिक तालिका में अकेले सातवें स्थान पर है, San Lorenzo से दो पीछे।"
       }
     ]
   },
   "proximos": [
     {
       "instancia": "फ़ाइनल"
-    },
-    {
-      "instancia": "फ़ाइनल"
     }
   ],
   "ultimo": {
-    "torneo": "Torneo Clausura · राउंड 16"
+    "torneo": "Supercopa Argentina · फ़ाइनल (एक्स्ट्रा टाइम)"
   },
   "posiciones": [
     {
@@ -122,16 +119,16 @@
   },
   "noticias": [
     {
+      "titulo": "एक्स्ट्रा टाइम में चैंपियन, Alario का हेडर",
+      "bajada": "Carrillo के गोल और एक आत्मघाती गोल से 2-0, Rivadavia ने स्टॉपेज टाइम में बराबरी की और Alario ने एक्स्ट्रा टाइम में मैच जिताया। Medina को बाहर भेजा गया।"
+    },
+    {
+      "titulo": "संग्रहालय का नया रूप, शनिवार रात खुलेगा",
+      "bajada": "Museos a la Luz de la Luna: शनिवार 14, शाम 7 से रात 12 बजे तक, क्लब मुख्यालय में, QR कोड और इंटरैक्टिव अनुभवों के साथ।"
+    },
+    {
       "titulo": "सीटें बिक गईं, फिर शिकायतों की लहर",
       "bajada": "कैटेगरी 2 की अतिरिक्त बिक्री घंटों में खत्म; बचे टिकटों पर क्लब जानकारी देगा।"
-    },
-    {
-      "titulo": "Supercopa Argentina: गुरुवार रात 8 बजे Córdoba में",
-      "bajada": "Gigante de Alberdi में Independiente Rivadavia के खिलाफ फ़ाइनल की तारीख, समय और प्रसारण।"
-    },
-    {
-      "titulo": "Alexis Castro, निर्णायक मुक़ाबलों से पहले दूसरा संदेह",
-      "bajada": "पिंडली में ग्रेड 2 चोट: गुरुवार को बाहर, मोंटेवीडियो के लिए समय से होड़।"
     },
     {
       "titulo": "मोंटेवीडियो के लिए ARS 50,000 की बसें: पूरा कार्यक्रम",

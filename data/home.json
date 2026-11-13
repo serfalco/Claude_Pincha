@@ -1,44 +1,44 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-12T08:50:00-03:00",
+  "actualizado": "2026-11-12T23:45:00-03:00",
   "hoy": {
-    "titular": "Día de final: el Pincha va por su estrella 20",
-    "resumen": "Es el último partido antes de Montevideo y hay un título en juego en el Villagra de Córdoba. Estudiantes llega sin el Tucu Correa ni Alexis Castro, con Guido Carrillo recuperado, y con las plateas extra para la final ya agotadas.",
+    "titular": "¡Campeón! El Pincha ganó la Supercopa y ya tiene su estrella 20",
+    "resumen": "Estudiantes le ganó 3-2 a Independiente Rivadavia en el alargue en Córdoba, con un cabezazo de Lucas Alario después de que el rival lo empatara en el descuento. Ahora, todo a Montevideo: el 28 se juega la final de la Libertadores ante Palmeiras.",
     "puntos": [
-      "Supercopa en el Villagra: puertas desde las 17. Populares por Bautista Mestre y La Tablada; plateas por Bautista Mestre y Hualfín. TV: ESPN Premium y TNT Sports.",
-      "Micros a Montevideo ($50.000 ida y vuelta, en la app UNO): desde hoy, socios de +400 puntos; viernes 13 el resto; sábado 14 venta general.",
-      "Plateas para la final: agotadas. El club avisará a los socios si surge algún remanente."
+      "Micros a Montevideo ($50.000 ida y vuelta, en la app UNO): hoy viernes 13, el resto de los socios; sábado 14, venta general.",
+      "Plateas para la final: agotadas. El club avisará a los socios si surge algún remanente.",
+      "Sábado 14, de 19 a 24: el Museo de Estudiantes muestra su renovación en Museos a la Luz de la Luna, en la Sede Social (53 N° 620)."
     ],
     "linea": [
       {
-        "hora": "2026-11-12T07:58:00-03:00",
-        "texto": "Si gana esta noche, el Pincha suma el título número 20 de su historia; arbitra Yael Falcón Pérez con Héctor Paletta en el VAR.",
-        "fuente": "LV12",
-        "url": "https://www.lv12.com.ar/estudiantes/estudiantes-y-independiente-rivadavia-se-miden-la-supercopa-argentina-n206524"
+        "hora": "2026-11-12T23:30:00-03:00",
+        "texto": "¡Campeón! El Pincha le ganó 3-2 a Independiente Rivadavia en el alargue en Córdoba.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/11/12/estudiantes-de-la-plata-e-independiente-rivadavia-disputaran-la-supercopa-argentina-hora-tv-y-todo-lo-que-hay-que-saber/"
       },
       {
-        "hora": "2026-11-11T21:23:00-03:00",
-        "texto": "El club informó que se agotaron las plateas de categoría 2 para la final; hubo muchas quejas por la fila virtual y la web de CONMEBOL.",
-        "fuente": "Vive La Plata",
-        "url": "https://vivelaplata.com.ar/agotado-la-venta-de-plateas-para-la-final-desato-otra-ola-de-reclamos-en-estudiantes/"
-      },
-      {
-        "hora": "2026-11-11T20:10:00-03:00",
-        "texto": "Muslera, Núñez, Rojo, Piovi y Carrillo, en el equipo probable para la Supercopa; arbitra Yael Falcón Pérez.",
+        "hora": "2026-11-12T23:11:00-03:00",
+        "texto": "Carrillo, autor del primer gol: «Es un poco nuestra manera de vivir». Destacó cómo el equipo se rehízo tras el 2-2.",
         "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/estudiantes-vs-independiente-rivadavia-la-supercopa-argentina-hora-tv-como-verlo-vivo-y-formaciones-n137303"
+        "url": "https://www.0221.com.ar/estudiantes/es-un-poco-nuestra-manera-vivir-guido-carrillo-hablo-el-nuevo-titulo-estudiantes-n137373"
       },
       {
-        "hora": "2026-11-11T15:44:00-03:00",
-        "texto": "Buena noticia: Guido Carrillo se recuperó y sería titular; Tomás Palacios viaja pero arrancaría en el banco.",
-        "fuente": "Mejor Informado",
-        "url": "https://www.mejorinformado.com/deportes/bajas-peso-estudiantes-final-supercopa-argentina_1794422688"
+        "hora": "2026-11-12T23:10:00-03:00",
+        "texto": "El gol del título: cabezazo de Alario en el alargue, tras un centro de Baltasar Rodríguez en pelota parada.",
+        "fuente": "Punto Capital",
+        "url": "https://www.puntocapitalnoticias.com/estudiantes-campeon-de-la-supercopa-argentina/"
       },
       {
-        "hora": "2026-11-11T15:27:00-03:00",
-        "texto": "Confirmados los accesos al Villagra: populares por Bautista Mestre y La Tablada, plateas por Bautista Mestre y Hualfín.",
+        "hora": "2026-11-12T22:46:00-03:00",
+        "texto": "Premio extra: por ganar la Supercopa, Estudiantes jugará la Recopa de Campeones 2027.",
         "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/como-sera-el-ingreso-los-hinchas-estudiantes-la-final-independiente-rivadavia-cordoba-n137298"
+        "url": "https://www.0221.com.ar/estudiantes/estudiantes-jugara-la-recopa-campeones-2027-ganar-la-supercopa-argentina-n137295"
+      },
+      {
+        "hora": "2026-11-12T22:42:00-03:00",
+        "texto": "Con 20 títulos, el Pincha queda séptimo solo en la tabla histórica, a dos de San Lorenzo.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/11/13/estudiantes-de-la-plata-sumo-su-estrella-numero-20-y-acecha-a-san-lorenzo-asi-esta-la-tabla-historica-de-titulos-del-futbol-argentino/"
       }
     ]
   },
@@ -51,14 +51,6 @@
   },
   "proximos": [
     {
-      "rival": "Independiente Rivadavia",
-      "condicion": "neutral",
-      "fecha": "2026-11-12T20:00:00-03:00",
-      "torneo": "Supercopa Argentina",
-      "instancia": "Final",
-      "estadio": "Estadio Julio César Villagra, Córdoba"
-    },
-    {
       "rival": "Palmeiras",
       "condicion": "neutral",
       "fecha": "2026-11-28T17:00:00-03:00",
@@ -69,12 +61,12 @@
     }
   ],
   "ultimo": {
-    "rival": "Talleres",
-    "golesPropios": 1,
-    "golesRival": 1,
-    "fecha": "2026-11-07T15:00:00-03:00",
-    "torneo": "Torneo Clausura · Fecha 16",
-    "condicion": "visitante"
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral"
   },
   "posiciones": [
     {
@@ -273,25 +265,25 @@
   },
   "noticias": [
     {
+      "titulo": "Campeón en el alargue, con Alario de cabeza",
+      "bajada": "Carrillo y un gol en contra pusieron el 2-0, Rivadavia lo empató en el descuento y Alario lo ganó en el suplementario. Medina terminó expulsado.",
+      "fecha": "2026-11-12T23:02:00-03:00",
+      "fuente": "Noticias Argentinas",
+      "url": "https://noticiasargentinas.com/deportes/estudiantes-de-la-plata-e-independiente-rivadavia-se-enfrentan-por-el-titulo-en-la-supercopa-argentina_a6af4529072af9e905aa798b7"
+    },
+    {
+      "titulo": "El Museo se renueva y abre el sábado de noche",
+      "bajada": "Museos a la Luz de la Luna: sábado 14, de 19 a 24, en la Sede Social, con códigos QR y experiencias interactivas.",
+      "fecha": "2026-11-12T12:17:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/el-museo-de-estudiantes-se-renueva/"
+    },
+    {
       "titulo": "Plateas agotadas y otra ola de reclamos",
       "bajada": "La venta extra de categoría 2 se terminó en horas; el club avisará si hay remanente.",
       "fecha": "2026-11-11T21:23:00-03:00",
       "fuente": "Vive La Plata",
       "url": "https://vivelaplata.com.ar/agotado-la-venta-de-plateas-para-la-final-desato-otra-ola-de-reclamos-en-estudiantes/"
-    },
-    {
-      "titulo": "Supercopa: jueves a las 20 en Córdoba",
-      "bajada": "Día, hora y TV de la final ante Independiente Rivadavia en el Gigante de Alberdi.",
-      "fecha": "2026-11-11T00:00:00-03:00",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-vs-independiente-rivadavia-cuando-se-juega-el-partido-por-la-supercopa-argentina-2026-nid11112026/"
-    },
-    {
-      "titulo": "Alexis Castro, la otra duda para las definiciones",
-      "bajada": "Desgarro grado 2 en el gemelo: afuera el jueves y carrera contra el reloj para Montevideo.",
-      "fecha": "2026-11-10T21:47:00-03:00",
-      "fuente": "El Eco de Tandil",
-      "url": "https://www.eleco.com.ar/deportes/alexis-castro-otra-duda-para-las-definiciones-de-estudiantes"
     },
     {
       "titulo": "Micros a Montevideo a $50.000: el cronograma",
@@ -328,6 +320,14 @@
     "https://www.0221.com.ar/estudiantes/como-sera-el-ingreso-los-hinchas-estudiantes-la-final-independiente-rivadavia-cordoba-n137298",
     "https://www.eldia.com/deportes/con-bajas-importantes-estudiantes-emprende-viaje-a-cordoba-deportes_1794376956",
     "https://www.lanacion.com.ar/deportes/futbol/estudiantes-vs-independiente-rivadavia-cuando-se-juega-el-partido-por-la-supercopa-argentina-2026-nid11112026/",
-    "https://www.lv12.com.ar/estudiantes/estudiantes-y-independiente-rivadavia-se-miden-la-supercopa-argentina-n206524"
+    "https://www.lv12.com.ar/estudiantes/estudiantes-y-independiente-rivadavia-se-miden-la-supercopa-argentina-n206524",
+    "https://www.infobae.com/deportes/2026/11/12/estudiantes-de-la-plata-e-independiente-rivadavia-disputaran-la-supercopa-argentina-hora-tv-y-todo-lo-que-hay-que-saber/",
+    "https://www.0221.com.ar/estudiantes/es-un-poco-nuestra-manera-vivir-guido-carrillo-hablo-el-nuevo-titulo-estudiantes-n137373",
+    "https://www.puntocapitalnoticias.com/estudiantes-campeon-de-la-supercopa-argentina/",
+    "https://www.0221.com.ar/estudiantes/estudiantes-jugara-la-recopa-campeones-2027-ganar-la-supercopa-argentina-n137295",
+    "https://www.infobae.com/deportes/2026/11/13/estudiantes-de-la-plata-sumo-su-estrella-numero-20-y-acecha-a-san-lorenzo-asi-esta-la-tabla-historica-de-titulos-del-futbol-argentino/",
+    "https://noticiasargentinas.com/deportes/estudiantes-de-la-plata-e-independiente-rivadavia-se-enfrentan-por-el-titulo-en-la-supercopa-argentina_a6af4529072af9e905aa798b7",
+    "https://estudiantesdelaplata.com/el-museo-de-estudiantes-se-renueva/",
+    "https://elecos.com.ar/estudiantes-le-gano-a-independiente-rivadavia-en-el-alargue-y-es-campeon-de-la-supercopa-argentina"
   ]
 }

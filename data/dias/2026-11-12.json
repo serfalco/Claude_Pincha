@@ -1,28 +1,88 @@
 {
   "fecha": "2026-11-12",
   "titular": {
-    "es": "Día de final: el Pincha va por su estrella 20",
-    "en": "Final day: the Pincha go for their 20th star",
-    "pt": "Dia de final: o Pincha vai atrás da sua estrela 20",
-    "zh": "决赛日：Pincha冲击队史第20座冠军",
-    "hi": "फ़ाइनल का दिन: Pincha अपने 20वें ख़िताब की तलाश में"
+    "es": "¡Campeón! El Pincha ganó la Supercopa y ya tiene su estrella 20",
+    "en": "Champions! The Pincha win the Supercopa and earn their 20th star",
+    "pt": "Campeão! O Pincha conquista a Supercopa e chega à 20ª estrela",
+    "zh": "夺冠！Pincha拿下Supercopa Argentina，收获第20颗星",
+    "hi": "चैंपियन! Pincha ने Supercopa Argentina जीता, 20वाँ सितारा"
   },
   "resumen": {
-    "es": "Es el último partido antes de Montevideo y hay un título en juego en el Villagra de Córdoba. Estudiantes llega sin el Tucu Correa ni Alexis Castro, con Guido Carrillo recuperado, y con las plateas extra para la final ya agotadas.",
-    "en": "It is the last game before Montevideo and there is a trophy at stake at the Villagra in Córdoba. Estudiantes arrive without Tucu Correa or Alexis Castro, with Guido Carrillo fit again, and with the extra seats for the final already sold out.",
-    "pt": "É o último jogo antes de Montevidéu e há um título em jogo no Villagra, em Córdoba. O Estudiantes chega sem Tucu Correa nem Alexis Castro, com Guido Carrillo recuperado e com os ingressos extras de cadeira para a final já esgotados.",
-    "zh": "这是前往蒙得维的亚之前的最后一战，科尔多瓦的Villagra球场将决出冠军。Estudiantes缺少Tucu Correa和Alexis Castro，Guido Carrillo已经伤愈，而决赛的加售看台票已经售罄。",
-    "hi": "Montevideo से पहले यह आख़िरी मुक़ाबला है और Córdoba के Villagra में ख़िताब दांव पर है। Estudiantes, Tucu Correa और Alexis Castro के बिना उतरेगा, Guido Carrillo फिट हो चुके हैं, और फ़ाइनल की अतिरिक्त सीटें पहले ही बिक चुकी हैं।"
+    "es": "Estudiantes le ganó 3-2 a Independiente Rivadavia en el alargue en Córdoba, con un cabezazo de Lucas Alario después de que el rival lo empatara en el descuento. Ahora, todo a Montevideo: el 28 se juega la final de la Libertadores ante Palmeiras.",
+    "en": "Estudiantes beat Independiente Rivadavia 3-2 after extra time in Córdoba, with a Lucas Alario header after their opponents had equalised in stoppage time. Now it is all about Montevideo: the Libertadores final against Palmeiras is on the 28th.",
+    "pt": "O Estudiantes venceu o Independiente Rivadavia por 3 a 2 na prorrogação em Córdoba, com um gol de cabeça de Lucas Alario depois de o rival empatar nos acréscimos. Agora, tudo por Montevidéu: a final da Libertadores contra o Palmeiras é no dia 28.",
+    "zh": "Estudiantes在科尔多瓦经过加时以3比2击败Independiente Rivadavia，对手在补时阶段扳平后，Lucas Alario头球破门锁定胜局。接下来全力备战蒙得维的亚：28日Copa Libertadores决赛对阵帕尔梅拉斯（Palmeiras）。",
+    "hi": "Estudiantes ने कोर्दोबा में एक्स्ट्रा टाइम में Independiente Rivadavia को 3-2 से हराया; विरोधी टीम के स्टॉपेज टाइम में बराबरी करने के बाद Lucas Alario के हेडर ने मैच जिताया। अब पूरा ध्यान मोंटेवीडियो पर: 28 तारीख को Palmeiras के ख़िलाफ़ Copa Libertadores का फ़ाइनल है।"
   },
   "ultimo": {
-    "rival": "Talleres",
-    "golesPropios": 1,
-    "golesRival": 1,
-    "fecha": "2026-11-07T15:00:00-03:00",
-    "torneo": "Torneo Clausura · Fecha 16",
-    "condicion": "visitante"
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral"
   },
   "linea": [
+    {
+      "hora": "2026-11-12T23:30:00-03:00",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/deportes/2026/11/12/estudiantes-de-la-plata-e-independiente-rivadavia-disputaran-la-supercopa-argentina-hora-tv-y-todo-lo-que-hay-que-saber/",
+      "texto": {
+        "es": "¡Campeón! El Pincha le ganó 3-2 a Independiente Rivadavia en el alargue en Córdoba.",
+        "en": "Champions! The Pincha beat Independiente Rivadavia 3-2 after extra time in Córdoba.",
+        "pt": "Campeão! O Pincha venceu o Independiente Rivadavia por 3 a 2 na prorrogação em Córdoba.",
+        "zh": "夺冠！Pincha在科尔多瓦经过加时以3比2击败Independiente Rivadavia。",
+        "hi": "चैंपियन! Pincha ने कोर्दोबा में एक्स्ट्रा टाइम में Independiente Rivadavia को 3-2 से हराया।"
+      }
+    },
+    {
+      "hora": "2026-11-12T23:11:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/es-un-poco-nuestra-manera-vivir-guido-carrillo-hablo-el-nuevo-titulo-estudiantes-n137373",
+      "texto": {
+        "es": "Carrillo, autor del primer gol: «Es un poco nuestra manera de vivir». Destacó cómo el equipo se rehízo tras el 2-2.",
+        "en": "Carrillo, who scored the opener: \"It's a bit of our way of life.\" He praised how the team recovered after the 2-2.",
+        "pt": "Carrillo, autor do primeiro gol: \"É um pouco o nosso jeito de viver.\" Ele destacou como o time se reergueu depois do 2 a 2.",
+        "zh": "首开纪录的Carrillo说：“这就是我们的生活方式。”他称赞球队在2比2之后重新振作。",
+        "hi": "पहला गोल करने वाले Carrillo: \"यह कुछ हद तक हमारे जीने का तरीक़ा है।\" उन्होंने 2-2 के बाद टीम की वापसी की तारीफ़ की।"
+      }
+    },
+    {
+      "hora": "2026-11-12T23:10:00-03:00",
+      "fuente": "Punto Capital",
+      "url": "https://www.puntocapitalnoticias.com/estudiantes-campeon-de-la-supercopa-argentina/",
+      "texto": {
+        "es": "El gol del título: cabezazo de Alario en el alargue, tras un centro de Baltasar Rodríguez en pelota parada.",
+        "en": "The winning goal: an Alario header in extra time, from a Baltasar Rodríguez set-piece delivery.",
+        "pt": "O gol do título: cabeçada de Alario na prorrogação, após cruzamento de Baltasar Rodríguez em bola parada.",
+        "zh": "制胜球：加时赛中Alario头球破门，助攻来自Baltasar Rodríguez的定位球传中。",
+        "hi": "ख़िताबी गोल: एक्स्ट्रा टाइम में Alario का हेडर, Baltasar Rodríguez के सेट-पीस क्रॉस पर।"
+      }
+    },
+    {
+      "hora": "2026-11-12T22:46:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/estudiantes-jugara-la-recopa-campeones-2027-ganar-la-supercopa-argentina-n137295",
+      "texto": {
+        "es": "Premio extra: por ganar la Supercopa, Estudiantes jugará la Recopa de Campeones 2027.",
+        "en": "A bonus: by winning the Supercopa, Estudiantes will play the 2027 Recopa de Campeones.",
+        "pt": "Prêmio extra: por ganhar a Supercopa, o Estudiantes vai disputar a Recopa de Campeones 2027.",
+        "zh": "额外奖励：赢得Supercopa Argentina后，Estudiantes将参加2027年Recopa de Campeones。",
+        "hi": "अतिरिक्त इनाम: Supercopa Argentina जीतकर Estudiantes 2027 की Recopa de Campeones खेलेगा।"
+      }
+    },
+    {
+      "hora": "2026-11-12T22:42:00-03:00",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/deportes/2026/11/13/estudiantes-de-la-plata-sumo-su-estrella-numero-20-y-acecha-a-san-lorenzo-asi-esta-la-tabla-historica-de-titulos-del-futbol-argentino/",
+      "texto": {
+        "es": "Con 20 títulos, el Pincha queda séptimo solo en la tabla histórica, a dos de San Lorenzo.",
+        "en": "With 20 titles, the Pincha are now seventh on their own in the all-time table, two behind San Lorenzo.",
+        "pt": "Com 20 títulos, o Pincha fica sozinho em sétimo na tabela histórica, a dois do San Lorenzo.",
+        "zh": "拥有20座冠军后，Pincha在历史冠军榜上独居第七，距San Lorenzo仅差两座。",
+        "hi": "20 ख़िताबों के साथ Pincha ऐतिहासिक तालिका में अकेले सातवें स्थान पर है, San Lorenzo से दो पीछे।"
+      }
+    },
     {
       "hora": "2026-11-12T07:58:00-03:00",
       "fuente": "LV12",

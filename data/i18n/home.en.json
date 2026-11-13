@@ -1,40 +1,37 @@
 {
   "hoy": {
-    "titular": "Final day: the Pincha go for their 20th star",
-    "resumen": "It is the last game before Montevideo and there is a trophy at stake at the Villagra in Córdoba. Estudiantes arrive without Tucu Correa or Alexis Castro, with Guido Carrillo fit again, and with the extra seats for the final already sold out.",
+    "titular": "Champions! The Pincha win the Supercopa and earn their 20th star",
+    "resumen": "Estudiantes beat Independiente Rivadavia 3-2 after extra time in Córdoba, with a Lucas Alario header after their opponents had equalised in stoppage time. Now it is all about Montevideo: the Libertadores final against Palmeiras is on the 28th.",
     "puntos": [
-      "Supercopa at the Villagra: gates open at 5pm. Terraces via Bautista Mestre and La Tablada; seats via Bautista Mestre and Hualfín. TV: ESPN Premium and TNT Sports.",
-      "Coaches to Montevideo (ARS 50,000 return, in the UNO app): from today, members with 400+ points; Friday 13 the rest; Saturday 14 general sale.",
-      "Seats for the final: sold out. The club will tell members if any more become available."
+      "Coaches to Montevideo (ARS 50,000 return, in the UNO app): today, Friday 13, the remaining members; Saturday 14, general sale.",
+      "Seats for the final: sold out. The club will tell members if any more become available.",
+      "Saturday 14, 7pm to midnight: the Estudiantes Museum shows off its revamp at Museos a la Luz de la Luna, at the club headquarters (53 No. 620)."
     ],
     "linea": [
       {
-        "texto": "A win tonight would give the Pincha the 20th title in their history; Yael Falcón Pérez referees, with Héctor Paletta on VAR."
+        "texto": "Champions! The Pincha beat Independiente Rivadavia 3-2 after extra time in Córdoba."
       },
       {
-        "texto": "The club said the category 2 seats for the final have sold out; many fans complained about the virtual queue and the CONMEBOL website."
+        "texto": "Carrillo, who scored the opener: \"It's a bit of our way of life.\" He praised how the team recovered after the 2-2."
       },
       {
-        "texto": "Muslera, Núñez, Rojo, Piovi and Carrillo in the likely Supercopa line-up; Yael Falcón Pérez referees."
+        "texto": "The winning goal: an Alario header in extra time, from a Baltasar Rodríguez set-piece delivery."
       },
       {
-        "texto": "Good news: Guido Carrillo has recovered and should start; Tomás Palacios travels but is set for the bench."
+        "texto": "A bonus: by winning the Supercopa, Estudiantes will play the 2027 Recopa de Campeones."
       },
       {
-        "texto": "Villagra entry points confirmed: terraces via Bautista Mestre and La Tablada, seats via Bautista Mestre and Hualfín."
+        "texto": "With 20 titles, the Pincha are now seventh on their own in the all-time table, two behind San Lorenzo."
       }
     ]
   },
   "proximos": [
     {
       "instancia": "Final"
-    },
-    {
-      "instancia": "Final"
     }
   ],
   "ultimo": {
-    "torneo": "Torneo Clausura · Matchday 16"
+    "torneo": "Supercopa Argentina · Final (extra time)"
   },
   "posiciones": [
     {
@@ -122,16 +119,16 @@
   },
   "noticias": [
     {
+      "titulo": "Champions after extra time, with an Alario header",
+      "bajada": "Carrillo and an own goal made it 2-0, Rivadavia levelled in stoppage time and Alario won it in extra time. Medina was sent off."
+    },
+    {
+      "titulo": "The Museum gets a makeover and opens on Saturday night",
+      "bajada": "Museos a la Luz de la Luna: Saturday 14, 7pm to midnight, at the club headquarters, with QR codes and interactive experiences."
+    },
+    {
       "titulo": "Seats sold out, and another wave of complaints",
       "bajada": "The extra category 2 sale was over within hours; the club will say if any remain."
-    },
-    {
-      "titulo": "Supercopa: Thursday at 8pm in Córdoba",
-      "bajada": "Date, kick-off time and TV for the final against Independiente Rivadavia at the Gigante de Alberdi."
-    },
-    {
-      "titulo": "Alexis Castro, the other doubt for the decisive games",
-      "bajada": "Grade 2 calf tear: out on Thursday and a race against time for Montevideo."
     },
     {
       "titulo": "Coaches to Montevideo at ARS 50,000: the schedule",

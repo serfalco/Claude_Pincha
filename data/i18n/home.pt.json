@@ -1,40 +1,37 @@
 {
   "hoy": {
-    "titular": "Dia de final: o Pincha vai atrás da sua estrela 20",
-    "resumen": "É o último jogo antes de Montevidéu e há um título em jogo no Villagra, em Córdoba. O Estudiantes chega sem Tucu Correa nem Alexis Castro, com Guido Carrillo recuperado e com os ingressos extras de cadeira para a final já esgotados.",
+    "titular": "Campeão! O Pincha conquista a Supercopa e chega à 20ª estrela",
+    "resumen": "O Estudiantes venceu o Independiente Rivadavia por 3 a 2 na prorrogação em Córdoba, com um gol de cabeça de Lucas Alario depois de o rival empatar nos acréscimos. Agora, tudo por Montevidéu: a final da Libertadores contra o Palmeiras é no dia 28.",
     "puntos": [
-      "Supercopa no Villagra: portões abertos às 17h. Arquibancada popular por Bautista Mestre e La Tablada; cadeiras por Bautista Mestre e Hualfín. TV: ESPN Premium e TNT Sports.",
-      "Ônibus para Montevidéu (ARS 50.000 ida e volta, no app UNO): a partir de hoje, sócios com 400+ pontos; sexta 13 os demais; sábado 14 venda geral.",
-      "Cadeiras para a final: esgotadas. O clube avisará os sócios se surgir algum lote."
+      "Ônibus para Montevidéu (ARS 50.000 ida e volta, no app UNO): hoje, sexta 13, os demais sócios; sábado 14, venda geral.",
+      "Cadeiras para a final: esgotadas. O clube avisará os sócios se surgir alguma sobra.",
+      "Sábado 14, das 19h à meia-noite: o Museu do Estudiantes mostra sua renovação na Museos a la Luz de la Luna, na Sede Social (53 nº 620)."
     ],
     "linea": [
       {
-        "texto": "Se vencer esta noite, o Pincha soma o 20º título da sua história; Yael Falcón Pérez apita, com Héctor Paletta no VAR."
+        "texto": "Campeão! O Pincha venceu o Independiente Rivadavia por 3 a 2 na prorrogação em Córdoba."
       },
       {
-        "texto": "O clube informou que as cadeiras de categoria 2 para a final esgotaram; houve muitas reclamações sobre a fila virtual e o site da CONMEBOL."
+        "texto": "Carrillo, autor do primeiro gol: \"É um pouco o nosso jeito de viver.\" Ele destacou como o time se reergueu depois do 2 a 2."
       },
       {
-        "texto": "Muslera, Núñez, Rojo, Piovi e Carrillo no provável time para a Supercopa; o árbitro é Yael Falcón Pérez."
+        "texto": "O gol do título: cabeçada de Alario na prorrogação, após cruzamento de Baltasar Rodríguez em bola parada."
       },
       {
-        "texto": "Boa notícia: Guido Carrillo se recuperou e deve ser titular; Tomás Palacios viaja, mas começaria no banco."
+        "texto": "Prêmio extra: por ganhar a Supercopa, o Estudiantes vai disputar a Recopa de Campeones 2027."
       },
       {
-        "texto": "Acessos ao Villagra confirmados: popular por Bautista Mestre e La Tablada, cadeiras por Bautista Mestre e Hualfín."
+        "texto": "Com 20 títulos, o Pincha fica sozinho em sétimo na tabela histórica, a dois do San Lorenzo."
       }
     ]
   },
   "proximos": [
     {
       "instancia": "Final"
-    },
-    {
-      "instancia": "Final"
     }
   ],
   "ultimo": {
-    "torneo": "Torneo Clausura · Rodada 16"
+    "torneo": "Supercopa Argentina · Final (prorrogação)"
   },
   "posiciones": [
     {
@@ -122,16 +119,16 @@
   },
   "noticias": [
     {
+      "titulo": "Campeão na prorrogação, com Alario de cabeça",
+      "bajada": "Carrillo e um gol contra fizeram 2 a 0, o Rivadavia empatou nos acréscimos e Alario decidiu na prorrogação. Medina foi expulso."
+    },
+    {
+      "titulo": "O Museu se renova e abre no sábado à noite",
+      "bajada": "Museos a la Luz de la Luna: sábado 14, das 19h à meia-noite, na Sede Social, com QR codes e experiências interativas."
+    },
+    {
       "titulo": "Cadeiras esgotadas e nova onda de reclamações",
       "bajada": "A venda extra de categoria 2 acabou em horas; o clube avisará se sobrar algum lote."
-    },
-    {
-      "titulo": "Supercopa: quinta às 20h em Córdoba",
-      "bajada": "Dia, horário e TV da final contra o Independiente Rivadavia no Gigante de Alberdi."
-    },
-    {
-      "titulo": "Alexis Castro, a outra dúvida para as decisões",
-      "bajada": "Lesão grau 2 na panturrilha: fora na quinta e corrida contra o tempo por Montevidéu."
     },
     {
       "titulo": "Ônibus para Montevidéu a ARS 50.000: o cronograma",
