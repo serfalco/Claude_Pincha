@@ -1,7 +1,7 @@
 {
   "hoy": {
-    "titular": "Champions! The Pincha win the Supercopa and earn their 20th star",
-    "resumen": "Estudiantes beat Independiente Rivadavia 3-2 after extra time in Córdoba, with a Lucas Alario header after their opponents had equalised in stoppage time. Now it is all about Montevideo: the Libertadores final against Palmeiras is on the 28th.",
+    "titular": "20th star in the bag, minds on Montevideo",
+    "resumen": "La Plata woke up celebrating the Supercopa: last night fans packed 7 y 50 after the 3-2 extra-time win over Independiente Rivadavia. Now only one thing remains: the Libertadores final against Palmeiras on Saturday 28th.",
     "puntos": [
       "Coaches to Montevideo (ARS 50,000 return, in the UNO app): today, Friday 13, the remaining members; Saturday 14, general sale.",
       "Seats for the final: sold out. The club will tell members if any more become available.",
@@ -9,19 +9,22 @@
     ],
     "linea": [
       {
+        "texto": "Chiqui Tapia did not travel to Córdoba for the trophy presentation: he congratulated the champions and Verón on social media."
+      },
+      {
+        "texto": "Medina celebrated his first title at the club: \"Today winning or losing was not the same\", with the final in sight."
+      },
+      {
+        "texto": "Party at 7 y 50: fans filled central La Plata to celebrate the 20th star."
+      },
+      {
+        "texto": "Pepe Sosa has reached seven titles and is the Pincha's most decorated player of the 21st century."
+      },
+      {
         "texto": "Champions! The Pincha beat Independiente Rivadavia 3-2 after extra time in Córdoba."
       },
       {
-        "texto": "Carrillo, who scored the opener: \"It's a bit of our way of life.\" He praised how the team recovered after the 2-2."
-      },
-      {
         "texto": "The winning goal: an Alario header in extra time, from a Baltasar Rodríguez set-piece delivery."
-      },
-      {
-        "texto": "A bonus: by winning the Supercopa, Estudiantes will play the 2027 Recopa de Campeones."
-      },
-      {
-        "texto": "With 20 titles, the Pincha are now seventh on their own in the all-time table, two behind San Lorenzo."
       }
     ]
   },

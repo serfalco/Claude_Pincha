@@ -1,7 +1,7 @@
 {
   "hoy": {
-    "titular": "夺冠！Pincha拿下Supercopa Argentina，收获第20颗星",
-    "resumen": "Estudiantes在科尔多瓦经过加时以3比2击败Independiente Rivadavia，对手在补时阶段扳平后，Lucas Alario头球破门锁定胜局。接下来全力备战蒙得维的亚：28日Copa Libertadores决赛对阵帕尔梅拉斯（Palmeiras）。",
+    "titular": "第20颗星到手，目光投向蒙得维的亚",
+    "resumen": "拉普拉塔在超级杯的庆祝中醒来：昨晚加时3比2击败Independiente Rivadavia后，球迷涌上7 y 50街口狂欢。现在只剩一件事：28日（周六）对阵帕尔梅拉斯（Palmeiras）的解放者杯决赛。",
     "puntos": [
       "前往蒙得维的亚的大巴（往返ARS 50,000，在UNO应用购买）：今天13日周五，其余会员购买；14日周六公开发售。",
       "决赛座位票：已售罄。若有余票，俱乐部将通知会员。",
@@ -9,19 +9,22 @@
     ],
     "linea": [
       {
+        "texto": "阿根廷足协主席Chiqui Tapia没有前往科尔多瓦出席颁奖，而是在社交媒体上祝贺冠军和Verón。"
+      },
+      {
+        "texto": "Medina庆祝执教球队后的首个冠军：\"今天赢和输可不一样\"，目光已投向决赛。"
+      },
+      {
+        "texto": "7 y 50街口狂欢：球迷挤满拉普拉塔市中心，庆祝第20颗星。"
+      },
+      {
+        "texto": "Pepe Sosa已收获七座冠军，成为21世纪Pincha夺冠最多的球员。"
+      },
+      {
         "texto": "夺冠！Pincha在科尔多瓦经过加时以3比2击败Independiente Rivadavia。"
       },
       {
-        "texto": "首开纪录的Carrillo说：“这就是我们的生活方式。”他称赞球队在2比2之后重新振作。"
-      },
-      {
         "texto": "制胜球：加时赛中Alario头球破门，助攻来自Baltasar Rodríguez的定位球传中。"
-      },
-      {
-        "texto": "额外奖励：赢得Supercopa Argentina后，Estudiantes将参加2027年Recopa de Campeones。"
-      },
-      {
-        "texto": "拥有20座冠军后，Pincha在历史冠军榜上独居第七，距San Lorenzo仅差两座。"
       }
     ]
   },

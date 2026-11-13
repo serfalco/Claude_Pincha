@@ -1,9 +1,9 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-12T23:45:00-03:00",
+  "actualizado": "2026-11-13T08:45:00-03:00",
   "hoy": {
-    "titular": "¡Campeón! El Pincha ganó la Supercopa y ya tiene su estrella 20",
-    "resumen": "Estudiantes le ganó 3-2 a Independiente Rivadavia en el alargue en Córdoba, con un cabezazo de Lucas Alario después de que el rival lo empatara en el descuento. Ahora, todo a Montevideo: el 28 se juega la final de la Libertadores ante Palmeiras.",
+    "titular": "Estrella 20 en el bolsillo y la cabeza en Montevideo",
+    "resumen": "La Plata se despertó festejando la Supercopa: anoche los hinchas coparon 7 y 50 tras el 3-2 en el alargue a Independiente Rivadavia. Ahora queda una sola cosa: la final de la Libertadores ante Palmeiras, el sábado 28.",
     "puntos": [
       "Micros a Montevideo ($50.000 ida y vuelta, en la app UNO): hoy viernes 13, el resto de los socios; sábado 14, venta general.",
       "Plateas para la final: agotadas. El club avisará a los socios si surge algún remanente.",
@@ -11,34 +11,40 @@
     ],
     "linea": [
       {
+        "hora": "2026-11-13T03:57:00-03:00",
+        "texto": "Chiqui Tapia no viajó a Córdoba para la entrega de la copa: saludó al campeón y a Verón por redes.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/chiqui-tapia-no-asistio-a-la-premiacion-de-estudiantes-campeon-en-la-supercopa-argentina-en-cordoba-nid13112026/"
+      },
+      {
+        "hora": "2026-11-13T00:15:00-03:00",
+        "texto": "Medina celebró su primer título en el club: «Hoy no era lo mismo ganar que perder», con la final en la mira.",
+        "fuente": "Infocielo",
+        "url": "https://www.infocielo.com/deportes/con-vistas-en-la-copa-libertadores-medina-festejo-su-primer-titulo-en-estudiantes-hoy-no-era-lo-mismo-ganar-que-perder"
+      },
+      {
+        "hora": "2026-11-13T00:12:00-03:00",
+        "texto": "Fiesta en 7 y 50: los hinchas coparon el centro de La Plata para festejar la estrella 20.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/los-hinchas-estudiantes-festejan-pleno-centro-la-plata-la-consagracion-supercopa-argentina-n137377"
+      },
+      {
+        "hora": "2026-11-12T23:31:00-03:00",
+        "texto": "Pepe Sosa llegó a siete títulos y es el jugador más ganador del Pincha en el siglo XXI.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/jose-sosa-alcanzo-los-siete-titulos-y-se-afianza-como-el-mas-ganador-estudiantes-el-siglo-xxi-n134745"
+      },
+      {
         "hora": "2026-11-12T23:30:00-03:00",
         "texto": "¡Campeón! El Pincha le ganó 3-2 a Independiente Rivadavia en el alargue en Córdoba.",
         "fuente": "Infobae",
         "url": "https://www.infobae.com/deportes/2026/11/12/estudiantes-de-la-plata-e-independiente-rivadavia-disputaran-la-supercopa-argentina-hora-tv-y-todo-lo-que-hay-que-saber/"
       },
       {
-        "hora": "2026-11-12T23:11:00-03:00",
-        "texto": "Carrillo, autor del primer gol: «Es un poco nuestra manera de vivir». Destacó cómo el equipo se rehízo tras el 2-2.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/es-un-poco-nuestra-manera-vivir-guido-carrillo-hablo-el-nuevo-titulo-estudiantes-n137373"
-      },
-      {
         "hora": "2026-11-12T23:10:00-03:00",
         "texto": "El gol del título: cabezazo de Alario en el alargue, tras un centro de Baltasar Rodríguez en pelota parada.",
         "fuente": "Punto Capital",
         "url": "https://www.puntocapitalnoticias.com/estudiantes-campeon-de-la-supercopa-argentina/"
-      },
-      {
-        "hora": "2026-11-12T22:46:00-03:00",
-        "texto": "Premio extra: por ganar la Supercopa, Estudiantes jugará la Recopa de Campeones 2027.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/estudiantes-jugara-la-recopa-campeones-2027-ganar-la-supercopa-argentina-n137295"
-      },
-      {
-        "hora": "2026-11-12T22:42:00-03:00",
-        "texto": "Con 20 títulos, el Pincha queda séptimo solo en la tabla histórica, a dos de San Lorenzo.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/11/13/estudiantes-de-la-plata-sumo-su-estrella-numero-20-y-acecha-a-san-lorenzo-asi-esta-la-tabla-historica-de-titulos-del-futbol-argentino/"
       }
     ]
   },
@@ -328,6 +334,10 @@
     "https://www.infobae.com/deportes/2026/11/13/estudiantes-de-la-plata-sumo-su-estrella-numero-20-y-acecha-a-san-lorenzo-asi-esta-la-tabla-historica-de-titulos-del-futbol-argentino/",
     "https://noticiasargentinas.com/deportes/estudiantes-de-la-plata-e-independiente-rivadavia-se-enfrentan-por-el-titulo-en-la-supercopa-argentina_a6af4529072af9e905aa798b7",
     "https://estudiantesdelaplata.com/el-museo-de-estudiantes-se-renueva/",
-    "https://elecos.com.ar/estudiantes-le-gano-a-independiente-rivadavia-en-el-alargue-y-es-campeon-de-la-supercopa-argentina"
+    "https://elecos.com.ar/estudiantes-le-gano-a-independiente-rivadavia-en-el-alargue-y-es-campeon-de-la-supercopa-argentina",
+    "https://www.infocielo.com/deportes/con-vistas-en-la-copa-libertadores-medina-festejo-su-primer-titulo-en-estudiantes-hoy-no-era-lo-mismo-ganar-que-perder",
+    "https://www.lanacion.com.ar/deportes/futbol/chiqui-tapia-no-asistio-a-la-premiacion-de-estudiantes-campeon-en-la-supercopa-argentina-en-cordoba-nid13112026/",
+    "https://www.0221.com.ar/estudiantes/los-hinchas-estudiantes-festejan-pleno-centro-la-plata-la-consagracion-supercopa-argentina-n137377",
+    "https://www.0221.com.ar/estudiantes/jose-sosa-alcanzo-los-siete-titulos-y-se-afianza-como-el-mas-ganador-estudiantes-el-siglo-xxi-n134745"
   ]
 }

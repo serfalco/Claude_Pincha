@@ -24,6 +24,18 @@
   },
   "linea": [
     {
+      "hora": "2026-11-12T23:31:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/jose-sosa-alcanzo-los-siete-titulos-y-se-afianza-como-el-mas-ganador-estudiantes-el-siglo-xxi-n134745",
+      "texto": {
+        "es": "Pepe Sosa llegó a siete títulos y es el jugador más ganador del Pincha en el siglo XXI.",
+        "en": "Pepe Sosa has reached seven titles and is the Pincha's most decorated player of the 21st century.",
+        "pt": "Pepe Sosa chegou a sete títulos e é o jogador mais vencedor do Pincha no século XXI.",
+        "zh": "Pepe Sosa已收获七座冠军，成为21世纪Pincha夺冠最多的球员。",
+        "hi": "Pepe Sosa सात ख़िताब तक पहुँच गए हैं और 21वीं सदी में Pincha के सबसे ज़्यादा ख़िताब जीतने वाले खिलाड़ी हैं।"
+      }
+    },
+    {
       "hora": "2026-11-12T23:30:00-03:00",
       "fuente": "Infobae",
       "url": "https://www.infobae.com/deportes/2026/11/12/estudiantes-de-la-plata-e-independiente-rivadavia-disputaran-la-supercopa-argentina-hora-tv-y-todo-lo-que-hay-que-saber/",

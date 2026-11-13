@@ -1,7 +1,7 @@
 {
   "hoy": {
-    "titular": "Campeão! O Pincha conquista a Supercopa e chega à 20ª estrela",
-    "resumen": "O Estudiantes venceu o Independiente Rivadavia por 3 a 2 na prorrogação em Córdoba, com um gol de cabeça de Lucas Alario depois de o rival empatar nos acréscimos. Agora, tudo por Montevidéu: a final da Libertadores contra o Palmeiras é no dia 28.",
+    "titular": "Estrela 20 garantida e a cabeça em Montevidéu",
+    "resumen": "La Plata acordou festejando a Supercopa: ontem à noite a torcida lotou a 7 y 50 depois do 3 a 2 na prorrogação sobre o Independiente Rivadavia. Agora só falta uma coisa: a final da Libertadores contra o Palmeiras, no sábado, dia 28.",
     "puntos": [
       "Ônibus para Montevidéu (ARS 50.000 ida e volta, no app UNO): hoje, sexta 13, os demais sócios; sábado 14, venda geral.",
       "Cadeiras para a final: esgotadas. O clube avisará os sócios se surgir alguma sobra.",
@@ -9,19 +9,22 @@
     ],
     "linea": [
       {
+        "texto": "Chiqui Tapia não viajou a Córdoba para a entrega da taça: parabenizou o campeão e Verón nas redes sociais."
+      },
+      {
+        "texto": "Medina comemorou seu primeiro título no clube: \"Hoje não era a mesma coisa ganhar ou perder\", de olho na final."
+      },
+      {
+        "texto": "Festa na 7 y 50: a torcida tomou o centro de La Plata para comemorar a estrela 20."
+      },
+      {
+        "texto": "Pepe Sosa chegou a sete títulos e é o jogador mais vencedor do Pincha no século XXI."
+      },
+      {
         "texto": "Campeão! O Pincha venceu o Independiente Rivadavia por 3 a 2 na prorrogação em Córdoba."
       },
       {
-        "texto": "Carrillo, autor do primeiro gol: \"É um pouco o nosso jeito de viver.\" Ele destacou como o time se reergueu depois do 2 a 2."
-      },
-      {
         "texto": "O gol do título: cabeçada de Alario na prorrogação, após cruzamento de Baltasar Rodríguez em bola parada."
-      },
-      {
-        "texto": "Prêmio extra: por ganhar a Supercopa, o Estudiantes vai disputar a Recopa de Campeones 2027."
-      },
-      {
-        "texto": "Com 20 títulos, o Pincha fica sozinho em sétimo na tabela histórica, a dois do San Lorenzo."
       }
     ]
   },

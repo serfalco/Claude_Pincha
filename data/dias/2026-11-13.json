@@ -1,0 +1,63 @@
+{
+  "fecha": "2026-11-13",
+  "titular": {
+    "es": "Estrella 20 en el bolsillo y la cabeza en Montevideo",
+    "en": "20th star in the bag, minds on Montevideo",
+    "pt": "Estrela 20 garantida e a cabeça em Montevidéu",
+    "zh": "第20颗星到手，目光投向蒙得维的亚",
+    "hi": "20वाँ सितारा हाथ में, नज़र अब मोंटेवीडियो पर"
+  },
+  "resumen": {
+    "es": "La Plata se despertó festejando la Supercopa: anoche los hinchas coparon 7 y 50 tras el 3-2 en el alargue a Independiente Rivadavia. Ahora queda una sola cosa: la final de la Libertadores ante Palmeiras, el sábado 28.",
+    "en": "La Plata woke up celebrating the Supercopa: last night fans packed 7 y 50 after the 3-2 extra-time win over Independiente Rivadavia. Now only one thing remains: the Libertadores final against Palmeiras on Saturday 28th.",
+    "pt": "La Plata acordou festejando a Supercopa: ontem à noite a torcida lotou a 7 y 50 depois do 3 a 2 na prorrogação sobre o Independiente Rivadavia. Agora só falta uma coisa: a final da Libertadores contra o Palmeiras, no sábado, dia 28.",
+    "zh": "拉普拉塔在超级杯的庆祝中醒来：昨晚加时3比2击败Independiente Rivadavia后，球迷涌上7 y 50街口狂欢。现在只剩一件事：28日（周六）对阵帕尔梅拉斯（Palmeiras）的解放者杯决赛。",
+    "hi": "ला प्लाटा सुपरकोपा के जश्न के साथ जागा: कल रात Independiente Rivadavia पर एक्स्ट्रा टाइम में 3-2 की जीत के बाद फ़ैन्स ने 7 y 50 चौराहा भर दिया। अब बस एक चीज़ बाकी है: शनिवार 28 को Palmeiras के खिलाफ़ Copa Libertadores का फ़ाइनल।"
+  },
+  "ultimo": {
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral"
+  },
+  "linea": [
+    {
+      "hora": "2026-11-13T03:57:00-03:00",
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/chiqui-tapia-no-asistio-a-la-premiacion-de-estudiantes-campeon-en-la-supercopa-argentina-en-cordoba-nid13112026/",
+      "texto": {
+        "es": "Chiqui Tapia no viajó a Córdoba para la entrega de la copa: saludó al campeón y a Verón por redes.",
+        "en": "Chiqui Tapia did not travel to Córdoba for the trophy presentation: he congratulated the champions and Verón on social media.",
+        "pt": "Chiqui Tapia não viajou a Córdoba para a entrega da taça: parabenizou o campeão e Verón nas redes sociais.",
+        "zh": "阿根廷足协主席Chiqui Tapia没有前往科尔多瓦出席颁奖，而是在社交媒体上祝贺冠军和Verón。",
+        "hi": "Chiqui Tapia ट्रॉफ़ी समारोह के लिए Córdoba नहीं गए: उन्होंने सोशल मीडिया पर चैंपियन और Verón को बधाई दी।"
+      }
+    },
+    {
+      "hora": "2026-11-13T00:15:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://www.infocielo.com/deportes/con-vistas-en-la-copa-libertadores-medina-festejo-su-primer-titulo-en-estudiantes-hoy-no-era-lo-mismo-ganar-que-perder",
+      "texto": {
+        "es": "Medina celebró su primer título en el club: «Hoy no era lo mismo ganar que perder», con la final en la mira.",
+        "en": "Medina celebrated his first title at the club: \"Today winning or losing was not the same\", with the final in sight.",
+        "pt": "Medina comemorou seu primeiro título no clube: \"Hoje não era a mesma coisa ganhar ou perder\", de olho na final.",
+        "zh": "Medina庆祝执教球队后的首个冠军：\"今天赢和输可不一样\"，目光已投向决赛。",
+        "hi": "Medina ने क्लब के साथ अपना पहला ख़िताब मनाया: \"आज जीतना और हारना एक जैसा नहीं था\", नज़र फ़ाइनल पर।"
+      }
+    },
+    {
+      "hora": "2026-11-13T00:12:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/los-hinchas-estudiantes-festejan-pleno-centro-la-plata-la-consagracion-supercopa-argentina-n137377",
+      "texto": {
+        "es": "Fiesta en 7 y 50: los hinchas coparon el centro de La Plata para festejar la estrella 20.",
+        "en": "Party at 7 y 50: fans filled central La Plata to celebrate the 20th star.",
+        "pt": "Festa na 7 y 50: a torcida tomou o centro de La Plata para comemorar a estrela 20.",
+        "zh": "7 y 50街口狂欢：球迷挤满拉普拉塔市中心，庆祝第20颗星。",
+        "hi": "7 y 50 पर जश्न: 20वें सितारे का जश्न मनाने के लिए फ़ैन्स ने ला प्लाटा का केंद्र भर दिया।"
+      }
+    }
+  ]
+}
