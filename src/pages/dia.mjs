@@ -5,6 +5,7 @@ import { footer } from '../components/footer.mjs';
 import { pegado } from '../components/club.mjs';
 import { sinHora, siete } from '../components/hoy.mjs';
 import { foto } from '../components/foto.mjs';
+import { listaSiete } from './home.mjs';
 
 // Página de un día del historial: /dia/AAAA-MM-DD/ (y /en/dia/..., /pt/dia/...).
 // dia = contenido de data/dias/AAAA-MM-DD.json; nav = { anterior, siguiente, todos } con rutas ya resueltas.
@@ -24,8 +25,8 @@ export default (ctx, dia, nav) => {
   return {
     og: ctx.og,
     ogAlt: fotoDia?.alt,
-    title: t.dia.title(larga),
-    description: t.dia.descripcion(larga),
+    title: dia.siete?.length ? t.dia.tituloSiete(larga) : t.dia.title(larga),
+    description: dia.siete?.length ? t.dia.descripcionSiete(larga) : t.dia.descripcion(larga),
     jsonLd: [
       {
         // Cada día es una nota: ayuda a aparecer en búsquedas de noticias.
@@ -43,6 +44,7 @@ export default (ctx, dia, nav) => {
         publisher: { '@type': 'Organization', name: site.nombre, url: site.url, logo: { '@type': 'ImageObject', url: new URL('/apple-touch-icon.png', site.url).href } },
         isPartOf: { '@type': 'WebSite', name: site.nombre, url: site.url },
       },
+      ...(dia.siete?.length ? [listaSiete(dia.siete.map((n) => ({ titulo: tx(n.titulo), texto: tx(n.texto) })), t, new URL(ctx.ruta(`dia/${dia.fecha}`), site.url).href)] : []),
     ],
     body: html`
 ${header(ctx)}
