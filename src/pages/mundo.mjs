@@ -2,6 +2,7 @@ import { icono } from '../components/iconos.mjs';
 import { html, raw } from '../lib/html.mjs';
 import { header } from '../components/header.mjs';
 import { footer } from '../components/footer.mjs';
+import { pegado } from '../components/club.mjs';
 import { mascota } from '../components/mascota.mjs';
 
 // Sección global: /mundo/. Nota de bienvenida, sueño del Mundial de Clubes, filiales y cómo armar una.
@@ -85,6 +86,7 @@ ${header(ctx)}
     </article>
   </section>
 </main>
+${pegado(ctx)}
 ${footer({ actualizado: m.actualizado }, ctx)}`,
   };
 };

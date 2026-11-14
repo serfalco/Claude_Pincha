@@ -69,6 +69,7 @@ export default {
     title: 'The world champions and their fans around the world · El Pincha Hoy',
     descripcion: "Estudiantes de La Plata's supporters' clubs around the world, how to start one, and the dream of the 2029 Club World Cup.",
     kicker: 'Pinchas around the world',
+    encontrar: "Find your supporters' club",
     filialesFuera: "Supporters' clubs abroad",
     filialesArg: (n) => `${n} supporters' clubs in Argentina`,
     escribir: 'Email',

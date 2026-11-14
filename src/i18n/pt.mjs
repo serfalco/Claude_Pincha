@@ -69,6 +69,7 @@ export default {
     title: 'O campeão do mundo e seus torcedores pelo mundo · El Pincha Hoy',
     descripcion: 'As filiais do Estudiantes de La Plata pelo mundo, como montar uma e o sonho do Mundial de Clubes de 2029.',
     kicker: 'Pinchas pelo mundo',
+    encontrar: 'Encontre sua filial',
     filialesFuera: 'Filiais pelo mundo',
     filialesArg: (n) => `${n} filiais na Argentina`,
     escribir: 'Escrever',

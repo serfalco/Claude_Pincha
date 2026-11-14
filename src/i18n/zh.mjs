@@ -66,6 +66,7 @@ export default {
     title: '世界冠军与遍布全球的球迷 · El Pincha Hoy',
     descripcion: '拉普拉塔大学生队的全球球迷分会、如何组建分会，以及2029年世俱杯之梦。',
     kicker: '全球Pincha球迷',
+    encontrar: '找到你的球迷分会',
     filialesFuera: '海外球迷分会',
     filialesArg: (n) => `阿根廷境内共 ${n} 个分会`,
     escribir: '写邮件',
