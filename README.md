@@ -76,6 +76,7 @@ src/
 scripts/build.mjs         genera dist/, sitemap.xml y robots.txt
 scripts/datos.mjs         partidos y tabla desde ESPN + futbolargentino (npm run datos)
 public/                   favicon, íconos, imagen OG, _headers
+imagenes/                 banco de fotos + indice.json; solo las marcadas "publicar" van a /img/ (ver imagenes/README.md)
 ```
 
 ## Uso
