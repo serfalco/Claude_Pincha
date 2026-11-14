@@ -6,7 +6,7 @@ export default {
   etiqueta: 'हिन्दी',
   title: 'El Pincha Hoy · एस्टुडियांटेस डे ला प्लाटा की आज की 7 ख़बरें',
   descripcion:
-    'हर दिन Pincha की 7 ख़बरें, दुनिया में कहीं से भी: एस्टुडियांटेस डे ला प्लाटा (Estudiantes de La Plata) आज कैसा है, एक मिनट में और 5 भाषाओं में। अगला मैच, ताज़ा नतीजा और अंक तालिका।',
+    'हर दिन Pincha की 7 ख़बरें, पूरी दुनिया के लिए, हज़ार अख़बार खंगाले बिना: एस्टुडियांटेस डे ला प्लाटा (Estudiantes de La Plata) आज कैसा है, एक मिनट में और 5 भाषाओं में।',
   saltar: 'मुख्य सामग्री पर जाएँ',
   inicio: 'होम',
   secciones: 'सेक्शन',
@@ -15,6 +15,7 @@ export default {
   lineaTitulo: 'Notipinchas · मीडिया में',
   siete: 'सात ख़बरें',
   sieteMarca: 'El Pincha Hoy',
+  sieteLema: 'Pincha की ज़रूरी ख़बरें, हज़ार अख़बार खंगाले बिना।',
   foto: 'फ़ोटो',
   gol: { ec: 'आत्मघाती', pen: 'पेनल्टी' },
   hoyCorto: 'आज',

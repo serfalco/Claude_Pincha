@@ -6,7 +6,7 @@ export default {
   nombreIdioma: 'English',
   title: 'El Pincha Hoy · Today’s 7 Estudiantes de La Plata stories',
   descripcion:
-    'The 7 Pincha stories of the day, every day and from anywhere in the world: how Estudiantes de La Plata are doing today, in one minute and in 5 languages. Next match, latest result and standings.',
+    'The 7 Pincha stories, every day and for the whole world, without trawling through a thousand papers: how Estudiantes de La Plata are doing today, in one minute and in 5 languages.',
   saltar: 'Skip to content',
   inicio: 'home',
   secciones: 'Sections',
@@ -15,6 +15,7 @@ export default {
   lineaTitulo: 'Notipinchas in the media',
   siete: 'Seven stories',
   sieteMarca: 'El Pincha Hoy',
+  sieteLema: 'What matters about the Pincha, without trawling a thousand papers.',
   foto: 'Photo',
   gol: { ec: 'o.g.', pen: 'pen' },
   hoyCorto: 'Today',
