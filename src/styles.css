@@ -484,11 +484,13 @@ body:has(.pegado--on) .footer { padding-bottom: 84px; }
 
 /* Siete noticias pinchas: numeradas, la info a mano (sin clics) */
 .siete { margin-top: 20px; }
-.siete__titulo { display: flex; align-items: center; gap: 8px; font-size: .78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; margin-bottom: 10px; }
-:lang(zh) .siete__titulo, :lang(hi) .siete__titulo { letter-spacing: 0; text-transform: none; }
+.siete__titulo { display: flex; flex-direction: column; gap: 2px; font-size: clamp(1.45rem, 6vw, 1.9rem); font-weight: 800; line-height: 1.1; letter-spacing: -.02em; margin-bottom: 12px; }
+.siete__marca { font-size: .78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: #ff5a6e; }
+:lang(zh) .siete__marca, :lang(hi) .siete__marca { letter-spacing: 0; text-transform: none; }
 .siete__lista { margin: 0; padding: 0; list-style: none; counter-reset: siete; display: grid; gap: 8px; }
 .siete__item { position: relative; counter-increment: siete; padding: 12px 14px 12px 52px; background: rgb(255 255 255 / .06); border-radius: 12px; }
 .siete__item::before { content: counter(siete); position: absolute; left: 12px; top: 10px; width: 28px; height: 28px; display: grid; place-items: center; border-radius: 50%; background: var(--rojo); color: #fff; font-weight: 800; font-size: .95rem; }
 .siete__que { font-size: 1.02rem; font-weight: 800; line-height: 1.25; margin: 0 0 3px; }
 .siete__info { font-size: .95rem; line-height: 1.45; opacity: .92; margin: 0; }
-.siete + .linea { margin-top: 22px; }
+.siete + .franja, .siete + #partidos { margin-top: 20px; }
+.hoy--foto .siete { margin-top: 18px; }

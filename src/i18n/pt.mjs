@@ -14,6 +14,7 @@ export default {
   menu: { hoy: 'Hoje', partidos: 'Jogos', tabla: 'Tabela', noticias: 'Notícias', club: 'Clube' },
   lineaTitulo: 'Notipinchas na mídia',
   siete: 'Sete notícias pinchas',
+  sieteMarca: 'El Pincha Hoy',
   foto: 'Foto',
   gol: { ec: 'contra', pen: 'pên.' },
   hoyCorto: 'Hoje',

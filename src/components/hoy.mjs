@@ -6,12 +6,12 @@ import { foto } from './foto.mjs';
 // ni la hora ni el día (no se rotula nada como "ayer"); la fecha queda en el <li> para máquinas y en la página del día.
 // Hora 00:00 = el medio no publicó la hora real (lo usa la página del día).
 export const sinHora = (iso) => /T00:00(:00)?(-03:00)?$/.test(iso);
-// "Siete noticias pinchas": lo más importante del día, numerado, con la info ahí mismo (sin fuente ni links:
+// "El Pincha Hoy · Siete noticias pinchas": EL bloque de la portada (va primero; todo lo demás es yapa). Lo más importante del día, numerado, con la info ahí mismo (sin fuente ni links:
 // se lee sin hacer clic). Las notas con fuente y link van debajo, en "Notipinchas en los medios".
 export const siete = (items = [], t, nivel = 2) =>
   items.length
     ? html`<div class="siete">
-  <h${nivel} class="siete__titulo">${icono('pelota')}${t.siete}</h${nivel}>
+  <h${nivel} class="siete__titulo"><span class="siete__marca">${t.sieteMarca}</span>${t.siete}</h${nivel}>
   <ol class="siete__lista">
     ${items.map((n) => html`<li class="siete__item"><h${nivel + 1} class="siete__que">${n.titulo}</h${nivel + 1}><p class="siete__info">${n.texto}</p></li>`)}
   </ol>
@@ -44,11 +44,11 @@ export const hoy = ({ hoy, actualizado }, { t, f, enlaceDia }, destacado, vistaz
     ${hoy.foto
       ? html`<div class="hoy__portada">${foto(hoy.foto, 'hoy', { t, prioridad: true })}<div class="hoy__cabeza">${cabeza}</div></div>`
       : cabeza}
-    ${vistazo ?? ''}
-    <p class="hoy__resumen">${hoy.resumen}</p>
     ${hoy.siete?.length
       ? siete(hoy.siete, t)
       : hoy.puntos?.length ? html`<ul class="hoy__puntos">${hoy.puntos.map((p) => html`<li>${p}</li>`)}</ul>` : ''}
+    ${vistazo ?? ''}
+    <p class="hoy__resumen">${hoy.resumen}</p>
     ${linea(hoy.linea, actualizado, t, f, enlaceDia)}
     ${destacado ?? ''}
   </div>
