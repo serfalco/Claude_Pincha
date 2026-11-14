@@ -402,3 +402,33 @@ abbr { text-decoration: none; }
 .campania--mistica .mistica { margin-top: 0; }
 .campania--mistica .campania__sumar { margin-top: 12px; }
 .campania .campania__ver { margin-top: 12px; }
+
+/* Campaña unificada: globo → plaquita de números → Verón con el único botón. */
+.mistica { margin-top: 0; }
+.mistica__cifras { grid-template-columns: 1fr 1fr; gap: 1px; margin-top: 22px; border-radius: 14px; overflow: hidden; border: 1px solid rgba(255,255,255,.14); background: rgba(255,255,255,.14); }
+.mistica__cifras li { padding: 14px 4px 12px; border: 0; border-radius: 0; background: #1b1d22; }
+.mistica__cifras li:last-child:nth-child(odd) { grid-column: 1 / -1; padding: 10px 4px; display: flex; justify-content: center; align-items: baseline; gap: 6px; background: color-mix(in srgb, var(--rojo) 22%, #1b1d22); }
+.mistica__cifras li:last-child:nth-child(odd) b { font-size: 1.1rem; }
+.mistica__cifras li:last-child:nth-child(odd) span { margin: 0; opacity: 1; }
+.mistica__cifras b { font-size: 1.7rem; font-variant-numeric: tabular-nums; }
+.mistica__cifras li:first-child b { color: #ff4d64; }
+:lang(zh) .mistica__cifras span, :lang(hi) .mistica__cifras span { letter-spacing: 0; text-transform: none; font-size: .8rem; }
+.lider { margin-top: 22px; padding: 16px; border-radius: 16px; text-align: left; background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.14); }
+.lider__campania { font-size: .72rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: #ff6b80; margin-bottom: 12px; }
+:lang(zh) .lider__campania, :lang(hi) .lider__campania { letter-spacing: 0; text-transform: none; font-size: .85rem; }
+.lider .cita { margin: 0; padding: 0; background: none; overflow: visible; }
+.lider .cita::before { right: -4px; top: -34px; }
+.lider .cita__avatar { width: 56px; height: 56px; }
+.lider .cita__avatar img, .lider .cita__avatar span { border-color: #1b1d22; }
+.lider .cita__quien { font-size: 1rem; }
+.lider .cita blockquote p { opacity: 1; font-size: 1.25rem; }
+.lider__btn { display: block; margin-top: 16px; padding: 15px 20px; text-align: center; font-size: 1.1rem; border-radius: 12px; box-shadow: 0 8px 28px rgba(211,18,47,.45); }
+.mistica .lider__promesa { margin-top: 10px; font-size: .82rem; text-align: center; opacity: .75; }
+.mistica .campania__ver { margin-top: 16px; padding-top: 14px; border-top-color: rgba(255,255,255,.14); text-align: left; }
+.mistica .campania__ver summary { color: #fff; text-align: center; list-style: none; opacity: .85; }
+.mistica .campania__ver summary::-webkit-details-marker { display: none; }
+.mistica .campania__ver summary::after { content: " +"; color: #ff6b80; font-weight: 900; }
+.mistica .campania__ver[open] summary::after { content: " −"; }
+.mistica .campania__ver p { font-size: .88rem; }
+.campania__enlaces { display: flex; flex-wrap: wrap; gap: 8px 20px; margin-top: 12px !important; opacity: 1 !important; }
+.campania__enlaces a { color: #ff8a9a; font-weight: 700; }
