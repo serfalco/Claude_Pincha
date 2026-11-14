@@ -2,8 +2,9 @@ import { html, raw } from './lib/html.mjs';
 
 // Documento base: todo el SEO técnico vive acá.
 // alternates: [{ lang, href (absoluta), actual }] → hreflang + x-default para cada idioma.
-export const layout = ({ site, t, title, description, url, alternates, css, jsonLd = [], body, indexar = true }) => {
-  const ogImage = new URL('/og.jpg', site.url).href;
+// og: imagen para compartir de la página (ruta); si no hay, la de marca (/og.jpg). Ambas de 1200×630.
+export const layout = ({ site, t, title, description, url, alternates, css, jsonLd = [], body, indexar = true, og, ogAlt }) => {
+  const ogImage = new URL(og ?? '/og.jpg', site.url).href;
   const ld = JSON.stringify(jsonLd.length === 1 ? jsonLd[0] : jsonLd).replace(/</g, '\\u003c');
   const base = alternates[0];
   return html`<!doctype html>
@@ -30,12 +31,12 @@ ${alternates.filter((a) => !a.actual).map((a) => html`<meta property="og:locale:
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:type" content="image/jpeg">
-<meta property="og:image:alt" content="${site.nombre}">
+<meta property="og:image:alt" content="${ogAlt ?? site.nombre}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="${title}">
 <meta name="twitter:description" content="${description}">
 <meta name="twitter:image" content="${ogImage}">
-<meta name="twitter:image:alt" content="${site.nombre}">
+<meta name="twitter:image:alt" content="${ogAlt ?? site.nombre}">
 <style>${raw(css)}</style>
 <script type="application/ld+json">${raw(ld)}</script>
 </head>

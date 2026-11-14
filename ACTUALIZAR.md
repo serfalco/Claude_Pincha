@@ -73,12 +73,13 @@ Las ventanas que ya cerraron se sacan.
 ## Qué revisar en cada corrida
 
 - **ultimo**: último partido oficial jugado (rival, goles, fecha, torneo, condición `local`/`visitante`/`neutral`). La mascota se calcula sola con los goles.
+- **ultimo.goles** (goleadores de Estudiantes, se ven debajo del último resultado): `npm run datos` los muestra desde ESPN; si coinciden con lo que cuenta un medio o el club, `npm run datos -- --aplicar` los escribe (solo si el resultado está confirmado y ESPN lista todos los goles). Formato: `[{ "jugador": "Carrillo", "min": "55" }, { "jugador": "Villalba", "min": "68", "ec": true }]` (`ec` = en contra del rival, `pen` = de penal). Al cargar un partido nuevo en `ultimo`, sacar los goles del anterior.
 - **proximos**: próximos partidos oficiales confirmados (máx. 4), ordenados por fecha. Sacar los ya jugados.
 - **tabla** y **posiciones**: tabla del torneo en curso (zona de Estudiantes), puesto en la anual y en promedios. Si el torneo terminó, la tabla final con su nombre indicando que es final. `clasifican` según el formato vigente.
 - **proximos[].destacado**: `true` en el partido más importante que viene (activa la cuenta regresiva arriba de todo). Uno solo; sacarlo cuando se juegue.
 - **hoy.puntos**: no repetir lo que ya muestra la franja de arriba (rival, fecha y hora del próximo partido, último resultado, cuenta regresiva). Usarlos para lo práctico: entradas, micros, trámites, lesiones.
 - **hoy**: titular + resumen (2 frases) + 3 puntos sobre lo más importante del día para el hincha (partido de hoy, resultado de ayer, lesiones, entradas, el club).
-- **hoy.linea** ("Lo último"): lo que pasó hoy, de lo más nuevo a lo más viejo, 3 a 6 ítems. Cada uno: `hora` (hora real de la publicación, en hora argentina), `texto` (una frase propia), `fuente` ("Club" si es oficial, si no el medio) y `url`. Si es temprano y hay poco del día, completar con lo de ayer a la tarde/noche (se muestra como "Ayer"). Nada de más de 24 h. No es minuto a minuto: solo hechos que le importan al hincha.
+- **hoy.linea** ("Lo último"): lo que pasó hoy, de lo más nuevo a lo más viejo, 3 a 6 ítems. Cada uno: `hora` (hora real de la publicación, en hora argentina; si el medio no publica la hora, poner `T00:00:00-03:00` y el sitio muestra solo el día), `texto` (una frase propia), `fuente` ("Club" si es oficial, si no el medio) y `url`. Si es temprano y hay poco del día, completar con lo de ayer a la tarde/noche (se muestra como "Ayer"). Nada de más de 24 h. No es minuto a minuto: solo hechos que le importan al hincha.
 - **noticias**: las 4 más relevantes de los últimos días, con link a la nota original y su fuente.
 - **club**: socios y balance solo si hay un dato oficial nuevo. Campaña de socios: mantener el link. No publicar cuotas ni precios: para eso está el link del club. La cita de Verón y el bloque "mística" no se tocan: es el tono del sitio (apoyar al club, no obtener beneficios).
 - **Sección Mundo** (`data/mundo.json` + `data/i18n/mundo.<idioma>.json`): revisar una vez por semana o cuando haya novedad. Filiales nuevas en https://estudiantesdelaplata.com/filiales/, y la situación rumbo al Mundial de Clubes 2029 (ranking CONMEBOL, clasificación). Después de la final del 28/11, actualizar la nota y el bloque del Mundial según el resultado.
@@ -101,7 +102,7 @@ Solo campos de texto: `hoy` (incluido `hoy.linea[].texto` y `hoy.foto.alt`), `in
 
 ## Cierre
 
-1. `npm run archivar`: guarda el día en `data/dias/AAAA-MM-DD.json` (suma lo nuevo de "Lo último", no borra nada). Lo de ayer va solo al archivo de ayer.
+1. `npm run archivar`: guarda el día en `data/dias/AAAA-MM-DD.json` (suma lo nuevo de "Lo último", no borra nada; guarda también la foto de Hoy). Lo de ayer va solo al archivo de ayer. Al final corre `npm run imagenes`, que genera las versiones de las fotos y la **imagen para compartir del día** (`imagenes/web/og/AAAA-MM-DD.jpg`, la que muestra WhatsApp). Si dice que falló, instalar Pillow (`pip install -U pillow --break-system-packages`) y volver a correrlo.
 2. `npm run build`: tiene que terminar sin errores y **sin avisos de "sin traducir"**. Si falla, corregir; si no se puede, no publicar.
 3. Commit en `main` (incluye `data/dias/`) con mensaje `Actualización AAAA-MM-DD HH:MM: <qué cambió>` y push. Cloudflare Pages publica solo.
 4. Cuando el sitio ya muestre lo nuevo, correr `npm run indexnow` para avisar a Bing y otros buscadores (si falla, seguir: no es bloqueante).

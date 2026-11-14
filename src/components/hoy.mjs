@@ -4,6 +4,8 @@ import { foto } from './foto.mjs';
 
 // "Lo último": lo que pasó hoy (y ayer a la noche), de lo más nuevo a lo más viejo. No es minuto a minuto.
 const mismoDia = (a, b, f) => f.corta(a) === f.corta(b);
+// Hora 00:00 = el medio no publicó la hora real: se muestra solo el día ("Hoy" / "Ayer").
+export const sinHora = (iso) => /T00:00(:00)?(-03:00)?$/.test(iso);
 const linea = (items = [], actualizado, t, f, enlace) =>
   items.length
     ? html`<div class="linea">
@@ -11,7 +13,7 @@ const linea = (items = [], actualizado, t, f, enlace) =>
   <ol class="linea__lista">
     ${items.map(
       (n) => html`<li class="linea__item">
-      <time class="linea__hora" datetime="${n.hora}">${mismoDia(n.hora, actualizado, f) ? f.hora(n.hora) : t.ayer}</time>
+      <time class="linea__hora" datetime="${n.hora}">${!mismoDia(n.hora, actualizado, f) ? t.ayer : sinHora(n.hora) ? t.hoyCorto : f.hora(n.hora)}</time>
       <p class="linea__texto">${n.url ? html`<a href="${n.url}" rel="noopener">${n.texto}</a>` : n.texto} <span class="linea__fuente">${n.fuente === 'Club' ? t.menu.club : n.fuente}</span></p>
     </li>`
     )}

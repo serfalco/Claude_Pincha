@@ -20,9 +20,8 @@ export const foto = (dato, uso, { t, prioridad = false, clase = '' }) => {
   if (!img) throw new Error(`Foto "${dato.id}": no está en imagenes/indice.json`);
   if (!habilitada(img)) throw new Error(`Foto "${dato.id}": el club la publicó el ${img.publicada}; se puede usar recién ${espera} días después (exclusividad del club)`);
   if (!fmt) throw new Error(`Foto "${dato.id}": formato desconocido "${uso}"`);
-  if (!img.usos?.includes(uso)) throw new Error(`Foto "${dato.id}": falta "${uso}" en sus usos (indice.json) y correr python3 scripts/imagenes.py`);
   const anchos = fmt.anchos.filter((w) => existsSync(new URL(`web/${img.id}/${uso}-${w}.jpg`, banco)));
-  if (!anchos.length) throw new Error(`Foto "${dato.id}": no hay versiones web; correr python3 scripts/imagenes.py`);
+  if (!anchos.length) throw new Error(`Foto "${dato.id}": no hay versiones web para "${uso}"; correr npm run imagenes`);
   const alt = dato.alt ?? img.alt;
   if (!alt?.trim()) throw new Error(`Foto "${dato.id}": falta alt`);
   const src = (w, ext) => `/img/${img.id}/${uso}-${w}.${ext}`;

@@ -34,7 +34,17 @@ const abs = (path) => new URL(path, site.url).href;
 // Que cada foto usada exista y tenga alt lo valida src/components/foto.mjs al armar la página.
 const publicarImagenes = async () => {
   const web = join(root, 'imagenes/web');
-  if (await existe(web)) await cp(web, join(dist, 'img'), { recursive: true });
+  if (await existe(web)) await cp(web, join(dist, 'img'), { recursive: true, filter: (f) => !/(^|\/)\.[^/]+$|og\/indice\.json$/.test(f) });
+};
+
+// Imagen para compartir de un día (la genera scripts/imagenes.py). ?v= cambia si cambió la foto: WhatsApp no la cachea vieja.
+const ogRegistro = await readFile(join(root, 'imagenes/web/og/indice.json'), 'utf8').then(JSON.parse, () => ({}));
+const ogDe = (fecha) => {
+  const clave = ogRegistro[fecha];
+  if (!clave) return undefined;
+  let h = 0;
+  for (const c of clave) h = (h * 31 + c.charCodeAt(0)) >>> 0;
+  return `/img/og/${fecha}.jpg?v=${h.toString(36)}`;
 };
 
 const build = async () => {
@@ -88,13 +98,15 @@ const build = async () => {
   const listaDias = await Promise.all(archivos.map((f) => leerJSON(`data/dias/${f}`)));
   const hayHistorial = listaDias.some((d) => d.linea.length);
 
-  await pagina('', base.actualizado.slice(0, 10), (ctx, lang) =>
-    home({ ...ctx, enlaceDia: hayHistorial ? ctx.ruta('dias') : undefined }, porIdioma[lang])
-  );
+  await pagina('', base.actualizado.slice(0, 10), (ctx, lang) => ({
+    ...home({ ...ctx, enlaceDia: hayHistorial ? ctx.ruta('dias') : undefined }, porIdioma[lang]),
+    og: ogDe(base.actualizado.slice(0, 10)),
+    ogAlt: porIdioma[lang].hoy.foto?.alt,
+  }));
 
   for (const [i, d] of listaDias.entries()) {
     await pagina(`dia/${d.fecha}`, d.fecha, (ctx) =>
-      dia(ctx, d, {
+      dia({ ...ctx, og: ogDe(d.fecha) }, d, {
         anterior: listaDias[i + 1] && ctx.ruta(`dia/${listaDias[i + 1].fecha}`),
         siguiente: listaDias[i - 1] && ctx.ruta(`dia/${listaDias[i - 1].fecha}`),
         todos: ctx.ruta('dias'),

@@ -41,8 +41,12 @@ for (const [dia, nuevos] of grupos) {
     fecha: dia,
     // El titular y el resumen del día son los de la última corrida de ese día.
     ...(dia === hoy
-      ? { titular: textos((d) => d.hoy.titular), resumen: textos((d) => d.hoy.resumen), ultimo: base.ultimo }
-      : { titular: previo.titular, resumen: previo.resumen, ultimo: previo.ultimo }),
+      ? {
+          titular: textos((d) => d.hoy.titular), resumen: textos((d) => d.hoy.resumen), ultimo: base.ultimo,
+          // La foto de Hoy de ese día (la de la última corrida): queda en el historial.
+          ...(base.hoy.foto?.id ? { foto: { id: base.hoy.foto.id, alt: textos((d) => d.hoy.foto?.alt ?? base.hoy.foto.alt) } } : previo.foto ? { foto: previo.foto } : {}),
+        }
+      : { titular: previo.titular, resumen: previo.resumen, ultimo: previo.ultimo, ...(previo.foto ? { foto: previo.foto } : {}) }),
     linea: [...todos.values()].sort((a, b) => b.hora.localeCompare(a.hora)),
   };
   await mkdir(dirname(archivo), { recursive: true });
