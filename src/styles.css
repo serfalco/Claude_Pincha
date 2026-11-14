@@ -478,3 +478,6 @@ body:has(.pegado--on) .footer { padding-bottom: 84px; }
 .mistica .mapa__nota--ok { font-size: .95rem; font-weight: 700; opacity: 1; color: #f5c84b; }
 .mistica .mapa__cuenta { margin-top: 10px; font-size: .88rem; font-weight: 700; opacity: 1; font-variant-numeric: tabular-nums; }
 .mapa__cuenta i { display: inline-block; width: 9px; height: 9px; margin-right: 7px; border-radius: 50%; background: #f5c84b; box-shadow: 0 0 8px #f5c84b; }
+
+/* Notipinchas en la portada: sin columna de hora ni de día. */
+.linea__item--simple { grid-template-columns: 1fr; }

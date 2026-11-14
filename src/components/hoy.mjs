@@ -2,18 +2,17 @@ import { icono } from './iconos.mjs';
 import { html } from '../lib/html.mjs';
 import { foto } from './foto.mjs';
 
-// "Lo último": lo que pasó hoy (y ayer a la noche), de lo más nuevo a lo más viejo. No es minuto a minuto.
-const mismoDia = (a, b, f) => f.corta(a) === f.corta(b);
-// Hora 00:00 = el medio no publicó la hora real: se muestra solo el día ("Hoy" / "Ayer").
+// "Notipinchas en los medios": las últimas novedades, de lo más nuevo a lo más viejo. En la portada no se dice
+// ni la hora ni el día (no se rotula nada como "ayer"); la fecha queda en el <li> para máquinas y en la página del día.
+// Hora 00:00 = el medio no publicó la hora real (lo usa la página del día).
 export const sinHora = (iso) => /T00:00(:00)?(-03:00)?$/.test(iso);
 const linea = (items = [], actualizado, t, f, enlace) =>
   items.length
     ? html`<div class="linea">
-  <h2 class="linea__titulo">${icono('reloj')}${t.lineaTitulo}</h2>
+  <h2 class="linea__titulo">${icono('diario')}${t.lineaTitulo}</h2>
   <ol class="linea__lista">
     ${items.map(
-      (n) => html`<li class="linea__item">
-      <time class="linea__hora" datetime="${n.hora}">${!mismoDia(n.hora, actualizado, f) ? t.ayer : sinHora(n.hora) ? t.hoyCorto : f.hora(n.hora)}</time>
+      (n) => html`<li class="linea__item linea__item--simple">
       <p class="linea__texto">${n.url ? html`<a href="${n.url}" rel="noopener">${n.texto}</a>` : n.texto} <span class="linea__fuente">${n.fuente === 'Club' ? t.menu.club : n.fuente}</span></p>
     </li>`
     )}
