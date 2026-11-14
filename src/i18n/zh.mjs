@@ -12,6 +12,7 @@ export default {
   idiomas: '语言',
   menu: { hoy: '今日', partidos: '比赛', tabla: '积分榜', noticias: '新闻', club: '俱乐部' },
   lineaTitulo: '最新动态',
+  foto: '图片',
   ayer: '昨天',
   video: { kicker: '这首歌', verEnInstagram: '在Instagram观看', verEnYoutube: '在YouTube观看' },
   cuenta: { faltan: (n) => `还有 ${n} 天`, hoy: '就是今天！', manana: '就在明天' },

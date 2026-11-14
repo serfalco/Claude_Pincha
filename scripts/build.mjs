@@ -29,22 +29,12 @@ const textos = Object.fromEntries(
 const ruta = (lang, slug = '') => `/${lang === idiomaBase ? '' : `${lang}/`}${slug ? `${slug}/` : ''}`;
 const abs = (path) => new URL(path, site.url).href;
 
-// Banco de imágenes (imagenes/indice.json): solo se publican en /img/ las marcadas con "publicar": true.
-// El resto queda en el repo y nunca llega al sitio. Una imagen publicada necesita alt.
+// Banco de imágenes: solo llegan al sitio (/img/) las versiones web que genera scripts/imagenes.py
+// para las fotos con "usos" en imagenes/indice.json. Los originales quedan en el repo.
+// Que cada foto usada exista y tenga alt lo valida src/components/foto.mjs al armar la página.
 const publicarImagenes = async () => {
-  const banco = join(root, 'imagenes');
-  if (!(await existe(join(banco, 'indice.json')))) return;
-  const { imagenes } = await leerJSON('imagenes/indice.json');
-  const errores = [];
-  for (const img of imagenes.filter((i) => i.publicar)) {
-    if (!img.alt?.trim()) errores.push(`${img.archivo}: falta "alt"`);
-    if (!(await existe(join(banco, img.archivo)))) errores.push(`${img.archivo}: no existe el archivo`);
-  }
-  if (errores.length) throw new Error(`Imágenes:\n  ${errores.join('\n  ')}`);
-  for (const img of imagenes.filter((i) => i.publicar)) {
-    await mkdir(dirname(join(dist, 'img', img.archivo)), { recursive: true });
-    await cp(join(banco, img.archivo), join(dist, 'img', img.archivo));
-  }
+  const web = join(root, 'imagenes/web');
+  if (await existe(web)) await cp(web, join(dist, 'img'), { recursive: true });
 };
 
 const build = async () => {

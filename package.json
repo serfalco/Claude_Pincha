@@ -12,6 +12,8 @@
     "cobertura": "node scripts/cobertura.mjs",
     "datos": "node scripts/datos.mjs",
     "archivar": "node scripts/archivar.mjs",
-    "indexnow": "node scripts/indexnow.mjs"
+    "indexnow": "node scripts/indexnow.mjs",
+    "fotos": "node scripts/fotos-club.mjs",
+    "imagenes": "python3 scripts/imagenes.py"
   }
 }

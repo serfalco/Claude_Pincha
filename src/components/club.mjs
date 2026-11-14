@@ -1,5 +1,6 @@
 import { icono } from './iconos.mjs';
 import { html } from '../lib/html.mjs';
+import { foto } from './foto.mjs';
 
 // El club fuera de la cancha: campaña de socios, cantidad de socios y último balance aprobado.
 
@@ -15,6 +16,7 @@ const campania = (c, socios, { t }) => {
   const wa = c.sumar ? `https://wa.me/?text=${encodeURIComponent(`${c.sumar.compartir} ${c.url}`)}` : '';
   return html`
 <article class="card campania">
+  ${foto(c.foto, 'banda', { t, clase: 'campania__foto' })}
   <h3 class="campania__titulo">${c.nombre}</h3>
   <p>${c.texto}</p>
   <div class="progreso" role="progressbar" aria-valuemin="0" aria-valuemax="${c.meta}" aria-valuenow="${socios}" aria-label="${t.socios}: ${n(socios)} / ${n(c.meta)}">

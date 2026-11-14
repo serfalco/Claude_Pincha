@@ -1,6 +1,9 @@
 {
   "hoy": {
     "titular": "From the party to Montevideo: 121 coaches sold out",
+    "foto": {
+      "alt": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals."
+    },
     "resumen": "With the 20th star freshly won, the squad is resting and returns to City Bell on Monday to prepare for the Libertadores final against Palmeiras, on Saturday 28th at the Centenario. Fans snapped up all 121 coaches organised by the club.",
     "puntos": [
       "Coaches to Montevideo: sold out. The club confirmed a record convoy of 121 coaches heading to the Centenario.",
@@ -117,6 +120,9 @@
       "cita": {
         "traduccion": "If you can, become a member.. we have to reach 100,000 members! Come on",
         "via": "on Instagram"
+      },
+      "foto": {
+        "alt": "Estudiantes fans pack the stand at the UNO."
       }
     }
   },
