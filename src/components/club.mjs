@@ -10,10 +10,24 @@ const iniciales = (nombre) => {
   const p = nombre.trim().split(/\s+/);
   return (p[0][0] + (p.length > 1 ? p.at(-1)[0] : '')).toUpperCase();
 };
+// Arriba (después de Hoy): la campaña compacta. Lo largo (mística, globo, "sumá a otro pincha") va al final, en el club.
+const enlaces = (c, t) => ({
+  wa: c.sumar ? `https://wa.me/?text=${encodeURIComponent(`${c.sumar.compartir} ${c.url}`)}` : '',
+});
+const pasos = (c, t) =>
+  c.pasos?.length
+    ? html`
+    <details class="campania__ver">
+      <summary>${t.campania.ver}</summary>
+      ${t.campania.aviso ? html`<p class="meta">${t.campania.aviso}</p>` : ''}
+      <ol class="campania__pasos">${c.pasos.map((p) => html`<li>${p}</li>`)}</ol>
+    </details>`
+    : '';
+
 const campania = (c, socios, { t }) => {
   const pct = Math.min(100, Math.round((socios / c.meta) * 100));
   const n = (x) => x.toLocaleString(t.locale);
-  const wa = c.sumar ? `https://wa.me/?text=${encodeURIComponent(`${c.sumar.compartir} ${c.url}`)}` : '';
+  const { wa } = enlaces(c, t);
   return html`
 <article class="card campania">
   ${foto(c.foto, 'banda', { t, clase: 'campania__foto' })}
@@ -26,8 +40,10 @@ const campania = (c, socios, { t }) => {
   ${c.promesa ? html`<p class="meta">${c.promesa}</p>` : ''}
   <p class="campania__acciones">
     <a class="btn" href="${c.url}" rel="noopener">${t.campania.cta}</a>
+    ${wa ? html`<a class="btn btn--wa" href="${wa}" rel="noopener">${t.campania.compartir}</a>` : ''}
     ${c.info ? html`<a class="link" href="${c.info}" rel="noopener">${t.campania.info}</a>` : ''}
   </p>
+  ${pasos(c, t)}
 
   ${c.cita ? html`
   <figure class="cita">
@@ -40,7 +56,15 @@ const campania = (c, socios, { t }) => {
     <blockquote lang="es"><p>${c.cita.texto}</p></blockquote>
     ${c.cita.traduccion ? html`<p class="cita__traduccion">${c.cita.traduccion}</p>` : ''}
   </figure>` : ''}
+</article>`;
+};
 
+// Al final, en el club: la mística y "sumá a otro pincha", con el mismo tono y los mismos textos de siempre.
+const mistica = (c, { t }) => {
+  if (!c?.mistica && !c?.sumar) return '';
+  const { wa } = enlaces(c, t);
+  return html`
+<article class="card campania campania--mistica">
   ${c.mistica ? html`
   <div class="mistica">
     <img class="mistica__globo" src="/globo-filiales.svg" width="640" height="640" alt="" loading="lazy" decoding="async">
@@ -62,12 +86,6 @@ const campania = (c, socios, { t }) => {
       <a class="btn" href="${c.url}" rel="noopener">${t.campania.ctaGrande}</a>
       <a class="btn btn--wa" href="${wa}" rel="noopener">${t.campania.compartir}</a>
     </p>
-    ${c.pasos?.length ? html`
-    <details class="campania__ver">
-      <summary>${t.campania.ver}</summary>
-      ${t.campania.aviso ? html`<p class="meta">${t.campania.aviso}</p>` : ''}
-      <ol class="campania__pasos">${c.pasos.map((p) => html`<li>${p}</li>`)}</ol>
-    </details>` : ''}
   </div>` : ''}
 </article>`;
 };
@@ -88,6 +106,7 @@ export const club = ({ club: c }, ctx) => {
   const { t } = ctx;
   return html`
 <section${c.campania ? '' : html` id="club"`} class="wrap block" aria-label="${t.balance}">
+  ${c.campania ? mistica(c.campania, ctx) : ''}
   <div class="grid-2 grid-2--tight">
     <article class="card">
       <h3 class="card__label">${icono('persona')}${t.socios}</h3>

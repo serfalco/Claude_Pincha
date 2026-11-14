@@ -1,6 +1,7 @@
 // Datos estructurados: partidos y tabla desde fuentes que devuelven datos, no notas. Sin dependencias.
 // Uso: npm run datos               → compara con data/home.json y muestra las diferencias
-//      npm run datos -- --aplicar  → además escribe la tabla en data/home.json si las dos fuentes coinciden
+//      npm run datos -- --aplicar  → además escribe en data/home.json la tabla (si las dos fuentes coinciden)
+//                                   y los goles del último partido (si el resultado está confirmado y ESPN lista todos)
 // Salida: cobertura/datos.json (no se publica) + resumen en consola.
 //
 // Fuentes:
@@ -13,6 +14,7 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import site from '../site.config.mjs';
+import { resumir } from '../functions/api/vivo.js';
 
 const ESPN_EQUIPO = 8; // Estudiantes de La Plata en ESPN
 const ESPN = 'https://site.api.espn.com/apis';
@@ -77,6 +79,7 @@ const partido = (e) => {
   const rival = c.competitors.find((x) => x !== propio);
   const goles = (x) => (x.score == null ? undefined : Number(x.score.value ?? x.score.displayValue ?? x.score));
   return {
+    id: e.id,
     rival: nombre(rival.team.displayName),
     fecha: horaAR(e.date),
     torneo: e.league?.name ?? e.seasonType?.name ?? '',
@@ -162,6 +165,7 @@ const mismo = (a, b) => a && b && a.rival === b.rival && a.fecha === b.fecha;
 
 const main = async () => {
   const aplicar = process.argv.includes('--aplicar');
+  const cambios = [];
   const archivoHome = join(root, 'data/home.json');
   const home = JSON.parse(await readFile(archivoHome, 'utf8'));
   const errores = [];
@@ -194,9 +198,14 @@ const main = async () => {
     return '✓ confirmado por futbolargentino';
   };
 
+  // Goles de Estudiantes en el último partido (ESPN, detalle del partido). Incluye goles en contra del rival (ec).
+  const resumen = jugados[0] && (await intentar(traer(`${ESPN}/site/v2/sports/soccer/all/summary?event=${jugados[0].id}`), 'ESPN detalle del partido'));
+  const goles = resumen
+    ? (resumir(resumen)?.eventos ?? []).filter((e) => e.tipo === 'gol' && e.equipo === 'propio').map((e) => ({ jugador: e.jugador, min: e.min.replace(/'$/, ''), ...(e.ec && { ec: true }), ...(e.pen && { pen: true }) }))
+    : undefined;
   const salida = {
     generado: new Date().toISOString(), fuentes: FUENTES, errores,
-    ultimo: jugados[0], proximos, partidosFutbolargentino: pF.filter((p) => p.fecha >= jugadosFA[0]?.fecha || p.fecha > ahora),
+    ultimo: jugados[0] && { ...jugados[0], goles }, proximos, partidosFutbolargentino: pF.filter((p) => p.fecha >= jugadosFA[0]?.fecha || p.fecha > ahora),
     tabla: { espn: tE, futbolargentino: tF },
   };
   await mkdir(join(root, 'cobertura'), { recursive: true });
@@ -210,6 +219,16 @@ const main = async () => {
     const ok = mismo(u, h) && u.golesPropios === h.golesPropios && u.golesRival === h.golesRival;
     console.log(`  último:   ${fmt(u)}`);
     console.log(`            ${confirmar(u, true)} · ${ok ? '✓ igual a home.json' : `≠ home.json tiene ${fmt(h)}`}`);
+    if (goles) {
+      const txt = (g) => `${g.jugador} ${g.min}'${g.ec ? ' (e/c)' : ''}${g.pen ? ' (p)' : ''}`;
+      const igualGoles = JSON.stringify(goles) === JSON.stringify(h.goles ?? []);
+      console.log(`  goles:    ${goles.length ? goles.map(txt).join(', ') : 'sin goles'} (ESPN) · ${igualGoles ? '✓ igual a home.json' : '≠ home.json: confirmar con un medio y usar --aplicar'}`);
+      if (goles.length !== u.golesPropios) console.log(`            ⚠ ESPN lista ${goles.length} goles y el resultado dice ${u.golesPropios}: no aplicar`);
+      if (aplicar && ok && !igualGoles && goles.length === u.golesPropios && confirmar(u, true).startsWith('✓')) {
+        home.ultimo.goles = goles;
+        cambios.push('ultimo.goles');
+      }
+    }
     if (jugadosFA[0] && !(jugadosFA[0].rival === u.rival && jugadosFA[0].fecha.slice(0, 10) === u.fecha.slice(0, 10)))
       console.log(`            ⚠ para futbolargentino el último es ${fmt({ torneo: '', ...jugadosFA[0] })}`);
   }
@@ -243,10 +262,14 @@ const main = async () => {
     if (e) console.log(`  Estudiantes: ${e.puesto}° con ${e.pts} pts (home.json: ${home.posiciones[0].puesto}°, ${home.posiciones[0].detalle})`);
     if (aplicar && coinciden && !igualHome) {
       home.tabla.filas = tE.filas.map(({ equipo, pj, pts, dg }) => ({ equipo, pj, pts, dg, ...(equipo === 'Estudiantes' ? { propio: true } : {}) }));
-      await writeFile(archivoHome, `${JSON.stringify(home, null, 2)}\n`);
+      cambios.push('tabla.filas');
       console.log('  → tabla.filas actualizada en data/home.json (revisar tabla.nombre y posiciones a mano)');
     } else if (aplicar && !coinciden) console.log('  → no se aplica: las fuentes no coinciden');
   } else console.log('  Falta una de las dos fuentes: no se compara.');
+  if (cambios.length) {
+    await writeFile(archivoHome, `${JSON.stringify(home, null, 2)}\n`);
+    console.log(`\n→ data/home.json: ${cambios.join(', ')}`);
+  }
   console.log('\n→ cobertura/datos.json');
   if (errores.length === Object.keys(FUENTES).length) process.exitCode = 1;
 };

@@ -11,7 +11,7 @@
     "preview": "node scripts/build.mjs && npx --yes serve dist",
     "cobertura": "node scripts/cobertura.mjs",
     "datos": "node scripts/datos.mjs",
-    "archivar": "node scripts/archivar.mjs",
+    "archivar": "node scripts/archivar.mjs && (python3 scripts/imagenes.py || echo '⚠ npm run imagenes falló: revisar Pillow (pip install -U pillow)')",
     "indexnow": "node scripts/indexnow.mjs",
     "fotos": "node scripts/fotos-club.mjs",
     "imagenes": "python3 scripts/imagenes.py"

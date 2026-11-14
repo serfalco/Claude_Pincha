@@ -76,7 +76,22 @@
     "golesRival": 2,
     "fecha": "2026-11-12T20:00:00-03:00",
     "torneo": "Supercopa Argentina · Final (alargue)",
-    "condicion": "neutral"
+    "condicion": "neutral",
+    "goles": [
+      {
+        "jugador": "Carrillo",
+        "min": "55"
+      },
+      {
+        "jugador": "Villalba",
+        "min": "68",
+        "ec": true
+      },
+      {
+        "jugador": "Alario",
+        "min": "96"
+      }
+    ]
   },
   "posiciones": [
     {

@@ -50,6 +50,12 @@ El build genera `/dia/AAAA-MM-DD/` por día y `/dias/` con el índice, en cada i
 
 Sumar un idioma: copiar `src/i18n/es.mjs`, traducirlo, agregarlo a `idiomas` y crear su `data/i18n/home.<idioma>.json`.
 
+## Imagen para compartir y fotos
+
+- Cada día tiene su imagen para compartir (`og:image`, 1200×630): la foto de Hoy con la marca y la fecha, generada por `npm run imagenes` (corre solo después de `npm run archivar`). Sin foto, se usa `public/og.jpg`.
+- Las fotos salen del banco `imagenes/` (ver `imagenes/README.md`), con 7 días de exclusividad para el club.
+- Medición: Cloudflare Web Analytics (sin cookies), activado desde el panel de Pages (Metrics → Web Analytics). No agrega código al repo.
+
 ## Partido en vivo
 
 Mientras se juega el próximo partido (`proximos[0]` de `data/home.json`), arriba de todo aparece un bloque con marcador, goleadores y hechos (goles, tarjetas, cambios) que se actualiza solo cada 30 s. Antes y después se ve la franja de siempre.

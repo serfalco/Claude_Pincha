@@ -2,6 +2,8 @@ import { html } from '../lib/html.mjs';
 import { fechas } from '../lib/fechas.mjs';
 import { header } from '../components/header.mjs';
 import { footer } from '../components/footer.mjs';
+import { sinHora } from '../components/hoy.mjs';
+import { foto } from '../components/foto.mjs';
 
 // Página de un día del historial: /dia/AAAA-MM-DD/ (y /en/dia/..., /pt/dia/...).
 // dia = contenido de data/dias/AAAA-MM-DD.json; nav = { anterior, siguiente, todos } con rutas ya resueltas.
@@ -16,8 +18,11 @@ export default (ctx, dia, nav) => {
   const larga = fechaLarga(dia.fecha, t);
   const titular = tx(dia.titular);
   const u = dia.ultimo;
+  const fotoDia = dia.foto ? { id: dia.foto.id, alt: tx(dia.foto.alt) } : undefined;
   const ultimoDelDia = u && f.corta(u.fecha) === f.corta(`${dia.fecha}T12:00:00-03:00`);
   return {
+    og: ctx.og,
+    ogAlt: fotoDia?.alt,
     title: t.dia.title(larga),
     description: t.dia.descripcion(larga),
     jsonLd: [
@@ -30,7 +35,7 @@ export default (ctx, dia, nav) => {
         inLanguage: t.locale,
         datePublished: dia.linea.at(-1)?.hora ?? `${dia.fecha}T08:00:00-03:00`,
         dateModified: dia.linea[0]?.hora ?? `${dia.fecha}T08:00:00-03:00`,
-        image: [new URL('/og.jpg', site.url).href],
+        image: [new URL(ctx.og ?? '/og.jpg', site.url).href],
         mainEntityOfPage: new URL(ctx.ruta(`dia/${dia.fecha}`), site.url).href,
         about: { '@type': 'SportsTeam', name: site.equipo },
         author: { '@type': 'Organization', name: site.nombre, url: site.url },
@@ -41,10 +46,13 @@ export default (ctx, dia, nav) => {
     body: html`
 ${header(ctx)}
 <main>
-  <section id="hoy" class="hoy" aria-labelledby="dia-titulo">
+  <section id="hoy" class="hoy${fotoDia ? ' hoy--foto' : ''}" aria-labelledby="dia-titulo">
     <div class="wrap">
-      <p class="kicker"><span class="dot" aria-hidden="true"></span>${t.dia.kicker} · <time datetime="${dia.fecha}">${larga}</time></p>
-      <h1 id="dia-titulo" class="hoy__titular">${titular ?? t.dia.sinTitular}</h1>
+      ${(() => {
+        const cabeza = html`<p class="kicker"><span class="dot" aria-hidden="true"></span>${t.dia.kicker} · <time datetime="${dia.fecha}">${larga}</time></p>
+      <h1 id="dia-titulo" class="hoy__titular">${titular ?? t.dia.sinTitular}</h1>`;
+        return fotoDia ? html`<div class="hoy__portada">${foto(fotoDia, 'hoy', { t, prioridad: true })}<div class="hoy__cabeza">${cabeza}</div></div>` : cabeza;
+      })()}
       ${tx(dia.resumen) ? html`<p class="hoy__resumen">${tx(dia.resumen)}</p>` : ''}
       ${ultimoDelDia
         ? html`<p class="dia__resultado">${t.dia.ultimoResultado}: Estudiantes ${u.golesPropios} - ${u.golesRival} ${u.rival}</p>`
@@ -53,7 +61,7 @@ ${header(ctx)}
         <ol class="linea__lista">
           ${dia.linea.map(
             (n) => html`<li class="linea__item">
-            <time class="linea__hora" datetime="${n.hora}">${f.hora(n.hora)}</time>
+            <time class="linea__hora" datetime="${n.hora}">${sinHora(n.hora) ? '·' : f.hora(n.hora)}</time>
             <p class="linea__texto">${n.url ? html`<a href="${n.url}" rel="noopener">${tx(n.texto)}</a>` : tx(n.texto)} <span class="linea__fuente">${n.fuente === 'Club' ? t.menu.club : n.fuente}</span></p>
           </li>`
           )}

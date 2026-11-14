@@ -14,6 +14,8 @@ export default {
   menu: { hoy: 'Today', partidos: 'Matches', tabla: 'Table', noticias: 'News', club: 'Club' },
   lineaTitulo: 'Latest',
   foto: 'Photo',
+  gol: { ec: 'o.g.', pen: 'pen' },
+  hoyCorto: 'Today',
   ayer: 'Yesterday',
   video: { kicker: 'The song', verEnInstagram: 'Watch on Instagram', verEnYoutube: 'Watch on YouTube' },
   cuenta: { faltan: (n) => `${n} days to go`, hoy: 'It\'s today!', manana: 'It\'s tomorrow' },

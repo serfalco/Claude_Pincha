@@ -397,3 +397,8 @@ abbr { text-decoration: none; }
 /* Campaña de socios: franja de foto pegada arriba de la tarjeta */
 .campania__foto { margin: -16px -16px 14px; }
 .campania__foto img { border-radius: 12px 12px 0 0; }
+.franja__goles { grid-column: 1 / -1; margin: 0; padding: 7px 12px; border-radius: 10px; background: rgb(255 255 255 / .07); font-size: .82rem; line-height: 1.35; }
+.campania--mistica { padding: 0; border: 0; background: none; }
+.campania--mistica .mistica { margin-top: 0; }
+.campania--mistica .campania__sumar { margin-top: 12px; }
+.campania .campania__ver { margin-top: 12px; }

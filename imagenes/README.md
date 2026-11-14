@@ -25,6 +25,9 @@ Medidas fijas: cada lugar del sitio tiene un formato y solo uno. No se inventan 
 |---|---|---|---|---|
 | `hoy` | 16:9 | 640, 1024 | Foto principal de Hoy, con el titular encima | primero (`fetchpriority=high`) |
 | `banda` | 2:1 | 640, 1024 | Franja arriba de la tarjeta de socios | diferida (`lazy`) |
+| compartir | 1200×630 | — | Imagen del día para WhatsApp/redes (`og:image`): foto de Hoy + marca + fecha, sin texto en un idioma | — |
+
+La imagen para compartir se genera sola para cada día con foto (`web/og/AAAA-MM-DD.jpg`, JPG, ~130 KB) y la usan la home y la página de ese día. Cada día del historial guarda su foto de Hoy (`data/dias/*.json` → `foto`), así que `npm run imagenes` mantiene también esas versiones.
 
 Cada versión sale en **AVIF** (la que bajan casi todos los navegadores: ~30–60 KB) y **JPG** de respaldo. El HTML lleva `width`/`height`: la página no salta mientras carga.
 
