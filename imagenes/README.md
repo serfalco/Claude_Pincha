@@ -8,9 +8,9 @@ Fotos oficiales de Estudiantes de La Plata (estudiantesdelaplata.com) para usar 
 
 | Carpeta | Fotos | Qué es |
 |---|---|---|
-| `primera/` | 144 | Primera masculina: partidos, entrenamientos, refuerzos (may–nov 2026) |
+| `primera/` | 150 | Primera masculina: partidos, entrenamientos, refuerzos (may–nov 2026, se suman con `npm run fotos`) |
 | `estadio-uno/` | 2 | Estadio UNO |
-| `country-city-bell/` | 6 | Country de City Bell |
+| `country-city-bell/` | 7 | Country de City Bell |
 | `web/` | — | Versiones para el sitio, **generadas** (no editar a mano) |
 
 Nombre de cada archivo: `AAAA-MM-DD_<nota-del-club>_<n>.jpg`. La fecha es la de **publicación** de la nota, no necesariamente la de la foto. Los originales miden 1024 px de ancho (máximo): no se agrandan.
@@ -37,7 +37,7 @@ Una entrada por foto: `archivo`, `categoria`, `ancho`, `alto`, `orientacion`, `n
 ## Cómo poner una foto
 
 1. En `indice.json`: agregar el uso a `usos` y, si hace falta, ajustar `foco`.
-2. `python3 scripts/imagenes.py` → genera `web/<id>/<uso>-<ancho>.avif|jpg` (y borra las que ya no se usan). Requiere Pillow con AVIF (`pip install -U pillow`).
+2. `npm run imagenes` (= `python3 scripts/imagenes.py`) → genera `web/<id>/<uso>-<ancho>.avif|jpg` (y borra las que ya no se usan). Requiere Pillow con AVIF (`pip install -U pillow`).
 3. En `data/home.json`: `"foto": { "id": "<id>", "alt": "<qué se ve>" }` en `hoy` o en `club.campania`; el `alt` también en `data/i18n/home.<idioma>.json`.
 4. `npm run build`: falla si la foto no existe, no tiene ese uso, faltan sus versiones o el `alt`.
 
@@ -51,4 +51,8 @@ Para sacar una foto: borrar `foto` de `home.json` (y de las traducciones).
 
 ## Sumar fotos
 
-Copiar el `.jpg` a su carpeta con el mismo formato de nombre y agregar su entrada a `indice.json` (`usos: []`).
+**Automático:** `npm run fotos` trae las fotos nuevas de la web del club (API pública de WordPress) de las notas de fútbol profesional, estadio y country de los últimos 14 días (`-- --dias 30` para otro período; `-- --prueba` para ver qué traería sin descargar). Baja la versión de 1024 px, hasta 4 por nota, saltea las repetidas (por `mediaId` / `original`) y las de menos de 640 px, y completa `indice.json` con nota, fecha, crédito (si el club lo pone en el epígrafe) y `usos: []`. Nunca borra ni publica nada.
+
+Cada foto pesa ~120 KB en el repo: traer cuando hace falta (después de un partido, una vez por semana), no en cada corrida.
+
+**A mano:** copiar el `.jpg` a su carpeta con el mismo formato de nombre y agregar su entrada a `indice.json` (`usos: []`).

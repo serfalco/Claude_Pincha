@@ -77,6 +77,7 @@ scripts/build.mjs         genera dist/, sitemap.xml y robots.txt
 scripts/datos.mjs         partidos y tabla desde ESPN + futbolargentino (npm run datos)
 public/                   favicon, íconos, imagen OG, _headers
 imagenes/                 banco de fotos, formatos.json e indice.json; web/ = versiones AVIF/JPG que van a /img/ (ver imagenes/README.md)
+scripts/fotos-club.mjs     trae fotos nuevas de la web del club al banco (npm run fotos)
 scripts/imagenes.py       genera imagenes/web/ (Python + Pillow, solo al cambiar una foto; el build sigue sin dependencias)
 ```
 
