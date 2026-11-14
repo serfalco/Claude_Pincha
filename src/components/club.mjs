@@ -25,6 +25,11 @@ const campania = (c, socios, { t, ruta }) => {
     <h3 class="mistica__titulo">${m.titulo}</h3>
     <p class="mistica__lema">${m.lema}</p>` : ''}
     <ul class="mistica__cifras">${cifras.map((x) => html`<li><b>${n(x.n)}</b><span>${x.t}</span></li>`)}</ul>
+    <div class="mapa" data-boton="${t.mapa.boton}" data-cuenta="${t.mapa.cuenta}" data-gracias="${t.mapa.gracias}">
+      <button class="mapa__btn" type="button" hidden>${icono('pin')}<span></span></button>
+      <p class="mapa__nota" hidden>${t.mapa.nota}</p>
+      <p class="mapa__cuenta" hidden><i aria-hidden="true"></i><span></span></p>
+    </div>
     <p class="mistica__filial"><a href="${ruta('mundo')}">${t.mundo.encontrar} →</a></p>
 
     <div class="lider">
@@ -55,6 +60,7 @@ const campania = (c, socios, { t, ruta }) => {
     </details>
   </div>
   <script src="/globo.js" defer></script>
+  <script src="/mapa.js" defer></script>
 </article>`;
 };
 

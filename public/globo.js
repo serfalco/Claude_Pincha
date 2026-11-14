@@ -26,6 +26,9 @@
     });
   });
   const pts = EXT.map(v3), arg = ARG.map((a) => [v3(a), a[2]]);
+  // Hinchas que se sumaron al mapa (los manda public/mapa.js): [[lon, lat, n], …]
+  let fans = [];
+  addEventListener('pinchas', (e) => { fans = e.detail.map(([lo, la, n]) => [v3([lo, la]), n]); });
 
   const cv = document.createElement('canvas');
   cv.className = img.className; cv.setAttribute('aria-hidden', 'true');
@@ -76,6 +79,8 @@
     ctx.shadowColor = '#ff2443'; ctx.shadowBlur = 10 * dpr;
     for (const [p, c] of arg) { const [x, y, z] = proj(p, rr); if (z <= 0) continue; ctx.fillStyle = '#ff3352'; ctx.beginPath(); ctx.arc(cx + x * r, cy + y * r, (1.6 + Math.sqrt(c) * .9) * dpr, 0, 7); ctx.fill(); }
     for (const p of pts) { const [x, y, z] = proj(p, rr); if (z <= 0) continue; ctx.fillStyle = '#fff'; ctx.beginPath(); ctx.arc(cx + x * r, cy + y * r, 2.4 * dpr, 0, 7); ctx.fill(); }
+    ctx.shadowColor = '#f5c84b'; ctx.shadowBlur = 8 * dpr; ctx.fillStyle = '#f5c84b';
+    for (const [p, c] of fans) { const [x, y, z] = proj(p, rr); if (z <= 0) continue; ctx.beginPath(); ctx.arc(cx + x * r, cy + y * r, Math.min(6, 1.8 + Math.log2(c) * .6) * dpr, 0, 7); ctx.fill(); }
     ctx.shadowBlur = 0;
     // La Plata: punto + onda
     const [x, y, z] = proj(a0, rr);

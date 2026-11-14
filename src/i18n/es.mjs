@@ -65,6 +65,7 @@ export default {
     titulo: 'Día por día',
     hechos: (n) => `${n} ${n === 1 ? 'hecho' : 'hechos'}`,
   },
+  mapa: { boton: "Soy pincha desde {c}", cuenta: "Pinchas en el mapa: {n} · Países: {p}", gracias: "¡Ya estás en el mapa! Gracias por sumarte.", nota: "Sumamos solo tu ciudad: sin nombre, sin mail, sin cuenta." },
   mundo: {
     menu: 'Mundo',
     title: 'El campeón del mundo y sus hinchas por el mundo · El Pincha Hoy',

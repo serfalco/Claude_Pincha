@@ -2,3 +2,9 @@
 name = "elpinchahoy"
 pages_build_output_dir = "dist"
 compatibility_date = "2026-11-01"
+
+# "Sumate al mapa": base D1 que usa functions/api/mapa.js (tabla `puntos`).
+[[d1_databases]]
+binding = "DB"
+database_name = "elpinchahoy-mapa"
+database_id = "e48c66f2-d97d-4eff-bc05-0c59e2f3a727"
