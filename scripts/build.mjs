@@ -29,10 +29,29 @@ const textos = Object.fromEntries(
 const ruta = (lang, slug = '') => `/${lang === idiomaBase ? '' : `${lang}/`}${slug ? `${slug}/` : ''}`;
 const abs = (path) => new URL(path, site.url).href;
 
+// Banco de imágenes (imagenes/indice.json): solo se publican en /img/ las marcadas con "publicar": true.
+// El resto queda en el repo y nunca llega al sitio. Una imagen publicada necesita alt.
+const publicarImagenes = async () => {
+  const banco = join(root, 'imagenes');
+  if (!(await existe(join(banco, 'indice.json')))) return;
+  const { imagenes } = await leerJSON('imagenes/indice.json');
+  const errores = [];
+  for (const img of imagenes.filter((i) => i.publicar)) {
+    if (!img.alt?.trim()) errores.push(`${img.archivo}: falta "alt"`);
+    if (!(await existe(join(banco, img.archivo)))) errores.push(`${img.archivo}: no existe el archivo`);
+  }
+  if (errores.length) throw new Error(`Imágenes:\n  ${errores.join('\n  ')}`);
+  for (const img of imagenes.filter((i) => i.publicar)) {
+    await mkdir(dirname(join(dist, 'img', img.archivo)), { recursive: true });
+    await cp(join(banco, img.archivo), join(dist, 'img', img.archivo));
+  }
+};
+
 const build = async () => {
   await rm(dist, { recursive: true, force: true });
   await mkdir(dist, { recursive: true });
   await cp(join(root, 'public'), dist, { recursive: true });
+  await publicarImagenes();
 
   const css = minCSS(await readFile(join(root, 'src/styles.css'), 'utf8'));
   const sitemap = [];
