@@ -467,3 +467,14 @@ abbr { text-decoration: none; }
 .mistica__filial a { color: #ff8a9a; font-weight: 700; text-decoration: none; }
 /* Que el banner pegado no tape el final de la página. */
 body:has(.pegado--on) .footer { padding-bottom: 84px; }
+
+/* Sumate al mapa: botón secundario (el único botón rojo sigue siendo el de Verón). */
+.mapa { margin-top: 14px; }
+.mapa__btn { display: inline-flex; align-items: center; gap: 8px; max-width: 100%; padding: 11px 18px; border-radius: 14px; text-align: left; line-height: 1.25; border: 1.5px solid #f5c84b; background: rgba(245,200,75,.1); color: #fff; font: inherit; font-weight: 800; cursor: pointer; }
+.mapa__btn[hidden], .mapa p[hidden] { display: none; }
+.mapa__btn:disabled { opacity: .6; }
+.mapa__btn svg { flex-shrink: 0; width: 18px; height: 18px; color: #f5c84b; }
+.mistica .mapa__nota { margin-top: 8px; font-size: .78rem; opacity: .7; }
+.mistica .mapa__nota--ok { font-size: .95rem; font-weight: 700; opacity: 1; color: #f5c84b; }
+.mistica .mapa__cuenta { margin-top: 10px; font-size: .88rem; font-weight: 700; opacity: 1; font-variant-numeric: tabular-nums; }
+.mapa__cuenta i { display: inline-block; width: 9px; height: 9px; margin-right: 7px; border-radius: 50%; background: #f5c84b; box-shadow: 0 0 8px #f5c84b; }

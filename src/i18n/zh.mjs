@@ -61,6 +61,7 @@ export default {
     titulo: '每日回顾',
     hechos: (n) => `${n} 条动态`,
   },
+  mapa: { boton: "我是来自{c}的Pincha球迷", cuenta: "地图上的Pincha球迷：{n} · 国家：{p}", gracias: "你已经在地图上了！感谢加入。", nota: "我们只记录你所在的城市：不需要姓名、邮箱或账号。" },
   mundo: {
     menu: '全球',
     title: '世界冠军与遍布全球的球迷 · El Pincha Hoy',

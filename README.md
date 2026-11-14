@@ -61,6 +61,7 @@ Sumar un idioma: copiar `src/i18n/es.mjs`, traducirlo, agregarlo a `idiomas` y c
 Mientras se juega el próximo partido (`proximos[0]` de `data/home.json`), arriba de todo aparece un bloque con marcador, goleadores y hechos (goles, tarjetas, cambios) que se actualiza solo cada 30 s. Antes y después se ve la franja de siempre.
 
 - `functions/index.js`: Pages Function en `/`. Manda la primera visita a la portada a la versión del idioma del navegador (en, pt, zh, hi); si la persona vuelve a español a mano, lo respeta (cookie `idioma`).
+- `functions/api/mapa.js` + `public/mapa.js`: "Sumate al mapa". Un toque suma al hincha en su ciudad (la da Cloudflare por la conexión; no hay texto libre ni datos personales) y el globo la muestra como punto dorado. Guarda en la base D1 `elpinchahoy-mapa` (binding `DB` en `wrangler.toml`), tabla `puntos (clave, ciudad, pais, lat, lon, n, creado)`. Un voto por conexión y por día.
 - `functions/api/vivo.js`: Pages Function (Worker) en `/api/vivo`. Busca el partido de Estudiantes del día en ESPN (API pública, no oficial), lo resume en un JSON chico y lo cachea 30 s en Cloudflare.
 - `src/components/vivo.mjs` + `public/vivo.js`: el bloque y su script (sin dependencias). Solo consulta desde 30 min antes hasta 5 h después del partido.
 - Textos en `src/i18n/*.mjs` (`vivo`): se arman con plantillas propias en cada idioma, no se copia el relato de ESPN.

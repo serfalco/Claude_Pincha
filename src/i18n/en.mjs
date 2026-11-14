@@ -64,6 +64,7 @@ export default {
     titulo: 'Day by day',
     hechos: (n) => `${n} ${n === 1 ? 'item' : 'items'}`,
   },
+  mapa: { boton: "I'm a Pincha from {c}", cuenta: "Pinchas on the map: {n} · Countries: {p}", gracias: "You're on the map! Thanks for joining.", nota: "We only add your city: no name, no email, no account." },
   mundo: {
     menu: 'World',
     title: 'The world champions and their fans around the world · El Pincha Hoy',
