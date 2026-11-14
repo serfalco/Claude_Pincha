@@ -1,9 +1,9 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-13T23:45:00-03:00",
+  "actualizado": "2026-11-14T08:45:00-03:00",
   "hoy": {
     "titular": "Del festejo a Montevideo: 121 micros agotados",
-    "resumen": "Con la estrella 20 recién ganada, el plantel tuvo descanso y la cabeza ya está en la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. Los hinchas agotaron los 121 micros que organizó el club.",
+    "resumen": "Con la estrella 20 recién ganada, el plantel descansa y vuelve el lunes a City Bell para preparar la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. Los hinchas agotaron los 121 micros que organizó el club.",
     "puntos": [
       "Micros a Montevideo: agotados. El club confirmó una caravana récord de 121 colectivos rumbo al Centenario.",
       "Plateas para la final: agotadas. El club avisará a los socios si surge algún remanente.",
@@ -11,16 +11,28 @@
     ],
     "linea": [
       {
+        "hora": "2026-11-14T00:00:00-03:00",
+        "texto": "Medina hizo historia: es el primer DT extranjero en salir campeón con Estudiantes.",
+        "fuente": "Diario Hoy",
+        "url": "https://diariohoy.net/el-clasico/medina-historico-el-primer-extranjero-en-ganar-con-el-leon-290186"
+      },
+      {
+        "hora": "2026-11-14T00:00:00-03:00",
+        "texto": "El plantel sigue licenciado y vuelve a entrenar el lunes en City Bell, ya con la mira en Palmeiras.",
+        "fuente": "Diario Hoy",
+        "url": "https://diariohoy.net/el-clasico/tras-la-victoria-el-pincha-quedo-licenciado-290187"
+      },
+      {
+        "hora": "2026-11-13T17:00:00-03:00",
+        "texto": "Sábado de juveniles ante Tigre: Séptima, Octava y Novena en City Bell desde las 9 (con transmisión en el YouTube del club); Cuarta, Quinta y Sexta, de visita.",
+        "fuente": "Club",
+        "url": "https://estudiantesdelaplata.com/duelos-ante-el-matador/"
+      },
+      {
         "hora": "2026-11-13T16:32:00-03:00",
         "texto": "Guido Carrillo, el hombre de las finales: hizo goles en cuatro de las nueve definiciones que jugó con el Pincha.",
         "fuente": "0221",
         "url": "https://www.0221.com.ar/estudiantes/guido-carrillo-el-hombre-las-finales-estudiantes-n137411"
-      },
-      {
-        "hora": "2026-11-13T16:29:00-03:00",
-        "texto": "Tras la Supercopa, el plantel quedó licenciado y ya piensa en la final de la Libertadores.",
-        "fuente": "Infocielo",
-        "url": "https://www.infocielo.com/deportes/tras-ganar-la-supercopa-argentina-estudiantes-fue-licenciado-y-ya-apunta-a-la-final-de-la-libertadores"
       },
       {
         "hora": "2026-11-13T15:26:00-03:00",
@@ -33,12 +45,6 @@
         "texto": "Alak felicitó al campeón y la Municipalidad de La Plata se iluminó de rojo y blanco.",
         "fuente": "Punto Capital",
         "url": "https://www.puntocapitalnoticias.com/alak-felicito-a-estudiantes-por-la-supercopa-argentina-y-la-municipalidad-se-ilumino-de-rojo-y-blanco/"
-      },
-      {
-        "hora": "2026-11-13T03:57:00-03:00",
-        "texto": "Chiqui Tapia no viajó a Córdoba para la entrega de la copa: saludó al campeón y a Verón por redes.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/chiqui-tapia-no-asistio-a-la-premiacion-de-estudiantes-campeon-en-la-supercopa-argentina-en-cordoba-nid13112026/"
       }
     ]
   },

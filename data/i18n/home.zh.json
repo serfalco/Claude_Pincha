@@ -1,7 +1,7 @@
 {
   "hoy": {
     "titular": "从庆祝到蒙得维的亚：121辆大巴售罄",
-    "resumen": "刚刚拿下第20颗星，球队获得休息，注意力已转向28日周六在Centenario对阵帕尔梅拉斯（Palmeiras）的Copa Libertadores决赛。球迷们抢光了俱乐部组织的121辆大巴。",
+    "resumen": "刚刚拿下第20颗星，球队正在休息，周一将回到City Bell备战28日周六在Centenario对阵帕尔梅拉斯（Palmeiras）的Copa Libertadores决赛。球迷们抢光了俱乐部组织的121辆大巴。",
     "puntos": [
       "前往蒙得维的亚的大巴：已售罄。俱乐部确认将有创纪录的121辆大巴车队开赴Centenario。",
       "决赛座位票：已售罄。若有余票，俱乐部将通知会员。",
@@ -9,19 +9,22 @@
     ],
     "linea": [
       {
-        "texto": "Guido Carrillo，决赛先生：他为Pincha出战的九场决赛中有四场进球。"
+        "texto": "Medina创造历史：他是首位率Estudiantes夺冠的外籍主帅。"
       },
       {
-        "texto": "Supercopa夺冠后，球队放假休整，目光已投向Copa Libertadores决赛。"
+        "texto": "球队仍在放假，周一将在City Bell恢复训练，目标直指Palmeiras。"
+      },
+      {
+        "texto": "青训周六对阵Tigre：第七、八、九梯队9点起在City Bell主场作战（俱乐部YouTube频道直播）；第四、五、六梯队客场出战。"
+      },
+      {
+        "texto": "Guido Carrillo，决赛先生：他为Pincha出战的九场决赛中有四场进球。"
       },
       {
         "texto": "历史性车队：球迷抢光了前往Centenario的全部121辆大巴。"
       },
       {
         "texto": "市长Alak祝贺冠军，拉普拉塔市政厅亮起红白灯光。"
-      },
-      {
-        "texto": "阿根廷足协主席Chiqui Tapia没有前往科尔多瓦出席颁奖，而是在社交媒体上祝贺冠军和Verón。"
       }
     ]
   },

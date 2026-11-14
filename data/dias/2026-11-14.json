@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-11-14",
+  "titular": {
+    "es": "Del festejo a Montevideo: 121 micros agotados",
+    "en": "From the party to Montevideo: 121 coaches sold out",
+    "pt": "Da festa a Montevidéu: 121 ônibus esgotados",
+    "zh": "从庆祝到蒙得维的亚：121辆大巴售罄",
+    "hi": "जश्न से मोंटेवीडियो तक: 121 बसें बिक गईं"
+  },
+  "resumen": {
+    "es": "Con la estrella 20 recién ganada, el plantel descansa y vuelve el lunes a City Bell para preparar la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. Los hinchas agotaron los 121 micros que organizó el club.",
+    "en": "With the 20th star freshly won, the squad is resting and returns to City Bell on Monday to prepare for the Libertadores final against Palmeiras, on Saturday 28th at the Centenario. Fans snapped up all 121 coaches organised by the club.",
+    "pt": "Com a estrela 20 recém-conquistada, o elenco descansa e volta na segunda-feira a City Bell para preparar a final da Libertadores contra o Palmeiras, no sábado 28, no Centenario. Os torcedores esgotaram os 121 ônibus organizados pelo clube.",
+    "zh": "刚刚拿下第20颗星，球队正在休息，周一将回到City Bell备战28日周六在Centenario对阵帕尔梅拉斯（Palmeiras）的Copa Libertadores决赛。球迷们抢光了俱乐部组织的121辆大巴。",
+    "hi": "20वाँ सितारा जीतने के बाद टीम आराम कर रही है और सोमवार को City Bell लौटकर शनिवार 28 को Centenario में Palmeiras के ख़िलाफ़ Copa Libertadores फ़ाइनल की तैयारी शुरू करेगी। प्रशंसकों ने क्लब की सभी 121 बसें बुक कर लीं।"
+  },
+  "ultimo": {
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral"
+  },
+  "linea": [
+    {
+      "hora": "2026-11-14T00:00:00-03:00",
+      "fuente": "Diario Hoy",
+      "url": "https://diariohoy.net/el-clasico/medina-historico-el-primer-extranjero-en-ganar-con-el-leon-290186",
+      "texto": {
+        "es": "Medina hizo historia: es el primer DT extranjero en salir campeón con Estudiantes.",
+        "en": "Medina made history: he is the first foreign manager to win a title with Estudiantes.",
+        "pt": "Medina fez história: é o primeiro técnico estrangeiro a ser campeão com o Estudiantes.",
+        "zh": "Medina创造历史：他是首位率Estudiantes夺冠的外籍主帅。",
+        "hi": "Medina ने इतिहास रचा: वे Estudiantes के साथ ख़िताब जीतने वाले पहले विदेशी कोच हैं।"
+      }
+    },
+    {
+      "hora": "2026-11-14T00:00:00-03:00",
+      "fuente": "Diario Hoy",
+      "url": "https://diariohoy.net/el-clasico/tras-la-victoria-el-pincha-quedo-licenciado-290187",
+      "texto": {
+        "es": "El plantel sigue licenciado y vuelve a entrenar el lunes en City Bell, ya con la mira en Palmeiras.",
+        "en": "The squad remains on leave and returns to training on Monday in City Bell, with Palmeiras in sight.",
+        "pt": "O elenco segue de folga e volta a treinar na segunda-feira em City Bell, já de olho no Palmeiras.",
+        "zh": "球队仍在放假，周一将在City Bell恢复训练，目标直指Palmeiras。",
+        "hi": "टीम अभी छुट्टी पर है और सोमवार को City Bell में फिर से अभ्यास शुरू करेगी, नज़र Palmeiras पर।"
+      }
+    }
+  ]
+}

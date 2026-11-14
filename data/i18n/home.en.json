@@ -1,7 +1,7 @@
 {
   "hoy": {
     "titular": "From the party to Montevideo: 121 coaches sold out",
-    "resumen": "With the 20th star freshly won, the squad has been given time off and minds are already on the Libertadores final against Palmeiras, on Saturday 28th at the Centenario. Fans snapped up all 121 coaches organised by the club.",
+    "resumen": "With the 20th star freshly won, the squad is resting and returns to City Bell on Monday to prepare for the Libertadores final against Palmeiras, on Saturday 28th at the Centenario. Fans snapped up all 121 coaches organised by the club.",
     "puntos": [
       "Coaches to Montevideo: sold out. The club confirmed a record convoy of 121 coaches heading to the Centenario.",
       "Seats for the final: sold out. The club will tell members if any more become available.",
@@ -9,19 +9,22 @@
     ],
     "linea": [
       {
-        "texto": "Guido Carrillo, the man for finals: he has scored in four of the nine finals he has played for the Pincha."
+        "texto": "Medina made history: he is the first foreign manager to win a title with Estudiantes."
       },
       {
-        "texto": "After the Supercopa, the squad has been given time off and is already focused on the Libertadores final."
+        "texto": "The squad remains on leave and returns to training on Monday in City Bell, with Palmeiras in sight."
+      },
+      {
+        "texto": "A Saturday of youth football against Tigre: the U-15 to U-13 sides play at City Bell from 9am (streamed on the club's YouTube channel), while the older youth sides play away."
+      },
+      {
+        "texto": "Guido Carrillo, the man for finals: he has scored in four of the nine finals he has played for the Pincha."
       },
       {
         "texto": "A historic convoy: fans sold out all 121 coaches to travel to the Centenario."
       },
       {
         "texto": "Mayor Alak congratulated the champions and La Plata's town hall was lit up in red and white."
-      },
-      {
-        "texto": "Chiqui Tapia did not travel to Córdoba for the trophy presentation: he congratulated the champions and Verón on social media."
       }
     ]
   },

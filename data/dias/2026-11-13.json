@@ -24,6 +24,18 @@
   },
   "linea": [
     {
+      "hora": "2026-11-13T17:00:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/duelos-ante-el-matador/",
+      "texto": {
+        "es": "Sábado de juveniles ante Tigre: Séptima, Octava y Novena en City Bell desde las 9 (con transmisión en el YouTube del club); Cuarta, Quinta y Sexta, de visita.",
+        "en": "A Saturday of youth football against Tigre: the U-15 to U-13 sides play at City Bell from 9am (streamed on the club's YouTube channel), while the older youth sides play away.",
+        "pt": "Sábado de base contra o Tigre: Sétima, Oitava e Nona divisões jogam em City Bell a partir das 9h (com transmissão no YouTube do clube); Quarta, Quinta e Sexta jogam fora.",
+        "zh": "青训周六对阵Tigre：第七、八、九梯队9点起在City Bell主场作战（俱乐部YouTube频道直播）；第四、五、六梯队客场出战。",
+        "hi": "Tigre के ख़िलाफ़ युवा टीमों का शनिवार: सातवीं, आठवीं और नौवीं डिवीज़न City Bell में सुबह 9 बजे से (क्लब के YouTube पर लाइव); चौथी, पाँचवीं और छठी डिवीज़न बाहर खेलेंगी।"
+      }
+    },
+    {
       "hora": "2026-11-13T16:32:00-03:00",
       "fuente": "0221",
       "url": "https://www.0221.com.ar/estudiantes/guido-carrillo-el-hombre-las-finales-estudiantes-n137411",
