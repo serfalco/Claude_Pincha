@@ -12,7 +12,7 @@ export default {
   secciones: 'सेक्शन',
   idiomas: 'भाषा',
   menu: { hoy: 'आज', partidos: 'मैच', tabla: 'तालिका', noticias: 'ख़बरें', club: 'क्लब' },
-  lineaTitulo: 'ताज़ा',
+  lineaTitulo: 'Notipinchas · मीडिया में',
   foto: 'फ़ोटो',
   gol: { ec: 'आत्मघाती', pen: 'पेनल्टी' },
   hoyCorto: 'आज',

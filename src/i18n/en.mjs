@@ -12,7 +12,7 @@ export default {
   secciones: 'Sections',
   idiomas: 'Language',
   menu: { hoy: 'Today', partidos: 'Matches', tabla: 'Table', noticias: 'News', club: 'Club' },
-  lineaTitulo: 'Latest',
+  lineaTitulo: 'Notipinchas in the media',
   foto: 'Photo',
   gol: { ec: 'o.g.', pen: 'pen' },
   hoyCorto: 'Today',
