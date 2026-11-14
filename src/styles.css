@@ -506,3 +506,6 @@ body:has(.pegado--on) .footer { padding-bottom: 84px; }
 .notipinchas .linea__fuente { color: var(--muted); opacity: 1; }
 .notipinchas .linea__mas a { border-bottom-color: var(--rojo); color: var(--rojo); }
 .hoy .video { margin-top: 16px; }
+
+.siete__lema { margin: -6px 0 12px; font-size: .92rem; opacity: .8; }
+.siete__titulo:has(+ .siete__lema) { margin-bottom: 8px; }

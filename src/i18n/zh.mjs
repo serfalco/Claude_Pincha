@@ -6,7 +6,7 @@ export default {
   etiqueta: '中文',
   title: 'El Pincha Hoy · 拉普拉塔大学生队今日7条新闻',
   descripcion:
-    '每天7条Pincha新闻，世界各地随时可看：拉普拉塔大学生队（Estudiantes de La Plata）今日动态，一分钟看完，提供5种语言。另有近期赛程、最新赛果和积分榜。',
+    '每天7条Pincha新闻，面向全世界，不必翻遍上千家媒体：拉普拉塔大学生队（Estudiantes de La Plata）今日动态，一分钟看完，提供5种语言。',
   saltar: '跳到主要内容',
   inicio: '首页',
   secciones: '栏目',
@@ -15,6 +15,7 @@ export default {
   lineaTitulo: 'Notipinchas · 媒体报道',
   siete: '七条新闻',
   sieteMarca: 'El Pincha Hoy',
+  sieteLema: 'Pincha的要闻，不必翻遍上千家媒体。',
   foto: '图片',
   gol: { ec: '乌龙', pen: '点球' },
   hoyCorto: '今天',

@@ -7,7 +7,7 @@ export default {
   nombreIdioma: 'Español',
   title: 'El Pincha Hoy · Las 7 noticias de Estudiantes de La Plata, hoy',
   descripcion:
-    'Las 7 noticias del Pincha, todos los días y desde cualquier parte del mundo: cómo está hoy Estudiantes de La Plata, en un minuto y en 5 idiomas. Próximo partido, último resultado y tabla.',
+    'Las 7 noticias del Pincha, todos los días y para todo el mundo, sin buscar en mil diarios: cómo está hoy Estudiantes de La Plata, en un minuto y en 5 idiomas.',
   saltar: 'Saltar al contenido',
   inicio: 'inicio',
   secciones: 'Secciones',
@@ -16,6 +16,7 @@ export default {
   lineaTitulo: 'Notipinchas en los medios',
   siete: 'Siete noticias',
   sieteMarca: 'El Pincha Hoy',
+  sieteLema: 'Lo importante del Pincha, sin buscar en mil diarios.',
   foto: 'Foto',
   gol: { ec: 'e/c', pen: 'p' },
   hoyCorto: 'Hoy',

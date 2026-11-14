@@ -12,6 +12,7 @@ export const siete = (items = [], t, nivel = 2) =>
   items.length
     ? html`<div class="siete">
   <h${nivel} class="siete__titulo"><span class="siete__marca">${t.sieteMarca}</span>${t.siete}</h${nivel}>
+  ${t.sieteLema ? html`<p class="siete__lema">${t.sieteLema}</p>` : ''}
   <ol class="siete__lista">
     ${items.map((n) => html`<li class="siete__item"><h${nivel + 1} class="siete__que">${n.titulo}</h${nivel + 1}><p class="siete__info">${n.texto}</p></li>`)}
   </ol>
