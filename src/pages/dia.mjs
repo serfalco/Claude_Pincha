@@ -2,6 +2,7 @@ import { html } from '../lib/html.mjs';
 import { fechas } from '../lib/fechas.mjs';
 import { header } from '../components/header.mjs';
 import { footer } from '../components/footer.mjs';
+import { pegado } from '../components/club.mjs';
 import { sinHora } from '../components/hoy.mjs';
 import { foto } from '../components/foto.mjs';
 
@@ -75,6 +76,7 @@ ${header(ctx)}
     ${nav.siguiente ? html`<a href="${nav.siguiente}">${t.dia.siguiente} →</a>` : html`<span></span>`}
   </nav>
 </main>
+${pegado(ctx)}
 ${footer({ actualizado: `${dia.fecha}T12:00:00-03:00` }, ctx)}`,
   };
 };

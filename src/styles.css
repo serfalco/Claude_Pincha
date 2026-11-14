@@ -448,3 +448,22 @@ abbr { text-decoration: none; }
 .pegado__texto span { white-space: normal; font-size: .72rem; line-height: 1.25; }
 .pegado__btn { padding: 10px 14px; }
 .pegado__x { width: 26px; }
+
+/* Canción plegada: tarjeta chica que se abre al tocarla. */
+.video__resumen { display: flex; align-items: center; gap: 12px; padding: 8px 12px 8px 8px; border-radius: 14px; cursor: pointer; list-style: none; background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.14); }
+.video__resumen::-webkit-details-marker { display: none; }
+.video__mini { flex-shrink: 0; width: 56px; height: 56px; border-radius: 10px; object-fit: cover; }
+.video__resumen-texto { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.video__resumen .video__kicker { margin: 0; font-size: .7rem; }
+.video__resumen .video__titulo { margin: 0; font-size: 1.05rem; }
+.video__play { flex-shrink: 0; position: relative; width: 40px; height: 40px; border-radius: 50%; background: var(--rojo); }
+.video__play::after { content: ""; position: absolute; left: 16px; top: 12px; border-style: solid; border-width: 8px 0 8px 12px; border-color: transparent transparent transparent #fff; }
+.video__plegado[open] .video__play { background: rgba(255,255,255,.16); }
+.video__plegado[open] .video__play::after { left: 13px; top: 19px; width: 14px; height: 2px; border: 0; background: #fff; }
+.video__plegado[open] .video__resumen { margin-bottom: 8px; }
+/* Globo y plaquita llevan a las filiales. */
+.mistica__globo-link { display: block; }
+.mistica .mistica__filial { margin-top: 12px; font-size: .9rem; opacity: 1; }
+.mistica__filial a { color: #ff8a9a; font-weight: 700; text-decoration: none; }
+/* Que el banner pegado no tape el final de la página. */
+body:has(.pegado--on) .footer { padding-bottom: 84px; }

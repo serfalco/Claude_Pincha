@@ -1,6 +1,7 @@
 import { html } from '../lib/html.mjs';
 import { header } from '../components/header.mjs';
 import { footer } from '../components/footer.mjs';
+import { pegado } from '../components/club.mjs';
 
 // Índice del historial: /dias/ con todos los días, del más reciente al más viejo.
 // lista = [{ dia, href }] con dia = contenido de data/dias/AAAA-MM-DD.json
@@ -33,6 +34,7 @@ ${header(ctx)}
     )}
   </ul>
 </main>
+${pegado(ctx)}
 ${footer({ actualizado: `${lista[0]?.dia.fecha ?? '2026-01-01'}T12:00:00-03:00` }, ctx)}`,
   };
 };

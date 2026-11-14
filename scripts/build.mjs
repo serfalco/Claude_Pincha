@@ -66,7 +66,7 @@ const build = async () => {
     for (const lang of site.idiomas) {
       const alts = alternates.map((a) => ({ ...a, actual: a.lang === lang, href: a.path }));
       const actual = alts.find((a) => a.actual);
-      const ctx = { site, t: textos[lang], alternates: alts, home: ruta(lang), ruta: (s) => ruta(lang, s) };
+      const ctx = { site, t: textos[lang], alternates: alts, home: ruta(lang), ruta: (s) => ruta(lang, s), campania: porIdioma[lang].club?.campania };
       const p = await render(ctx, lang);
       const out = join(dist, actual.path, 'index.html');
       await mkdir(dirname(out), { recursive: true });

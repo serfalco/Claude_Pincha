@@ -70,6 +70,7 @@ export default {
     title: 'El campeón del mundo y sus hinchas por el mundo · El Pincha Hoy',
     descripcion: 'Las filiales de Estudiantes de La Plata en el mundo, cómo armar una y el sueño del Mundial de Clubes 2029.',
     kicker: 'Pinchas en el mundo',
+    encontrar: 'Encontrá tu filial',
     filialesFuera: 'Filiales en el mundo',
     filialesArg: (n) => `${n} filiales en la Argentina`,
     escribir: 'Escribir',

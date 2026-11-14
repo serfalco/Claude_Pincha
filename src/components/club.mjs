@@ -11,20 +11,21 @@ const iniciales = (nombre) => {
 };
 // Un solo bloque de campaña: primero el mundo (globo y mística), después una plaquita con todos los números,
 // y al final Verón con el único botón pegado a su cita. Lo demás (pasos, más info, compartir) queda plegado.
-const campania = (c, socios, { t }) => {
+const campania = (c, socios, { t, ruta }) => {
   const n = (x) => x.toLocaleString(t.locale);
   const m = c.mistica;
   const wa = c.sumar ? `https://wa.me/?text=${encodeURIComponent(`${c.sumar.compartir} ${c.url}`)}` : '';
   const cifras = [{ n: socios, t: t.socios }, { n: c.meta, t: t.campania.metaCorta }, ...(m?.cifras ?? [])];
   return html`
 <article class="mistica">
-  <img class="mistica__globo" src="/globo-filiales.svg" width="640" height="640" alt="" loading="lazy" decoding="async">
+  <a class="mistica__globo-link" href="${ruta('mundo')}" aria-label="${t.mundo.encontrar}"><img class="mistica__globo" src="/globo-filiales.svg" width="640" height="640" alt="" loading="lazy" decoding="async"></a>
   <div class="mistica__texto">
     ${m ? html`
     ${m.kicker ? html`<p class="mistica__kicker">${m.kicker}</p>` : ''}
     <h3 class="mistica__titulo">${m.titulo}</h3>
     <p class="mistica__lema">${m.lema}</p>` : ''}
     <ul class="mistica__cifras">${cifras.map((x) => html`<li><b>${n(x.n)}</b><span>${x.t}</span></li>`)}</ul>
+    <p class="mistica__filial"><a href="${ruta('mundo')}">${t.mundo.encontrar} →</a></p>
 
     <div class="lider">
       <h3 class="lider__campania">${c.nombre}</h3>
@@ -57,10 +58,11 @@ const campania = (c, socios, { t }) => {
 </article>`;
 };
 
-// Banner pegado abajo: Verón y el botón. Aparece cuando el bloque de campaña ya quedó arriba (así nunca hay
-// dos botones a la vista) y se puede cerrar; el cierre vale para toda la visita.
-const pegado = (c, { t }) =>
-  c.cita
+// Banner pegado abajo, en todas las páginas: Verón y el botón. En la portada aparece cuando el bloque de campaña
+// ya quedó arriba (así nunca hay dos botones a la vista); en el resto, al pasar el primer bloque.
+// Se puede cerrar y el cierre vale para toda la visita.
+export const pegado = ({ campania: c, t }) =>
+  c?.cita
     ? html`
 <aside id="pegado" class="pegado" aria-label="${c.nombre}">
   <span class="cita__avatar" aria-hidden="true">${c.cita.foto
@@ -70,7 +72,7 @@ const pegado = (c, { t }) =>
   <a class="btn pegado__btn" href="${c.url}" rel="noopener">${t.campania.cta}</a>
   <button class="pegado__x" type="button" aria-label="${t.campania.cerrar}">×</button>
 </aside>
-<script>(()=>{const b=document.getElementById('pegado'),r=document.querySelector('.lider');if(!b||!r||!('IntersectionObserver' in window))return;try{if(sessionStorage.getItem('pegado')==='0')return}catch{}const o=new IntersectionObserver(([e])=>b.classList.toggle('pegado--on',!e.isIntersecting&&e.boundingClientRect.bottom<0));o.observe(r);b.querySelector('button').onclick=()=>{o.disconnect();b.classList.remove('pegado--on');try{sessionStorage.setItem('pegado','0')}catch{}}})()</script>`
+<script>(()=>{const b=document.getElementById('pegado'),r=document.querySelector('.lider')||document.querySelector('main>:first-child');if(!b||!r||!('IntersectionObserver' in window))return;try{if(sessionStorage.getItem('pegado')==='0')return}catch{}const o=new IntersectionObserver(([e])=>b.classList.toggle('pegado--on',!e.isIntersecting&&e.boundingClientRect.bottom<0));o.observe(r);b.querySelector('button').onclick=()=>{o.disconnect();b.classList.remove('pegado--on');try{sessionStorage.setItem('pegado','0')}catch{}}})()</script>`
     : '';
 
 // Campaña de socios: bloque propio, va arriba en la home (justo después de los partidos).
@@ -80,7 +82,7 @@ export const socio = ({ club: c }, ctx) =>
 <section id="club" class="wrap block" aria-labelledby="club-titulo">
   <h2 id="club-titulo" class="block__title">${icono('escudo')}${ctx.t.club}</h2>
   ${campania(c.campania, c.socios, ctx)}
-  ${pegado(c.campania, ctx)}
+  ${pegado(ctx)}
 </section>`
     : '';
 
