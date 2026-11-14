@@ -23,7 +23,6 @@ const campania = (c, socios, { t }) => {
     ${m ? html`
     ${m.kicker ? html`<p class="mistica__kicker">${m.kicker}</p>` : ''}
     <h3 class="mistica__titulo">${m.titulo}</h3>
-    ${m.parrafos.map((p, i) => html`<p class="${i === 0 ? 'mistica__lead' : i === m.parrafos.length - 1 ? 'mistica__em' : ''}">${p}</p>`)}
     <p class="mistica__lema">${m.lema}</p>` : ''}
     <ul class="mistica__cifras">${cifras.map((x) => html`<li><b>${n(x.n)}</b><span>${x.t}</span></li>`)}</ul>
 
@@ -58,6 +57,22 @@ const campania = (c, socios, { t }) => {
 </article>`;
 };
 
+// Banner pegado abajo: Verón y el botón. Aparece cuando el bloque de campaña ya quedó arriba (así nunca hay
+// dos botones a la vista) y se puede cerrar; el cierre vale para toda la visita.
+const pegado = (c, { t }) =>
+  c.cita
+    ? html`
+<aside id="pegado" class="pegado" aria-label="${c.nombre}">
+  <span class="cita__avatar" aria-hidden="true">${c.cita.foto
+    ? html`<img src="${c.cita.foto}" alt="" width="44" height="44" loading="lazy" decoding="async">`
+    : html`<span>${iniciales(c.cita.autor)}</span>`}</span>
+  <p class="pegado__texto"><strong>${c.cita.autor}</strong><span>${c.nombre}</span></p>
+  <a class="btn pegado__btn" href="${c.url}" rel="noopener">${t.campania.cta}</a>
+  <button class="pegado__x" type="button" aria-label="${t.campania.cerrar}">×</button>
+</aside>
+<script>(()=>{const b=document.getElementById('pegado'),r=document.querySelector('.lider');if(!b||!r||!('IntersectionObserver' in window))return;try{if(sessionStorage.getItem('pegado')==='0')return}catch{}const o=new IntersectionObserver(([e])=>b.classList.toggle('pegado--on',!e.isIntersecting&&e.boundingClientRect.bottom<0));o.observe(r);b.querySelector('button').onclick=()=>{o.disconnect();b.classList.remove('pegado--on');try{sessionStorage.setItem('pegado','0')}catch{}}})()</script>`
+    : '';
+
 // Campaña de socios: bloque propio, va arriba en la home (justo después de los partidos).
 export const socio = ({ club: c }, ctx) =>
   c?.campania
@@ -65,6 +80,7 @@ export const socio = ({ club: c }, ctx) =>
 <section id="club" class="wrap block" aria-labelledby="club-titulo">
   <h2 id="club-titulo" class="block__title">${icono('escudo')}${ctx.t.club}</h2>
   ${campania(c.campania, c.socios, ctx)}
+  ${pegado(c.campania, ctx)}
 </section>`
     : '';
 
