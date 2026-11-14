@@ -2,7 +2,7 @@
 
 Fotos oficiales de Estudiantes de La Plata (estudiantesdelaplata.com) para usar en el sitio.
 
-> **Permiso de republicación: pendiente.** Hasta que el club lo confirme, ninguna está marcada para publicar y ninguna llega al sitio.
+> **Permiso de republicación: confirmado por el club (14/11/2026).** Igual, solo llegan al sitio las que se marcan con `"publicar": true`; siempre con crédito.
 
 ## Qué hay
 
