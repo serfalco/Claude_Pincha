@@ -11,14 +11,24 @@ const iniciales = (nombre) => {
 };
 // Un solo bloque de campaña: primero el mundo (globo y mística), después una plaquita con todos los números,
 // y al final Verón con el único botón pegado a su cita. Lo demás (pasos, más info, compartir) queda plegado.
-const campania = (c, socios, { t, ruta }) => {
+// Nombres para el globo (solo se ven al pasar el mouse): filiales del exterior en el orden de data/mundo.json,
+// que es el orden de EXT en public/globo.js, y regiones de la Argentina por cantidad.
+const etiquetas = (mundo) =>
+  mundo
+    ? JSON.stringify({
+        ext: mundo.exterior.map((f) => f.ciudad),
+        arg: Object.fromEntries(mundo.argentina.regiones.map((r) => [r.cantidad, `${r.region} · ${r.cantidad}`])),
+      })
+    : '';
+
+const campania = (c, socios, { t, ruta, mundo }) => {
   const n = (x) => x.toLocaleString(t.locale);
   const m = c.mistica;
   const wa = c.sumar ? `https://wa.me/?text=${encodeURIComponent(`${c.sumar.compartir} ${c.url}`)}` : '';
   const cifras = [{ n: socios, t: t.socios }, { n: c.meta, t: t.campania.metaCorta }, ...(m?.cifras ?? [])];
   return html`
 <article class="mistica">
-  <a class="mistica__globo-link" href="${ruta('mundo')}" aria-label="${t.mundo.encontrar}"><img class="mistica__globo" src="/globo-filiales.svg" width="640" height="640" alt="" loading="lazy" decoding="async"></a>
+  <a class="mistica__globo-link" href="${ruta('mundo')}" aria-label="${t.mundo.encontrar}"><img class="mistica__globo" data-etiquetas="${etiquetas(mundo)}" src="/globo-filiales.svg" width="640" height="640" alt="" loading="lazy" decoding="async"></a>
   <div class="mistica__texto">
     ${m ? html`
     ${m.kicker ? html`<p class="mistica__kicker">${m.kicker}</p>` : ''}

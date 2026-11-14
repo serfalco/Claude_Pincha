@@ -66,7 +66,7 @@ const build = async () => {
     for (const lang of site.idiomas) {
       const alts = alternates.map((a) => ({ ...a, actual: a.lang === lang, href: a.path }));
       const actual = alts.find((a) => a.actual);
-      const ctx = { site, t: textos[lang], alternates: alts, home: ruta(lang), ruta: (s) => ruta(lang, s), campania: porIdioma[lang].club?.campania };
+      const ctx = { site, t: textos[lang], alternates: alts, home: ruta(lang), ruta: (s) => ruta(lang, s), campania: porIdioma[lang].club?.campania, mundo: mundoPorIdioma[lang] };
       const p = await render(ctx, lang);
       const out = join(dist, actual.path, 'index.html');
       await mkdir(dirname(out), { recursive: true });
@@ -87,6 +87,9 @@ const build = async () => {
     }
     return out;
   };
+
+  // Sección global (se lee antes: la portada usa los nombres de las filiales para el globo)
+  const mundoPorIdioma = await traducidos('mundo');
 
   // Home
   const porIdioma = await traducidos('home', validarHome);
@@ -115,7 +118,6 @@ const build = async () => {
     );
   }
   // Sección global
-  const mundoPorIdioma = await traducidos('mundo');
   await pagina('mundo', mundoPorIdioma[idiomaBase].actualizado.slice(0, 10), (ctx, lang) => mundo(ctx, mundoPorIdioma[lang]));
 
   if (listaDias.length) {
