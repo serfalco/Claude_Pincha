@@ -37,7 +37,7 @@ export const validarHome = (data) => {
   });
   if (!CONDICIONES.includes(data.ultimo?.condicion)) errores.push('ultimo.condicion inválida');
 
-  // Siete noticias pinchas: exactamente 7, cada una con título y texto; sin links ni fuente (se leen ahí).
+  // Siete noticias: exactamente 7, cada una con título y texto; sin links ni fuente (se leen ahí).
   if (data.hoy?.siete) {
     if (data.hoy.siete.length !== 7) errores.push(`hoy.siete: tiene ${data.hoy.siete.length} noticias (tienen que ser 7)`);
     data.hoy.siete.forEach((n, i) => {

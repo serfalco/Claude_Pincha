@@ -482,7 +482,7 @@ body:has(.pegado--on) .footer { padding-bottom: 84px; }
 /* Notipinchas en la portada: sin columna de hora ni de día. */
 .linea__item--simple { grid-template-columns: 1fr; }
 
-/* Siete noticias pinchas: numeradas, la info a mano (sin clics) */
+/* Siete noticias: numeradas, la info a mano (sin clics) */
 .siete { margin-top: 20px; }
 .siete__titulo { display: flex; flex-direction: column; gap: 2px; font-size: clamp(1.45rem, 6vw, 1.9rem); font-weight: 800; line-height: 1.1; letter-spacing: -.02em; margin-bottom: 12px; }
 .siete__marca { font-size: .78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; color: #ff5a6e; }
