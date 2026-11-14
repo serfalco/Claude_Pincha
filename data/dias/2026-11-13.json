@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-13",
   "titular": {
-    "es": "Estrella 20 en el bolsillo y la cabeza en Montevideo",
-    "en": "20th star in the bag, minds on Montevideo",
-    "pt": "Estrela 20 garantida e a cabeça em Montevidéu",
-    "zh": "第20颗星到手，目光投向蒙得维的亚",
-    "hi": "20वाँ सितारा हाथ में, नज़र अब मोंटेवीडियो पर"
+    "es": "Del festejo a Montevideo: 121 micros agotados",
+    "en": "From the party to Montevideo: 121 coaches sold out",
+    "pt": "Da festa a Montevidéu: 121 ônibus esgotados",
+    "zh": "从庆祝到蒙得维的亚：121辆大巴售罄",
+    "hi": "जश्न से मोंटेवीडियो तक: 121 बसें बिक गईं"
   },
   "resumen": {
-    "es": "La Plata se despertó festejando la Supercopa: anoche los hinchas coparon 7 y 50 tras el 3-2 en el alargue a Independiente Rivadavia. Ahora queda una sola cosa: la final de la Libertadores ante Palmeiras, el sábado 28.",
-    "en": "La Plata woke up celebrating the Supercopa: last night fans packed 7 y 50 after the 3-2 extra-time win over Independiente Rivadavia. Now only one thing remains: the Libertadores final against Palmeiras on Saturday 28th.",
-    "pt": "La Plata acordou festejando a Supercopa: ontem à noite a torcida lotou a 7 y 50 depois do 3 a 2 na prorrogação sobre o Independiente Rivadavia. Agora só falta uma coisa: a final da Libertadores contra o Palmeiras, no sábado, dia 28.",
-    "zh": "拉普拉塔在超级杯的庆祝中醒来：昨晚加时3比2击败Independiente Rivadavia后，球迷涌上7 y 50街口狂欢。现在只剩一件事：28日（周六）对阵帕尔梅拉斯（Palmeiras）的解放者杯决赛。",
-    "hi": "ला प्लाटा सुपरकोपा के जश्न के साथ जागा: कल रात Independiente Rivadavia पर एक्स्ट्रा टाइम में 3-2 की जीत के बाद फ़ैन्स ने 7 y 50 चौराहा भर दिया। अब बस एक चीज़ बाकी है: शनिवार 28 को Palmeiras के खिलाफ़ Copa Libertadores का फ़ाइनल।"
+    "es": "Con la estrella 20 recién ganada, el plantel tuvo descanso y la cabeza ya está en la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. Los hinchas agotaron los 121 micros que organizó el club.",
+    "en": "With the 20th star freshly won, the squad has been given time off and minds are already on the Libertadores final against Palmeiras, on Saturday 28th at the Centenario. Fans snapped up all 121 coaches organised by the club.",
+    "pt": "Com a estrela 20 recém-conquistada, o elenco ganhou folga e a cabeça já está na final da Libertadores contra o Palmeiras, no sábado 28, no Centenario. Os torcedores esgotaram os 121 ônibus organizados pelo clube.",
+    "zh": "刚刚拿下第20颗星，球队获得休息，注意力已转向28日周六在Centenario对阵帕尔梅拉斯（Palmeiras）的Copa Libertadores决赛。球迷们抢光了俱乐部组织的121辆大巴。",
+    "hi": "20वाँ सितारा जीतने के बाद टीम को आराम दिया गया है और अब पूरा ध्यान शनिवार 28 को Centenario में Palmeiras के ख़िलाफ़ Copa Libertadores फ़ाइनल पर है। प्रशंसकों ने क्लब की सभी 121 बसें बुक कर लीं।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -23,6 +23,54 @@
     "condicion": "neutral"
   },
   "linea": [
+    {
+      "hora": "2026-11-13T16:32:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/guido-carrillo-el-hombre-las-finales-estudiantes-n137411",
+      "texto": {
+        "es": "Guido Carrillo, el hombre de las finales: hizo goles en cuatro de las nueve definiciones que jugó con el Pincha.",
+        "en": "Guido Carrillo, the man for finals: he has scored in four of the nine finals he has played for the Pincha.",
+        "pt": "Guido Carrillo, o homem das finais: marcou em quatro das nove decisões que disputou pelo Pincha.",
+        "zh": "Guido Carrillo，决赛先生：他为Pincha出战的九场决赛中有四场进球。",
+        "hi": "Guido Carrillo, फ़ाइनल का खिलाड़ी: Pincha के लिए खेले नौ फ़ाइनल में से चार में उन्होंने गोल किया है।"
+      }
+    },
+    {
+      "hora": "2026-11-13T16:29:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://www.infocielo.com/deportes/tras-ganar-la-supercopa-argentina-estudiantes-fue-licenciado-y-ya-apunta-a-la-final-de-la-libertadores",
+      "texto": {
+        "es": "Tras la Supercopa, el plantel quedó licenciado y ya piensa en la final de la Libertadores.",
+        "en": "After the Supercopa, the squad has been given time off and is already focused on the Libertadores final.",
+        "pt": "Depois da Supercopa, o elenco ganhou folga e já pensa na final da Libertadores.",
+        "zh": "Supercopa夺冠后，球队放假休整，目光已投向Copa Libertadores决赛。",
+        "hi": "Supercopa के बाद टीम को छुट्टी दी गई है और अब नज़र Copa Libertadores फ़ाइनल पर है।"
+      }
+    },
+    {
+      "hora": "2026-11-13T15:26:00-03:00",
+      "fuente": "Olé",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcVdXckdtaS1KZjJSeWpqdk0zUnZOb2lTNk1ua0RtLVk1eWNyX1lndGd3VTQ5XzZlN1l4ZVY1S1dZcmQtQ216X3paeklJdjk1dlhiMFh3eTBoUVp6QUxUamp0TUVnSzNUbHFJdHJZTGNydnJtdS1iWTN0N0lrek03NG9BSzJlQ2dKb0VkaEl2MzNWMUwwclRHcFBMUE1pdnZBalNidGI0R2RZNlFNOFZIUUdNMEFacFhpZFdabEJYZUdsLVEwT1lSN2JHRVZMTGZ0RENfZ1BaQ3F5SElGcEtkTmliTTBhRnEwQ0JaRzdIMVNXLTZHTXZKRDhLUkwxeGNUMVczT09xSmxTVVE?oc=5",
+      "texto": {
+        "es": "Caravana histórica: los hinchas agotaron los 121 micros para viajar al Centenario.",
+        "en": "A historic convoy: fans sold out all 121 coaches to travel to the Centenario.",
+        "pt": "Caravana histórica: os torcedores esgotaram os 121 ônibus para viajar ao Centenario.",
+        "zh": "历史性车队：球迷抢光了前往Centenario的全部121辆大巴。",
+        "hi": "ऐतिहासिक काफ़िला: प्रशंसकों ने Centenario जाने के लिए सभी 121 बसें बुक कर लीं।"
+      }
+    },
+    {
+      "hora": "2026-11-13T11:34:00-03:00",
+      "fuente": "Punto Capital",
+      "url": "https://www.puntocapitalnoticias.com/alak-felicito-a-estudiantes-por-la-supercopa-argentina-y-la-municipalidad-se-ilumino-de-rojo-y-blanco/",
+      "texto": {
+        "es": "Alak felicitó al campeón y la Municipalidad de La Plata se iluminó de rojo y blanco.",
+        "en": "Mayor Alak congratulated the champions and La Plata's town hall was lit up in red and white.",
+        "pt": "Alak parabenizou o campeão e a Prefeitura de La Plata se iluminou de vermelho e branco.",
+        "zh": "市长Alak祝贺冠军，拉普拉塔市政厅亮起红白灯光。",
+        "hi": "मेयर Alak ने चैंपियन को बधाई दी और La Plata नगरपालिका भवन लाल-सफ़ेद रोशनी से जगमगाया।"
+      }
+    },
     {
       "hora": "2026-11-13T03:57:00-03:00",
       "fuente": "La Nación",

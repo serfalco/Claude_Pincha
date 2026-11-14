@@ -1,50 +1,44 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-13T08:45:00-03:00",
+  "actualizado": "2026-11-13T23:45:00-03:00",
   "hoy": {
-    "titular": "Estrella 20 en el bolsillo y la cabeza en Montevideo",
-    "resumen": "La Plata se despertó festejando la Supercopa: anoche los hinchas coparon 7 y 50 tras el 3-2 en el alargue a Independiente Rivadavia. Ahora queda una sola cosa: la final de la Libertadores ante Palmeiras, el sábado 28.",
+    "titular": "Del festejo a Montevideo: 121 micros agotados",
+    "resumen": "Con la estrella 20 recién ganada, el plantel tuvo descanso y la cabeza ya está en la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. Los hinchas agotaron los 121 micros que organizó el club.",
     "puntos": [
-      "Micros a Montevideo ($50.000 ida y vuelta, en la app UNO): hoy viernes 13, el resto de los socios; sábado 14, venta general.",
+      "Micros a Montevideo: agotados. El club confirmó una caravana récord de 121 colectivos rumbo al Centenario.",
       "Plateas para la final: agotadas. El club avisará a los socios si surge algún remanente.",
       "Sábado 14, de 19 a 24: el Museo de Estudiantes muestra su renovación en Museos a la Luz de la Luna, en la Sede Social (53 N° 620)."
     ],
     "linea": [
       {
+        "hora": "2026-11-13T16:32:00-03:00",
+        "texto": "Guido Carrillo, el hombre de las finales: hizo goles en cuatro de las nueve definiciones que jugó con el Pincha.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/guido-carrillo-el-hombre-las-finales-estudiantes-n137411"
+      },
+      {
+        "hora": "2026-11-13T16:29:00-03:00",
+        "texto": "Tras la Supercopa, el plantel quedó licenciado y ya piensa en la final de la Libertadores.",
+        "fuente": "Infocielo",
+        "url": "https://www.infocielo.com/deportes/tras-ganar-la-supercopa-argentina-estudiantes-fue-licenciado-y-ya-apunta-a-la-final-de-la-libertadores"
+      },
+      {
+        "hora": "2026-11-13T15:26:00-03:00",
+        "texto": "Caravana histórica: los hinchas agotaron los 121 micros para viajar al Centenario.",
+        "fuente": "Olé",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcVdXckdtaS1KZjJSeWpqdk0zUnZOb2lTNk1ua0RtLVk1eWNyX1lndGd3VTQ5XzZlN1l4ZVY1S1dZcmQtQ216X3paeklJdjk1dlhiMFh3eTBoUVp6QUxUamp0TUVnSzNUbHFJdHJZTGNydnJtdS1iWTN0N0lrek03NG9BSzJlQ2dKb0VkaEl2MzNWMUwwclRHcFBMUE1pdnZBalNidGI0R2RZNlFNOFZIUUdNMEFacFhpZFdabEJYZUdsLVEwT1lSN2JHRVZMTGZ0RENfZ1BaQ3F5SElGcEtkTmliTTBhRnEwQ0JaRzdIMVNXLTZHTXZKRDhLUkwxeGNUMVczT09xSmxTVVE?oc=5"
+      },
+      {
+        "hora": "2026-11-13T11:34:00-03:00",
+        "texto": "Alak felicitó al campeón y la Municipalidad de La Plata se iluminó de rojo y blanco.",
+        "fuente": "Punto Capital",
+        "url": "https://www.puntocapitalnoticias.com/alak-felicito-a-estudiantes-por-la-supercopa-argentina-y-la-municipalidad-se-ilumino-de-rojo-y-blanco/"
+      },
+      {
         "hora": "2026-11-13T03:57:00-03:00",
         "texto": "Chiqui Tapia no viajó a Córdoba para la entrega de la copa: saludó al campeón y a Verón por redes.",
         "fuente": "La Nación",
         "url": "https://www.lanacion.com.ar/deportes/futbol/chiqui-tapia-no-asistio-a-la-premiacion-de-estudiantes-campeon-en-la-supercopa-argentina-en-cordoba-nid13112026/"
-      },
-      {
-        "hora": "2026-11-13T00:15:00-03:00",
-        "texto": "Medina celebró su primer título en el club: «Hoy no era lo mismo ganar que perder», con la final en la mira.",
-        "fuente": "Infocielo",
-        "url": "https://www.infocielo.com/deportes/con-vistas-en-la-copa-libertadores-medina-festejo-su-primer-titulo-en-estudiantes-hoy-no-era-lo-mismo-ganar-que-perder"
-      },
-      {
-        "hora": "2026-11-13T00:12:00-03:00",
-        "texto": "Fiesta en 7 y 50: los hinchas coparon el centro de La Plata para festejar la estrella 20.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/los-hinchas-estudiantes-festejan-pleno-centro-la-plata-la-consagracion-supercopa-argentina-n137377"
-      },
-      {
-        "hora": "2026-11-12T23:31:00-03:00",
-        "texto": "Pepe Sosa llegó a siete títulos y es el jugador más ganador del Pincha en el siglo XXI.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/jose-sosa-alcanzo-los-siete-titulos-y-se-afianza-como-el-mas-ganador-estudiantes-el-siglo-xxi-n134745"
-      },
-      {
-        "hora": "2026-11-12T23:30:00-03:00",
-        "texto": "¡Campeón! El Pincha le ganó 3-2 a Independiente Rivadavia en el alargue en Córdoba.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/deportes/2026/11/12/estudiantes-de-la-plata-e-independiente-rivadavia-disputaran-la-supercopa-argentina-hora-tv-y-todo-lo-que-hay-que-saber/"
-      },
-      {
-        "hora": "2026-11-12T23:10:00-03:00",
-        "texto": "El gol del título: cabezazo de Alario en el alargue, tras un centro de Baltasar Rodríguez en pelota parada.",
-        "fuente": "Punto Capital",
-        "url": "https://www.puntocapitalnoticias.com/estudiantes-campeon-de-la-supercopa-argentina/"
       }
     ]
   },
@@ -271,6 +265,13 @@
   },
   "noticias": [
     {
+      "titulo": "121 micros agotados: caravana récord a Montevideo",
+      "bajada": "El club confirmó que se vendieron todos los micros para la final ante Palmeiras. Para plateas, sigue sin haber remanente.",
+      "fecha": "2026-11-13T11:51:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/estudiantes-agoto-los-micros-la-final-la-copa-libertadores-una-caravana-historica-montevideo-n137396"
+    },
+    {
       "titulo": "Campeón en el alargue, con Alario de cabeza",
       "bajada": "Carrillo y un gol en contra pusieron el 2-0, Rivadavia lo empató en el descuento y Alario lo ganó en el suplementario. Medina terminó expulsado.",
       "fecha": "2026-11-12T23:02:00-03:00",
@@ -290,13 +291,6 @@
       "fecha": "2026-11-11T21:23:00-03:00",
       "fuente": "Vive La Plata",
       "url": "https://vivelaplata.com.ar/agotado-la-venta-de-plateas-para-la-final-desato-otra-ola-de-reclamos-en-estudiantes/"
-    },
-    {
-      "titulo": "Micros a Montevideo a $50.000: el cronograma",
-      "bajada": "El club cubre el 70% del pasaje. Venta en la app UNO desde el jueves 12, por puntaje.",
-      "fecha": "2026-11-08T12:54:00-03:00",
-      "fuente": "El Día",
-      "url": "https://www.eldia.com/deportes/cronograma-para-la-venta-de-pasajes-a-montevideo-deportes_1794203554"
     }
   ],
   "fuentes": [
@@ -338,6 +332,11 @@
     "https://www.infocielo.com/deportes/con-vistas-en-la-copa-libertadores-medina-festejo-su-primer-titulo-en-estudiantes-hoy-no-era-lo-mismo-ganar-que-perder",
     "https://www.lanacion.com.ar/deportes/futbol/chiqui-tapia-no-asistio-a-la-premiacion-de-estudiantes-campeon-en-la-supercopa-argentina-en-cordoba-nid13112026/",
     "https://www.0221.com.ar/estudiantes/los-hinchas-estudiantes-festejan-pleno-centro-la-plata-la-consagracion-supercopa-argentina-n137377",
-    "https://www.0221.com.ar/estudiantes/jose-sosa-alcanzo-los-siete-titulos-y-se-afianza-como-el-mas-ganador-estudiantes-el-siglo-xxi-n134745"
+    "https://www.0221.com.ar/estudiantes/jose-sosa-alcanzo-los-siete-titulos-y-se-afianza-como-el-mas-ganador-estudiantes-el-siglo-xxi-n134745",
+    "https://www.0221.com.ar/estudiantes/guido-carrillo-el-hombre-las-finales-estudiantes-n137411",
+    "https://www.infocielo.com/deportes/tras-ganar-la-supercopa-argentina-estudiantes-fue-licenciado-y-ya-apunta-a-la-final-de-la-libertadores",
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcVdXckdtaS1KZjJSeWpqdk0zUnZOb2lTNk1ua0RtLVk1eWNyX1lndGd3VTQ5XzZlN1l4ZVY1S1dZcmQtQ216X3paeklJdjk1dlhiMFh3eTBoUVp6QUxUamp0TUVnSzNUbHFJdHJZTGNydnJtdS1iWTN0N0lrek03NG9BSzJlQ2dKb0VkaEl2MzNWMUwwclRHcFBMUE1pdnZBalNidGI0R2RZNlFNOFZIUUdNMEFacFhpZFdabEJYZUdsLVEwT1lSN2JHRVZMTGZ0RENfZ1BaQ3F5SElGcEtkTmliTTBhRnEwQ0JaRzdIMVNXLTZHTXZKRDhLUkwxeGNUMVczT09xSmxTVVE?oc=5",
+    "https://www.puntocapitalnoticias.com/alak-felicito-a-estudiantes-por-la-supercopa-argentina-y-la-municipalidad-se-ilumino-de-rojo-y-blanco/",
+    "https://www.0221.com.ar/estudiantes/estudiantes-agoto-los-micros-la-final-la-copa-libertadores-una-caravana-historica-montevideo-n137396"
   ]
 }

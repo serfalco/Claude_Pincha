@@ -1,30 +1,27 @@
 {
   "hoy": {
-    "titular": "20th star in the bag, minds on Montevideo",
-    "resumen": "La Plata woke up celebrating the Supercopa: last night fans packed 7 y 50 after the 3-2 extra-time win over Independiente Rivadavia. Now only one thing remains: the Libertadores final against Palmeiras on Saturday 28th.",
+    "titular": "From the party to Montevideo: 121 coaches sold out",
+    "resumen": "With the 20th star freshly won, the squad has been given time off and minds are already on the Libertadores final against Palmeiras, on Saturday 28th at the Centenario. Fans snapped up all 121 coaches organised by the club.",
     "puntos": [
-      "Coaches to Montevideo (ARS 50,000 return, in the UNO app): today, Friday 13, the remaining members; Saturday 14, general sale.",
+      "Coaches to Montevideo: sold out. The club confirmed a record convoy of 121 coaches heading to the Centenario.",
       "Seats for the final: sold out. The club will tell members if any more become available.",
       "Saturday 14, 7pm to midnight: the Estudiantes Museum shows off its revamp at Museos a la Luz de la Luna, at the club headquarters (53 No. 620)."
     ],
     "linea": [
       {
+        "texto": "Guido Carrillo, the man for finals: he has scored in four of the nine finals he has played for the Pincha."
+      },
+      {
+        "texto": "After the Supercopa, the squad has been given time off and is already focused on the Libertadores final."
+      },
+      {
+        "texto": "A historic convoy: fans sold out all 121 coaches to travel to the Centenario."
+      },
+      {
+        "texto": "Mayor Alak congratulated the champions and La Plata's town hall was lit up in red and white."
+      },
+      {
         "texto": "Chiqui Tapia did not travel to Córdoba for the trophy presentation: he congratulated the champions and Verón on social media."
-      },
-      {
-        "texto": "Medina celebrated his first title at the club: \"Today winning or losing was not the same\", with the final in sight."
-      },
-      {
-        "texto": "Party at 7 y 50: fans filled central La Plata to celebrate the 20th star."
-      },
-      {
-        "texto": "Pepe Sosa has reached seven titles and is the Pincha's most decorated player of the 21st century."
-      },
-      {
-        "texto": "Champions! The Pincha beat Independiente Rivadavia 3-2 after extra time in Córdoba."
-      },
-      {
-        "texto": "The winning goal: an Alario header in extra time, from a Baltasar Rodríguez set-piece delivery."
       }
     ]
   },
@@ -122,6 +119,10 @@
   },
   "noticias": [
     {
+      "titulo": "121 coaches sold out: a record convoy to Montevideo",
+      "bajada": "The club confirmed every coach for the final against Palmeiras has been sold. There are still no extra seats available."
+    },
+    {
       "titulo": "Champions after extra time, with an Alario header",
       "bajada": "Carrillo and an own goal made it 2-0, Rivadavia levelled in stoppage time and Alario won it in extra time. Medina was sent off."
     },
@@ -132,10 +133,6 @@
     {
       "titulo": "Seats sold out, and another wave of complaints",
       "bajada": "The extra category 2 sale was over within hours; the club will say if any remain."
-    },
-    {
-      "titulo": "Coaches to Montevideo at ARS 50,000: the schedule",
-      "bajada": "The club covers 70% of the fare. On sale on the UNO app from Thursday 12, by points ranking."
     }
   ],
   "video": {

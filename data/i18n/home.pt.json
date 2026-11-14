@@ -1,30 +1,27 @@
 {
   "hoy": {
-    "titular": "Estrela 20 garantida e a cabeça em Montevidéu",
-    "resumen": "La Plata acordou festejando a Supercopa: ontem à noite a torcida lotou a 7 y 50 depois do 3 a 2 na prorrogação sobre o Independiente Rivadavia. Agora só falta uma coisa: a final da Libertadores contra o Palmeiras, no sábado, dia 28.",
+    "titular": "Da festa a Montevidéu: 121 ônibus esgotados",
+    "resumen": "Com a estrela 20 recém-conquistada, o elenco ganhou folga e a cabeça já está na final da Libertadores contra o Palmeiras, no sábado 28, no Centenario. Os torcedores esgotaram os 121 ônibus organizados pelo clube.",
     "puntos": [
-      "Ônibus para Montevidéu (ARS 50.000 ida e volta, no app UNO): hoje, sexta 13, os demais sócios; sábado 14, venda geral.",
+      "Ônibus para Montevidéu: esgotados. O clube confirmou uma caravana recorde de 121 ônibus rumo ao Centenario.",
       "Cadeiras para a final: esgotadas. O clube avisará os sócios se surgir alguma sobra.",
       "Sábado 14, das 19h à meia-noite: o Museu do Estudiantes mostra sua renovação na Museos a la Luz de la Luna, na Sede Social (53 nº 620)."
     ],
     "linea": [
       {
+        "texto": "Guido Carrillo, o homem das finais: marcou em quatro das nove decisões que disputou pelo Pincha."
+      },
+      {
+        "texto": "Depois da Supercopa, o elenco ganhou folga e já pensa na final da Libertadores."
+      },
+      {
+        "texto": "Caravana histórica: os torcedores esgotaram os 121 ônibus para viajar ao Centenario."
+      },
+      {
+        "texto": "Alak parabenizou o campeão e a Prefeitura de La Plata se iluminou de vermelho e branco."
+      },
+      {
         "texto": "Chiqui Tapia não viajou a Córdoba para a entrega da taça: parabenizou o campeão e Verón nas redes sociais."
-      },
-      {
-        "texto": "Medina comemorou seu primeiro título no clube: \"Hoje não era a mesma coisa ganhar ou perder\", de olho na final."
-      },
-      {
-        "texto": "Festa na 7 y 50: a torcida tomou o centro de La Plata para comemorar a estrela 20."
-      },
-      {
-        "texto": "Pepe Sosa chegou a sete títulos e é o jogador mais vencedor do Pincha no século XXI."
-      },
-      {
-        "texto": "Campeão! O Pincha venceu o Independiente Rivadavia por 3 a 2 na prorrogação em Córdoba."
-      },
-      {
-        "texto": "O gol do título: cabeçada de Alario na prorrogação, após cruzamento de Baltasar Rodríguez em bola parada."
       }
     ]
   },
@@ -122,6 +119,10 @@
   },
   "noticias": [
     {
+      "titulo": "121 ônibus esgotados: caravana recorde a Montevidéu",
+      "bajada": "O clube confirmou que todos os ônibus para a final contra o Palmeiras foram vendidos. Cadeiras extras, por enquanto, não há."
+    },
+    {
       "titulo": "Campeão na prorrogação, com Alario de cabeça",
       "bajada": "Carrillo e um gol contra fizeram 2 a 0, o Rivadavia empatou nos acréscimos e Alario decidiu na prorrogação. Medina foi expulso."
     },
@@ -132,10 +133,6 @@
     {
       "titulo": "Cadeiras esgotadas e nova onda de reclamações",
       "bajada": "A venda extra de categoria 2 acabou em horas; o clube avisará se sobrar algum lote."
-    },
-    {
-      "titulo": "Ônibus para Montevidéu a ARS 50.000: o cronograma",
-      "bajada": "O clube cobre 70% da passagem. Venda no app UNO a partir de quinta 12, por pontuação."
     }
   ],
   "video": {
