@@ -1,7 +1,8 @@
 // Trae fotos nuevas de la web del club (API pública de WordPress) al banco imagenes/. Sin dependencias.
 // Solo agrega: no borra ni pisa nada, y no publica nada (las fotos nuevas entran con "usos": []).
+// Exclusividad del club: nunca trae fotos de notas con menos de "esperaDias" (imagenes/indice.json, 7 por defecto).
 //
-//   npm run fotos                     últimos 14 días
+//   npm run fotos                     notas de hace 7 a 21 días (las de la última semana, nunca)
 //   npm run fotos -- --dias 30        otro período
 //   npm run fotos -- --prueba         muestra qué traería, sin descargar
 import { readFile, writeFile, mkdir, access } from 'node:fs/promises';
@@ -33,10 +34,10 @@ const json = async (url) => {
 };
 
 // Notas del período en las categorías elegidas (todas las páginas).
-const notas = async (desde) => {
+const notas = async (desde, hasta) => {
   const out = [];
   for (let p = 1; ; p++) {
-    const { datos, paginas } = await json(`${API}/posts?categories=${CATEGORIAS.map(([id]) => id).join(',')}&after=${desde}&per_page=50&page=${p}&_fields=id,date,slug,link,title,content,categories,featured_media`);
+    const { datos, paginas } = await json(`${API}/posts?categories=${CATEGORIAS.map(([id]) => id).join(',')}&after=${desde}&before=${hasta}&per_page=50&page=${p}&_fields=id,date,slug,link,title,content,categories,featured_media`);
     out.push(...datos);
     if (p >= paginas) return out;
   }
@@ -66,9 +67,13 @@ const main = async () => {
   const archivoIndice = join(root, 'imagenes/indice.json');
   const indice = JSON.parse(await readFile(archivoIndice, 'utf8'));
   const conocidas = new Set(indice.imagenes.flatMap((i) => [i.original, i.mediaId].filter(Boolean)));
-  const desde = new Date(Date.now() - dias * 864e5).toISOString().slice(0, 19);
-  const lista = await notas(desde);
-  console.log(`${lista.length} notas del club en los últimos ${dias} días (primera, estadio, country)`);
+  const espera = indice.esperaDias ?? 7;
+  // La API compara en hora argentina (campo "date"): corte al inicio del día, hace `espera` días.
+  const dia = (n) => new Date(Date.now() - 3 * 36e5 - n * 864e5).toISOString().slice(0, 10);
+  const hasta = `${dia(espera - 1)}T00:00:00`;
+  const desde = `${dia(espera + dias)}T00:00:00`;
+  const lista = await notas(desde, hasta);
+  console.log(`${lista.length} notas del club publicadas entre ${desde.slice(0, 10)} y ${dia(espera)} (primera, estadio, country; ${espera} días de exclusividad para el club)`);
 
   const nuevas = [];
   let omitidas = 0;

@@ -1,6 +1,8 @@
 {
   "fuente": "Estudiantes de La Plata (estudiantesdelaplata.com)",
   "permiso": "confirmado por el club (2026-11-14)",
+  "esperaDias": 7,
+  "esperaNota": "Exclusividad del club: una foto se puede traer y usar recién cuando pasaron al menos esperaDias desde que el club la publicó. Lo controlan scripts/fotos-club.mjs y el build.",
   "imagenes": [
     {
       "id": "2026-01-12_fin-de-semana-con-dos-grandes-sorpresas-en-el-country_1",
@@ -1750,8 +1752,14 @@
       "tomada": null,
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_7111-1024x768.jpg",
-      "alt": "",
-      "usos": []
+      "alt": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores.",
+      "usos": [
+        "hoy"
+      ],
+      "foco": [
+        0.5,
+        0.68
+      ]
     },
     {
       "id": "2026-09-21_un-partido-clave-para-sus-aspiraciones_1",
@@ -2492,78 +2500,6 @@
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/JJU0223-819x1024.jpg",
       "alt": "",
       "usos": []
-    },
-    {
-      "id": "2026-11-11_medina-convoco-a-todos_1",
-      "archivo": "primera/2026-11-11_medina-convoco-a-todos_1.jpg",
-      "categoria": "primera",
-      "ancho": 1024,
-      "alto": 683,
-      "orientacion": "horizontal",
-      "nota": "Medina convocó a todos",
-      "notaUrl": "https://estudiantesdelaplata.com/medina-convoco-a-todos/",
-      "publicada": "2026-11-11",
-      "tomada": null,
-      "credito": null,
-      "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/IMG_2034-1024x683.jpg",
-      "alt": "",
-      "usos": []
-    },
-    {
-      "id": "2026-11-12_se-define-la-supercopa-argentina_1",
-      "archivo": "primera/2026-11-12_se-define-la-supercopa-argentina_1.jpg",
-      "categoria": "primera",
-      "ancho": 1024,
-      "alto": 681,
-      "orientacion": "horizontal",
-      "nota": "Se define la Supercopa Argentina",
-      "notaUrl": "https://estudiantesdelaplata.com/se-define-la-supercopa-argentina/",
-      "publicada": "2026-11-12",
-      "tomada": null,
-      "credito": null,
-      "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/JJU9594-1024x681.jpg",
-      "mediaId": 166143,
-      "alt": "",
-      "usos": []
-    },
-    {
-      "id": "2026-11-13_es-una-gran-sensacion-de-felicidad_1",
-      "archivo": "primera/2026-11-13_es-una-gran-sensacion-de-felicidad_1.jpg",
-      "categoria": "primera",
-      "ancho": 1024,
-      "alto": 526,
-      "orientacion": "horizontal",
-      "nota": "«Es una gran sensación de felicidad»",
-      "notaUrl": "https://estudiantesdelaplata.com/es-una-gran-sensacion-de-felicidad/",
-      "publicada": "2026-11-13",
-      "tomada": null,
-      "credito": null,
-      "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/Cacique-Provisoria-01-1024x526.jpg",
-      "mediaId": 166207,
-      "alt": "",
-      "usos": []
-    },
-    {
-      "id": "2026-11-13_supercampeones-2_1",
-      "archivo": "primera/2026-11-13_supercampeones-2_1.jpg",
-      "categoria": "primera",
-      "ancho": 1024,
-      "alto": 768,
-      "orientacion": "horizontal",
-      "nota": "¡SUPERCAMPEONES!",
-      "notaUrl": "https://estudiantesdelaplata.com/supercampeones-2/",
-      "publicada": "2026-11-13",
-      "tomada": null,
-      "credito": null,
-      "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/IMG_2193.JPG-1024x768.jpeg",
-      "alt": "El plantel de Estudiantes festeja con la copa de la Supercopa Argentina entre fuegos artificiales.",
-      "usos": [
-        "hoy"
-      ],
-      "foco": [
-        0.5,
-        0.42
-      ]
     }
   ]
 }

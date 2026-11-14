@@ -3,6 +3,8 @@
 Fotos oficiales de Estudiantes de La Plata (estudiantesdelaplata.com) para usar en el sitio.
 
 > **Permiso de republicación: confirmado por el club (14/11/2026).** Siempre con crédito (el sitio lo pone solo).
+>
+> **Exclusividad del club: 7 días.** No usamos sus fotos a la par: una foto se trae y se usa recién cuando pasó al menos una semana desde que el club la publicó (`esperaDias` en `indice.json`). `npm run fotos` no trae las de la última semana y el build falla si una foto usada es más nueva.
 
 ## Qué hay
 
@@ -51,7 +53,7 @@ Para sacar una foto: borrar `foto` de `home.json` (y de las traducciones).
 
 ## Sumar fotos
 
-**Automático:** `npm run fotos` trae las fotos nuevas de la web del club (API pública de WordPress) de las notas de fútbol profesional, estadio y country de los últimos 14 días (`-- --dias 30` para otro período; `-- --prueba` para ver qué traería sin descargar). Baja la versión de 1024 px, hasta 4 por nota, saltea las repetidas (por `mediaId` / `original`) y las de menos de 640 px, y completa `indice.json` con nota, fecha, crédito (si el club lo pone en el epígrafe) y `usos: []`. Nunca borra ni publica nada.
+**Automático:** `npm run fotos` trae las fotos nuevas de la web del club (API pública de WordPress) de las notas de fútbol profesional, estadio y country publicadas hace 7 a 21 días (nunca las de la última semana; `-- --dias 30` para mirar más atrás; `-- --prueba` para ver qué traería sin descargar). Baja la versión de 1024 px, hasta 4 por nota, saltea las repetidas (por `mediaId` / `original`) y las de menos de 640 px, y completa `indice.json` con nota, fecha, crédito (si el club lo pone en el epígrafe) y `usos: []`. Nunca borra ni publica nada.
 
 Cada foto pesa ~120 KB en el repo: traer cuando hace falta (después de un partido, una vez por semana), no en cada corrida.
 
