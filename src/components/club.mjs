@@ -1,6 +1,5 @@
 import { icono } from './iconos.mjs';
 import { html } from '../lib/html.mjs';
-import { foto } from './foto.mjs';
 
 // El club fuera de la cancha: campaña de socios, cantidad de socios y último balance aprobado.
 
@@ -10,93 +9,78 @@ const iniciales = (nombre) => {
   const p = nombre.trim().split(/\s+/);
   return (p[0][0] + (p.length > 1 ? p.at(-1)[0] : '')).toUpperCase();
 };
-// Arriba (después de Hoy): la campaña compacta. Lo largo (mística, globo, "sumá a otro pincha") va al final, en el club.
-const enlaces = (c, t) => ({
-  wa: c.sumar ? `https://wa.me/?text=${encodeURIComponent(`${c.sumar.compartir} ${c.url}`)}` : '',
-});
-const pasos = (c, t) =>
-  c.pasos?.length
-    ? html`
+// Un solo bloque de campaña: primero el mundo (globo y mística), después una plaquita con todos los números,
+// y al final Verón con el único botón pegado a su cita. Lo demás (pasos, más info, compartir) queda plegado.
+const campania = (c, socios, { t }) => {
+  const n = (x) => x.toLocaleString(t.locale);
+  const m = c.mistica;
+  const wa = c.sumar ? `https://wa.me/?text=${encodeURIComponent(`${c.sumar.compartir} ${c.url}`)}` : '';
+  const cifras = [{ n: socios, t: t.socios }, { n: c.meta, t: t.campania.metaCorta }, ...(m?.cifras ?? [])];
+  return html`
+<article class="mistica">
+  <img class="mistica__globo" src="/globo-filiales.svg" width="640" height="640" alt="" loading="lazy" decoding="async">
+  <div class="mistica__texto">
+    ${m ? html`
+    ${m.kicker ? html`<p class="mistica__kicker">${m.kicker}</p>` : ''}
+    <h3 class="mistica__titulo">${m.titulo}</h3>
+    <p class="mistica__lema">${m.lema}</p>` : ''}
+    <ul class="mistica__cifras">${cifras.map((x) => html`<li><b>${n(x.n)}</b><span>${x.t}</span></li>`)}</ul>
+
+    <div class="lider">
+      <h3 class="lider__campania">${c.nombre}</h3>
+      ${c.cita ? html`
+      <figure class="cita">
+        <figcaption class="cita__autor">
+          <span class="cita__avatar" aria-hidden="true">${c.cita.foto
+            ? html`<img src="${c.cita.foto}" alt="" width="56" height="56" loading="lazy" decoding="async">`
+            : html`<span>${iniciales(c.cita.autor)}</span>`}</span>
+          <span class="cita__quien"><strong>${c.cita.autor}</strong><span class="cita__via">${c.cita.via}</span></span>
+        </figcaption>
+        <blockquote lang="es"><p>${c.cita.texto}</p></blockquote>
+        ${c.cita.traduccion ? html`<p class="cita__traduccion">${c.cita.traduccion}</p>` : ''}
+      </figure>` : ''}
+      <a class="btn lider__btn" href="${c.url}" rel="noopener">${t.campania.ctaGrande}</a>
+      ${c.promesa ? html`<p class="lider__promesa">${c.promesa}</p>` : ''}
+    </div>
+
     <details class="campania__ver">
       <summary>${t.campania.ver}</summary>
-      ${t.campania.aviso ? html`<p class="meta">${t.campania.aviso}</p>` : ''}
-      <ol class="campania__pasos">${c.pasos.map((p) => html`<li>${p}</li>`)}</ol>
-    </details>`
+      ${t.campania.aviso ? html`<p>${t.campania.aviso}</p>` : ''}
+      ${c.pasos?.length ? html`<ol class="campania__pasos">${c.pasos.map((p) => html`<li>${p}</li>`)}</ol>` : ''}
+      <p class="campania__enlaces">
+        ${c.info ? html`<a href="${c.info}" rel="noopener">${t.campania.info}</a>` : ''}
+        ${wa ? html`<a href="${wa}" rel="noopener">${t.campania.compartir}</a>` : ''}
+      </p>
+    </details>
+  </div>
+  <script src="/globo.js" defer></script>
+</article>`;
+};
+
+// Banner pegado abajo: Verón y el botón. Aparece cuando el bloque de campaña ya quedó arriba (así nunca hay
+// dos botones a la vista) y se puede cerrar; el cierre vale para toda la visita.
+const pegado = (c, { t }) =>
+  c.cita
+    ? html`
+<aside id="pegado" class="pegado" aria-label="${c.nombre}">
+  <span class="cita__avatar" aria-hidden="true">${c.cita.foto
+    ? html`<img src="${c.cita.foto}" alt="" width="44" height="44" loading="lazy" decoding="async">`
+    : html`<span>${iniciales(c.cita.autor)}</span>`}</span>
+  <p class="pegado__texto"><strong>${c.cita.autor}</strong><span>${c.nombre}</span></p>
+  <a class="btn pegado__btn" href="${c.url}" rel="noopener">${t.campania.cta}</a>
+  <button class="pegado__x" type="button" aria-label="${t.campania.cerrar}">×</button>
+</aside>
+<script>(()=>{const b=document.getElementById('pegado'),r=document.querySelector('.lider');if(!b||!r||!('IntersectionObserver' in window))return;try{if(sessionStorage.getItem('pegado')==='0')return}catch{}const o=new IntersectionObserver(([e])=>b.classList.toggle('pegado--on',!e.isIntersecting&&e.boundingClientRect.bottom<0));o.observe(r);b.querySelector('button').onclick=()=>{o.disconnect();b.classList.remove('pegado--on');try{sessionStorage.setItem('pegado','0')}catch{}}})()</script>`
     : '';
 
-const campania = (c, socios, { t }) => {
-  const pct = Math.min(100, Math.round((socios / c.meta) * 100));
-  const n = (x) => x.toLocaleString(t.locale);
-  const { wa } = enlaces(c, t);
-  return html`
-<article class="card campania">
-  ${foto(c.foto, 'banda', { t, clase: 'campania__foto' })}
-  <h3 class="campania__titulo">${c.nombre}</h3>
-  <p>${c.texto}</p>
-  <div class="progreso" role="progressbar" aria-valuemin="0" aria-valuemax="${c.meta}" aria-valuenow="${socios}" aria-label="${t.socios}: ${n(socios)} / ${n(c.meta)}">
-    <span style="width:${pct}%"></span>
-  </div>
-  <p class="progreso__leyenda"><strong>${n(socios)}</strong> · ${t.campania.meta(n(c.meta))} · ${pct}%</p>
-  ${c.promesa ? html`<p class="meta">${c.promesa}</p>` : ''}
-  <p class="campania__acciones">
-    <a class="btn" href="${c.url}" rel="noopener">${t.campania.cta}</a>
-    ${wa ? html`<a class="btn btn--wa" href="${wa}" rel="noopener">${t.campania.compartir}</a>` : ''}
-    ${c.info ? html`<a class="link" href="${c.info}" rel="noopener">${t.campania.info}</a>` : ''}
-  </p>
-  ${pasos(c, t)}
-
-  ${c.cita ? html`
-  <figure class="cita">
-    <figcaption class="cita__autor">
-      <span class="cita__avatar" aria-hidden="true">${c.cita.foto
-        ? html`<img src="${c.cita.foto}" alt="" width="40" height="40" loading="lazy" decoding="async">`
-        : html`<span>${iniciales(c.cita.autor)}</span>`}</span>
-      <span class="cita__quien"><strong>${c.cita.autor}</strong><span class="cita__via">${c.cita.via}</span></span>
-    </figcaption>
-    <blockquote lang="es"><p>${c.cita.texto}</p></blockquote>
-    ${c.cita.traduccion ? html`<p class="cita__traduccion">${c.cita.traduccion}</p>` : ''}
-  </figure>` : ''}
-</article>`;
-};
-
-// Al final, en el club: la mística y "sumá a otro pincha", con el mismo tono y los mismos textos de siempre.
-const mistica = (c, { t }) => {
-  if (!c?.mistica && !c?.sumar) return '';
-  const { wa } = enlaces(c, t);
-  return html`
-<article class="card campania campania--mistica">
-  ${c.mistica ? html`
-  <div class="mistica">
-    <img class="mistica__globo" src="/globo-filiales.svg" width="640" height="640" alt="" loading="lazy" decoding="async">
-    <div class="mistica__texto">
-      ${c.mistica.kicker ? html`<p class="mistica__kicker">${c.mistica.kicker}</p>` : ''}
-      <h4 class="mistica__titulo">${c.mistica.titulo}</h4>
-      ${c.mistica.parrafos.map((p, i) => html`<p class="${i === 0 ? 'mistica__lead' : i === c.mistica.parrafos.length - 1 ? 'mistica__em' : ''}">${p}</p>`)}
-      <p class="mistica__lema">${c.mistica.lema}</p>
-      <p class="mistica__accion"><a class="btn mistica__btn" href="${c.url}" rel="noopener">${t.campania.ctaGrande}</a></p>
-      ${c.mistica.cifras?.length ? html`<ul class="mistica__cifras">${c.mistica.cifras.map((x) => html`<li><b>${x.n.toLocaleString(t.locale)}</b><span>${x.t}</span></li>`)}</ul>` : ''}
-    </div>
-    <script src="/globo.js" defer></script>
-  </div>` : ''}
-
-  ${c.sumar ? html`
-  <div class="campania__sumar">
-    <h4 class="campania__facil">${c.sumar.titulo}</h4>
-    <p class="campania__acciones">
-      <a class="btn" href="${c.url}" rel="noopener">${t.campania.ctaGrande}</a>
-      <a class="btn btn--wa" href="${wa}" rel="noopener">${t.campania.compartir}</a>
-    </p>
-  </div>` : ''}
-</article>`;
-};
-
-// Campaña de socios: bloque propio, va arriba en la home (justo después de Hoy).
+// Campaña de socios: bloque propio, va arriba en la home (justo después de los partidos).
 export const socio = ({ club: c }, ctx) =>
   c?.campania
     ? html`
 <section id="club" class="wrap block" aria-labelledby="club-titulo">
   <h2 id="club-titulo" class="block__title">${icono('escudo')}${ctx.t.club}</h2>
   ${campania(c.campania, c.socios, ctx)}
+  ${pegado(c.campania, ctx)}
 </section>`
     : '';
 
@@ -106,13 +90,10 @@ export const club = ({ club: c }, ctx) => {
   const { t } = ctx;
   return html`
 <section${c.campania ? '' : html` id="club"`} class="wrap block" aria-label="${t.balance}">
-  ${c.campania ? mistica(c.campania, ctx) : ''}
-  <div class="grid-2 grid-2--tight">
-    <article class="card">
-      <h3 class="card__label">${icono('persona')}${t.socios}</h3>
-      <p class="big">${c.socios.toLocaleString(t.locale)}</p>
-      ${c.sociosDetalle ? html`<p class="meta">${c.sociosDetalle}</p>` : ''}
-    </article>
+  ${c.campania ? '' : html`<article class="card">
+    <h3 class="card__label">${icono('persona')}${t.socios}</h3>
+    <p class="big">${c.socios.toLocaleString(t.locale)}</p>
+  </article>`}
     <article class="card">
       <h3 class="card__label">${icono('diario')}${t.balance}</h3>
       <p class="meta">${c.balance.ejercicio}</p>
@@ -121,7 +102,7 @@ export const club = ({ club: c }, ctx) => {
       </dl>
       ${c.balance.aprobado ? html`<p class="meta">${c.balance.aprobado}</p>` : ''}
       ${c.balance.fuente ? html`<p class="meta">${t.fuente}: <a href="${c.balance.fuente.url}" rel="noopener">${c.balance.fuente.nombre}</a></p>` : ''}
+      ${c.sociosDetalle ? html`<p class="meta">${t.socios}: ${c.sociosDetalle}</p>` : ''}
     </article>
-  </div>
 </section>`;
 };

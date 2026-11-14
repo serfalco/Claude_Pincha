@@ -46,7 +46,7 @@ export default {
   socios: 'Members',
   balance: 'Latest financial statement',
   fuente: 'Source',
-  campania: { pasos: 'How to join', beneficios: 'What you get', compartir: 'Send it to a Pincha', ver: 'How do I join?', aviso: 'The club’s site is in Spanish; these steps guide you.', ctaGrande: 'Join now', meta: (n) => `Goal: ${n}`, cta: 'Become a member', info: 'More info' },
+  campania: { cerrar: 'Close', metaCorta: 'goal', pasos: 'How to join', beneficios: 'What you get', compartir: 'Send it to a Pincha', ver: 'How do I join?', aviso: 'The club’s site is in Spanish; these steps guide you.', ctaGrande: 'Join now', meta: (n) => `Goal: ${n}`, cta: 'Become a member', info: 'More info' },
   dia: {
     kicker: 'Pincha day by day',
     title: (fecha) => `Estudiantes de La Plata, ${fecha}: what happened · El Pincha Hoy`,
