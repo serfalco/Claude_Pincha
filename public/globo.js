@@ -30,6 +30,11 @@
   let fans = [];
   addEventListener('pinchas', (e) => { fans = e.detail.map(([lo, la, n]) => [v3([lo, la]), n]); });
 
+  // Nombres al pasar el mouse (solo en pantallas con mouse; en el celular no se activa nada).
+  let nombres = { ext: [], arg: {} };
+  try { nombres = { ...nombres, ...JSON.parse(img.dataset.etiquetas || '{}') }; } catch {}
+  const conMouse = matchMedia('(hover: hover) and (pointer: fine)').matches;
+  let mouse = null;
   const cv = document.createElement('canvas');
   cv.className = img.className; cv.setAttribute('aria-hidden', 'true');
   const ctx = cv.getContext('2d');
@@ -77,8 +82,9 @@
     ctx.setLineDash([]);
     // puntos con brillo
     ctx.shadowColor = '#ff2443'; ctx.shadowBlur = 10 * dpr;
-    for (const [p, c] of arg) { const [x, y, z] = proj(p, rr); if (z <= 0) continue; ctx.fillStyle = '#ff3352'; ctx.beginPath(); ctx.arc(cx + x * r, cy + y * r, (1.6 + Math.sqrt(c) * .9) * dpr, 0, 7); ctx.fill(); }
-    for (const p of pts) { const [x, y, z] = proj(p, rr); if (z <= 0) continue; ctx.fillStyle = '#fff'; ctx.beginPath(); ctx.arc(cx + x * r, cy + y * r, 2.4 * dpr, 0, 7); ctx.fill(); }
+    const marcas = [];
+    for (const [p, c] of arg) { const [x, y, z] = proj(p, rr); if (z <= 0) continue; if (mouse && nombres.arg[c]) marcas.push([cx + x * r, cy + y * r, nombres.arg[c]]); ctx.fillStyle = '#ff3352'; ctx.beginPath(); ctx.arc(cx + x * r, cy + y * r, (1.6 + Math.sqrt(c) * .9) * dpr, 0, 7); ctx.fill(); }
+    for (const [i, p] of pts.entries()) { const [x, y, z] = proj(p, rr); if (z <= 0) continue; if (mouse && nombres.ext[i]) marcas.push([cx + x * r, cy + y * r, nombres.ext[i]]); ctx.fillStyle = '#fff'; ctx.beginPath(); ctx.arc(cx + x * r, cy + y * r, 2.4 * dpr, 0, 7); ctx.fill(); }
     ctx.shadowColor = '#f5c84b'; ctx.shadowBlur = 8 * dpr; ctx.fillStyle = '#f5c84b';
     for (const [p, c] of fans) { const [x, y, z] = proj(p, rr); if (z <= 0) continue; ctx.beginPath(); ctx.arc(cx + x * r, cy + y * r, Math.min(6, 1.8 + Math.log2(c) * .6) * dpr, 0, 7); ctx.fill(); }
     ctx.shadowBlur = 0;
@@ -90,9 +96,26 @@
       ctx.strokeStyle = 'rgba(255,255,255,' + (1 - ph).toFixed(2) + ')'; ctx.lineWidth = 2 * dpr;
       ctx.beginPath(); ctx.arc(cx + x * r, cy + y * r, (5 + ph * 16) * dpr, 0, 7); ctx.stroke();
     }
+    // etiqueta de la filial más cercana al mouse (a menos de 16 px)
+    if (mouse) {
+      let m = null, dm = 16 * dpr;
+      for (const k of marcas) { const d = Math.hypot(k[0] - mouse[0] * dpr, k[1] - mouse[1] * dpr); if (d < dm) { dm = d; m = k; } }
+      if (m) {
+        ctx.font = `700 ${13 * dpr}px system-ui, sans-serif`;
+        const w = ctx.measureText(m[2]).width + 16 * dpr, h = 24 * dpr;
+        const bx = Math.max(2, Math.min(cv.width - w - 2, m[0] - w / 2)), by = m[1] - h - 10 * dpr < 2 ? m[1] + 10 * dpr : m[1] - h - 10 * dpr;
+        ctx.fillStyle = 'rgba(12,12,15,.92)'; ctx.strokeStyle = 'rgba(255,255,255,.35)'; ctx.lineWidth = dpr;
+        ctx.beginPath(); ctx.roundRect ? ctx.roundRect(bx, by, w, h, 7 * dpr) : ctx.rect(bx, by, w, h); ctx.fill(); ctx.stroke();
+        ctx.fillStyle = '#fff'; ctx.textBaseline = 'middle'; ctx.fillText(m[2], bx + 8 * dpr, by + h / 2 + dpr);
+      }
+    }
     requestAnimationFrame(frame);
   };
   size(); img.replaceWith(cv);
+  if (conMouse) {
+    cv.addEventListener('mousemove', (e) => { const b = cv.getBoundingClientRect(); mouse = [e.clientX - b.left, e.clientY - b.top]; });
+    cv.addEventListener('mouseleave', () => { mouse = null; });
+  }
   addEventListener('resize', () => { if (Math.abs(Math.min(box.clientWidth, 460) - W) > 1) size(); });
   new IntersectionObserver(([e]) => { const was = visible; visible = e.isIntersecting; if (visible && !was) requestAnimationFrame(frame); }).observe(cv);
   requestAnimationFrame(frame);
