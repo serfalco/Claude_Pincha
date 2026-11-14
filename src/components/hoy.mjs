@@ -6,7 +6,7 @@ import { foto } from './foto.mjs';
 // ni la hora ni el día (no se rotula nada como "ayer"); la fecha queda en el <li> para máquinas y en la página del día.
 // Hora 00:00 = el medio no publicó la hora real (lo usa la página del día).
 export const sinHora = (iso) => /T00:00(:00)?(-03:00)?$/.test(iso);
-// "El Pincha Hoy · Siete noticias pinchas": EL bloque de la portada (va primero; todo lo demás es yapa). Lo más importante del día, numerado, con la info ahí mismo (sin fuente ni links:
+// "El Pincha Hoy · Siete noticias": EL bloque de la portada (va primero; todo lo demás es yapa). Lo más importante del día, numerado, con la info ahí mismo (sin fuente ni links:
 // se lee sin hacer clic). Las notas con fuente y link van debajo, en "Notipinchas en los medios".
 export const siete = (items = [], t, nivel = 2) =>
   items.length

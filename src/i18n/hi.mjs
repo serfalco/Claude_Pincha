@@ -13,7 +13,7 @@ export default {
   idiomas: 'भाषा',
   menu: { hoy: 'आज', partidos: 'मैच', tabla: 'तालिका', noticias: 'ख़बरें', club: 'क्लब' },
   lineaTitulo: 'Notipinchas · मीडिया में',
-  siete: 'Pincha की सात ख़बरें',
+  siete: 'सात ख़बरें',
   sieteMarca: 'El Pincha Hoy',
   foto: 'फ़ोटो',
   gol: { ec: 'आत्मघाती', pen: 'पेनल्टी' },
