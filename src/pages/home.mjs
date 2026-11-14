@@ -26,6 +26,18 @@ const finEstimado = (iso) => {
   return local.toISOString().slice(0, 19) + off;
 };
 
+// Las 7 noticias del día como lista para buscadores (schema.org ItemList).
+export const listaSiete = (siete, t, url) => ({
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: `${t.sieteMarca} · ${t.siete}`,
+  url,
+  inLanguage: t.locale,
+  itemListOrder: 'https://schema.org/ItemListOrderAscending',
+  numberOfItems: siete.length,
+  itemListElement: siete.map((n, i) => ({ '@type': 'ListItem', position: i + 1, name: n.titulo, description: n.texto })),
+});
+
 // Una página = una función (ctx, data) → { title, description, jsonLd, body }.
 // ctx trae site, t (textos del idioma), f (fechas del idioma) y alternates (las otras versiones).
 export const slug = '';
@@ -46,6 +58,7 @@ export default (ctx, data) => {
         inLanguage: t.locale,
         description: t.descripcion,
       },
+      ...(data.hoy.siete?.length ? [listaSiete(data.hoy.siete, t, new URL(ctx.ruta(''), site.url).href)] : []),
       ...data.proximos.map((p) => {
         const nombre = p.condicion === 'visitante' ? `${p.rival} vs Estudiantes` : `Estudiantes vs ${p.rival}`;
         const equipos = [
