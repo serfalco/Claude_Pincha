@@ -47,6 +47,23 @@ def fuente(tam):
     return ImageFont.load_default(tam)
 
 
+CJK = '/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc'
+OG_VERSION = 'v2'  # subir si cambia el diseño: se regeneran todas
+
+
+def chips(d, x, y, tam=30, fondo=(255,255,255), texto=(17,17,19), primero=(215,24,42), alto=None, gap=12):
+    """ES · EN · PT · 中文 · हिन्दी como fichas. Devuelve el ancho total."""
+    alto = alto or int(tam*1.75); x0=x
+    for i,(t,f) in enumerate([('ES',FUENTES[0]),('EN',FUENTES[0]),('PT',FUENTES[0]),('中文',CJK),('हिन्दी',FUENTES[0])]):
+        font = ImageFont.truetype(f, int(tam*0.95), index=2) if f == CJK and Path(CJK).exists() else fuente(tam)
+        w = d.textlength(t, font=font); pw = w + tam*1.1
+        d.rounded_rectangle([x, y, x+pw, y+alto], radius=alto//2, fill=primero if i==0 else fondo)
+        bb = d.textbbox((0,0), t, font=font)
+        d.text((x+(pw-w)/2, y+(alto-(bb[3]-bb[1]))/2-bb[1]), t, font=font, fill=(255,255,255) if i==0 else texto)
+        x += pw + gap
+    return x - gap - x0
+
+
 def imagen_og(img, fecha, destino):
     """Imagen para compartir: foto a sangre, degradé, marca y fecha, franja a bastones. Sin texto en un idioma:
     sirve igual para las 5 versiones (el titular lo pone cada red debajo, desde og:title)."""
@@ -71,10 +88,12 @@ def imagen_og(img, fecha, destino):
     d.text((x - 3, base - 82), 'HOY', font=fuente(78), fill=(215, 24, 42))
     a, m, dd = fecha.split('-')
     f = fuente(30)
-    txt = f'{dd}/{m}/{a}'
+    txt = f'7 noticias · {dd}/{m}'
     w = d.textlength(txt, font=f)
     d.rounded_rectangle([W - 56 - w - 36, base - 52, W - 56, base], radius=26, fill=(215, 24, 42))
     d.text((W - 56 - w - 18, base - 47), txt, font=f, fill=(255, 255, 255))
+    # Los 5 idiomas, arriba a la izquierda (fichas).
+    chips(d, 40, 34, tam=22, fondo=(255, 255, 255), gap=8)
     foto.save(destino, quality=82, optimize=True, progressive=True)
 
 
@@ -129,7 +148,7 @@ def main():
     reg_path = OG / 'indice.json'
     reg = json.loads(reg_path.read_text()) if reg_path.exists() else {}
     for fecha, fid in sorted(fotos_dia.items()):
-        clave = f'{fid}|{json.dumps(por_id[fid].get("foco"))}'
+        clave = f'{fid}|{json.dumps(por_id[fid].get("foco"))}|{OG_VERSION}'
         if reg.get(fecha) == clave and (OG / f'{fecha}.jpg').exists():
             continue
         imagen_og(por_id[fid], fecha, OG / f'{fecha}.jpg')
