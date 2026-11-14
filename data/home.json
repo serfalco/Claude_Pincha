@@ -3,6 +3,10 @@
   "actualizado": "2026-11-14T08:45:00-03:00",
   "hoy": {
     "titular": "Del festejo a Montevideo: 121 micros agotados",
+    "foto": {
+      "id": "2026-11-13_supercampeones-2_1",
+      "alt": "El plantel de Estudiantes festeja con la copa de la Supercopa Argentina entre fuegos artificiales."
+    },
     "resumen": "Con la estrella 20 recién ganada, el plantel descansa y vuelve el lunes a City Bell para preparar la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. Los hinchas agotaron los 121 micros que organizó el club.",
     "puntos": [
       "Micros a Montevideo: agotados. El club confirmó una caravana récord de 121 colectivos rumbo al Centenario.",
@@ -266,6 +270,10 @@
       "sumar": {
         "titulo": "Asociarte es fácil. Sumá a otro pincha.",
         "compartir": "Somos hinchas, seamos socios. Asociate a Estudiantes de La Plata en 5 minutos:"
+      },
+      "foto": {
+        "id": "2026-05-25_accesos-y-recomendaciones-ante-dim_1",
+        "alt": "La hinchada de Estudiantes llena la tribuna del estadio UNO."
       }
     }
   },

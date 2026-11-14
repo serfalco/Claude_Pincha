@@ -16,7 +16,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/01/Copia-de-IMG-0351-768x1024.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-01-29_colonia-de-verano-inscripciones-para-febrero_1",
@@ -32,7 +32,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/01/CAMPAMENTO_EDLP-8-1024x619.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-02-05_el-country-se-copa_1",
@@ -48,7 +48,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/02/JUL6099_compressed-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-02-25_fin-de-temporada-se-viene-la-fiesta_1",
@@ -64,7 +64,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/02/JPV_6527_compressed-1024x684.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-27_juan-ramon-eterno-en-city-bell_1",
@@ -80,7 +80,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/BLA_2795-1024x684.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-03_eternamente-en-casa_1",
@@ -96,7 +96,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/JAP8144-scaled-1-1024x693.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-03-02_carnaval-feliz-en-uno_1",
@@ -112,7 +112,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/03/DSC_9142_optimizada-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-25_accesos-y-recomendaciones-ante-dim_1",
@@ -127,8 +127,14 @@
       "tomada": null,
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/DSC_9462_compressed-1024x683.jpg",
-      "alt": "",
-      "publicar": false
+      "alt": "La hinchada de Estudiantes llena la tribuna del estadio UNO.",
+      "usos": [
+        "banda"
+      ],
+      "foco": [
+        0.5,
+        0.45
+      ]
     },
     {
       "id": "2026-05-01_casi-todo-igual_1",
@@ -144,7 +150,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/Copia-de-IMG-3371-1-1024x470.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-02_final-de-la-etapa-regular_1",
@@ -160,7 +166,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/04/Copia-de-DSC_4611-1024x594.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-03_me-siento-representado_1",
@@ -176,7 +182,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/IMG_2279-768x1024.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-04_160208-2_1",
@@ -192,7 +198,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/JJU9907-1024x682.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-04_los-que-viajan-a-lima_1",
@@ -208,7 +214,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/Copia-de-IMG-9444-1024x767.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-06_se-juega-mucho-en-peru_1",
@@ -224,7 +230,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/IMG-8905-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-09_con-gaich-entre-los-citados_1",
@@ -240,7 +246,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-09-at-11.53.04-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-18_con-25-jugadores-a-brasil_1",
@@ -256,7 +262,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/Copia-de-N.H-03345-1024x532.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-20_partido-clave-en-rio_1",
@@ -272,7 +278,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/IMG-8826-1024x515.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-21_depende-de-estudiantes_1",
@@ -288,7 +294,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/medina_maracana_opt-1024x682.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-21_derrota-por-detalles_1",
@@ -304,7 +310,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/fla-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-25_con-las-bajas-obligadas_1",
@@ -320,7 +326,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/Copia-de-DSC_8547-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-26_son-90-minutos-claves_1",
@@ -336,7 +342,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/IMG-5582-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-27_lo-ganamos-con-el-alma_1",
@@ -352,7 +358,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/IMG-1650-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-30_los-ultimos-de-medina_1",
@@ -368,7 +374,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/IMG-2224-1024x591.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-31_con-central-por-copa-argentina_1",
@@ -384,7 +390,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/Copia-de-IMG-7462-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-05-31_goleo-y-clasifico_1",
@@ -400,7 +406,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/copaarg-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-06-25_vuelta-al-trabajo-3_1",
@@ -416,7 +422,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/06/IMG-9591-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-06-26_amistosos-de-pretemporada-2_1",
@@ -432,7 +438,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/06/Copia-de-Copia-de-IMG-9315-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-06-28_plantel-complejo-para-uruguay_1",
@@ -448,7 +454,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/06/IMG-2793-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-06-29_arzamendia-acelera-su-vuelta_1",
@@ -464,7 +470,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/06/IMG-3825-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-06-30_la-tactica-ante-todo_1",
@@ -480,7 +486,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/06/IMG-5123-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-01_la-intensidad-no-se-negocia_1",
@@ -496,7 +502,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/Copia-de-IMG-5857-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-02_a-definir-se-ha-dicho_1",
@@ -512,7 +518,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/IMG-5874-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-03_lluvia-acciones-de-juego-y-amistoso_1",
@@ -528,7 +534,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/IMG-6928-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-04_rodaje-antes-del-regreso_1",
@@ -544,7 +550,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/IMG_8886_menos_3mb-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-08_minutos-de-futbol-en-uno_1",
@@ -560,7 +566,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/DSC_7663_menos_3mb-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-11_amistoso-iii_1",
@@ -576,7 +582,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/DSC_7350-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-11_buen-ensayo-ante-talleres_1",
@@ -592,7 +598,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/IMG_9175-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-13_con-el-retorno-de-muslera_1",
@@ -608,7 +614,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/IMG-9781-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-15_cerro-con-triunfos_1",
@@ -624,7 +630,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/IMG_9406-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-15_ultimo-ensayo-2_1",
@@ -640,7 +646,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/Copia-de-IMG-9167-1024x524.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-24_nuestras-aspiraciones-son-las-maximas_1",
@@ -656,7 +662,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-24-at-14.40.58-1024x576.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-25_la-primera-del-segundo-semestre_1",
@@ -672,7 +678,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/IMG_9686-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-26_estreno-torcido_1",
@@ -688,7 +694,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/IMG_9765-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-26_inicia-el-camino-en-el-clausura_1",
@@ -704,7 +710,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/Copia-de-DSC_5029-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-07-31_se-va-la-segunda-11_1",
@@ -720,7 +726,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/IMG-2399-1024x437.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-01_en-uno-con-defensa_1",
@@ -736,7 +742,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/07/Copia-de-DSC_6693-1024x533.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-01_victoria-por-demolicion_1",
@@ -752,7 +758,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/dyj-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-02_hoy-el-equipo-fluyo_1",
@@ -768,7 +774,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG-3970-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-04_una-baja-obligada_1",
@@ -784,7 +790,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG-4627-1024x767.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-05_cayo-por-la-minima-2_1",
@@ -800,7 +806,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-05-at-19.18.26-1024x683.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-05_el-primer-de-visitante-y-en-el-duco_1",
@@ -816,7 +822,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-IMG-3627-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-07_con-muslera-y-sin-carrillo_1",
@@ -832,7 +838,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-IMG-2420-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-08_baltasar-rodriguez-nuevo-refuerzo_1",
@@ -848,7 +854,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG-6929-scaled-1-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-08_este-equipo-no-es-esto_1",
@@ -864,7 +870,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG-7479-scaled-1-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-08_no-pudo-recuperarse-4_1",
@@ -880,7 +886,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG_0836-1-scaled-1-1024x682.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-09_tenemos-con-que_1",
@@ -896,7 +902,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/JAP9305-scaled-1-1024x681.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-10_correa-y-rodriguez-adentro_1",
@@ -912,7 +918,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/DSC_6165_menos_3mb-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-11_primer-chico-con-la-catolica_1",
@@ -928,7 +934,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/DSC_6366-1024x574.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-12_serie-abierta_1",
@@ -944,7 +950,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG_1231-scaled-1-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-13_esperemos-darle-una-alegria-a-la-gente_1",
@@ -960,7 +966,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG_9436.JPG-1024x683-1-e1786651722943.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-14_con-25-citados_1",
@@ -976,7 +982,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-IMG_1447-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-15_sabado-de-clasico-en-uno_1",
@@ -992,7 +998,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG-3807-1024x582.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-15_una-goleada-inolvidable_1",
@@ -1008,7 +1014,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/DSC_1448-scaled-1-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-16_hay-que-disfrutarlo-en-su-justa-medida_1",
@@ -1024,7 +1030,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG-9613-scaled-1-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-17_los-que-viajaron-a-chile_1",
@@ -1040,7 +1046,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-IMG-9908-1024x547.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-18_se-resuelve-el-paso-a-cuartos_1",
@@ -1056,7 +1062,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-DSC_8437jjJJJ-1024x557.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-19_a-cuartos-de-final-7_1",
@@ -1072,7 +1078,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG_2417-scaled-1-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-20_carrillo-para-la-historia_1",
@@ -1088,7 +1094,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG-0070-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-22_rumbo-a-junin_1",
@@ -1104,7 +1110,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-IMG-9773-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-23_ahora-es-el-turno-de-sarmiento_1",
@@ -1120,7 +1126,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-IMG-9959-1024x580.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-23_cayo-en-junin_1",
@@ -1136,7 +1142,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG_3321-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-23_hay-que-levantarse-3_1",
@@ -1152,7 +1158,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG_3327-1-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-27_es-el-turno-de-la-copa-argentina-2_1",
@@ -1168,7 +1174,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-DSC_8919-1024x598.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-27_se-gano-con-autoridad-2_1",
@@ -1184,7 +1190,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG_4067-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-29_monsalve-tercera-cara-nueva_1",
@@ -1200,7 +1206,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG_4119-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-29_monsalve-tercera-cara-nueva_2",
@@ -1216,7 +1222,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Firma-Monsalve-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-29_monsalve-tercera-cara-nueva_3",
@@ -1232,7 +1238,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG_4114-768x1024.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-30_monsalve-adentro_1",
@@ -1248,7 +1254,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-IMG-0372-1024x568.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-31_no-paso-del-cero-2_1",
@@ -1264,7 +1270,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/IMG_4245-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-08-31_por-otro-paso-triunfal_1",
@@ -1280,7 +1286,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-IMG-0808-1024x589.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-01_nos-falto-contundencia_1",
@@ -1296,7 +1302,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_4294-1024x683.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-04_a-liniers-con-24-futbolistas_1",
@@ -1312,7 +1318,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG-0332-1024x589.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-04_acuerdo-con-boss-recovery_1",
@@ -1328,7 +1334,7 @@
       "credito": "Matias Missen",
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/MAT00362.jpg-1024x683.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-04_acuerdo-con-boss-recovery_2",
@@ -1344,7 +1350,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/MAT00370.jpg-683x1024.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-04_acuerdo-con-boss-recovery_3",
@@ -1360,7 +1366,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/MAT00372.jpg-1024x683.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-05_no-hizo-pie_1",
@@ -1376,7 +1382,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_5241-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-05_no-hizo-pie_2",
@@ -1392,7 +1398,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_5236-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-05_no-hizo-pie_3",
@@ -1408,7 +1414,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_5230-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-05_no-hizo-pie_4",
@@ -1424,7 +1430,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/ca-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-05_no-la-tiene-nada-sencilla_1",
@@ -1440,7 +1446,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/Copia-de-IMG-9904-1024x583.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-06_guido-hasta-2028_1",
@@ -1456,7 +1462,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG-20260906-WA0041-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-06_tenemos-que-mejorar-6_1",
@@ -1472,7 +1478,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG-1817-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-07_tengo-mucha-confianza-en-nuestro-equipo_1",
@@ -1488,7 +1494,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/N.H.-08471-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-08_una-lista-extensa_1",
@@ -1504,7 +1510,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/Copia-de-IMG-2056-1024x682.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-10_la-serie-esta-abierta-3_1",
@@ -1520,7 +1526,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_6153.JPG-1024x683.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-10_se-define-en-brasil_1",
@@ -1536,7 +1542,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_6141-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-10_se-define-en-brasil_2",
@@ -1552,7 +1558,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_6110-1-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-10_se-define-en-brasil_3",
@@ -1568,7 +1574,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_6132-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-10_se-define-en-brasil_4",
@@ -1584,7 +1590,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_6140-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-11_con-26-convocados_1",
@@ -1600,7 +1606,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/Copia-de-IMG-2814-1024x682.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-12_festejo-con-un-carrillo-heroico_1",
@@ -1616,7 +1622,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_6320-768x1024.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-12_fue-muy-positivo-todo-el-partido_1",
@@ -1632,7 +1638,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_6341-1024x683.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-12_una-final-en-uno_1",
@@ -1648,7 +1654,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/Copia-de-IMG-0032-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-16_se-definen-los-cuartos-en-brasil_1",
@@ -1664,7 +1670,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/Copia-de-IMG-9849-1024x682.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-17_cruzamos-el-rubicon_1",
@@ -1680,7 +1686,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_7128-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-17_semifinalista-de-america_1",
@@ -1696,7 +1702,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_7774.JPG-1024x768.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-17_semifinalista-de-america_2",
@@ -1712,7 +1718,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_7778.JPG-1024x768.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-17_semifinalista-de-america_3",
@@ -1728,7 +1734,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_7111-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-21_un-partido-clave-para-sus-aspiraciones_1",
@@ -1744,7 +1750,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/Copia-de-IMG-0112-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-22_demasiado-castigo_2",
@@ -1760,7 +1766,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/JAP2055-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-22_demasiado-castigo_3",
@@ -1776,7 +1782,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/JAP2126-1024x681.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-22_demasiado-castigo_4",
@@ -1792,7 +1798,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/JAP2264-1024x681.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-25_hay-que-hacer-un-gran-partido_3",
@@ -1808,7 +1814,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/IMG_8420-1-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-09-30_medina-convoco-a-24-futbolistas_1",
@@ -1824,7 +1830,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/Copia-de-IMG-0557-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-01_ahora-toca-la-copa-argentina_1",
@@ -1840,7 +1846,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/09/Copia-de-IMG-0033-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-02_punto-final-en-copa-argentina_1",
@@ -1856,7 +1862,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/IMG_8687-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-02_punto-final-en-copa-argentina_2",
@@ -1872,7 +1878,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/IMG_8677.JPG-1024x768.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-02_punto-final-en-copa-argentina_3",
@@ -1888,7 +1894,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/IMG_8690-1-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-02_punto-final-en-copa-argentina_4",
@@ -1904,7 +1910,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/9-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-04_una-sorpresa-entre-los-convocados_1",
@@ -1920,7 +1926,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/IMG_8891-1024x640.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-05_a-dar-vuelta-la-pagina-9_1",
@@ -1936,7 +1942,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/Copia-de-IMG-0018-1024x682.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-06_el-equipo-recupero-la-emocion_1",
@@ -1952,7 +1958,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/IMG_9079-1024x683.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-09_algunos-si-otros-no_1",
@@ -1968,7 +1974,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/Copia-de-IMG-4708-1024x559.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-10_fuimos-muy-superiores_1",
@@ -1984,7 +1990,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/IMG_9433.JPG-1024x768.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-10_otra-vez-en-santiago_1",
@@ -2000,7 +2006,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/Copia-de-IMG-4059-1024x552.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-15_primera-semifinal-con-flamengo_1",
@@ -2016,7 +2022,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/Copia-de-IMG-8919-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-16_salimos-fortalecidos_1",
@@ -2032,7 +2038,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/IMG_9721-1024x683.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-16_se-define-en-el-maracana_2",
@@ -2048,7 +2054,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/IMG_9660-1.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-16_se-define-en-el-maracana_3",
@@ -2064,7 +2070,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/JJU5245-1024x681.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-16_se-define-en-el-maracana_4",
@@ -2080,7 +2086,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/JAP4796-1024x681.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-18_cayo-sobre-el-final-3_2",
@@ -2096,7 +2102,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/JAP6053-1024x682.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-18_cayo-sobre-el-final-3_3",
@@ -2112,7 +2118,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/w4-1024x679.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-18_cayo-sobre-el-final-3_4",
@@ -2128,7 +2134,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/w2-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-18_otro-partido-clave-en-uno_1",
@@ -2144,7 +2150,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/Copia-de-IMG-3956-1024x682.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-21_medina-los-lleva-a-todos_1",
@@ -2160,7 +2166,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/Copia-de-IMG-0471-1024x551.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-23_maracanazo-y-a-la-final_1",
@@ -2176,7 +2182,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/IMG_8915.JPG-1024x768.jpeg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-26_a-levantarse-quedan-cosas-importantes_1",
@@ -2192,7 +2198,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/IMG_0902-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-26_cayo-en-santa-fe_1",
@@ -2208,7 +2214,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/IMG_0869-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-26_cayo-en-santa-fe_2",
@@ -2224,7 +2230,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/w2-1-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-26_cayo-en-santa-fe_3",
@@ -2240,7 +2246,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/w3-1024x768.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-26_otra-prueba-lejos-de-la-plata_1",
@@ -2256,7 +2262,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/Copia-de-IMG-6647-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-10-31_por-algo-mas-que-tres-puntos_1",
@@ -2272,7 +2278,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/Copia-de-IMG-4172-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-11-01_un-empate-a-pura-reaccion_2",
@@ -2288,7 +2294,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/JAP7271-1024x681.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-11-01_un-empate-a-pura-reaccion_3",
@@ -2304,7 +2310,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/JJU9312-1024x681.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-11-01_un-empate-a-pura-reaccion_4",
@@ -2320,7 +2326,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/IMG_1609-2-768x1024.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-11-06_jalil-elias-esta-de-regreso_1",
@@ -2336,7 +2342,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/IMG_1808-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-11-07_el-ultimo-del-clausura_1",
@@ -2352,7 +2358,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/Copia-de-IMG-9433-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-11-07_punto-y-final_2",
@@ -2368,7 +2374,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/JAP7664-1024x681.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-11-07_punto-y-final_3",
@@ -2384,7 +2390,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/JJU9988-2-819x1024.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-11-07_punto-y-final_4",
@@ -2400,7 +2406,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/JJU0223-819x1024.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-11-11_medina-convoco-a-todos_1",
@@ -2416,7 +2422,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/IMG_2034-1024x683.jpg",
       "alt": "",
-      "publicar": false
+      "usos": []
     },
     {
       "id": "2026-11-13_supercampeones-2_1",
@@ -2431,8 +2437,14 @@
       "tomada": null,
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/11/IMG_2193.JPG-1024x768.jpeg",
-      "alt": "",
-      "publicar": false
+      "alt": "El plantel de Estudiantes festeja con la copa de la Supercopa Argentina entre fuegos artificiales.",
+      "usos": [
+        "hoy"
+      ],
+      "foco": [
+        0.5,
+        0.42
+      ]
     }
   ]
 }

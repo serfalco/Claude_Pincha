@@ -1,6 +1,9 @@
 {
   "hoy": {
     "titular": "从庆祝到蒙得维的亚：121辆大巴售罄",
+    "foto": {
+      "alt": "Estudiantes全队在烟花中举起Supercopa Argentina奖杯庆祝。"
+    },
     "resumen": "刚刚拿下第20颗星，球队正在休息，周一将回到City Bell备战28日周六在Centenario对阵帕尔梅拉斯（Palmeiras）的Copa Libertadores决赛。球迷们抢光了俱乐部组织的121辆大巴。",
     "puntos": [
       "前往蒙得维的亚的大巴：已售罄。俱乐部确认将有创纪录的121辆大巴车队开赴Centenario。",
@@ -117,6 +120,9 @@
       "cita": {
         "traduccion": "如果可以，就成为会员吧……我们要达到10万名会员！加油",
         "via": "于Instagram"
+      },
+      "foto": {
+        "alt": "Estudiantes球迷挤满了el UNO球场的看台。"
       }
     }
   },

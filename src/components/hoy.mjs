@@ -1,5 +1,6 @@
 import { icono } from './iconos.mjs';
 import { html } from '../lib/html.mjs';
+import { foto } from './foto.mjs';
 
 // "Lo último": lo que pasó hoy (y ayer a la noche), de lo más nuevo a lo más viejo. No es minuto a minuto.
 const mismoDia = (a, b, f) => f.corta(a) === f.corta(b);
@@ -20,11 +21,16 @@ const linea = (items = [], actualizado, t, f, enlace) =>
     : '';
 
 // Bloque principal. En etapas futuras su contenido lo genera la IA; la forma de los datos no cambia.
-export const hoy = ({ hoy, actualizado }, { t, f, enlaceDia }, destacado, vistazo) => html`
-<section id="hoy" class="hoy" aria-labelledby="hoy-titulo">
+// Con hoy.foto, el titular va sobre la foto (no suma alto: la respuesta sigue arriba de todo).
+export const hoy = ({ hoy, actualizado }, { t, f, enlaceDia }, destacado, vistazo) => {
+  const cabeza = html`<p class="kicker"><span class="dot" aria-hidden="true"></span><time datetime="${actualizado}">${f.larga(actualizado)}</time></p>
+    <h1 id="hoy-titulo" class="hoy__titular">${hoy.titular}</h1>`;
+  return html`
+<section id="hoy" class="hoy${hoy.foto ? ' hoy--foto' : ''}" aria-labelledby="hoy-titulo">
   <div class="wrap">
-    <p class="kicker"><span class="dot" aria-hidden="true"></span><time datetime="${actualizado}">${f.larga(actualizado)}</time></p>
-    <h1 id="hoy-titulo" class="hoy__titular">${hoy.titular}</h1>
+    ${hoy.foto
+      ? html`<div class="hoy__portada">${foto(hoy.foto, 'hoy', { t, prioridad: true })}<div class="hoy__cabeza">${cabeza}</div></div>`
+      : cabeza}
     ${vistazo ?? ''}
     <p class="hoy__resumen">${hoy.resumen}</p>
     ${hoy.puntos?.length ? html`<ul class="hoy__puntos">${hoy.puntos.map((p) => html`<li>${p}</li>`)}</ul>` : ''}
@@ -32,3 +38,4 @@ export const hoy = ({ hoy, actualizado }, { t, f, enlaceDia }, destacado, vistaz
     ${linea(hoy.linea, actualizado, t, f, enlaceDia)}
   </div>
 </section>`;
+};

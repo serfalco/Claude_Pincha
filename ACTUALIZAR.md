@@ -82,13 +82,15 @@ Las ventanas que ya cerraron se sacan.
 - **noticias**: las 4 más relevantes de los últimos días, con link a la nota original y su fuente.
 - **club**: socios y balance solo si hay un dato oficial nuevo. Campaña de socios: mantener el link. No publicar cuotas ni precios: para eso está el link del club. La cita de Verón y el bloque "mística" no se tocan: es el tono del sitio (apoyar al club, no obtener beneficios).
 - **Sección Mundo** (`data/mundo.json` + `data/i18n/mundo.<idioma>.json`): revisar una vez por semana o cuando haya novedad. Filiales nuevas en https://estudiantesdelaplata.com/filiales/, y la situación rumbo al Mundial de Clubes 2029 (ranking CONMEBOL, clasificación). Después de la final del 28/11, actualizar la nota y el bloque del Mundial según el resultado.
+- **hoy.foto** (foto principal, con el titular encima): solo del banco `imagenes/` (ver `imagenes/README.md`). Cambiarla cuando cambia el tema del día por una que lo acompañe (partido, festejo, entrenamiento, hinchada, el UNO). Si ninguna corresponde, dejar una neutra (hinchada, estadio): nunca una que diga otra cosa (festejo tras una derrota, un jugador lesionado como si jugara). Para cambiarla: sumar `"hoy"` a sus `usos` (y sacarlo de la anterior) en `imagenes/indice.json`, ajustar `foco` si hace falta, correr `python3 scripts/imagenes.py` y actualizar `id` + `alt` en `home.json` y el `alt` en las 4 traducciones. Revisar el recorte 16:9 antes de publicar.
+- **club.campania.foto**: no se toca salvo pedido del dueño del sitio.
 - **video** (canción destacada en Hoy): no se toca. Lo maneja el dueño del sitio. Si viene `vertical: null`, dejarlo así.
 - **actualizado**: fecha y hora de la corrida.
 
 ## Traducciones
 
 Después de cambiar `data/home.json`, actualizar `data/i18n/home.en.json`, `home.pt.json`, `home.zh.json` y `home.hi.json` con **las mismas posiciones de arrays**.
-Solo campos de texto: `hoy` (incluido `hoy.linea[].texto`), `instancia` de cada partido, `ultimo.torneo`, `posiciones[].tabla/detalle`, `tabla.nombre`, textos de `club`, `titulo`/`bajada` de noticias.
+Solo campos de texto: `hoy` (incluido `hoy.linea[].texto` y `hoy.foto.alt`), `instancia` de cada partido, `ultimo.torneo`, `posiciones[].tabla/detalle`, `tabla.nombre`, textos de `club`, `titulo`/`bajada` de noticias.
 
 - Inglés británico de fútbol (matchday, fixture, home/away). Portugués de Brasil (rodada, mandante).
 - Chino simplificado (zh-CN), registro de prensa deportiva. Clubes y jugadores en letras latinas, salvo nombres ya establecidos (帕尔梅拉斯 la primera vez, con "(Palmeiras)").

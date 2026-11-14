@@ -2,7 +2,7 @@
 
 Fotos oficiales de Estudiantes de La Plata (estudiantesdelaplata.com) para usar en el sitio.
 
-> **Permiso de republicación: confirmado por el club (14/11/2026).** Igual, solo llegan al sitio las que se marcan con `"publicar": true`; siempre con crédito.
+> **Permiso de republicación: confirmado por el club (14/11/2026).** Siempre con crédito (el sitio lo pone solo).
 
 ## Qué hay
 
@@ -11,28 +11,44 @@ Fotos oficiales de Estudiantes de La Plata (estudiantesdelaplata.com) para usar 
 | `primera/` | 144 | Primera masculina: partidos, entrenamientos, refuerzos (may–nov 2026) |
 | `estadio-uno/` | 2 | Estadio UNO |
 | `country-city-bell/` | 6 | Country de City Bell |
+| `web/` | — | Versiones para el sitio, **generadas** (no editar a mano) |
 
-Nombre de cada archivo: `AAAA-MM-DD_<nota-del-club>_<n>.jpg`. La fecha es la de **publicación** de la nota, no necesariamente la de la foto. La mayoría mide 1024 px de ancho.
+Nombre de cada archivo: `AAAA-MM-DD_<nota-del-club>_<n>.jpg`. La fecha es la de **publicación** de la nota, no necesariamente la de la foto. Los originales miden 1024 px de ancho (máximo): no se agrandan.
+
+## Formatos (`formatos.json`)
+
+Medidas fijas: cada lugar del sitio tiene un formato y solo uno. No se inventan tamaños sueltos.
+
+| Uso | Proporción | Anchos | Dónde | Carga |
+|---|---|---|---|---|
+| `hoy` | 16:9 | 640, 1024 | Foto principal de Hoy, con el titular encima | primero (`fetchpriority=high`) |
+| `banda` | 2:1 | 640, 1024 | Franja arriba de la tarjeta de socios | diferida (`lazy`) |
+
+Cada versión sale en **AVIF** (la que bajan casi todos los navegadores: ~30–60 KB) y **JPG** de respaldo. El HTML lleva `width`/`height`: la página no salta mientras carga.
 
 ## indice.json
 
-Una entrada por foto:
+Una entrada por foto: `archivo`, `categoria`, `ancho`, `alto`, `orientacion`, `nota`/`notaUrl` (nota del club donde salió), `publicada`, `tomada`, `credito` (`null` → "Foto: Estudiantes de La Plata"), `original`, y:
 
-- `archivo`, `categoria`, `ancho`, `alto`, `orientacion`
-- `nota` / `notaUrl`: la nota del club donde salió. `publicada` y `tomada` (si figura).
-- `credito`: fotógrafo si el club lo indica (si no, `null`: se acredita "Foto: Estudiantes de La Plata").
-- `original`: URL de la imagen en la web del club.
-- `alt`: descripción para accesibilidad. **Obligatoria para publicar.**
-- `publicar`: `false` por defecto.
+- `usos`: en qué formatos se usa (`["hoy"]`, `["banda"]`…). Vacío = no llega al sitio.
+- `foco`: `[x, y]` de 0 a 1, el punto que no se puede perder al recortar (default `[0.5, 0.5]`).
+- `alt`: descripción por defecto (la que vale es la de `home.json`, que se traduce).
 
-## Cómo usar una foto en el sitio
+## Cómo poner una foto
 
-1. Buscarla en `indice.json`, completar `alt` y poner `"publicar": true`.
-2. `npm run build` la copia a `dist/img/<categoria>/<archivo>` (el build falla si falta `alt` o el archivo).
-3. Referenciarla como `/img/<categoria>/<archivo>`, siempre con crédito.
+1. En `indice.json`: agregar el uso a `usos` y, si hace falta, ajustar `foco`.
+2. `python3 scripts/imagenes.py` → genera `web/<id>/<uso>-<ancho>.avif|jpg` (y borra las que ya no se usan). Requiere Pillow con AVIF (`pip install -U pillow`).
+3. En `data/home.json`: `"foto": { "id": "<id>", "alt": "<qué se ve>" }` en `hoy` o en `club.campania`; el `alt` también en `data/i18n/home.<idioma>.json`.
+4. `npm run build`: falla si la foto no existe, no tiene ese uso, faltan sus versiones o el `alt`.
 
-Las que no están marcadas no se publican: viven solo en el repo.
+Para sacar una foto: borrar `foto` de `home.json` (y de las traducciones).
+
+## Criterio
+
+- La foto acompaña el tema del día; si no hay una que corresponda, mejor la hinchada o el UNO que una que diga otra cosa (nada de festejo después de una derrota).
+- No poner fotos de jugadores lesionados o que ya no están en el club como si fueran actuales.
+- Una foto por lugar. Las noticias no llevan foto: linkean a otros medios y una foto del club ahí confundiría.
 
 ## Sumar fotos
 
-Copiar el `.jpg` a su carpeta con el mismo formato de nombre y agregar su entrada a `indice.json`.
+Copiar el `.jpg` a su carpeta con el mismo formato de nombre y agregar su entrada a `indice.json` (`usos: []`).

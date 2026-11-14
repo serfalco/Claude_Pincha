@@ -1,0 +1,21 @@
+{
+  "nota": "Formatos de foto del sitio. Los usan scripts/imagenes.py (genera) y src/components/foto.mjs (muestra). Mobile first: el ancho máximo de contenido es 720 px.",
+  "formatos": {
+    "hoy": {
+      "uso": "Foto principal del bloque Hoy, con el titular encima. La imagen más importante de la página (LCP): se carga primero.",
+      "ancho": 16,
+      "alto": 9,
+      "anchos": [640, 1024],
+      "sizes": "(min-width: 720px) 688px, 100vw",
+      "calidad": { "avif": 48, "jpg": 74 }
+    },
+    "banda": {
+      "uso": "Franja ancha arriba de una tarjeta (campaña de socios). Se carga diferida.",
+      "ancho": 2,
+      "alto": 1,
+      "anchos": [640, 1024],
+      "sizes": "(min-width: 720px) 684px, calc(100vw - 36px)",
+      "calidad": { "avif": 50, "jpg": 74 }
+    }
+  }
+}

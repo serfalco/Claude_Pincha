@@ -1,6 +1,9 @@
 {
   "hoy": {
     "titular": "Da festa a Montevidéu: 121 ônibus esgotados",
+    "foto": {
+      "alt": "O elenco do Estudiantes comemora com a taça da Supercopa Argentina entre fogos de artifício."
+    },
     "resumen": "Com a estrela 20 recém-conquistada, o elenco descansa e volta na segunda-feira a City Bell para preparar a final da Libertadores contra o Palmeiras, no sábado 28, no Centenario. Os torcedores esgotaram os 121 ônibus organizados pelo clube.",
     "puntos": [
       "Ônibus para Montevidéu: esgotados. O clube confirmou uma caravana recorde de 121 ônibus rumo ao Centenario.",
@@ -117,6 +120,9 @@
       "cita": {
         "traduccion": "Se puder, seja sócio.. temos que chegar a 100 mil sócios! Vamos",
         "via": "no Instagram"
+      },
+      "foto": {
+        "alt": "A torcida do Estudiantes lota a arquibancada do estádio UNO."
       }
     }
   },

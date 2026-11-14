@@ -13,6 +13,7 @@ export default {
   idiomas: 'भाषा',
   menu: { hoy: 'आज', partidos: 'मैच', tabla: 'तालिका', noticias: 'ख़बरें', club: 'क्लब' },
   lineaTitulo: 'ताज़ा',
+  foto: 'फ़ोटो',
   ayer: 'कल',
   video: { kicker: 'गीत', verEnInstagram: 'Instagram पर देखें', verEnYoutube: 'YouTube पर देखें' },
   cuenta: { faltan: (n) => `${n} दिन बाक़ी`, hoy: 'आज है!', manana: 'कल है' },

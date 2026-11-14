@@ -372,3 +372,28 @@ abbr { text-decoration: none; }
 .vivo__nota { margin: 8px 0 0; font-size: .74rem; opacity: .65; text-align: center; }
 :lang(zh) .vivo__kicker, :lang(hi) .vivo__kicker { letter-spacing: 0; text-transform: none; }
 @media (prefers-reduced-motion: reduce) { .vivo__kicker .dot, .vivo__ev--nuevo { animation: none; } }
+
+/* Fotos del banco (src/components/foto.mjs). Medidas fijas por formato: imagenes/formatos.json */
+.foto { position: relative; margin: 0; }
+.foto img { display: block; width: 100%; height: auto; background: #222; }
+.foto__credito { position: absolute; right: 8px; bottom: 6px; font-size: .66rem; line-height: 1.2; color: #fff; opacity: .85; text-shadow: 0 1px 2px rgb(0 0 0 / .8); }
+
+/* Hoy con foto: el titular va sobre la foto, abajo, con degradé para que se lea */
+.hoy--foto { padding-top: 0; }
+.hoy__portada { display: grid; margin: 0 -16px; overflow: hidden; }
+.hoy__portada > * { grid-area: 1 / 1; }
+.hoy__portada .foto img { height: 100%; object-fit: cover; }
+.hoy__portada .foto::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgb(14 14 16 / .94) 0%, rgb(14 14 16 / .6) 40%, rgb(14 14 16 / 0) 72%); }
+.hoy__portada .foto__credito { top: 8px; bottom: auto; z-index: 1; }
+.hoy__cabeza { position: relative; z-index: 1; align-self: end; padding: 56px 16px 16px; text-shadow: 0 1px 12px rgb(0 0 0 / .45); }
+.hoy__cabeza .hoy__titular { margin-top: 6px; }
+@media (min-width: 720px) {
+  .hoy--foto { padding-top: 16px; }
+  .hoy__portada { margin: 0; border-radius: 16px; }
+  .hoy__cabeza { padding: 80px 22px 20px; }
+}
+.hoy--foto .franja { margin-top: 16px; }
+
+/* Campaña de socios: franja de foto pegada arriba de la tarjeta */
+.campania__foto { margin: -16px -16px 14px; }
+.campania__foto img { border-radius: 12px 12px 0 0; }
