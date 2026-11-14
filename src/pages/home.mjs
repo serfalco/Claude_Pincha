@@ -7,7 +7,6 @@ import { franja } from '../components/franja.mjs';
 import { vivo } from '../components/vivo.mjs';
 import { partidos } from '../components/partidos.mjs';
 import { tabla } from '../components/tabla.mjs';
-import { noticias } from '../components/noticias.mjs';
 import { club, socio } from '../components/club.mjs';
 import { footer } from '../components/footer.mjs';
 
@@ -76,7 +75,6 @@ ${header(ctxF)}
   ${hoy(data, ctxF, video(data, ctxF), html`<div id="partidos">${vivo(data, ctxF)}${franja(data, ctxF)}</div>`)}
   ${partidos(data, ctxF)}
   ${socio(data, ctxF)}
-  ${noticias(data, ctxF)}
   ${tabla(data, ctxF)}
   ${club(data, ctxF)}
 </main>

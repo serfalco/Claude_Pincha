@@ -5,12 +5,43 @@
       "alt": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals."
     },
     "resumen": "With the 20th star freshly won, the squad is resting and returns to City Bell on Monday to prepare for the Libertadores final against Palmeiras, on Saturday 28th at the Centenario. Fans snapped up all 121 coaches organised by the club.",
-    "puntos": [
-      "Coaches to Montevideo: sold out. The club confirmed a record convoy of 121 coaches heading to the Centenario.",
-      "Seats for the final: sold out. The club will tell members if any more become available.",
-      "Saturday 14, 7pm to midnight: the Estudiantes Museum shows off its revamp at Museos a la Luz de la Luna, at the club headquarters (53 No. 620)."
+    "siete": [
+      {
+        "titulo": "Correa a doubt for the final",
+        "texto": "He has had a grade 2 tear in his right hamstring since the 1-1 against Talleres. These injuries usually take around three weeks, so it will be very tight."
+      },
+      {
+        "titulo": "Coaches to Montevideo: sold out",
+        "texto": "Fans bought all 121 coaches organised by the club: a record convoy heading to the Centenario."
+      },
+      {
+        "titulo": "Seats: none left",
+        "texto": "The extra sale of seats has sold out too. The club will tell members if any more become available."
+      },
+      {
+        "titulo": "Squad back on Monday",
+        "texto": "After celebrating the Supercopa, the team is resting and returns to training on Monday in City Bell."
+      },
+      {
+        "titulo": "Tonight, the Museum opens late",
+        "texto": "From 7pm to midnight, at the club headquarters (53 No. 620), the Estudiantes Museum shows off its revamp at Museos a la Luz de la Luna."
+      },
+      {
+        "titulo": "Palmeiras have a busier schedule",
+        "texto": "Before the final they play three Brasileirão matches (Cruzeiro, Flamengo and Chapecoense) between the 18th and the 24th. The Pincha can focus on the final alone."
+      },
+      {
+        "titulo": "Medina, the first foreign manager to win a title",
+        "texto": "The Uruguayan won the Supercopa and is the first foreign manager to lift a trophy with Estudiantes."
+      }
     ],
     "linea": [
+      {
+        "texto": "Palmeiras play three matches before the final, and the schedule favours the Pincha."
+      },
+      {
+        "texto": "Mariano Pavone praised the champions and put Guido Carrillo forward for the national team."
+      },
       {
         "texto": "Medina made history: he is the first foreign manager to win a title with Estudiantes."
       },
@@ -28,6 +59,15 @@
       },
       {
         "texto": "Mayor Alak congratulated the champions and La Plata's town hall was lit up in red and white."
+      },
+      {
+        "texto": "Champions in extra time: Carrillo and an own goal made it 2-0, Rivadavia levelled in stoppage time and Alario won it in extra time."
+      },
+      {
+        "texto": "The Museum gets a revamp: it opens on Saturday night for Museos a la Luz de la Luna, with QR codes and interactive experiences."
+      },
+      {
+        "texto": "The extra seats for the final sold out within hours, sparking another wave of complaints from members."
       }
     ]
   },
@@ -126,24 +166,6 @@
       }
     }
   },
-  "noticias": [
-    {
-      "titulo": "121 coaches sold out: a record convoy to Montevideo",
-      "bajada": "The club confirmed every coach for the final against Palmeiras has been sold. There are still no extra seats available."
-    },
-    {
-      "titulo": "Champions after extra time, with an Alario header",
-      "bajada": "Carrillo and an own goal made it 2-0, Rivadavia levelled in stoppage time and Alario won it in extra time. Medina was sent off."
-    },
-    {
-      "titulo": "The Museum gets a makeover and opens on Saturday night",
-      "bajada": "Museos a la Luz de la Luna: Saturday 14, 7pm to midnight, at the club headquarters, with QR codes and interactive experiences."
-    },
-    {
-      "titulo": "Seats sold out, and another wave of complaints",
-      "bajada": "The extra category 2 sale was over within hours; the club will say if any remain."
-    }
-  ],
   "video": {
     "texto": "A fan's song for the road to Montevideo. Hit play, turn it up and share it.",
     "credito": "Song and video: Sergio Falco."

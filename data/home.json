@@ -1,6 +1,6 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-14T08:45:00-03:00",
+  "actualizado": "2026-11-14T17:45:00-03:00",
   "hoy": {
     "titular": "Del festejo a Montevideo: 121 micros agotados",
     "foto": {
@@ -8,12 +8,49 @@
       "alt": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores."
     },
     "resumen": "Con la estrella 20 recién ganada, el plantel descansa y vuelve el lunes a City Bell para preparar la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. Los hinchas agotaron los 121 micros que organizó el club.",
-    "puntos": [
-      "Micros a Montevideo: agotados. El club confirmó una caravana récord de 121 colectivos rumbo al Centenario.",
-      "Plateas para la final: agotadas. El club avisará a los socios si surge algún remanente.",
-      "Sábado 14, de 19 a 24: el Museo de Estudiantes muestra su renovación en Museos a la Luz de la Luna, en la Sede Social (53 N° 620)."
+    "siete": [
+      {
+        "titulo": "Correa, en duda para la final",
+        "texto": "Tiene un desgarro grado 2 en el bíceps de la pierna derecha desde el 1-1 con Talleres. Estas lesiones suelen llevar unas tres semanas: llegaría muy justo."
+      },
+      {
+        "titulo": "Micros a Montevideo: agotados",
+        "texto": "Los hinchas compraron los 121 micros que organizó el club: una caravana récord rumbo al Centenario."
+      },
+      {
+        "titulo": "Plateas: no quedan",
+        "texto": "También se agotó la venta extra de plateas. El club avisará a los socios si aparece algún remanente."
+      },
+      {
+        "titulo": "El plantel vuelve el lunes",
+        "texto": "Después de festejar la Supercopa, el equipo descansa y retoma los entrenamientos el lunes en City Bell."
+      },
+      {
+        "titulo": "Hoy, el Museo abre de noche",
+        "texto": "De 19 a 24, en la Sede Social (53 N° 620), el Museo de Estudiantes muestra su renovación en Museos a la Luz de la Luna."
+      },
+      {
+        "titulo": "Palmeiras llega con más partidos",
+        "texto": "Antes de la final juega tres por el Brasileirão (Cruzeiro, Flamengo y Chapecoense) entre el 18 y el 24. El Pincha puede preparar solo la final."
+      },
+      {
+        "titulo": "Medina, el primer DT extranjero campeón",
+        "texto": "El uruguayo ganó la Supercopa y es el primer entrenador extranjero que sale campeón con Estudiantes."
+      }
     ],
     "linea": [
+      {
+        "hora": "2026-11-14T16:18:00-03:00",
+        "texto": "Palmeiras juega tres partidos antes de la final y el calendario le da ventaja al Pincha.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/la-exigente-agenda-palmeiras-que-juega-favor-estudiantes-antes-la-final-la-copa-libertadores-n137459"
+      },
+      {
+        "hora": "2026-11-14T15:40:00-03:00",
+        "texto": "Mariano Pavone elogió al campeón y postuló a Guido Carrillo para la Selección.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/video-mariano-pavone-elogio-estudiantes-y-postulo-guido-carrillo-la-seleccion-argentina-n137457"
+      },
       {
         "hora": "2026-11-14T00:00:00-03:00",
         "texto": "Medina hizo historia: es el primer DT extranjero en salir campeón con Estudiantes.",
@@ -49,6 +86,24 @@
         "texto": "Alak felicitó al campeón y la Municipalidad de La Plata se iluminó de rojo y blanco.",
         "fuente": "Punto Capital",
         "url": "https://www.puntocapitalnoticias.com/alak-felicito-a-estudiantes-por-la-supercopa-argentina-y-la-municipalidad-se-ilumino-de-rojo-y-blanco/"
+      },
+      {
+        "hora": "2026-11-12T23:02:00-03:00",
+        "texto": "Campeón en el alargue: Carrillo y un gol en contra pusieron el 2-0, Rivadavia lo empató en el descuento y Alario lo ganó en el suplementario.",
+        "fuente": "Noticias Argentinas",
+        "url": "https://noticiasargentinas.com/deportes/estudiantes-de-la-plata-e-independiente-rivadavia-se-enfrentan-por-el-titulo-en-la-supercopa-argentina_a6af4529072af9e905aa798b7"
+      },
+      {
+        "hora": "2026-11-12T12:17:00-03:00",
+        "texto": "El Museo se renueva: abre el sábado de noche en Museos a la Luz de la Luna, con códigos QR y experiencias interactivas.",
+        "fuente": "Club",
+        "url": "https://estudiantesdelaplata.com/el-museo-de-estudiantes-se-renueva/"
+      },
+      {
+        "hora": "2026-11-11T21:23:00-03:00",
+        "texto": "Las plateas extra para la final se agotaron en horas y hubo otra ola de reclamos de socios.",
+        "fuente": "Vive La Plata",
+        "url": "https://vivelaplata.com.ar/agotado-la-venta-de-plateas-para-la-final-desato-otra-ola-de-reclamos-en-estudiantes/"
       }
     ]
   },
@@ -292,36 +347,6 @@
       }
     }
   },
-  "noticias": [
-    {
-      "titulo": "121 micros agotados: caravana récord a Montevideo",
-      "bajada": "El club confirmó que se vendieron todos los micros para la final ante Palmeiras. Para plateas, sigue sin haber remanente.",
-      "fecha": "2026-11-13T11:51:00-03:00",
-      "fuente": "0221",
-      "url": "https://www.0221.com.ar/estudiantes/estudiantes-agoto-los-micros-la-final-la-copa-libertadores-una-caravana-historica-montevideo-n137396"
-    },
-    {
-      "titulo": "Campeón en el alargue, con Alario de cabeza",
-      "bajada": "Carrillo y un gol en contra pusieron el 2-0, Rivadavia lo empató en el descuento y Alario lo ganó en el suplementario. Medina terminó expulsado.",
-      "fecha": "2026-11-12T23:02:00-03:00",
-      "fuente": "Noticias Argentinas",
-      "url": "https://noticiasargentinas.com/deportes/estudiantes-de-la-plata-e-independiente-rivadavia-se-enfrentan-por-el-titulo-en-la-supercopa-argentina_a6af4529072af9e905aa798b7"
-    },
-    {
-      "titulo": "El Museo se renueva y abre el sábado de noche",
-      "bajada": "Museos a la Luz de la Luna: sábado 14, de 19 a 24, en la Sede Social, con códigos QR y experiencias interactivas.",
-      "fecha": "2026-11-12T12:17:00-03:00",
-      "fuente": "Club",
-      "url": "https://estudiantesdelaplata.com/el-museo-de-estudiantes-se-renueva/"
-    },
-    {
-      "titulo": "Plateas agotadas y otra ola de reclamos",
-      "bajada": "La venta extra de categoría 2 se terminó en horas; el club avisará si hay remanente.",
-      "fecha": "2026-11-11T21:23:00-03:00",
-      "fuente": "Vive La Plata",
-      "url": "https://vivelaplata.com.ar/agotado-la-venta-de-plateas-para-la-final-desato-otra-ola-de-reclamos-en-estudiantes/"
-    }
-  ],
   "fuentes": [
     "https://www.futbolargentino.com/primera-division/clausura/tabla-de-posiciones",
     "https://promediosinfo.com/liga/argentina.html",

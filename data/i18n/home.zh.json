@@ -5,12 +5,43 @@
       "alt": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。"
     },
     "resumen": "刚刚拿下第20颗星，球队正在休息，周一将回到City Bell备战28日周六在Centenario对阵帕尔梅拉斯（Palmeiras）的Copa Libertadores决赛。球迷们抢光了俱乐部组织的121辆大巴。",
-    "puntos": [
-      "前往蒙得维的亚的大巴：已售罄。俱乐部确认将有创纪录的121辆大巴车队开赴Centenario。",
-      "决赛座位票：已售罄。若有余票，俱乐部将通知会员。",
-      "14日周六19点至24点：Estudiantes博物馆在“Museos a la Luz de la Luna”活动中展示翻新成果，地点为俱乐部总部（53街620号）。"
+    "siete": [
+      {
+        "titulo": "Correa决赛能否出战成疑",
+        "texto": "他在1比1战平Talleres一役中右腿股二头肌二级拉伤。这类伤势通常需要约三周恢复，赶上决赛将非常勉强。"
+      },
+      {
+        "titulo": "前往蒙得维的亚的大巴：已售罄",
+        "texto": "球迷买光了俱乐部组织的121辆大巴，创纪录的车队将开赴Centenario。"
+      },
+      {
+        "titulo": "座位票：已无余票",
+        "texto": "加售的座位票也已售罄。若有余票，俱乐部将通知会员。"
+      },
+      {
+        "titulo": "球队周一归队",
+        "texto": "庆祝Supercopa夺冠后，球队正在休息，周一将在City Bell恢复训练。"
+      },
+      {
+        "titulo": "今晚博物馆夜间开放",
+        "texto": "19点至24点，Estudiantes博物馆在俱乐部总部（53街620号）参加“Museos a la Luz de la Luna”活动，展示翻新成果。"
+      },
+      {
+        "titulo": "帕尔梅拉斯赛程更密集",
+        "texto": "决赛前，Palmeiras将在18日至24日间进行三场巴西甲级联赛（对阵Cruzeiro、Flamengo和Chapecoense）。Pincha则可以专心备战决赛。"
+      },
+      {
+        "titulo": "Medina成为首位夺冠的外籍主帅",
+        "texto": "这位乌拉圭教练赢得Supercopa，成为首位率Estudiantes夺冠的外籍主帅。"
+      }
     ],
     "linea": [
+      {
+        "texto": "Palmeiras决赛前要踢三场比赛，赛程对Pincha有利。"
+      },
+      {
+        "texto": "Mariano Pavone称赞冠军球队，并推荐Guido Carrillo入选国家队。"
+      },
       {
         "texto": "Medina创造历史：他是首位率Estudiantes夺冠的外籍主帅。"
       },
@@ -28,6 +59,15 @@
       },
       {
         "texto": "市长Alak祝贺冠军，拉普拉塔市政厅亮起红白灯光。"
+      },
+      {
+        "texto": "加时夺冠：Carrillo进球加上一粒乌龙球取得2比0领先，Rivadavia在补时扳平，Alario在加时赛打进制胜球。"
+      },
+      {
+        "texto": "博物馆焕新：周六晚参加“Museos a la Luz de la Luna”活动开放，设有二维码和互动体验。"
+      },
+      {
+        "texto": "决赛加售座位票数小时内售罄，再次引发会员不满。"
       }
     ]
   },
@@ -126,24 +166,6 @@
       }
     }
   },
-  "noticias": [
-    {
-      "titulo": "121辆大巴售罄：创纪录车队奔赴蒙得维的亚",
-      "bajada": "俱乐部确认，对阵Palmeiras决赛的大巴已全部售出。座位票目前仍无余票。"
-    },
-    {
-      "titulo": "加时夺冠，Alario头球建功",
-      "bajada": "Carrillo进球加上一粒乌龙球取得2比0领先，Rivadavia在补时扳平，Alario在加时赛中绝杀。Medina被罚出场。"
-    },
-    {
-      "titulo": "博物馆焕然一新，周六晚开放",
-      "bajada": "Museos a la Luz de la Luna：14日周六19点至24点，在俱乐部总部举行，设有二维码导览和互动体验。"
-    },
-    {
-      "titulo": "座位票售罄，球迷再度抱怨",
-      "bajada": "追加的二类座位票几小时内售完；若有余票，俱乐部将另行通知。"
-    }
-  ],
   "video": {
     "texto": "一位球迷为通往蒙得维的亚之路写的歌。点击播放，调大音量，分享出去。",
     "credito": "歌曲与视频：Sergio Falco。"

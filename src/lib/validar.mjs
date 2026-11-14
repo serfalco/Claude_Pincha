@@ -37,8 +37,16 @@ export const validarHome = (data) => {
   });
   if (!CONDICIONES.includes(data.ultimo?.condicion)) errores.push('ultimo.condicion inválida');
 
-  (data.noticias ?? []).forEach((n, i) => {
-    if (!esTexto(n.titulo) || !esFecha(n.fecha) || !esTexto(n.url)) errores.push(`noticias[${i}] incompleta`);
+  // Siete noticias pinchas: exactamente 7, cada una con título y texto; sin links ni fuente (se leen ahí).
+  if (data.hoy?.siete) {
+    if (data.hoy.siete.length !== 7) errores.push(`hoy.siete: tiene ${data.hoy.siete.length} noticias (tienen que ser 7)`);
+    data.hoy.siete.forEach((n, i) => {
+      if (!esTexto(n.titulo) || !esTexto(n.texto)) errores.push(`hoy.siete[${i}] incompleta (titulo y texto)`);
+      if (n.url || n.fuente) errores.push(`hoy.siete[${i}]: sin url ni fuente (eso va en hoy.linea)`);
+    });
+  }
+  (data.hoy?.linea ?? []).forEach((n, i) => {
+    if (!esTexto(n.fuente) || !esTexto(n.url)) errores.push(`hoy.linea[${i}]: Notipinchas lleva fuente y url`);
   });
 
   (data.posiciones ?? []).forEach((p, i) => {
@@ -46,11 +54,11 @@ export const validarHome = (data) => {
   });
   if (data.club && (!esNum(data.club.socios) || !Array.isArray(data.club.balance?.datos))) errores.push('club incompleto');
 
-  // Variedad de fuentes: máximo 2 ítems por fuente en "Lo último" y en noticias, y 3 entre los dos.
+  // Variedad de fuentes en "Notipinchas en los medios": máximo 3 ítems por fuente (el club cuenta como una más).
   const cuenta = (lista) => lista.reduce((a, n) => ({ ...a, [n.fuente]: (a[n.fuente] ?? 0) + 1 }), {});
   const linea = data.hoy?.linea ?? [];
-  const notis = data.noticias ?? [];
-  for (const [nombre, lista, max] of [['hoy.linea', linea, 2], ['noticias', notis, 2], ['linea+noticias', [...linea, ...notis], 3]]) {
+  if (linea.length > 14) errores.push(`hoy.linea: ${linea.length} notas (máximo 14)`);
+  for (const [nombre, lista, max] of [['hoy.linea', linea, 3]]) {
     for (const [f, n] of Object.entries(cuenta(lista))) if (n > max) errores.push(`${nombre}: ${n} ítems de "${f}" (máximo ${max}); usar otras fuentes`);
   }
 

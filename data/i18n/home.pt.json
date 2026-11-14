@@ -5,12 +5,43 @@
       "alt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores."
     },
     "resumen": "Com a estrela 20 recém-conquistada, o elenco descansa e volta na segunda-feira a City Bell para preparar a final da Libertadores contra o Palmeiras, no sábado 28, no Centenario. Os torcedores esgotaram os 121 ônibus organizados pelo clube.",
-    "puntos": [
-      "Ônibus para Montevidéu: esgotados. O clube confirmou uma caravana recorde de 121 ônibus rumo ao Centenario.",
-      "Cadeiras para a final: esgotadas. O clube avisará os sócios se surgir alguma sobra.",
-      "Sábado 14, das 19h à meia-noite: o Museu do Estudiantes mostra sua renovação na Museos a la Luz de la Luna, na Sede Social (53 nº 620)."
+    "siete": [
+      {
+        "titulo": "Correa é dúvida para a final",
+        "texto": "Ele tem uma lesão grau 2 no bíceps da perna direita desde o 1 a 1 com o Talleres. Esse tipo de lesão costuma levar umas três semanas: chegaria muito em cima."
+      },
+      {
+        "titulo": "Ônibus para Montevidéu: esgotados",
+        "texto": "Os torcedores compraram os 121 ônibus organizados pelo clube: uma caravana recorde rumo ao Centenario."
+      },
+      {
+        "titulo": "Cadeiras: não sobrou nenhuma",
+        "texto": "A venda extra de cadeiras também esgotou. O clube avisará os sócios se surgir alguma sobra."
+      },
+      {
+        "titulo": "Elenco volta na segunda",
+        "texto": "Depois de comemorar a Supercopa, o time descansa e retoma os treinos na segunda-feira, em City Bell."
+      },
+      {
+        "titulo": "Hoje, o Museu abre à noite",
+        "texto": "Das 19h à meia-noite, na Sede Social (53 nº 620), o Museu do Estudiantes mostra sua renovação na Museos a la Luz de la Luna."
+      },
+      {
+        "titulo": "Palmeiras chega com mais jogos",
+        "texto": "Antes da final, joga três pelo Brasileirão (Cruzeiro, Flamengo e Chapecoense) entre os dias 18 e 24. O Pincha pode se preparar só para a final."
+      },
+      {
+        "titulo": "Medina, o primeiro técnico estrangeiro campeão",
+        "texto": "O uruguaio ganhou a Supercopa e é o primeiro treinador estrangeiro a ser campeão com o Estudiantes."
+      }
     ],
     "linea": [
+      {
+        "texto": "O Palmeiras joga três partidas antes da final, e o calendário favorece o Pincha."
+      },
+      {
+        "texto": "Mariano Pavone elogiou o campeão e indicou Guido Carrillo para a Seleção."
+      },
       {
         "texto": "Medina fez história: é o primeiro técnico estrangeiro a ser campeão com o Estudiantes."
       },
@@ -28,6 +59,15 @@
       },
       {
         "texto": "Alak parabenizou o campeão e a Prefeitura de La Plata se iluminou de vermelho e branco."
+      },
+      {
+        "texto": "Campeão na prorrogação: Carrillo e um gol contra fizeram 2 a 0, o Rivadavia empatou nos acréscimos e Alario decidiu na prorrogação."
+      },
+      {
+        "texto": "O Museu se renova: abre no sábado à noite na Museos a la Luz de la Luna, com QR codes e experiências interativas."
+      },
+      {
+        "texto": "As cadeiras extras para a final esgotaram em horas e houve outra onda de reclamações dos sócios."
       }
     ]
   },
@@ -126,24 +166,6 @@
       }
     }
   },
-  "noticias": [
-    {
-      "titulo": "121 ônibus esgotados: caravana recorde a Montevidéu",
-      "bajada": "O clube confirmou que todos os ônibus para a final contra o Palmeiras foram vendidos. Cadeiras extras, por enquanto, não há."
-    },
-    {
-      "titulo": "Campeão na prorrogação, com Alario de cabeça",
-      "bajada": "Carrillo e um gol contra fizeram 2 a 0, o Rivadavia empatou nos acréscimos e Alario decidiu na prorrogação. Medina foi expulso."
-    },
-    {
-      "titulo": "O Museu se renova e abre no sábado à noite",
-      "bajada": "Museos a la Luz de la Luna: sábado 14, das 19h à meia-noite, na Sede Social, com QR codes e experiências interativas."
-    },
-    {
-      "titulo": "Cadeiras esgotadas e nova onda de reclamações",
-      "bajada": "A venda extra de categoria 2 acabou em horas; o clube avisará se sobrar algum lote."
-    }
-  ],
   "video": {
     "texto": "A canção de um torcedor para o caminho até Montevidéu. Dê play, aumente o volume e compartilhe.",
     "credito": "Canção e vídeo: Sergio Falco."
