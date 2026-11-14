@@ -21,7 +21,7 @@ export const siete = (items = [], t, nivel = 2) =>
 const linea = (items = [], actualizado, t, f, enlace) =>
   items.length
     ? html`<div class="linea" id="noticias">
-  <h2 class="linea__titulo">${icono('diario')}${t.lineaTitulo}</h2>
+  <h2 id="notipinchas-titulo" class="linea__titulo">${icono('diario')}${t.lineaTitulo}</h2>
   <ol class="linea__lista">
     ${items.map(
       (n) => html`<li class="linea__item linea__item--simple">
@@ -48,9 +48,16 @@ export const hoy = ({ hoy, actualizado }, { t, f, enlaceDia }, destacado, vistaz
       ? siete(hoy.siete, t)
       : hoy.puntos?.length ? html`<ul class="hoy__puntos">${hoy.puntos.map((p) => html`<li>${p}</li>`)}</ul>` : ''}
     ${vistazo ?? ''}
-    <p class="hoy__resumen">${hoy.resumen}</p>
-    ${linea(hoy.linea, actualizado, t, f, enlaceDia)}
     ${destacado ?? ''}
   </div>
 </section>`;
 };
+
+// "Notipinchas en los medios": bloque propio, debajo de El Club. Notas con fuente y link (hoy.linea).
+export const notipinchas = ({ hoy, actualizado }, { t, f, enlaceDia }) =>
+  hoy.linea?.length
+    ? html`
+<section class="wrap block notipinchas" aria-labelledby="notipinchas-titulo">
+  ${linea(hoy.linea, actualizado, t, f, enlaceDia)}
+</section>`
+    : '';
