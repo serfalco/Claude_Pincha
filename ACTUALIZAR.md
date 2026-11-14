@@ -32,10 +32,10 @@ Correr `npm run datos`. Trae de ESPN (API pública, no oficial) el último parti
 ## Variedad de fuentes (obligatorio)
 
 El sitio no puede parecer un rebote de un solo medio.
-- En **"Lo último"** y en **noticias**: como máximo **2 ítems de la misma fuente** (el club cuenta como una fuente más).
+- En **"Notipinchas en los medios"** (`hoy.linea`): como máximo **3 ítems de la misma fuente** (el club cuenta como una fuente más).
 - Si un hecho lo cuentan varios, elegir el medio que menos aparece ese día (`confirman` en la cobertura dice quién más lo publicó). Priorizar medios de La Plata: El Día, 0221, Diario Hoy, Infocielo, Punto Capital.
 - Linkear a la nota original del medio. Si el medio solo aparece por Google Noticias y no se encuentra la URL original, se puede usar el link de Google Noticias (redirige al medio cuando lo abre una persona); en `fuente` va el nombre del medio, nunca "Google Noticias".
-- **El build lo controla:** falla si hay más de 2 ítems de la misma fuente en "Lo último" o en noticias, o más de 3 sumando los dos.
+- **El build lo controla:** falla si hay más de 3 ítems de la misma fuente en Notipinchas, más de 14 notas, o alguna sin fuente o sin url.
 - Rotar entre días: si ayer dominó un medio, hoy darle lugar a otros.
 - `npm run cobertura` imprime "Fuentes distintas" con el conteo por medio: usarlo para chequear.
 
@@ -77,10 +77,9 @@ Las ventanas que ya cerraron se sacan.
 - **proximos**: próximos partidos oficiales confirmados (máx. 4), ordenados por fecha. Sacar los ya jugados.
 - **tabla** y **posiciones**: tabla del torneo en curso (zona de Estudiantes), puesto en la anual y en promedios. Si el torneo terminó, la tabla final con su nombre indicando que es final. `clasifican` según el formato vigente.
 - **proximos[].destacado**: `true` en el partido más importante que viene (activa la cuenta regresiva arriba de todo). Uno solo; sacarlo cuando se juegue.
-- **hoy.puntos**: no repetir lo que ya muestra la franja de arriba (rival, fecha y hora del próximo partido, último resultado, cuenta regresiva). Usarlos para lo práctico: entradas, micros, trámites, lesiones.
-- **hoy**: titular + resumen (2 frases) + 3 puntos sobre lo más importante del día para el hincha (partido de hoy, resultado de ayer, lesiones, entradas, el club).
-- **hoy.linea** ("Lo último"): lo que pasó hoy, de lo más nuevo a lo más viejo, 3 a 6 ítems. Cada uno: `hora` (hora real de la publicación, en hora argentina; si el medio no publica la hora, poner `T00:00:00-03:00` y el sitio muestra solo el día), `texto` (una frase propia), `fuente` ("Club" si es oficial, si no el medio) y `url`. Si es temprano y hay poco del día, completar con lo de ayer a la tarde/noche (se muestra como "Ayer"). Nada de más de 24 h. No es minuto a minuto: solo hechos que le importan al hincha.
-- **noticias**: las 4 más relevantes de los últimos días, con link a la nota original y su fuente.
+- **hoy**: titular + resumen (2 frases) + **Siete noticias pinchas** + Notipinchas.
+- **hoy.siete** ("Siete noticias pinchas", el bloque principal de noticias): **exactamente 7**, numeradas por importancia para el hincha, de lo que pasó en cualquier medio o en el club, procesado y con palabras propias. Cada una: `titulo` (corto, concreto: "Correa, en duda para la final") y `texto` (1–2 frases con la información completa, para que no haga falta hacer clic). **Sin fuente ni link** (eso va en Notipinchas). Mismas reglas de verificación que todo (dos fuentes para lo crítico; si algo está en duda, decirlo así). No repetir lo que ya muestra la franja de arriba (fecha y hora del próximo partido, último resultado, cuenta regresiva). Si hay venta de entradas o trámite de socios en curso, va primero. Lo que ya pasó o venció (un evento de anoche) se reemplaza.
+- **hoy.linea** ("Notipinchas en los medios", debajo de las Siete): las notas de los medios y del club de las **últimas 72 h**, de la más nueva a la más vieja, **8 a 14**. Cada una: `hora` (hora real de la publicación, en hora argentina; si el medio no publica la hora, poner `T00:00:00-03:00`), `texto` (una frase propia que resuma la nota), `fuente` ("Club" si es oficial, si no el medio) y `url` (la nota original). En la portada no se muestra la hora. Puede contar lo mismo que una de las Siete: acá el hincha va a la fuente.
 - **club**: socios y balance solo si hay un dato oficial nuevo. Campaña de socios: mantener el link. No publicar cuotas ni precios: para eso está el link del club. La cita de Verón y el bloque "mística" no se tocan: es el tono del sitio (apoyar al club, no obtener beneficios).
 - **Sección Mundo** (`data/mundo.json` + `data/i18n/mundo.<idioma>.json`): revisar una vez por semana o cuando haya novedad. Filiales nuevas en https://estudiantesdelaplata.com/filiales/, y la situación rumbo al Mundial de Clubes 2029 (ranking CONMEBOL, clasificación). Después de la final del 28/11, actualizar la nota y el bloque del Mundial según el resultado.
 - **hoy.foto** (foto principal, con el titular encima): solo del banco `imagenes/`, y **nunca una foto que el club publicó hace menos de 7 días** (exclusividad del club: no usarlas a la par; el build lo controla y falla) (ver `imagenes/README.md`). Cambiarla cuando cambia el tema del día por una que lo acompañe (partido, festejo, entrenamiento, hinchada, el UNO). Si ninguna corresponde, dejar una neutra (hinchada, estadio): nunca una que diga otra cosa (festejo tras una derrota, un jugador lesionado como si jugara). Para cambiarla: sumar `"hoy"` a sus `usos` (y sacarlo de la anterior) en `imagenes/indice.json`, ajustar `foco` si hace falta, correr `npm run imagenes` y actualizar `id` + `alt` en `home.json` y el `alt` en las 4 traducciones. Revisar el recorte 16:9 antes de publicar.
@@ -92,7 +91,7 @@ Las ventanas que ya cerraron se sacan.
 ## Traducciones
 
 Después de cambiar `data/home.json`, actualizar `data/i18n/home.en.json`, `home.pt.json`, `home.zh.json` y `home.hi.json` con **las mismas posiciones de arrays**.
-Solo campos de texto: `hoy` (incluido `hoy.linea[].texto` y `hoy.foto.alt`), `instancia` de cada partido, `ultimo.torneo`, `posiciones[].tabla/detalle`, `tabla.nombre`, textos de `club`, `titulo`/`bajada` de noticias.
+Solo campos de texto: `hoy` (incluidos `hoy.siete[].titulo/texto`, `hoy.linea[].texto` y `hoy.foto.alt`), `instancia` de cada partido, `ultimo.torneo`, `posiciones[].tabla/detalle`, `tabla.nombre`, textos de `club`.
 
 - Inglés británico de fútbol (matchday, fixture, home/away). Portugués de Brasil (rodada, mandante).
 - Chino simplificado (zh-CN), registro de prensa deportiva. Clubes y jugadores en letras latinas, salvo nombres ya establecidos (帕尔梅拉斯 la primera vez, con "(Palmeiras)").

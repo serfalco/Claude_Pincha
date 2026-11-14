@@ -12,6 +12,7 @@ export default {
   idiomas: '语言',
   menu: { hoy: '今日', partidos: '比赛', tabla: '积分榜', noticias: '新闻', club: '俱乐部' },
   lineaTitulo: 'Notipinchas · 媒体报道',
+  siete: 'Pincha七条要闻',
   foto: '图片',
   gol: { ec: '乌龙', pen: '点球' },
   hoyCorto: '今天',

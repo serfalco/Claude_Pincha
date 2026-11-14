@@ -37,6 +37,120 @@
       }
     ]
   },
+  "siete": [
+    {
+      "titulo": {
+        "es": "Correa, en duda para la final",
+        "en": "Correa a doubt for the final",
+        "pt": "Correa é dúvida para a final",
+        "zh": "Correa决赛能否出战成疑",
+        "hi": "फ़ाइनल के लिए Correa पर संशय"
+      },
+      "texto": {
+        "es": "Tiene un desgarro grado 2 en el bíceps de la pierna derecha desde el 1-1 con Talleres. Estas lesiones suelen llevar unas tres semanas: llegaría muy justo.",
+        "en": "He has had a grade 2 tear in his right hamstring since the 1-1 against Talleres. These injuries usually take around three weeks, so it will be very tight.",
+        "pt": "Ele tem uma lesão grau 2 no bíceps da perna direita desde o 1 a 1 com o Talleres. Esse tipo de lesão costuma levar umas três semanas: chegaria muito em cima.",
+        "zh": "他在1比1战平Talleres一役中右腿股二头肌二级拉伤。这类伤势通常需要约三周恢复，赶上决赛将非常勉强。",
+        "hi": "Talleres के ख़िलाफ़ 1-1 वाले मैच से उनकी दाईं जांघ की मांसपेशी में ग्रेड 2 खिंचाव है। ऐसी चोट में आम तौर पर तीन हफ़्ते लगते हैं, इसलिए फ़ाइनल तक फ़िट होना मुश्किल है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Micros a Montevideo: agotados",
+        "en": "Coaches to Montevideo: sold out",
+        "pt": "Ônibus para Montevidéu: esgotados",
+        "zh": "前往蒙得维的亚的大巴：已售罄",
+        "hi": "मोंटेवीडियो की बसें: सब बिक गईं"
+      },
+      "texto": {
+        "es": "Los hinchas compraron los 121 micros que organizó el club: una caravana récord rumbo al Centenario.",
+        "en": "Fans bought all 121 coaches organised by the club: a record convoy heading to the Centenario.",
+        "pt": "Os torcedores compraram os 121 ônibus organizados pelo clube: uma caravana recorde rumo ao Centenario.",
+        "zh": "球迷买光了俱乐部组织的121辆大巴，创纪录的车队将开赴Centenario。",
+        "hi": "प्रशंसकों ने क्लब की सभी 121 बसें बुक कर लीं: Centenario के लिए रिकॉर्ड काफ़िला।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Plateas: no quedan",
+        "en": "Seats: none left",
+        "pt": "Cadeiras: não sobrou nenhuma",
+        "zh": "座位票：已无余票",
+        "hi": "सीटें: कोई नहीं बची"
+      },
+      "texto": {
+        "es": "También se agotó la venta extra de plateas. El club avisará a los socios si aparece algún remanente.",
+        "en": "The extra sale of seats has sold out too. The club will tell members if any more become available.",
+        "pt": "A venda extra de cadeiras também esgotou. O clube avisará os sócios se surgir alguma sobra.",
+        "zh": "加售的座位票也已售罄。若有余票，俱乐部将通知会员。",
+        "hi": "सीटों की अतिरिक्त बिक्री भी पूरी हो गई। अगर कुछ टिकट बचते हैं तो क्लब सदस्यों को बताएगा।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "El plantel vuelve el lunes",
+        "en": "Squad back on Monday",
+        "pt": "Elenco volta na segunda",
+        "zh": "球队周一归队",
+        "hi": "टीम सोमवार को लौटेगी"
+      },
+      "texto": {
+        "es": "Después de festejar la Supercopa, el equipo descansa y retoma los entrenamientos el lunes en City Bell.",
+        "en": "After celebrating the Supercopa, the team is resting and returns to training on Monday in City Bell.",
+        "pt": "Depois de comemorar a Supercopa, o time descansa e retoma os treinos na segunda-feira, em City Bell.",
+        "zh": "庆祝Supercopa夺冠后，球队正在休息，周一将在City Bell恢复训练。",
+        "hi": "Supercopa का जश्न मनाने के बाद टीम आराम कर रही है और सोमवार को City Bell में फिर से अभ्यास शुरू करेगी।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Hoy, el Museo abre de noche",
+        "en": "Tonight, the Museum opens late",
+        "pt": "Hoje, o Museu abre à noite",
+        "zh": "今晚博物馆夜间开放",
+        "hi": "आज रात संग्रहालय खुलेगा"
+      },
+      "texto": {
+        "es": "De 19 a 24, en la Sede Social (53 N° 620), el Museo de Estudiantes muestra su renovación en Museos a la Luz de la Luna.",
+        "en": "From 7pm to midnight, at the club headquarters (53 No. 620), the Estudiantes Museum shows off its revamp at Museos a la Luz de la Luna.",
+        "pt": "Das 19h à meia-noite, na Sede Social (53 nº 620), o Museu do Estudiantes mostra sua renovação na Museos a la Luz de la Luna.",
+        "zh": "19点至24点，Estudiantes博物馆在俱乐部总部（53街620号）参加“Museos a la Luz de la Luna”活动，展示翻新成果。",
+        "hi": "शाम 7 से रात 12 बजे तक, क्लब मुख्यालय (53 नंबर 620) में Estudiantes संग्रहालय 'Museos a la Luz de la Luna' में अपना नया रूप दिखाएगा।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Palmeiras llega con más partidos",
+        "en": "Palmeiras have a busier schedule",
+        "pt": "Palmeiras chega com mais jogos",
+        "zh": "帕尔梅拉斯赛程更密集",
+        "hi": "Palmeiras के ज़्यादा मैच"
+      },
+      "texto": {
+        "es": "Antes de la final juega tres por el Brasileirão (Cruzeiro, Flamengo y Chapecoense) entre el 18 y el 24. El Pincha puede preparar solo la final.",
+        "en": "Before the final they play three Brasileirão matches (Cruzeiro, Flamengo and Chapecoense) between the 18th and the 24th. The Pincha can focus on the final alone.",
+        "pt": "Antes da final, joga três pelo Brasileirão (Cruzeiro, Flamengo e Chapecoense) entre os dias 18 e 24. O Pincha pode se preparar só para a final.",
+        "zh": "决赛前，Palmeiras将在18日至24日间进行三场巴西甲级联赛（对阵Cruzeiro、Flamengo和Chapecoense）。Pincha则可以专心备战决赛。",
+        "hi": "फ़ाइनल से पहले Palmeiras 18 से 24 तारीख़ के बीच Brasileirão में तीन मैच (Cruzeiro, Flamengo और Chapecoense) खेलेगा। Pincha सिर्फ़ फ़ाइनल की तैयारी कर सकता है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Medina, el primer DT extranjero campeón",
+        "en": "Medina, the first foreign manager to win a title",
+        "pt": "Medina, o primeiro técnico estrangeiro campeão",
+        "zh": "Medina成为首位夺冠的外籍主帅",
+        "hi": "Medina, ख़िताब जीतने वाले पहले विदेशी कोच"
+      },
+      "texto": {
+        "es": "El uruguayo ganó la Supercopa y es el primer entrenador extranjero que sale campeón con Estudiantes.",
+        "en": "The Uruguayan won the Supercopa and is the first foreign manager to lift a trophy with Estudiantes.",
+        "pt": "O uruguaio ganhou a Supercopa e é o primeiro treinador estrangeiro a ser campeão com o Estudiantes.",
+        "zh": "这位乌拉圭教练赢得Supercopa，成为首位率Estudiantes夺冠的外籍主帅。",
+        "hi": "उरुग्वे के इस कोच ने Supercopa जीती और Estudiantes के साथ चैंपियन बनने वाले पहले विदेशी कोच बने।"
+      }
+    }
+  ],
   "foto": {
     "id": "2026-09-17_semifinalista-de-america_3",
     "alt": {
@@ -48,6 +162,30 @@
     }
   },
   "linea": [
+    {
+      "hora": "2026-11-14T16:18:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/la-exigente-agenda-palmeiras-que-juega-favor-estudiantes-antes-la-final-la-copa-libertadores-n137459",
+      "texto": {
+        "es": "Palmeiras juega tres partidos antes de la final y el calendario le da ventaja al Pincha.",
+        "en": "Palmeiras play three matches before the final, and the schedule favours the Pincha.",
+        "pt": "O Palmeiras joga três partidas antes da final, e o calendário favorece o Pincha.",
+        "zh": "Palmeiras决赛前要踢三场比赛，赛程对Pincha有利。",
+        "hi": "फ़ाइनल से पहले Palmeiras तीन मैच खेलेगा और कार्यक्रम Pincha के पक्ष में है।"
+      }
+    },
+    {
+      "hora": "2026-11-14T15:40:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/video-mariano-pavone-elogio-estudiantes-y-postulo-guido-carrillo-la-seleccion-argentina-n137457",
+      "texto": {
+        "es": "Mariano Pavone elogió al campeón y postuló a Guido Carrillo para la Selección.",
+        "en": "Mariano Pavone praised the champions and put Guido Carrillo forward for the national team.",
+        "pt": "Mariano Pavone elogiou o campeão e indicou Guido Carrillo para a Seleção.",
+        "zh": "Mariano Pavone称赞冠军球队，并推荐Guido Carrillo入选国家队。",
+        "hi": "Mariano Pavone ने चैंपियन की तारीफ़ की और Guido Carrillo को राष्ट्रीय टीम के लिए सुझाया।"
+      }
+    },
     {
       "hora": "2026-11-14T00:00:00-03:00",
       "fuente": "Diario Hoy",

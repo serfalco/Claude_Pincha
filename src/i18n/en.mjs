@@ -13,6 +13,7 @@ export default {
   idiomas: 'Language',
   menu: { hoy: 'Today', partidos: 'Matches', tabla: 'Table', noticias: 'News', club: 'Club' },
   lineaTitulo: 'Notipinchas in the media',
+  siete: 'Seven Pincha stories',
   foto: 'Photo',
   gol: { ec: 'o.g.', pen: 'pen' },
   hoyCorto: 'Today',

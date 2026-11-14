@@ -72,6 +72,18 @@
       }
     },
     {
+      "hora": "2026-11-12T23:02:00-03:00",
+      "fuente": "Noticias Argentinas",
+      "url": "https://noticiasargentinas.com/deportes/estudiantes-de-la-plata-e-independiente-rivadavia-se-enfrentan-por-el-titulo-en-la-supercopa-argentina_a6af4529072af9e905aa798b7",
+      "texto": {
+        "es": "Campeón en el alargue: Carrillo y un gol en contra pusieron el 2-0, Rivadavia lo empató en el descuento y Alario lo ganó en el suplementario.",
+        "en": "Champions in extra time: Carrillo and an own goal made it 2-0, Rivadavia levelled in stoppage time and Alario won it in extra time.",
+        "pt": "Campeão na prorrogação: Carrillo e um gol contra fizeram 2 a 0, o Rivadavia empatou nos acréscimos e Alario decidiu na prorrogação.",
+        "zh": "加时夺冠：Carrillo进球加上一粒乌龙球取得2比0领先，Rivadavia在补时扳平，Alario在加时赛打进制胜球。",
+        "hi": "अतिरिक्त समय में चैंपियन: Carrillo और एक आत्मघाती गोल से 2-0, Rivadavia ने इंजरी टाइम में बराबरी की और Alario ने अतिरिक्त समय में जीत दिलाई।"
+      }
+    },
+    {
       "hora": "2026-11-12T22:46:00-03:00",
       "fuente": "0221",
       "url": "https://www.0221.com.ar/estudiantes/estudiantes-jugara-la-recopa-campeones-2027-ganar-la-supercopa-argentina-n137295",
@@ -93,6 +105,18 @@
         "pt": "Com 20 títulos, o Pincha fica sozinho em sétimo na tabela histórica, a dois do San Lorenzo.",
         "zh": "拥有20座冠军后，Pincha在历史冠军榜上独居第七，距San Lorenzo仅差两座。",
         "hi": "20 ख़िताबों के साथ Pincha ऐतिहासिक तालिका में अकेले सातवें स्थान पर है, San Lorenzo से दो पीछे।"
+      }
+    },
+    {
+      "hora": "2026-11-12T12:17:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/el-museo-de-estudiantes-se-renueva/",
+      "texto": {
+        "es": "El Museo se renueva: abre el sábado de noche en Museos a la Luz de la Luna, con códigos QR y experiencias interactivas.",
+        "en": "The Museum gets a revamp: it opens on Saturday night for Museos a la Luz de la Luna, with QR codes and interactive experiences.",
+        "pt": "O Museu se renova: abre no sábado à noite na Museos a la Luz de la Luna, com QR codes e experiências interativas.",
+        "zh": "博物馆焕新：周六晚参加“Museos a la Luz de la Luna”活动开放，设有二维码和互动体验。",
+        "hi": "संग्रहालय का नया रूप: शनिवार रात 'Museos a la Luz de la Luna' में खुलेगा, QR कोड और इंटरैक्टिव अनुभवों के साथ।"
       }
     },
     {

@@ -14,6 +14,7 @@ export default {
   idiomas: 'Idioma',
   menu: { hoy: 'Hoy', partidos: 'Partidos', tabla: 'Tabla', noticias: 'Noticias', club: 'Club' },
   lineaTitulo: 'Notipinchas en los medios',
+  siete: 'Siete noticias pinchas',
   foto: 'Foto',
   gol: { ec: 'e/c', pen: 'p' },
   hoyCorto: 'Hoy',

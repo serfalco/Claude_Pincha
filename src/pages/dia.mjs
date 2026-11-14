@@ -3,7 +3,7 @@ import { fechas } from '../lib/fechas.mjs';
 import { header } from '../components/header.mjs';
 import { footer } from '../components/footer.mjs';
 import { pegado } from '../components/club.mjs';
-import { sinHora } from '../components/hoy.mjs';
+import { sinHora, siete } from '../components/hoy.mjs';
 import { foto } from '../components/foto.mjs';
 
 // Página de un día del historial: /dia/AAAA-MM-DD/ (y /en/dia/..., /pt/dia/...).
@@ -58,6 +58,7 @@ ${header(ctx)}
       ${ultimoDelDia
         ? html`<p class="dia__resultado">${t.dia.ultimoResultado}: Estudiantes ${u.golesPropios} - ${u.golesRival} ${u.rival}</p>`
         : ''}
+      ${dia.siete?.length ? siete(dia.siete.map((n) => ({ titulo: tx(n.titulo), texto: tx(n.texto) })), t) : ''}
       <div class="linea">
         <ol class="linea__lista">
           ${dia.linea.map(

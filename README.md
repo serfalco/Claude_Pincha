@@ -20,7 +20,7 @@ src/ (plantillas + i18n) ┘
 **Hoy (manual, desde el celular):**
 
 1. En GitHub, abrir `data/home.json` → lápiz (editar).
-2. Cambiar lo que haga falta: resultado, próximos partidos, tabla, noticias, socios. Actualizar `actualizado`.
+2. Cambiar lo que haga falta: resultado, próximos partidos, tabla, las Siete noticias pinchas (`hoy.siete`, 7 con título y texto, sin links), Notipinchas en los medios (`hoy.linea`, con fuente y link), socios. Actualizar `actualizado`.
 3. Si cambian textos (titular, noticias, etc.), actualizar también `data/i18n/home.en.json` y `home.pt.json`.
 4. *Commit changes* → Cloudflare Pages publica solo en ~1 minuto.
 
