@@ -104,18 +104,18 @@
     },
     {
       "titulo": {
-        "es": "Hoy, el Museo abre de noche",
-        "en": "Tonight, the Museum opens late",
-        "pt": "Hoje, o Museu abre à noite",
-        "zh": "今晚博物馆夜间开放",
-        "hi": "आज रात संग्रहालय खुलेगा"
+        "es": "Adiós a Mary, hincha histórica",
+        "en": "Farewell to Mary, a lifelong fan",
+        "pt": "Adeus a Mary, torcedora histórica",
+        "zh": "告别老球迷Mary",
+        "hi": "अलविदा Mary, पुरानी समर्थक"
       },
       "texto": {
-        "es": "De 19 a 24, en la Sede Social (53 N° 620), el Museo de Estudiantes muestra su renovación en Museos a la Luz de la Luna.",
-        "en": "From 7pm to midnight, at the club headquarters (53 No. 620), the Estudiantes Museum shows off its revamp at Museos a la Luz de la Luna.",
-        "pt": "Das 19h à meia-noite, na Sede Social (53 nº 620), o Museu do Estudiantes mostra sua renovação na Museos a la Luz de la Luna.",
-        "zh": "19点至24点，Estudiantes博物馆在俱乐部总部（53街620号）参加“Museos a la Luz de la Luna”活动，展示翻新成果。",
-        "hi": "शाम 7 से रात 12 बजे तक, क्लब मुख्यालय (53 नंबर 620) में Estudiantes संग्रहालय 'Museos a la Luz de la Luna' में अपना नया रूप दिखाएगा।"
+        "es": "Murió María Carmen Lucia, «Mary», referente de la Agrupación Juan Sebastián Verón. El club y Verón la despidieron con un mensaje a su familia.",
+        "en": "María Carmen Lucia, known as 'Mary', a leading figure of the Agrupación Juan Sebastián Verón, has died. The club and Verón paid tribute with a message to her family.",
+        "pt": "Morreu María Carmen Lucia, a 'Mary', referência da Agrupación Juan Sebastián Verón. O clube e Verón a homenagearam com uma mensagem à família.",
+        "zh": "Agrupación Juan Sebastián Verón的代表人物María Carmen Lucia（“Mary”）去世。俱乐部和Verón向其家人致以悼念。",
+        "hi": "Agrupación Juan Sebastián Verón की प्रमुख सदस्य María Carmen Lucia ('Mary') का निधन हो गया। क्लब और Verón ने उनके परिवार के नाम संदेश से श्रद्धांजलि दी।"
       }
     },
     {
@@ -162,6 +162,18 @@
     }
   },
   "linea": [
+    {
+      "hora": "2026-11-14T17:29:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/luto-en-estudiantes-murio-mary-reconocida-hincha-y-referente-de-la-agrupacion-juan-sebastian-veron-deportes_1794688152",
+      "texto": {
+        "es": "Dolor en el Pincha: murió Mary, hincha histórica y referente de la Agrupación Juan Sebastián Verón.",
+        "en": "Sad news for the Pincha: Mary, a lifelong fan and leading figure of the Agrupación Juan Sebastián Verón, has died.",
+        "pt": "Luto no Pincha: morreu Mary, torcedora histórica e referência da Agrupación Juan Sebastián Verón.",
+        "zh": "Pincha痛失老球迷：Agrupación Juan Sebastián Verón的代表人物Mary去世。",
+        "hi": "Pincha में शोक: पुरानी समर्थक और Agrupación Juan Sebastián Verón की प्रमुख सदस्य Mary का निधन।"
+      }
+    },
     {
       "hora": "2026-11-14T16:18:00-03:00",
       "fuente": "0221",

@@ -23,8 +23,8 @@
         "texto": "Depois de comemorar a Supercopa, o time descansa e retoma os treinos na segunda-feira, em City Bell."
       },
       {
-        "titulo": "Hoje, o Museu abre à noite",
-        "texto": "Das 19h à meia-noite, na Sede Social (53 nº 620), o Museu do Estudiantes mostra sua renovação na Museos a la Luz de la Luna."
+        "titulo": "Adeus a Mary, torcedora histórica",
+        "texto": "Morreu María Carmen Lucia, a 'Mary', referência da Agrupación Juan Sebastián Verón. O clube e Verón a homenagearam com uma mensagem à família."
       },
       {
         "titulo": "Palmeiras chega com mais jogos",
@@ -36,6 +36,9 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Luto no Pincha: morreu Mary, torcedora histórica e referência da Agrupación Juan Sebastián Verón."
+      },
       {
         "texto": "O Palmeiras joga três partidas antes da final, e o calendário favorece o Pincha."
       },
@@ -65,9 +68,6 @@
       },
       {
         "texto": "O Museu se renova: abre no sábado à noite na Museos a la Luz de la Luna, com QR codes e experiências interativas."
-      },
-      {
-        "texto": "As cadeiras extras para a final esgotaram em horas e houve outra onda de reclamações dos sócios."
       }
     ]
   },

@@ -23,8 +23,8 @@
         "texto": "庆祝Supercopa夺冠后，球队正在休息，周一将在City Bell恢复训练。"
       },
       {
-        "titulo": "今晚博物馆夜间开放",
-        "texto": "19点至24点，Estudiantes博物馆在俱乐部总部（53街620号）参加“Museos a la Luz de la Luna”活动，展示翻新成果。"
+        "titulo": "告别老球迷Mary",
+        "texto": "Agrupación Juan Sebastián Verón的代表人物María Carmen Lucia（“Mary”）去世。俱乐部和Verón向其家人致以悼念。"
       },
       {
         "titulo": "帕尔梅拉斯赛程更密集",
@@ -36,6 +36,9 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Pincha痛失老球迷：Agrupación Juan Sebastián Verón的代表人物Mary去世。"
+      },
       {
         "texto": "Palmeiras决赛前要踢三场比赛，赛程对Pincha有利。"
       },
@@ -65,9 +68,6 @@
       },
       {
         "texto": "博物馆焕新：周六晚参加“Museos a la Luz de la Luna”活动开放，设有二维码和互动体验。"
-      },
-      {
-        "texto": "决赛加售座位票数小时内售罄，再次引发会员不满。"
       }
     ]
   },

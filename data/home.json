@@ -1,6 +1,6 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-14T17:45:00-03:00",
+  "actualizado": "2026-11-14T23:45:00-03:00",
   "hoy": {
     "titular": "Del festejo a Montevideo: 121 micros agotados",
     "foto": {
@@ -26,8 +26,8 @@
         "texto": "Después de festejar la Supercopa, el equipo descansa y retoma los entrenamientos el lunes en City Bell."
       },
       {
-        "titulo": "Hoy, el Museo abre de noche",
-        "texto": "De 19 a 24, en la Sede Social (53 N° 620), el Museo de Estudiantes muestra su renovación en Museos a la Luz de la Luna."
+        "titulo": "Adiós a Mary, hincha histórica",
+        "texto": "Murió María Carmen Lucia, «Mary», referente de la Agrupación Juan Sebastián Verón. El club y Verón la despidieron con un mensaje a su familia."
       },
       {
         "titulo": "Palmeiras llega con más partidos",
@@ -39,6 +39,12 @@
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-14T17:29:00-03:00",
+        "texto": "Dolor en el Pincha: murió Mary, hincha histórica y referente de la Agrupación Juan Sebastián Verón.",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/luto-en-estudiantes-murio-mary-reconocida-hincha-y-referente-de-la-agrupacion-juan-sebastian-veron-deportes_1794688152"
+      },
       {
         "hora": "2026-11-14T16:18:00-03:00",
         "texto": "Palmeiras juega tres partidos antes de la final y el calendario le da ventaja al Pincha.",
@@ -98,12 +104,6 @@
         "texto": "El Museo se renueva: abre el sábado de noche en Museos a la Luz de la Luna, con códigos QR y experiencias interactivas.",
         "fuente": "Club",
         "url": "https://estudiantesdelaplata.com/el-museo-de-estudiantes-se-renueva/"
-      },
-      {
-        "hora": "2026-11-11T21:23:00-03:00",
-        "texto": "Las plateas extra para la final se agotaron en horas y hubo otra ola de reclamos de socios.",
-        "fuente": "Vive La Plata",
-        "url": "https://vivelaplata.com.ar/agotado-la-venta-de-plateas-para-la-final-desato-otra-ola-de-reclamos-en-estudiantes/"
       }
     ]
   },

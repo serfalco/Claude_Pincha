@@ -23,8 +23,8 @@
         "texto": "After celebrating the Supercopa, the team is resting and returns to training on Monday in City Bell."
       },
       {
-        "titulo": "Tonight, the Museum opens late",
-        "texto": "From 7pm to midnight, at the club headquarters (53 No. 620), the Estudiantes Museum shows off its revamp at Museos a la Luz de la Luna."
+        "titulo": "Farewell to Mary, a lifelong fan",
+        "texto": "María Carmen Lucia, known as 'Mary', a leading figure of the Agrupación Juan Sebastián Verón, has died. The club and Verón paid tribute with a message to her family."
       },
       {
         "titulo": "Palmeiras have a busier schedule",
@@ -36,6 +36,9 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Sad news for the Pincha: Mary, a lifelong fan and leading figure of the Agrupación Juan Sebastián Verón, has died."
+      },
       {
         "texto": "Palmeiras play three matches before the final, and the schedule favours the Pincha."
       },
@@ -65,9 +68,6 @@
       },
       {
         "texto": "The Museum gets a revamp: it opens on Saturday night for Museos a la Luz de la Luna, with QR codes and interactive experiences."
-      },
-      {
-        "texto": "The extra seats for the final sold out within hours, sparking another wave of complaints from members."
       }
     ]
   },
