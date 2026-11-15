@@ -1,13 +1,13 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-14T23:45:00-03:00",
+  "actualizado": "2026-11-15T14:55:00-03:00",
   "hoy": {
-    "titular": "Del festejo a Montevideo: 121 micros agotados",
+    "titular": "Arranca la cuenta regresiva: el plantel vuelve mañana",
     "foto": {
       "id": "2026-09-17_semifinalista-de-america_3",
       "alt": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores."
     },
-    "resumen": "Con la estrella 20 recién ganada, el plantel descansa y vuelve el lunes a City Bell para preparar la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. Los hinchas agotaron los 121 micros que organizó el club.",
+    "resumen": "Con la Supercopa en el bolsillo, el plantel vuelve mañana a City Bell y tendrá 12 días sin partidos para preparar la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. El rival, en cambio, juega tres partidos en siete días por el Brasileirão.",
     "siete": [
       {
         "titulo": "Correa, en duda para la final",
@@ -18,27 +18,45 @@
         "texto": "Los hinchas compraron los 121 micros que organizó el club: una caravana récord rumbo al Centenario."
       },
       {
-        "titulo": "Plateas: no quedan",
-        "texto": "También se agotó la venta extra de plateas. El club avisará a los socios si aparece algún remanente."
+        "titulo": "El plantel vuelve el lunes",
+        "texto": "Después de festejar la Supercopa, el equipo retoma los entrenamientos el lunes en City Bell. Tendrá 12 días sin partidos oficiales para preparar la final."
       },
       {
-        "titulo": "El plantel vuelve el lunes",
-        "texto": "Después de festejar la Supercopa, el equipo descansa y retoma los entrenamientos el lunes en City Bell."
+        "titulo": "Palmeiras llega con más partidos",
+        "texto": "Juega tres por el Brasileirão en siete días: Cruzeiro (18), Flamengo (21) y Chapecoense (24), cuatro días antes de la final. Además pelea el título, a tres puntos de Flamengo."
       },
       {
         "titulo": "Adiós a Mary, hincha histórica",
         "texto": "Murió María Carmen Lucia, «Mary», referente de la Agrupación Juan Sebastián Verón. El club y Verón la despidieron con un mensaje a su familia."
       },
       {
-        "titulo": "Palmeiras llega con más partidos",
-        "texto": "Antes de la final juega tres por el Brasileirão (Cruzeiro, Flamengo y Chapecoense) entre el 18 y el 24. El Pincha puede preparar solo la final."
+        "titulo": "Básquet: fase regular cerrada con 9-1",
+        "texto": "En el UNO le ganó 71-56 a Riberas del Paraná y terminó la ronda regular del Pre Federal con 9 triunfos y una derrota. En los playoffs enfrenta a Racing de Olavarría."
       },
       {
-        "titulo": "Medina, el primer DT extranjero campeón",
-        "texto": "El uruguayo ganó la Supercopa y es el primer entrenador extranjero que sale campeón con Estudiantes."
+        "titulo": "Vóley: sigue en la División de Honor",
+        "texto": "El equipo femenino perdió 3-1 con San Gregorio, pero el triunfo de River ante UNTREF le aseguró la permanencia en la máxima categoría para 2027. El viernes 19 recibe a UNTREF en el UNO."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-15T14:15:00-03:00",
+        "texto": "En Brasil advierten por el desgaste de Palmeiras: 270 minutos en siete días antes de la final.",
+        "fuente": "Infocielo",
+        "url": "https://www.infocielo.com/deportes/en-brasil-preocupa-el-desgaste-de-palmeiras-270-minutos-antes-de-la-final-con-estudiantes"
+      },
+      {
+        "hora": "2026-11-15T13:14:00-03:00",
+        "texto": "Arrancan dos semanas clave: el lunes empieza la cuenta regresiva y Medina recupera piezas para la final.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/arrancan-dos-semanas-clave-estudiantes-agenda-jugadores-recuperar-y-el-plan-alexander-medina-n137482"
+      },
+      {
+        "hora": "2026-11-15T11:04:00-03:00",
+        "texto": "El básquet cerró la fase regular del Pre Federal con un 71-56 a Riberas del Paraná; en los playoffs va con Racing de Olavarría.",
+        "fuente": "Club",
+        "url": "https://estudiantesdelaplata.com/cerro-la-fase-regular-victorioso/"
+      },
       {
         "hora": "2026-11-14T17:29:00-03:00",
         "texto": "Dolor en el Pincha: murió Mary, hincha histórica y referente de la Agrupación Juan Sebastián Verón.",
@@ -52,10 +70,10 @@
         "url": "https://www.0221.com.ar/estudiantes/la-exigente-agenda-palmeiras-que-juega-favor-estudiantes-antes-la-final-la-copa-libertadores-n137459"
       },
       {
-        "hora": "2026-11-14T15:40:00-03:00",
-        "texto": "Mariano Pavone elogió al campeón y postuló a Guido Carrillo para la Selección.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/video-mariano-pavone-elogio-estudiantes-y-postulo-guido-carrillo-la-seleccion-argentina-n137457"
+        "hora": "2026-11-14T12:55:00-03:00",
+        "texto": "Vóley femenino: cayó 3-1 con San Gregorio, pero ya aseguró la permanencia en la División de Honor 2027.",
+        "fuente": "Club",
+        "url": "https://estudiantesdelaplata.com/traspie-contra-san-gregorio/"
       },
       {
         "hora": "2026-11-14T00:00:00-03:00",
@@ -98,12 +116,6 @@
         "texto": "Campeón en el alargue: Carrillo y un gol en contra pusieron el 2-0, Rivadavia lo empató en el descuento y Alario lo ganó en el suplementario.",
         "fuente": "Noticias Argentinas",
         "url": "https://noticiasargentinas.com/deportes/estudiantes-de-la-plata-e-independiente-rivadavia-se-enfrentan-por-el-titulo-en-la-supercopa-argentina_a6af4529072af9e905aa798b7"
-      },
-      {
-        "hora": "2026-11-12T12:17:00-03:00",
-        "texto": "El Museo se renueva: abre el sábado de noche en Museos a la Luz de la Luna, con códigos QR y experiencias interactivas.",
-        "fuente": "Club",
-        "url": "https://estudiantesdelaplata.com/el-museo-de-estudiantes-se-renueva/"
       }
     ]
   },

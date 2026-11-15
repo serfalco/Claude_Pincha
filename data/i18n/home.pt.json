@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "Da festa a Montevidéu: 121 ônibus esgotados",
+    "titular": "Começa a contagem regressiva: o elenco volta amanhã",
     "foto": {
       "alt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores."
     },
-    "resumen": "Com a estrela 20 recém-conquistada, o elenco descansa e volta na segunda-feira a City Bell para preparar a final da Libertadores contra o Palmeiras, no sábado 28, no Centenario. Os torcedores esgotaram os 121 ônibus organizados pelo clube.",
+    "resumen": "Com a Supercopa garantida, o elenco volta amanhã a City Bell e terá 12 dias sem jogos para preparar a final da Copa Libertadores contra o Palmeiras, no sábado, 28, no Centenario. O rival, ao contrário, joga três partidas em sete dias pelo Brasileirão.",
     "siete": [
       {
         "titulo": "Correa é dúvida para a final",
@@ -15,27 +15,36 @@
         "texto": "Os torcedores compraram os 121 ônibus organizados pelo clube: uma caravana recorde rumo ao Centenario."
       },
       {
-        "titulo": "Cadeiras: não sobrou nenhuma",
-        "texto": "A venda extra de cadeiras também esgotou. O clube avisará os sócios se surgir alguma sobra."
+        "titulo": "Elenco volta na segunda",
+        "texto": "Depois de comemorar a Supercopa, o time volta aos treinos na segunda-feira em City Bell. Terá 12 dias sem jogos oficiais para preparar a final."
       },
       {
-        "titulo": "Elenco volta na segunda",
-        "texto": "Depois de comemorar a Supercopa, o time descansa e retoma os treinos na segunda-feira, em City Bell."
+        "titulo": "Palmeiras chega com mais jogos",
+        "texto": "Joga três pelo Brasileirão em sete dias: Cruzeiro (18), Flamengo (21) e Chapecoense (24), quatro dias antes da final. Além disso, briga pelo título, a três pontos do Flamengo."
       },
       {
         "titulo": "Adeus a Mary, torcedora histórica",
         "texto": "Morreu María Carmen Lucia, a 'Mary', referência da Agrupación Juan Sebastián Verón. O clube e Verón a homenagearam com uma mensagem à família."
       },
       {
-        "titulo": "Palmeiras chega com mais jogos",
-        "texto": "Antes da final, joga três pelo Brasileirão (Cruzeiro, Flamengo e Chapecoense) entre os dias 18 e 24. O Pincha pode se preparar só para a final."
+        "titulo": "Basquete: fase regular encerrada com 9-1",
+        "texto": "No UNO venceu o Riberas del Paraná por 71 a 56 e terminou a fase regular do Pre Federal com 9 vitórias e uma derrota. Nos playoffs enfrenta o Racing de Olavarría."
       },
       {
-        "titulo": "Medina, o primeiro técnico estrangeiro campeão",
-        "texto": "O uruguaio ganhou a Supercopa e é o primeiro treinador estrangeiro a ser campeão com o Estudiantes."
+        "titulo": "Vôlei: segue na División de Honor",
+        "texto": "O time feminino perdeu por 3 a 1 para o San Gregorio, mas a vitória do River sobre o UNTREF garantiu a permanência na elite em 2027. Na sexta-feira, 19, recebe o UNTREF no UNO."
       }
     ],
     "linea": [
+      {
+        "texto": "No Brasil alertam para o desgaste do Palmeiras: 270 minutos em sete dias antes da final."
+      },
+      {
+        "texto": "Começam duas semanas decisivas: a contagem regressiva começa na segunda e Medina recupera peças para a final."
+      },
+      {
+        "texto": "O basquete encerrou a fase regular do Pre Federal com 71 a 56 sobre o Riberas del Paraná; nos playoffs pega o Racing de Olavarría."
+      },
       {
         "texto": "Luto no Pincha: morreu Mary, torcedora histórica e referência da Agrupación Juan Sebastián Verón."
       },
@@ -43,7 +52,7 @@
         "texto": "O Palmeiras joga três partidas antes da final, e o calendário favorece o Pincha."
       },
       {
-        "texto": "Mariano Pavone elogiou o campeão e indicou Guido Carrillo para a Seleção."
+        "texto": "Vôlei feminino: perdeu por 3 a 1 para o San Gregorio, mas já garantiu a permanência na División de Honor de 2027."
       },
       {
         "texto": "Medina fez história: é o primeiro técnico estrangeiro a ser campeão com o Estudiantes."
@@ -65,9 +74,6 @@
       },
       {
         "texto": "Campeão na prorrogação: Carrillo e um gol contra fizeram 2 a 0, o Rivadavia empatou nos acréscimos e Alario decidiu na prorrogação."
-      },
-      {
-        "texto": "O Museu se renova: abre no sábado à noite na Museos a la Luz de la Luna, com QR codes e experiências interativas."
       }
     ]
   },

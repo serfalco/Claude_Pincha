@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "From the party to Montevideo: 121 coaches sold out",
+    "titular": "The countdown begins: the squad return tomorrow",
     "foto": {
       "alt": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals."
     },
-    "resumen": "With the 20th star freshly won, the squad is resting and returns to City Bell on Monday to prepare for the Libertadores final against Palmeiras, on Saturday 28th at the Centenario. Fans snapped up all 121 coaches organised by the club.",
+    "resumen": "With the Supercopa won, the squad return to City Bell tomorrow and will have 12 days without matches to prepare for the Copa Libertadores final against Palmeiras on Saturday 28th at the Centenario. Their opponents, by contrast, play three matches in seven days in the Brasileirão.",
     "siete": [
       {
         "titulo": "Correa a doubt for the final",
@@ -15,27 +15,36 @@
         "texto": "Fans bought all 121 coaches organised by the club: a record convoy heading to the Centenario."
       },
       {
-        "titulo": "Seats: none left",
-        "texto": "The extra sale of seats has sold out too. The club will tell members if any more become available."
+        "titulo": "Squad back on Monday",
+        "texto": "After celebrating the Supercopa, the team resume training on Monday at City Bell. They will have 12 days without competitive matches to prepare for the final."
       },
       {
-        "titulo": "Squad back on Monday",
-        "texto": "After celebrating the Supercopa, the team is resting and returns to training on Monday in City Bell."
+        "titulo": "Palmeiras have a busier schedule",
+        "texto": "They play three Brasileirão matches in seven days: Cruzeiro (18th), Flamengo (21st) and Chapecoense (24th), four days before the final. They are also chasing the title, three points behind Flamengo."
       },
       {
         "titulo": "Farewell to Mary, a lifelong fan",
         "texto": "María Carmen Lucia, known as 'Mary', a leading figure of the Agrupación Juan Sebastián Verón, has died. The club and Verón paid tribute with a message to her family."
       },
       {
-        "titulo": "Palmeiras have a busier schedule",
-        "texto": "Before the final they play three Brasileirão matches (Cruzeiro, Flamengo and Chapecoense) between the 18th and the 24th. The Pincha can focus on the final alone."
+        "titulo": "Basketball: regular season closed at 9-1",
+        "texto": "At the UNO they beat Riberas del Paraná 71-56 to finish the Pre Federal regular season with 9 wins and one defeat. In the play-offs they face Racing de Olavarría."
       },
       {
-        "titulo": "Medina, the first foreign manager to win a title",
-        "texto": "The Uruguayan won the Supercopa and is the first foreign manager to lift a trophy with Estudiantes."
+        "titulo": "Volleyball: staying in the División de Honor",
+        "texto": "The women's team lost 3-1 to San Gregorio, but River's win over UNTREF secured their place in the top flight for 2027. On Friday 19th they host UNTREF at the UNO."
       }
     ],
     "linea": [
+      {
+        "texto": "In Brazil there are warnings about Palmeiras' workload: 270 minutes in seven days before the final."
+      },
+      {
+        "texto": "Two key weeks begin: the countdown starts on Monday and Medina gets key players back for the final."
+      },
+      {
+        "texto": "The basketball team closed the Pre Federal regular season with a 71-56 win over Riberas del Paraná; Racing de Olavarría await in the play-offs."
+      },
       {
         "texto": "Sad news for the Pincha: Mary, a lifelong fan and leading figure of the Agrupación Juan Sebastián Verón, has died."
       },
@@ -43,7 +52,7 @@
         "texto": "Palmeiras play three matches before the final, and the schedule favours the Pincha."
       },
       {
-        "texto": "Mariano Pavone praised the champions and put Guido Carrillo forward for the national team."
+        "texto": "Women's volleyball: a 3-1 defeat to San Gregorio, but their place in the 2027 División de Honor is already secured."
       },
       {
         "texto": "Medina made history: he is the first foreign manager to win a title with Estudiantes."
@@ -65,9 +74,6 @@
       },
       {
         "texto": "Champions in extra time: Carrillo and an own goal made it 2-0, Rivadavia levelled in stoppage time and Alario won it in extra time."
-      },
-      {
-        "texto": "The Museum gets a revamp: it opens on Saturday night for Museos a la Luz de la Luna, with QR codes and interactive experiences."
       }
     ]
   },

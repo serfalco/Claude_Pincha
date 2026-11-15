@@ -1,0 +1,202 @@
+{
+  "fecha": "2026-11-15",
+  "titular": {
+    "es": "Arranca la cuenta regresiva: el plantel vuelve mañana",
+    "en": "The countdown begins: the squad return tomorrow",
+    "pt": "Começa a contagem regressiva: o elenco volta amanhã",
+    "zh": "倒计时开始：球队明天恢复训练",
+    "hi": "उलटी गिनती शुरू: टीम कल से फिर अभ्यास पर"
+  },
+  "resumen": {
+    "es": "Con la Supercopa en el bolsillo, el plantel vuelve mañana a City Bell y tendrá 12 días sin partidos para preparar la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. El rival, en cambio, juega tres partidos en siete días por el Brasileirão.",
+    "en": "With the Supercopa won, the squad return to City Bell tomorrow and will have 12 days without matches to prepare for the Copa Libertadores final against Palmeiras on Saturday 28th at the Centenario. Their opponents, by contrast, play three matches in seven days in the Brasileirão.",
+    "pt": "Com a Supercopa garantida, o elenco volta amanhã a City Bell e terá 12 dias sem jogos para preparar a final da Copa Libertadores contra o Palmeiras, no sábado, 28, no Centenario. O rival, ao contrário, joga três partidas em sete dias pelo Brasileirão.",
+    "zh": "拿下阿根廷超级杯后，球队明天回到City Bell训练基地，将有12天没有比赛，专心备战11月28日周六在Centenario球场对阵帕尔梅拉斯（Palmeiras）的南美解放者杯决赛。对手则要在七天内踢三场巴甲联赛。",
+    "hi": "सुपरकोपा जीतने के बाद टीम कल City Bell लौटेगी और 28 नवंबर, शनिवार को Centenario में Palmeiras के ख़िलाफ़ Copa Libertadores फ़ाइनल की तैयारी के लिए उसके पास 12 दिन बिना किसी मैच के होंगे। वहीं विरोधी टीम Brasileirão में सात दिन में तीन मैच खेलेगी।"
+  },
+  "ultimo": {
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral",
+    "goles": [
+      {
+        "jugador": "Carrillo",
+        "min": "55"
+      },
+      {
+        "jugador": "Villalba",
+        "min": "68",
+        "ec": true
+      },
+      {
+        "jugador": "Alario",
+        "min": "96"
+      }
+    ]
+  },
+  "siete": [
+    {
+      "titulo": {
+        "es": "Correa, en duda para la final",
+        "en": "Correa a doubt for the final",
+        "pt": "Correa é dúvida para a final",
+        "zh": "Correa决赛能否出战成疑",
+        "hi": "फ़ाइनल के लिए Correa पर संशय"
+      },
+      "texto": {
+        "es": "Tiene un desgarro grado 2 en el bíceps de la pierna derecha desde el 1-1 con Talleres. Estas lesiones suelen llevar unas tres semanas: llegaría muy justo.",
+        "en": "He has had a grade 2 tear in his right hamstring since the 1-1 against Talleres. These injuries usually take around three weeks, so it will be very tight.",
+        "pt": "Ele tem uma lesão grau 2 no bíceps da perna direita desde o 1 a 1 com o Talleres. Esse tipo de lesão costuma levar umas três semanas: chegaria muito em cima.",
+        "zh": "他在1比1战平Talleres一役中右腿股二头肌二级拉伤。这类伤势通常需要约三周恢复，赶上决赛将非常勉强。",
+        "hi": "Talleres के ख़िलाफ़ 1-1 वाले मैच से उनकी दाईं जांघ की मांसपेशी में ग्रेड 2 खिंचाव है। ऐसी चोट में आम तौर पर तीन हफ़्ते लगते हैं, इसलिए फ़ाइनल तक फ़िट होना मुश्किल है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Micros a Montevideo: agotados",
+        "en": "Coaches to Montevideo: sold out",
+        "pt": "Ônibus para Montevidéu: esgotados",
+        "zh": "前往蒙得维的亚的大巴：已售罄",
+        "hi": "मोंटेवीडियो की बसें: सब बिक गईं"
+      },
+      "texto": {
+        "es": "Los hinchas compraron los 121 micros que organizó el club: una caravana récord rumbo al Centenario.",
+        "en": "Fans bought all 121 coaches organised by the club: a record convoy heading to the Centenario.",
+        "pt": "Os torcedores compraram os 121 ônibus organizados pelo clube: uma caravana recorde rumo ao Centenario.",
+        "zh": "球迷买光了俱乐部组织的121辆大巴，创纪录的车队将开赴Centenario。",
+        "hi": "प्रशंसकों ने क्लब की सभी 121 बसें बुक कर लीं: Centenario के लिए रिकॉर्ड काफ़िला।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "El plantel vuelve el lunes",
+        "en": "Squad back on Monday",
+        "pt": "Elenco volta na segunda",
+        "zh": "球队周一归队",
+        "hi": "टीम सोमवार को लौटेगी"
+      },
+      "texto": {
+        "es": "Después de festejar la Supercopa, el equipo retoma los entrenamientos el lunes en City Bell. Tendrá 12 días sin partidos oficiales para preparar la final.",
+        "en": "After celebrating the Supercopa, the team resume training on Monday at City Bell. They will have 12 days without competitive matches to prepare for the final.",
+        "pt": "Depois de comemorar a Supercopa, o time volta aos treinos na segunda-feira em City Bell. Terá 12 dias sem jogos oficiais para preparar a final.",
+        "zh": "庆祝完超级杯冠军后，球队周一在City Bell恢复训练。决赛前将有12天没有正式比赛。",
+        "hi": "Supercopa का जश्न मनाने के बाद टीम सोमवार को City Bell में फिर अभ्यास शुरू करेगी। फ़ाइनल की तैयारी के लिए 12 दिन तक कोई आधिकारिक मैच नहीं है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Palmeiras llega con más partidos",
+        "en": "Palmeiras have a busier schedule",
+        "pt": "Palmeiras chega com mais jogos",
+        "zh": "帕尔梅拉斯赛程更密集",
+        "hi": "Palmeiras के ज़्यादा मैच"
+      },
+      "texto": {
+        "es": "Juega tres por el Brasileirão en siete días: Cruzeiro (18), Flamengo (21) y Chapecoense (24), cuatro días antes de la final. Además pelea el título, a tres puntos de Flamengo.",
+        "en": "They play three Brasileirão matches in seven days: Cruzeiro (18th), Flamengo (21st) and Chapecoense (24th), four days before the final. They are also chasing the title, three points behind Flamengo.",
+        "pt": "Joga três pelo Brasileirão em sete dias: Cruzeiro (18), Flamengo (21) e Chapecoense (24), quatro dias antes da final. Além disso, briga pelo título, a três pontos do Flamengo.",
+        "zh": "七天内要踢三场巴甲：18日对Cruzeiro、21日对Flamengo、24日对Chapecoense，最后一场距决赛仅四天。同时还在争夺联赛冠军，落后Flamengo三分。",
+        "hi": "Brasileirão में सात दिन में तीन मैच: Cruzeiro (18), Flamengo (21) और Chapecoense (24), आख़िरी मैच फ़ाइनल से सिर्फ़ चार दिन पहले। साथ ही वह ख़िताब की दौड़ में Flamengo से तीन अंक पीछे है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Adiós a Mary, hincha histórica",
+        "en": "Farewell to Mary, a lifelong fan",
+        "pt": "Adeus a Mary, torcedora histórica",
+        "zh": "告别老球迷Mary",
+        "hi": "अलविदा Mary, पुरानी समर्थक"
+      },
+      "texto": {
+        "es": "Murió María Carmen Lucia, «Mary», referente de la Agrupación Juan Sebastián Verón. El club y Verón la despidieron con un mensaje a su familia.",
+        "en": "María Carmen Lucia, known as 'Mary', a leading figure of the Agrupación Juan Sebastián Verón, has died. The club and Verón paid tribute with a message to her family.",
+        "pt": "Morreu María Carmen Lucia, a 'Mary', referência da Agrupación Juan Sebastián Verón. O clube e Verón a homenagearam com uma mensagem à família.",
+        "zh": "Agrupación Juan Sebastián Verón的代表人物María Carmen Lucia（“Mary”）去世。俱乐部和Verón向其家人致以悼念。",
+        "hi": "Agrupación Juan Sebastián Verón की प्रमुख सदस्य María Carmen Lucia ('Mary') का निधन हो गया। क्लब और Verón ने उनके परिवार के नाम संदेश से श्रद्धांजलि दी।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Básquet: fase regular cerrada con 9-1",
+        "en": "Basketball: regular season closed at 9-1",
+        "pt": "Basquete: fase regular encerrada com 9-1",
+        "zh": "篮球：常规赛以9胜1负收官",
+        "hi": "बास्केटबॉल: रेगुलर राउंड 9-1 से ख़त्म"
+      },
+      "texto": {
+        "es": "En el UNO le ganó 71-56 a Riberas del Paraná y terminó la ronda regular del Pre Federal con 9 triunfos y una derrota. En los playoffs enfrenta a Racing de Olavarría.",
+        "en": "At the UNO they beat Riberas del Paraná 71-56 to finish the Pre Federal regular season with 9 wins and one defeat. In the play-offs they face Racing de Olavarría.",
+        "pt": "No UNO venceu o Riberas del Paraná por 71 a 56 e terminou a fase regular do Pre Federal com 9 vitórias e uma derrota. Nos playoffs enfrenta o Racing de Olavarría.",
+        "zh": "在UNO球场以71比56击败Riberas del Paraná，Pre Federal常规赛战绩9胜1负。季后赛对手是Racing de Olavarría。",
+        "hi": "UNO में Riberas del Paraná को 71-56 से हराकर Pre Federal का रेगुलर राउंड 9 जीत और एक हार के साथ पूरा किया। प्लेऑफ़ में मुक़ाबला Racing de Olavarría से है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Vóley: sigue en la División de Honor",
+        "en": "Volleyball: staying in the División de Honor",
+        "pt": "Vôlei: segue na División de Honor",
+        "zh": "排球：保住División de Honor席位",
+        "hi": "वॉलीबॉल: División de Honor में बरक़रार"
+      },
+      "texto": {
+        "es": "El equipo femenino perdió 3-1 con San Gregorio, pero el triunfo de River ante UNTREF le aseguró la permanencia en la máxima categoría para 2027. El viernes 19 recibe a UNTREF en el UNO.",
+        "en": "The women's team lost 3-1 to San Gregorio, but River's win over UNTREF secured their place in the top flight for 2027. On Friday 19th they host UNTREF at the UNO.",
+        "pt": "O time feminino perdeu por 3 a 1 para o San Gregorio, mas a vitória do River sobre o UNTREF garantiu a permanência na elite em 2027. Na sexta-feira, 19, recebe o UNTREF no UNO.",
+        "zh": "女排1比3负于San Gregorio，但River击败UNTREF，球队确保2027年留在顶级联赛。19日周五在UNO主场迎战UNTREF。",
+        "hi": "महिला टीम San Gregorio से 3-1 से हारी, लेकिन UNTREF पर River की जीत से 2027 के लिए शीर्ष डिवीज़न में जगह पक्की हो गई। शुक्रवार 19 को UNO में UNTREF से मुक़ाबला।"
+      }
+    }
+  ],
+  "foto": {
+    "id": "2026-09-17_semifinalista-de-america_3",
+    "alt": {
+      "es": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores.",
+      "en": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals.",
+      "pt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores.",
+      "zh": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。",
+      "hi": "Copa Libertadores के सेमीफ़ाइनल में पहुँचने पर Estudiantes के खिलाड़ी मैदान पर जश्न मना रहे हैं।"
+    }
+  },
+  "linea": [
+    {
+      "hora": "2026-11-15T14:15:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://www.infocielo.com/deportes/en-brasil-preocupa-el-desgaste-de-palmeiras-270-minutos-antes-de-la-final-con-estudiantes",
+      "texto": {
+        "es": "En Brasil advierten por el desgaste de Palmeiras: 270 minutos en siete días antes de la final.",
+        "en": "In Brazil there are warnings about Palmeiras' workload: 270 minutes in seven days before the final.",
+        "pt": "No Brasil alertam para o desgaste do Palmeiras: 270 minutos em sete dias antes da final.",
+        "zh": "巴西媒体提醒帕尔梅拉斯体能消耗：决赛前七天要踢270分钟。",
+        "hi": "ब्राज़ील में Palmeiras की थकान पर चिंता: फ़ाइनल से पहले सात दिन में 270 मिनट।"
+      }
+    },
+    {
+      "hora": "2026-11-15T13:14:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/arrancan-dos-semanas-clave-estudiantes-agenda-jugadores-recuperar-y-el-plan-alexander-medina-n137482",
+      "texto": {
+        "es": "Arrancan dos semanas clave: el lunes empieza la cuenta regresiva y Medina recupera piezas para la final.",
+        "en": "Two key weeks begin: the countdown starts on Monday and Medina gets key players back for the final.",
+        "pt": "Começam duas semanas decisivas: a contagem regressiva começa na segunda e Medina recupera peças para a final.",
+        "zh": "关键两周开始：周一开启倒计时，Medina将迎回多名主力备战决赛。",
+        "hi": "दो अहम हफ़्ते शुरू: सोमवार से उलटी गिनती, और Medina फ़ाइनल के लिए अहम खिलाड़ियों को वापस पा रहे हैं।"
+      }
+    },
+    {
+      "hora": "2026-11-15T11:04:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/cerro-la-fase-regular-victorioso/",
+      "texto": {
+        "es": "El básquet cerró la fase regular del Pre Federal con un 71-56 a Riberas del Paraná; en los playoffs va con Racing de Olavarría.",
+        "en": "The basketball team closed the Pre Federal regular season with a 71-56 win over Riberas del Paraná; Racing de Olavarría await in the play-offs.",
+        "pt": "O basquete encerrou a fase regular do Pre Federal com 71 a 56 sobre o Riberas del Paraná; nos playoffs pega o Racing de Olavarría.",
+        "zh": "篮球队以71比56击败Riberas del Paraná结束Pre Federal常规赛，季后赛对阵Racing de Olavarría。",
+        "hi": "बास्केटबॉल टीम ने Riberas del Paraná को 71-56 से हराकर Pre Federal का रेगुलर राउंड ख़त्म किया; प्लेऑफ़ में Racing de Olavarría से भिड़ंत।"
+      }
+    }
+  ]
+}

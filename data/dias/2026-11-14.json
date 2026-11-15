@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-09-17_semifinalista-de-america_3",
+    "alt": {
+      "es": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores.",
+      "en": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals.",
+      "pt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores.",
+      "zh": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。",
+      "hi": "Copa Libertadores के सेमीफ़ाइनल में पहुँचने पर Estudiantes के खिलाड़ी मैदान पर जश्न मना रहे हैं।"
+    }
+  },
   "siete": [
     {
       "titulo": {
@@ -151,16 +161,6 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-09-17_semifinalista-de-america_3",
-    "alt": {
-      "es": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores.",
-      "en": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals.",
-      "pt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores.",
-      "zh": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。",
-      "hi": "Copa Libertadores के सेमीफ़ाइनल में पहुँचने पर Estudiantes के खिलाड़ी मैदान पर जश्न मना रहे हैं।"
-    }
-  },
   "linea": [
     {
       "hora": "2026-11-14T17:29:00-03:00",
@@ -196,6 +196,18 @@
         "pt": "Mariano Pavone elogiou o campeão e indicou Guido Carrillo para a Seleção.",
         "zh": "Mariano Pavone称赞冠军球队，并推荐Guido Carrillo入选国家队。",
         "hi": "Mariano Pavone ने चैंपियन की तारीफ़ की और Guido Carrillo को राष्ट्रीय टीम के लिए सुझाया।"
+      }
+    },
+    {
+      "hora": "2026-11-14T12:55:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/traspie-contra-san-gregorio/",
+      "texto": {
+        "es": "Vóley femenino: cayó 3-1 con San Gregorio, pero ya aseguró la permanencia en la División de Honor 2027.",
+        "en": "Women's volleyball: a 3-1 defeat to San Gregorio, but their place in the 2027 División de Honor is already secured.",
+        "pt": "Vôlei feminino: perdeu por 3 a 1 para o San Gregorio, mas já garantiu a permanência na División de Honor de 2027.",
+        "zh": "女排1比3负于San Gregorio，但已确保2027年留在División de Honor。",
+        "hi": "महिला वॉलीबॉल: San Gregorio से 3-1 की हार, लेकिन 2027 की División de Honor में जगह पहले ही पक्की।"
       }
     },
     {

@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "从庆祝到蒙得维的亚：121辆大巴售罄",
+    "titular": "倒计时开始：球队明天恢复训练",
     "foto": {
       "alt": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。"
     },
-    "resumen": "刚刚拿下第20颗星，球队正在休息，周一将回到City Bell备战28日周六在Centenario对阵帕尔梅拉斯（Palmeiras）的Copa Libertadores决赛。球迷们抢光了俱乐部组织的121辆大巴。",
+    "resumen": "拿下阿根廷超级杯后，球队明天回到City Bell训练基地，将有12天没有比赛，专心备战11月28日周六在Centenario球场对阵帕尔梅拉斯（Palmeiras）的南美解放者杯决赛。对手则要在七天内踢三场巴甲联赛。",
     "siete": [
       {
         "titulo": "Correa决赛能否出战成疑",
@@ -15,27 +15,36 @@
         "texto": "球迷买光了俱乐部组织的121辆大巴，创纪录的车队将开赴Centenario。"
       },
       {
-        "titulo": "座位票：已无余票",
-        "texto": "加售的座位票也已售罄。若有余票，俱乐部将通知会员。"
+        "titulo": "球队周一归队",
+        "texto": "庆祝完超级杯冠军后，球队周一在City Bell恢复训练。决赛前将有12天没有正式比赛。"
       },
       {
-        "titulo": "球队周一归队",
-        "texto": "庆祝Supercopa夺冠后，球队正在休息，周一将在City Bell恢复训练。"
+        "titulo": "帕尔梅拉斯赛程更密集",
+        "texto": "七天内要踢三场巴甲：18日对Cruzeiro、21日对Flamengo、24日对Chapecoense，最后一场距决赛仅四天。同时还在争夺联赛冠军，落后Flamengo三分。"
       },
       {
         "titulo": "告别老球迷Mary",
         "texto": "Agrupación Juan Sebastián Verón的代表人物María Carmen Lucia（“Mary”）去世。俱乐部和Verón向其家人致以悼念。"
       },
       {
-        "titulo": "帕尔梅拉斯赛程更密集",
-        "texto": "决赛前，Palmeiras将在18日至24日间进行三场巴西甲级联赛（对阵Cruzeiro、Flamengo和Chapecoense）。Pincha则可以专心备战决赛。"
+        "titulo": "篮球：常规赛以9胜1负收官",
+        "texto": "在UNO球场以71比56击败Riberas del Paraná，Pre Federal常规赛战绩9胜1负。季后赛对手是Racing de Olavarría。"
       },
       {
-        "titulo": "Medina成为首位夺冠的外籍主帅",
-        "texto": "这位乌拉圭教练赢得Supercopa，成为首位率Estudiantes夺冠的外籍主帅。"
+        "titulo": "排球：保住División de Honor席位",
+        "texto": "女排1比3负于San Gregorio，但River击败UNTREF，球队确保2027年留在顶级联赛。19日周五在UNO主场迎战UNTREF。"
       }
     ],
     "linea": [
+      {
+        "texto": "巴西媒体提醒帕尔梅拉斯体能消耗：决赛前七天要踢270分钟。"
+      },
+      {
+        "texto": "关键两周开始：周一开启倒计时，Medina将迎回多名主力备战决赛。"
+      },
+      {
+        "texto": "篮球队以71比56击败Riberas del Paraná结束Pre Federal常规赛，季后赛对阵Racing de Olavarría。"
+      },
       {
         "texto": "Pincha痛失老球迷：Agrupación Juan Sebastián Verón的代表人物Mary去世。"
       },
@@ -43,7 +52,7 @@
         "texto": "Palmeiras决赛前要踢三场比赛，赛程对Pincha有利。"
       },
       {
-        "texto": "Mariano Pavone称赞冠军球队，并推荐Guido Carrillo入选国家队。"
+        "texto": "女排1比3负于San Gregorio，但已确保2027年留在División de Honor。"
       },
       {
         "texto": "Medina创造历史：他是首位率Estudiantes夺冠的外籍主帅。"
@@ -65,9 +74,6 @@
       },
       {
         "texto": "加时夺冠：Carrillo进球加上一粒乌龙球取得2比0领先，Rivadavia在补时扳平，Alario在加时赛打进制胜球。"
-      },
-      {
-        "texto": "博物馆焕新：周六晚参加“Museos a la Luz de la Luna”活动开放，设有二维码和互动体验。"
       }
     ]
   },
