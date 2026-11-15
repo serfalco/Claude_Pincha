@@ -1,5 +1,6 @@
 # El Pincha Hoy
-
+7 Noticias 
+Lo importante del Pincha, sin buscar en mil diarios.
 ¿Cómo está hoy el Pincha? Respuesta en menos de un minuto, desde el celular. En español, inglés, portugués, chino e hindi.
 
 ## Cómo funciona
