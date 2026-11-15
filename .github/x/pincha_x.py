@@ -16,7 +16,7 @@ from buffer_x import AR, ahora_ar, ajustar, publicar
 
 CANAL = "6af9e06aece6dfde5fd48ed5"  # @ElPinchaHoy en Buffer
 SITIO = "https://elpinchahoy.com.ar"
-HASHTAGS = "#EDLP #EstudiantesLP"
+HASHTAGS = "#EDLP #EstudiantesLP #LaPlata"
 HORA = time(6, 0)
 
 OTROS = [  # (idioma, invitacion en ese idioma)
