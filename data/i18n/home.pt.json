@@ -1,22 +1,22 @@
 {
   "hoy": {
-    "titular": "Começa a contagem regressiva: o elenco volta amanhã",
+    "titular": "Elenco de volta: começa a preparação para enfrentar o Palmeiras",
     "foto": {
       "alt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores."
     },
-    "resumen": "Com a Supercopa garantida, o elenco volta amanhã a City Bell e terá 12 dias sem jogos para preparar a final da Copa Libertadores contra o Palmeiras, no sábado, 28, no Centenario. O rival, ao contrário, joga três partidas em sete dias pelo Brasileirão.",
+    "resumen": "O elenco volta hoje aos treinos em City Bell, com 12 dias pela frente para preparar a final da Copa Libertadores contra o Palmeiras, no sábado, 28, no Centenario. Correa já treina por conta própria no CT e acelera para chegar.",
     "siete": [
       {
         "titulo": "Correa é dúvida para a final",
-        "texto": "Ele tem uma lesão grau 2 no bíceps da perna direita desde o 1 a 1 com o Talleres. Esse tipo de lesão costuma levar umas três semanas: chegaria muito em cima."
+        "texto": "Ele ainda tem uma lesão grau 2 no bíceps da perna direita, mas já treina sozinho em City Bell para tentar chegar. Mesmo liberado, vai faltar ritmo: a presença dele como titular não está garantida."
+      },
+      {
+        "titulo": "Elenco volta hoje",
+        "texto": "Depois do descanso pela Supercopa, o time retoma os treinos nesta segunda-feira em City Bell. Segundo a agenda divulgada pela imprensa, vai treinar lá todos os dias até a viagem a Montevidéu, com folga no domingo, 22."
       },
       {
         "titulo": "Ônibus para Montevidéu: esgotados",
         "texto": "Os torcedores compraram os 121 ônibus organizados pelo clube: uma caravana recorde rumo ao Centenario."
-      },
-      {
-        "titulo": "Elenco volta na segunda",
-        "texto": "Depois de comemorar a Supercopa, o time volta aos treinos na segunda-feira em City Bell. Terá 12 dias sem jogos oficiais para preparar a final."
       },
       {
         "titulo": "Palmeiras chega com mais jogos",
@@ -46,6 +46,9 @@
         "texto": "O basquete encerrou a fase regular do Pre Federal com 71 a 56 sobre o Riberas del Paraná; nos playoffs pega o Racing de Olavarría."
       },
       {
+        "texto": "Correa acelera a recuperação em City Bell para chegar em plenas condições à final do dia 28."
+      },
+      {
         "texto": "Luto no Pincha: morreu Mary, torcedora histórica e referência da Agrupación Juan Sebastián Verón."
       },
       {
@@ -68,12 +71,6 @@
       },
       {
         "texto": "Caravana histórica: os torcedores esgotaram os 121 ônibus para viajar ao Centenario."
-      },
-      {
-        "texto": "Alak parabenizou o campeão e a Prefeitura de La Plata se iluminou de vermelho e branco."
-      },
-      {
-        "texto": "Campeão na prorrogação: Carrillo e um gol contra fizeram 2 a 0, o Rivadavia empatou nos acréscimos e Alario decidiu na prorrogação."
       }
     ]
   },

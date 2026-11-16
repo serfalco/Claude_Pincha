@@ -1,0 +1,165 @@
+{
+  "fecha": "2026-11-16",
+  "titular": {
+    "es": "Vuelve el plantel: arranca la preparación para Palmeiras",
+    "en": "Squad back: preparations for Palmeiras begin",
+    "pt": "Elenco de volta: começa a preparação para enfrentar o Palmeiras",
+    "zh": "球队归队：备战帕尔梅拉斯（Palmeiras）正式开始",
+    "hi": "टीम लौटी: Palmeiras के ख़िलाफ़ फ़ाइनल की तैयारी शुरू"
+  },
+  "resumen": {
+    "es": "El plantel vuelve hoy a entrenar en City Bell, con 12 días por delante para preparar la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. Correa ya trabaja por su cuenta en el predio y acelera para llegar.",
+    "en": "The squad return to training at City Bell today, with 12 days to prepare for the Copa Libertadores final against Palmeiras on Saturday 28th at the Centenario. Correa is already working on his own at the training ground as he races to be fit.",
+    "pt": "O elenco volta hoje aos treinos em City Bell, com 12 dias pela frente para preparar a final da Copa Libertadores contra o Palmeiras, no sábado, 28, no Centenario. Correa já treina por conta própria no CT e acelera para chegar.",
+    "zh": "球队今天在City Bell恢复训练，距离周六（28日）在Centenario对阵Palmeiras的南美解放者杯决赛还有12天。Correa已在训练基地单独训练，力争赶上决赛。",
+    "hi": "टीम आज City Bell में फिर अभ्यास शुरू कर रही है और शनिवार 28 तारीख़ को Centenario में Palmeiras के ख़िलाफ़ Copa Libertadores फ़ाइनल की तैयारी के लिए 12 दिन बचे हैं। Correa ट्रेनिंग ग्राउंड पर अकेले अभ्यास कर रहे हैं ताकि समय पर फ़िट हो सकें।"
+  },
+  "ultimo": {
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral",
+    "goles": [
+      {
+        "jugador": "Carrillo",
+        "min": "55"
+      },
+      {
+        "jugador": "Villalba",
+        "min": "68",
+        "ec": true
+      },
+      {
+        "jugador": "Alario",
+        "min": "96"
+      }
+    ]
+  },
+  "siete": [
+    {
+      "titulo": {
+        "es": "Correa, en duda para la final",
+        "en": "Correa a doubt for the final",
+        "pt": "Correa é dúvida para a final",
+        "zh": "Correa决赛能否出战成疑",
+        "hi": "फ़ाइनल के लिए Correa पर संशय"
+      },
+      "texto": {
+        "es": "Arrastra un desgarro grado 2 en el bíceps de la pierna derecha, pero ya trabaja por su cuenta en City Bell para llegar. Si le dan el alta, igual le faltará ritmo: su presencia de entrada no está asegurada.",
+        "en": "He still has a grade 2 tear in his right hamstring, but is already working on his own at City Bell in a bid to make it. Even if he is cleared, he will lack match sharpness, so a starting place is far from certain.",
+        "pt": "Ele ainda tem uma lesão grau 2 no bíceps da perna direita, mas já treina sozinho em City Bell para tentar chegar. Mesmo liberado, vai faltar ritmo: a presença dele como titular não está garantida.",
+        "zh": "他右腿股二头肌二级拉伤仍未痊愈，但已在City Bell单独训练，争取赶上决赛。即便获准复出，比赛状态也会不足，能否首发尚无定论。",
+        "hi": "उनकी दाईं जांघ की मांसपेशी में ग्रेड 2 खिंचाव अभी ठीक नहीं हुआ है, लेकिन वे City Bell में अकेले अभ्यास कर रहे हैं। फ़िट घोषित होने पर भी मैच की लय की कमी रहेगी, इसलिए शुरुआती एकादश में उनका होना तय नहीं।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "El plantel vuelve hoy",
+        "en": "Squad back today",
+        "pt": "Elenco volta hoje",
+        "zh": "球队今天归队",
+        "hi": "टीम आज लौटी"
+      },
+      "texto": {
+        "es": "Tras el descanso por la Supercopa, el equipo retoma este lunes en City Bell. Según la agenda que publicaron los medios, entrenará ahí todos los días hasta el viaje a Montevideo, con el domingo 22 libre.",
+        "en": "After the break that followed the Supercopa, the team return to training this Monday at City Bell. According to the schedule reported in the media, they will train there daily until the trip to Montevideo, with Sunday 22nd off.",
+        "pt": "Depois do descanso pela Supercopa, o time retoma os treinos nesta segunda-feira em City Bell. Segundo a agenda divulgada pela imprensa, vai treinar lá todos os dias até a viagem a Montevidéu, com folga no domingo, 22.",
+        "zh": "超级杯夺冠后休整数日，球队本周一在City Bell恢复训练。据媒体公布的日程，球队将每天在那里训练，直至启程前往蒙得维的亚，22日周日休息。",
+        "hi": "Supercopa के बाद आराम के बाद टीम इस सोमवार City Bell में अभ्यास पर लौट रही है। मीडिया में आए कार्यक्रम के मुताबिक़ Montevideo रवाना होने तक रोज़ वहीं अभ्यास होगा, रविवार 22 को छुट्टी रहेगी।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Micros a Montevideo: agotados",
+        "en": "Coaches to Montevideo: sold out",
+        "pt": "Ônibus para Montevidéu: esgotados",
+        "zh": "前往蒙得维的亚的大巴：已售罄",
+        "hi": "मोंटेवीडियो की बसें: सब बिक गईं"
+      },
+      "texto": {
+        "es": "Los hinchas compraron los 121 micros que organizó el club: una caravana récord rumbo al Centenario.",
+        "en": "Fans bought all 121 coaches organised by the club: a record convoy heading to the Centenario.",
+        "pt": "Os torcedores compraram os 121 ônibus organizados pelo clube: uma caravana recorde rumo ao Centenario.",
+        "zh": "球迷买光了俱乐部组织的121辆大巴，创纪录的车队将开赴Centenario。",
+        "hi": "प्रशंसकों ने क्लब की सभी 121 बसें बुक कर लीं: Centenario के लिए रिकॉर्ड काफ़िला।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Palmeiras llega con más partidos",
+        "en": "Palmeiras have a busier schedule",
+        "pt": "Palmeiras chega com mais jogos",
+        "zh": "帕尔梅拉斯赛程更密集",
+        "hi": "Palmeiras के ज़्यादा मैच"
+      },
+      "texto": {
+        "es": "Juega tres por el Brasileirão en siete días: Cruzeiro (18), Flamengo (21) y Chapecoense (24), cuatro días antes de la final. Además pelea el título, a tres puntos de Flamengo.",
+        "en": "They play three Brasileirão matches in seven days: Cruzeiro (18th), Flamengo (21st) and Chapecoense (24th), four days before the final. They are also chasing the title, three points behind Flamengo.",
+        "pt": "Joga três pelo Brasileirão em sete dias: Cruzeiro (18), Flamengo (21) e Chapecoense (24), quatro dias antes da final. Além disso, briga pelo título, a três pontos do Flamengo.",
+        "zh": "七天内要踢三场巴甲：18日对Cruzeiro、21日对Flamengo、24日对Chapecoense，最后一场距决赛仅四天。同时还在争夺联赛冠军，落后Flamengo三分。",
+        "hi": "Brasileirão में सात दिन में तीन मैच: Cruzeiro (18), Flamengo (21) और Chapecoense (24), आख़िरी मैच फ़ाइनल से सिर्फ़ चार दिन पहले। साथ ही वह ख़िताब की दौड़ में Flamengo से तीन अंक पीछे है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Adiós a Mary, hincha histórica",
+        "en": "Farewell to Mary, a lifelong fan",
+        "pt": "Adeus a Mary, torcedora histórica",
+        "zh": "告别老球迷Mary",
+        "hi": "अलविदा Mary, पुरानी समर्थक"
+      },
+      "texto": {
+        "es": "Murió María Carmen Lucia, «Mary», referente de la Agrupación Juan Sebastián Verón. El club y Verón la despidieron con un mensaje a su familia.",
+        "en": "María Carmen Lucia, known as 'Mary', a leading figure of the Agrupación Juan Sebastián Verón, has died. The club and Verón paid tribute with a message to her family.",
+        "pt": "Morreu María Carmen Lucia, a 'Mary', referência da Agrupación Juan Sebastián Verón. O clube e Verón a homenagearam com uma mensagem à família.",
+        "zh": "Agrupación Juan Sebastián Verón的代表人物María Carmen Lucia（“Mary”）去世。俱乐部和Verón向其家人致以悼念。",
+        "hi": "Agrupación Juan Sebastián Verón की प्रमुख सदस्य María Carmen Lucia ('Mary') का निधन हो गया। क्लब और Verón ने उनके परिवार के नाम संदेश से श्रद्धांजलि दी।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Básquet: fase regular cerrada con 9-1",
+        "en": "Basketball: regular season closed at 9-1",
+        "pt": "Basquete: fase regular encerrada com 9-1",
+        "zh": "篮球：常规赛以9胜1负收官",
+        "hi": "बास्केटबॉल: रेगुलर राउंड 9-1 से ख़त्म"
+      },
+      "texto": {
+        "es": "En el UNO le ganó 71-56 a Riberas del Paraná y terminó la ronda regular del Pre Federal con 9 triunfos y una derrota. En los playoffs enfrenta a Racing de Olavarría.",
+        "en": "At the UNO they beat Riberas del Paraná 71-56 to finish the Pre Federal regular season with 9 wins and one defeat. In the play-offs they face Racing de Olavarría.",
+        "pt": "No UNO venceu o Riberas del Paraná por 71 a 56 e terminou a fase regular do Pre Federal com 9 vitórias e uma derrota. Nos playoffs enfrenta o Racing de Olavarría.",
+        "zh": "在UNO球场以71比56击败Riberas del Paraná，Pre Federal常规赛战绩9胜1负。季后赛对手是Racing de Olavarría。",
+        "hi": "UNO में Riberas del Paraná को 71-56 से हराकर Pre Federal का रेगुलर राउंड 9 जीत और एक हार के साथ पूरा किया। प्लेऑफ़ में मुक़ाबला Racing de Olavarría से है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Vóley: sigue en la División de Honor",
+        "en": "Volleyball: staying in the División de Honor",
+        "pt": "Vôlei: segue na División de Honor",
+        "zh": "排球：保住División de Honor席位",
+        "hi": "वॉलीबॉल: División de Honor में बरक़रार"
+      },
+      "texto": {
+        "es": "El equipo femenino perdió 3-1 con San Gregorio, pero el triunfo de River ante UNTREF le aseguró la permanencia en la máxima categoría para 2027. El viernes 19 recibe a UNTREF en el UNO.",
+        "en": "The women's team lost 3-1 to San Gregorio, but River's win over UNTREF secured their place in the top flight for 2027. On Friday 19th they host UNTREF at the UNO.",
+        "pt": "O time feminino perdeu por 3 a 1 para o San Gregorio, mas a vitória do River sobre o UNTREF garantiu a permanência na elite em 2027. Na sexta-feira, 19, recebe o UNTREF no UNO.",
+        "zh": "女排1比3负于San Gregorio，但River击败UNTREF，球队确保2027年留在顶级联赛。19日周五在UNO主场迎战UNTREF。",
+        "hi": "महिला टीम San Gregorio से 3-1 से हारी, लेकिन UNTREF पर River की जीत से 2027 के लिए शीर्ष डिवीज़न में जगह पक्की हो गई। शुक्रवार 19 को UNO में UNTREF से मुक़ाबला।"
+      }
+    }
+  ],
+  "foto": {
+    "id": "2026-09-17_semifinalista-de-america_3",
+    "alt": {
+      "es": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores.",
+      "en": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals.",
+      "pt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores.",
+      "zh": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。",
+      "hi": "Copa Libertadores के सेमीफ़ाइनल में पहुँचने पर Estudiantes के खिलाड़ी मैदान पर जश्न मना रहे हैं।"
+    }
+  },
+  "linea": []
+}

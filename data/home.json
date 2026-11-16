@@ -1,25 +1,25 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-15T14:55:00-03:00",
+  "actualizado": "2026-11-16T12:10:00-03:00",
   "hoy": {
-    "titular": "Arranca la cuenta regresiva: el plantel vuelve mañana",
+    "titular": "Vuelve el plantel: arranca la preparación para Palmeiras",
     "foto": {
       "id": "2026-09-17_semifinalista-de-america_3",
       "alt": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores."
     },
-    "resumen": "Con la Supercopa en el bolsillo, el plantel vuelve mañana a City Bell y tendrá 12 días sin partidos para preparar la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. El rival, en cambio, juega tres partidos en siete días por el Brasileirão.",
+    "resumen": "El plantel vuelve hoy a entrenar en City Bell, con 12 días por delante para preparar la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. Correa ya trabaja por su cuenta en el predio y acelera para llegar.",
     "siete": [
       {
         "titulo": "Correa, en duda para la final",
-        "texto": "Tiene un desgarro grado 2 en el bíceps de la pierna derecha desde el 1-1 con Talleres. Estas lesiones suelen llevar unas tres semanas: llegaría muy justo."
+        "texto": "Arrastra un desgarro grado 2 en el bíceps de la pierna derecha, pero ya trabaja por su cuenta en City Bell para llegar. Si le dan el alta, igual le faltará ritmo: su presencia de entrada no está asegurada."
+      },
+      {
+        "titulo": "El plantel vuelve hoy",
+        "texto": "Tras el descanso por la Supercopa, el equipo retoma este lunes en City Bell. Según la agenda que publicaron los medios, entrenará ahí todos los días hasta el viaje a Montevideo, con el domingo 22 libre."
       },
       {
         "titulo": "Micros a Montevideo: agotados",
         "texto": "Los hinchas compraron los 121 micros que organizó el club: una caravana récord rumbo al Centenario."
-      },
-      {
-        "titulo": "El plantel vuelve el lunes",
-        "texto": "Después de festejar la Supercopa, el equipo retoma los entrenamientos el lunes en City Bell. Tendrá 12 días sin partidos oficiales para preparar la final."
       },
       {
         "titulo": "Palmeiras llega con más partidos",
@@ -56,6 +56,12 @@
         "texto": "El básquet cerró la fase regular del Pre Federal con un 71-56 a Riberas del Paraná; en los playoffs va con Racing de Olavarría.",
         "fuente": "Club",
         "url": "https://estudiantesdelaplata.com/cerro-la-fase-regular-victorioso/"
+      },
+      {
+        "hora": "2026-11-15T05:58:00-03:00",
+        "texto": "Correa acelera su recuperación en City Bell para llegar en las mejores condiciones a la final del 28.",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/correa-acelera-su-puesta-a-punto-para-la-gran-final-deportes_1794733130"
       },
       {
         "hora": "2026-11-14T17:29:00-03:00",
@@ -104,18 +110,6 @@
         "texto": "Caravana histórica: los hinchas agotaron los 121 micros para viajar al Centenario.",
         "fuente": "Olé",
         "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcVdXckdtaS1KZjJSeWpqdk0zUnZOb2lTNk1ua0RtLVk1eWNyX1lndGd3VTQ5XzZlN1l4ZVY1S1dZcmQtQ216X3paeklJdjk1dlhiMFh3eTBoUVp6QUxUamp0TUVnSzNUbHFJdHJZTGNydnJtdS1iWTN0N0lrek03NG9BSzJlQ2dKb0VkaEl2MzNWMUwwclRHcFBMUE1pdnZBalNidGI0R2RZNlFNOFZIUUdNMEFacFhpZFdabEJYZUdsLVEwT1lSN2JHRVZMTGZ0RENfZ1BaQ3F5SElGcEtkTmliTTBhRnEwQ0JaRzdIMVNXLTZHTXZKRDhLUkwxeGNUMVczT09xSmxTVVE?oc=5"
-      },
-      {
-        "hora": "2026-11-13T11:34:00-03:00",
-        "texto": "Alak felicitó al campeón y la Municipalidad de La Plata se iluminó de rojo y blanco.",
-        "fuente": "Punto Capital",
-        "url": "https://www.puntocapitalnoticias.com/alak-felicito-a-estudiantes-por-la-supercopa-argentina-y-la-municipalidad-se-ilumino-de-rojo-y-blanco/"
-      },
-      {
-        "hora": "2026-11-12T23:02:00-03:00",
-        "texto": "Campeón en el alargue: Carrillo y un gol en contra pusieron el 2-0, Rivadavia lo empató en el descuento y Alario lo ganó en el suplementario.",
-        "fuente": "Noticias Argentinas",
-        "url": "https://noticiasargentinas.com/deportes/estudiantes-de-la-plata-e-independiente-rivadavia-se-enfrentan-por-el-titulo-en-la-supercopa-argentina_a6af4529072af9e905aa798b7"
       }
     ]
   },
@@ -403,6 +397,7 @@
     "https://www.infocielo.com/deportes/tras-ganar-la-supercopa-argentina-estudiantes-fue-licenciado-y-ya-apunta-a-la-final-de-la-libertadores",
     "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcVdXckdtaS1KZjJSeWpqdk0zUnZOb2lTNk1ua0RtLVk1eWNyX1lndGd3VTQ5XzZlN1l4ZVY1S1dZcmQtQ216X3paeklJdjk1dlhiMFh3eTBoUVp6QUxUamp0TUVnSzNUbHFJdHJZTGNydnJtdS1iWTN0N0lrek03NG9BSzJlQ2dKb0VkaEl2MzNWMUwwclRHcFBMUE1pdnZBalNidGI0R2RZNlFNOFZIUUdNMEFacFhpZFdabEJYZUdsLVEwT1lSN2JHRVZMTGZ0RENfZ1BaQ3F5SElGcEtkTmliTTBhRnEwQ0JaRzdIMVNXLTZHTXZKRDhLUkwxeGNUMVczT09xSmxTVVE?oc=5",
     "https://www.puntocapitalnoticias.com/alak-felicito-a-estudiantes-por-la-supercopa-argentina-y-la-municipalidad-se-ilumino-de-rojo-y-blanco/",
-    "https://www.0221.com.ar/estudiantes/estudiantes-agoto-los-micros-la-final-la-copa-libertadores-una-caravana-historica-montevideo-n137396"
+    "https://www.0221.com.ar/estudiantes/estudiantes-agoto-los-micros-la-final-la-copa-libertadores-una-caravana-historica-montevideo-n137396",
+    "https://www.eldia.com/deportes/correa-acelera-su-puesta-a-punto-para-la-gran-final-deportes_1794733130"
   ]
 }

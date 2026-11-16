@@ -1,22 +1,22 @@
 {
   "hoy": {
-    "titular": "The countdown begins: the squad return tomorrow",
+    "titular": "Squad back: preparations for Palmeiras begin",
     "foto": {
       "alt": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals."
     },
-    "resumen": "With the Supercopa won, the squad return to City Bell tomorrow and will have 12 days without matches to prepare for the Copa Libertadores final against Palmeiras on Saturday 28th at the Centenario. Their opponents, by contrast, play three matches in seven days in the Brasileirão.",
+    "resumen": "The squad return to training at City Bell today, with 12 days to prepare for the Copa Libertadores final against Palmeiras on Saturday 28th at the Centenario. Correa is already working on his own at the training ground as he races to be fit.",
     "siete": [
       {
         "titulo": "Correa a doubt for the final",
-        "texto": "He has had a grade 2 tear in his right hamstring since the 1-1 against Talleres. These injuries usually take around three weeks, so it will be very tight."
+        "texto": "He still has a grade 2 tear in his right hamstring, but is already working on his own at City Bell in a bid to make it. Even if he is cleared, he will lack match sharpness, so a starting place is far from certain."
+      },
+      {
+        "titulo": "Squad back today",
+        "texto": "After the break that followed the Supercopa, the team return to training this Monday at City Bell. According to the schedule reported in the media, they will train there daily until the trip to Montevideo, with Sunday 22nd off."
       },
       {
         "titulo": "Coaches to Montevideo: sold out",
         "texto": "Fans bought all 121 coaches organised by the club: a record convoy heading to the Centenario."
-      },
-      {
-        "titulo": "Squad back on Monday",
-        "texto": "After celebrating the Supercopa, the team resume training on Monday at City Bell. They will have 12 days without competitive matches to prepare for the final."
       },
       {
         "titulo": "Palmeiras have a busier schedule",
@@ -46,6 +46,9 @@
         "texto": "The basketball team closed the Pre Federal regular season with a 71-56 win over Riberas del Paraná; Racing de Olavarría await in the play-offs."
       },
       {
+        "texto": "Correa steps up his recovery at City Bell to arrive in the best possible shape for the final on the 28th."
+      },
+      {
         "texto": "Sad news for the Pincha: Mary, a lifelong fan and leading figure of the Agrupación Juan Sebastián Verón, has died."
       },
       {
@@ -68,12 +71,6 @@
       },
       {
         "texto": "A historic convoy: fans sold out all 121 coaches to travel to the Centenario."
-      },
-      {
-        "texto": "Mayor Alak congratulated the champions and La Plata's town hall was lit up in red and white."
-      },
-      {
-        "texto": "Champions in extra time: Carrillo and an own goal made it 2-0, Rivadavia levelled in stoppage time and Alario won it in extra time."
       }
     ]
   },

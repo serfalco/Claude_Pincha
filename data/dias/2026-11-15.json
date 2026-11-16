@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-09-17_semifinalista-de-america_3",
+    "alt": {
+      "es": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores.",
+      "en": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals.",
+      "pt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores.",
+      "zh": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。",
+      "hi": "Copa Libertadores के सेमीफ़ाइनल में पहुँचने पर Estudiantes के खिलाड़ी मैदान पर जश्न मना रहे हैं।"
+    }
+  },
   "siete": [
     {
       "titulo": {
@@ -151,16 +161,6 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-09-17_semifinalista-de-america_3",
-    "alt": {
-      "es": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores.",
-      "en": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals.",
-      "pt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores.",
-      "zh": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。",
-      "hi": "Copa Libertadores के सेमीफ़ाइनल में पहुँचने पर Estudiantes के खिलाड़ी मैदान पर जश्न मना रहे हैं।"
-    }
-  },
   "linea": [
     {
       "hora": "2026-11-15T14:15:00-03:00",
@@ -196,6 +196,18 @@
         "pt": "O basquete encerrou a fase regular do Pre Federal com 71 a 56 sobre o Riberas del Paraná; nos playoffs pega o Racing de Olavarría.",
         "zh": "篮球队以71比56击败Riberas del Paraná结束Pre Federal常规赛，季后赛对阵Racing de Olavarría。",
         "hi": "बास्केटबॉल टीम ने Riberas del Paraná को 71-56 से हराकर Pre Federal का रेगुलर राउंड ख़त्म किया; प्लेऑफ़ में Racing de Olavarría से भिड़ंत।"
+      }
+    },
+    {
+      "hora": "2026-11-15T05:58:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/correa-acelera-su-puesta-a-punto-para-la-gran-final-deportes_1794733130",
+      "texto": {
+        "es": "Correa acelera su recuperación en City Bell para llegar en las mejores condiciones a la final del 28.",
+        "en": "Correa steps up his recovery at City Bell to arrive in the best possible shape for the final on the 28th.",
+        "pt": "Correa acelera a recuperação em City Bell para chegar em plenas condições à final do dia 28.",
+        "zh": "Correa在City Bell加快康复进程，力争以最佳状态出战28日的决赛。",
+        "hi": "Correa City Bell में रिकवरी तेज़ कर रहे हैं ताकि 28 तारीख़ के फ़ाइनल में पूरी फ़िटनेस के साथ उतर सकें।"
       }
     }
   ]

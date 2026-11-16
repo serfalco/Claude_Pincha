@@ -1,22 +1,22 @@
 {
   "hoy": {
-    "titular": "倒计时开始：球队明天恢复训练",
+    "titular": "球队归队：备战帕尔梅拉斯（Palmeiras）正式开始",
     "foto": {
       "alt": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。"
     },
-    "resumen": "拿下阿根廷超级杯后，球队明天回到City Bell训练基地，将有12天没有比赛，专心备战11月28日周六在Centenario球场对阵帕尔梅拉斯（Palmeiras）的南美解放者杯决赛。对手则要在七天内踢三场巴甲联赛。",
+    "resumen": "球队今天在City Bell恢复训练，距离周六（28日）在Centenario对阵Palmeiras的南美解放者杯决赛还有12天。Correa已在训练基地单独训练，力争赶上决赛。",
     "siete": [
       {
         "titulo": "Correa决赛能否出战成疑",
-        "texto": "他在1比1战平Talleres一役中右腿股二头肌二级拉伤。这类伤势通常需要约三周恢复，赶上决赛将非常勉强。"
+        "texto": "他右腿股二头肌二级拉伤仍未痊愈，但已在City Bell单独训练，争取赶上决赛。即便获准复出，比赛状态也会不足，能否首发尚无定论。"
+      },
+      {
+        "titulo": "球队今天归队",
+        "texto": "超级杯夺冠后休整数日，球队本周一在City Bell恢复训练。据媒体公布的日程，球队将每天在那里训练，直至启程前往蒙得维的亚，22日周日休息。"
       },
       {
         "titulo": "前往蒙得维的亚的大巴：已售罄",
         "texto": "球迷买光了俱乐部组织的121辆大巴，创纪录的车队将开赴Centenario。"
-      },
-      {
-        "titulo": "球队周一归队",
-        "texto": "庆祝完超级杯冠军后，球队周一在City Bell恢复训练。决赛前将有12天没有正式比赛。"
       },
       {
         "titulo": "帕尔梅拉斯赛程更密集",
@@ -46,6 +46,9 @@
         "texto": "篮球队以71比56击败Riberas del Paraná结束Pre Federal常规赛，季后赛对阵Racing de Olavarría。"
       },
       {
+        "texto": "Correa在City Bell加快康复进程，力争以最佳状态出战28日的决赛。"
+      },
+      {
         "texto": "Pincha痛失老球迷：Agrupación Juan Sebastián Verón的代表人物Mary去世。"
       },
       {
@@ -68,12 +71,6 @@
       },
       {
         "texto": "历史性车队：球迷抢光了前往Centenario的全部121辆大巴。"
-      },
-      {
-        "texto": "市长Alak祝贺冠军，拉普拉塔市政厅亮起红白灯光。"
-      },
-      {
-        "texto": "加时夺冠：Carrillo进球加上一粒乌龙球取得2比0领先，Rivadavia在补时扳平，Alario在加时赛打进制胜球。"
       }
     ]
   },
