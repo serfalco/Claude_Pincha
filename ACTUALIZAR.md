@@ -1,6 +1,6 @@
 # Instrucciones de actualización automática
 
-Este archivo lo sigue la tarea programada que mantiene El Pincha Hoy. Corre cuatro veces por día, en hora argentina: **00:07** (pasa al día nuevo), **08:07** (lo de la mañana, antes del posteo de X de las 09:47), **10:07** y **18:07** (lo de la tarde: prácticas, conferencias, parte médico).
+Este archivo lo sigue la tarea programada que mantiene El Pincha Hoy. Corre tres veces por día, en hora argentina: **00:07** (pasa al día nuevo), **08:07** (lo de la mañana, antes del posteo de X de las 09:47) y **18:07** (lo de la tarde: prácticas, conferencias, parte médico).
 Objetivo: que `data/home.json` y sus traducciones reflejen **cómo está hoy Estudiantes de La Plata**.
 
 ## Reglas de oro
