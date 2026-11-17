@@ -69,6 +69,12 @@ Lo que el club publica en estas redes lo levantan rápido los medios de abajo: b
 - Nacionales: La Nación / Canchallena, Olé, TyC Sports, ESPN, Infobae, 442 Perfil, El Gráfico.
 - Tablas y números: futbolargentino.com, promediosinfo.com.
 
+## Estadios de La Plata (no confundir)
+
+- **El UNO** = Estadio Jorge Luis Hirschi, la cancha de Estudiantes (1 y 57). "El UNO" es solo este.
+- **Estadio Único** = Estadio Único Diego Armando Maradona (antes "Ciudad de La Plata"), del gobierno provincial, en 25 y 32. Es neutral: ahí van finales, Selección, torneos de AFA (ej. la Recopa de Campeones). Nunca llamarlo "el UNO".
+- Si una nota dice "Estadio Único", es el Maradona. En el sitio, nombrarlo "Estadio Único Diego Armando Maradona" (no se traduce).
+
 ## Para socios (prioridad alta)
 
 Si hay una venta de entradas o un trámite de socios en curso, es lo primero que va en `hoy`:
