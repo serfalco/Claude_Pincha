@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-09-17_semifinalista-de-america_3",
+    "alt": {
+      "es": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores.",
+      "en": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals.",
+      "pt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores.",
+      "zh": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。",
+      "hi": "Copa Libertadores के सेमीफ़ाइनल में पहुँचने पर Estudiantes के खिलाड़ी मैदान पर जश्न मना रहे हैं।"
+    }
+  },
   "siete": [
     {
       "titulo": {
@@ -151,15 +161,42 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-09-17_semifinalista-de-america_3",
-    "alt": {
-      "es": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores.",
-      "en": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals.",
-      "pt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores.",
-      "zh": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。",
-      "hi": "Copa Libertadores के सेमीफ़ाइनल में पहुँचने पर Estudiantes के खिलाड़ी मैदान पर जश्न मना रहे हैं।"
+  "linea": [
+    {
+      "hora": "2026-11-16T00:00:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/estudiantes-volvio-entrenarse-la-consagracion-cordoba-y-ya-prepara-la-final-la-copa-libertadores-n137559",
+      "texto": {
+        "es": "El Pincha volvió a entrenarse en City Bell tras la consagración en Córdoba y ya piensa en Palmeiras.",
+        "en": "Estudiantes trained again at City Bell after the title in Córdoba, with Palmeiras already in mind.",
+        "pt": "O Pincha voltou a treinar em City Bell depois do título em Córdoba e já pensa no Palmeiras.",
+        "zh": "Estudiantes在科尔多瓦夺冠后重返City Bell训练，目标直指Palmeiras。",
+        "hi": "Córdoba में ख़िताब के बाद Pincha फिर City Bell में अभ्यास पर लौटा, नज़र Palmeiras पर।"
+      }
+    },
+    {
+      "hora": "2026-11-16T00:00:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/operativo-montevideo-regresa-a-las-practicas-con-el-foco-en-palmeiras-deportes_1794786902",
+      "texto": {
+        "es": "Operativo Montevideo: el plantel regresó a las prácticas con el foco puesto en la final.",
+        "en": "Operation Montevideo: the squad are back in training with the focus on the final.",
+        "pt": "Operação Montevidéu: o elenco voltou aos treinos com o foco na final.",
+        "zh": "蒙得维的亚行动：球队恢复训练，全力聚焦决赛。",
+        "hi": "ऑपरेशन Montevideo: टीम फ़ाइनल पर ध्यान के साथ अभ्यास पर लौटी।"
+      }
+    },
+    {
+      "hora": "2026-11-16T00:00:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://www.infocielo.com/deportes/con-la-supercopa-y-mucha-alegria-asi-comenzo-estudiantes-la-preparacion-para-la-final-de-la-libertadores",
+      "texto": {
+        "es": "Con la Supercopa y mucha alegría, así arrancó la preparación para la final de la Libertadores.",
+        "en": "With the Supercopa trophy and plenty of joy, this is how preparations for the Libertadores final began.",
+        "pt": "Com a Supercopa e muita alegria, assim começou a preparação para a final da Libertadores.",
+        "zh": "带着超级杯奖杯和满满喜悦，解放者杯决赛备战就此开启。",
+        "hi": "Supercopa ट्रॉफ़ी और ढेर सारी ख़ुशी के साथ ऐसे शुरू हुई Libertadores फ़ाइनल की तैयारी।"
+      }
     }
-  },
-  "linea": []
+  ]
 }

@@ -1,18 +1,22 @@
 {
   "hoy": {
-    "titular": "Squad back: preparations for Palmeiras begin",
+    "titular": "Countdown at City Bell: Estudiantes start training for Palmeiras",
     "foto": {
       "alt": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals."
     },
-    "resumen": "The squad return to training at City Bell today, with 12 days to prepare for the Copa Libertadores final against Palmeiras on Saturday 28th at the Centenario. Correa is already working on his own at the training ground as he races to be fit.",
+    "resumen": "The squad returned to training at City Bell on Monday, beginning 12 days of preparation for the Copa Libertadores final against Palmeiras on Saturday 28th at the Centenario. Correa is still working apart, while Carrillo and Castro did gym work to ease their loads.",
     "siete": [
       {
         "titulo": "Correa a doubt for the final",
-        "texto": "He still has a grade 2 tear in his right hamstring, but is already working on his own at City Bell in a bid to make it. Even if he is cleared, he will lack match sharpness, so a starting place is far from certain."
+        "texto": "He is nursing a grade 2 tear in the biceps of his right leg and kept working apart from the group as training resumed. Even if he is cleared, he will lack match rhythm: a starting place is far from certain."
       },
       {
-        "titulo": "Squad back today",
-        "texto": "After the break that followed the Supercopa, the team return to training this Monday at City Bell. According to the schedule reported in the media, they will train there daily until the trip to Montevideo, with Sunday 22nd off."
+        "titulo": "Preparations under way",
+        "texto": "The squad returned to training at City Bell on Monday after the post-Supercopa break. According to the schedule reported in the media, they will train there daily until the trip to Montevideo, with Sunday 22nd off."
+      },
+      {
+        "titulo": "Carrillo and Castro managed",
+        "texto": "Both did gym work in the first session to ease the muscle fatigue left by the final in Córdoba. There is no injury for now: the coaching staff are protecting them."
       },
       {
         "titulo": "Coaches to Montevideo: sold out",
@@ -21,10 +25,6 @@
       {
         "titulo": "Palmeiras have a busier schedule",
         "texto": "They play three Brasileirão matches in seven days: Cruzeiro (18th), Flamengo (21st) and Chapecoense (24th), four days before the final. They are also chasing the title, three points behind Flamengo."
-      },
-      {
-        "titulo": "Farewell to Mary, a lifelong fan",
-        "texto": "María Carmen Lucia, known as 'Mary', a leading figure of the Agrupación Juan Sebastián Verón, has died. The club and Verón paid tribute with a message to her family."
       },
       {
         "titulo": "Basketball: regular season closed at 9-1",
@@ -36,6 +36,15 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Estudiantes trained again at City Bell after the title in Córdoba, with Palmeiras already in mind."
+      },
+      {
+        "texto": "Operation Montevideo: the squad are back in training with the focus on the final."
+      },
+      {
+        "texto": "With the Supercopa trophy and plenty of joy, this is how preparations for the Libertadores final began."
+      },
       {
         "texto": "In Brazil there are warnings about Palmeiras' workload: 270 minutes in seven days before the final."
       },
@@ -62,15 +71,6 @@
       },
       {
         "texto": "The squad remains on leave and returns to training on Monday in City Bell, with Palmeiras in sight."
-      },
-      {
-        "texto": "A Saturday of youth football against Tigre: the U-15 to U-13 sides play at City Bell from 9am (streamed on the club's YouTube channel), while the older youth sides play away."
-      },
-      {
-        "texto": "Guido Carrillo, the man for finals: he has scored in four of the nine finals he has played for the Pincha."
-      },
-      {
-        "texto": "A historic convoy: fans sold out all 121 coaches to travel to the Centenario."
       }
     ]
   },

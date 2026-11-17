@@ -1,18 +1,22 @@
 {
   "hoy": {
-    "titular": "Elenco de volta: começa a preparação para enfrentar o Palmeiras",
+    "titular": "Contagem regressiva em City Bell: o Pincha já treina para enfrentar o Palmeiras",
     "foto": {
       "alt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores."
     },
-    "resumen": "O elenco volta hoje aos treinos em City Bell, com 12 dias pela frente para preparar a final da Copa Libertadores contra o Palmeiras, no sábado, 28, no Centenario. Correa já treina por conta própria no CT e acelera para chegar.",
+    "resumen": "O elenco voltou aos treinos na segunda-feira em City Bell e começou os 12 dias de preparação para a final da Copa Libertadores contra o Palmeiras, no sábado, 28, no Centenario. Correa segue treinando à parte, e Carrillo e Castro fizeram academia para aliviar a carga.",
     "siete": [
       {
-        "titulo": "Correa é dúvida para a final",
-        "texto": "Ele ainda tem uma lesão grau 2 no bíceps da perna direita, mas já treina sozinho em City Bell para tentar chegar. Mesmo liberado, vai faltar ritmo: a presença dele como titular não está garantida."
+        "titulo": "Correa, dúvida para a final",
+        "texto": "Ele se recupera de uma lesão muscular grau 2 no bíceps femoral da perna direita e, na volta aos treinos, seguiu trabalhando separado do grupo. Mesmo liberado, faltará ritmo: sua presença entre os titulares não está garantida."
       },
       {
-        "titulo": "Elenco volta hoje",
-        "texto": "Depois do descanso pela Supercopa, o time retoma os treinos nesta segunda-feira em City Bell. Segundo a agenda divulgada pela imprensa, vai treinar lá todos os dias até a viagem a Montevidéu, com folga no domingo, 22."
+        "titulo": "Começou a preparação",
+        "texto": "O elenco voltou a treinar na segunda-feira em City Bell após o descanso pela Supercopa. Segundo a agenda divulgada pela imprensa, vai treinar lá todos os dias até a viagem a Montevidéu, com folga no domingo, 22."
+      },
+      {
+        "titulo": "Carrillo e Castro poupados",
+        "texto": "Os dois fizeram trabalhos de academia no primeiro treino para aliviar o desgaste muscular deixado pela final em Córdoba. Por enquanto não há lesão: a comissão técnica os preserva."
       },
       {
         "titulo": "Ônibus para Montevidéu: esgotados",
@@ -21,10 +25,6 @@
       {
         "titulo": "Palmeiras chega com mais jogos",
         "texto": "Joga três pelo Brasileirão em sete dias: Cruzeiro (18), Flamengo (21) e Chapecoense (24), quatro dias antes da final. Além disso, briga pelo título, a três pontos do Flamengo."
-      },
-      {
-        "titulo": "Adeus a Mary, torcedora histórica",
-        "texto": "Morreu María Carmen Lucia, a 'Mary', referência da Agrupación Juan Sebastián Verón. O clube e Verón a homenagearam com uma mensagem à família."
       },
       {
         "titulo": "Basquete: fase regular encerrada com 9-1",
@@ -36,6 +36,15 @@
       }
     ],
     "linea": [
+      {
+        "texto": "O Pincha voltou a treinar em City Bell depois do título em Córdoba e já pensa no Palmeiras."
+      },
+      {
+        "texto": "Operação Montevidéu: o elenco voltou aos treinos com o foco na final."
+      },
+      {
+        "texto": "Com a Supercopa e muita alegria, assim começou a preparação para a final da Libertadores."
+      },
       {
         "texto": "No Brasil alertam para o desgaste do Palmeiras: 270 minutos em sete dias antes da final."
       },
@@ -62,15 +71,6 @@
       },
       {
         "texto": "O elenco segue de folga e volta a treinar na segunda-feira em City Bell, já de olho no Palmeiras."
-      },
-      {
-        "texto": "Sábado de base contra o Tigre: Sétima, Oitava e Nona divisões jogam em City Bell a partir das 9h (com transmissão no YouTube do clube); Quarta, Quinta e Sexta jogam fora."
-      },
-      {
-        "texto": "Guido Carrillo, o homem das finais: marcou em quatro das nove decisões que disputou pelo Pincha."
-      },
-      {
-        "texto": "Caravana histórica: os torcedores esgotaram os 121 ônibus para viajar ao Centenario."
       }
     ]
   },

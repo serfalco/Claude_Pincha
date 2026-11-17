@@ -1,18 +1,22 @@
 {
   "hoy": {
-    "titular": "球队归队：备战帕尔梅拉斯（Palmeiras）正式开始",
+    "titular": "City Bell开启倒计时：Estudiantes备战帕尔梅拉斯（Palmeiras）",
     "foto": {
       "alt": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。"
     },
-    "resumen": "球队今天在City Bell恢复训练，距离周六（28日）在Centenario对阵Palmeiras的南美解放者杯决赛还有12天。Correa已在训练基地单独训练，力争赶上决赛。",
+    "resumen": "球队周一在City Bell恢复训练，开始为期12天的备战，迎接本月28日周六在Centenario球场进行的南美解放者杯决赛，对手是Palmeiras。Correa仍单独训练，Carrillo和Castro则进行健身房训练以减轻负荷。",
     "siete": [
       {
-        "titulo": "Correa决赛能否出战成疑",
-        "texto": "他右腿股二头肌二级拉伤仍未痊愈，但已在City Bell单独训练，争取赶上决赛。即便获准复出，比赛状态也会不足，能否首发尚无定论。"
+        "titulo": "Correa决赛出战成疑",
+        "texto": "他右腿股二头肌二级拉伤，球队恢复训练后仍与大部队分开练习。即便获准复出也缺乏比赛节奏，能否首发尚无定论。"
       },
       {
-        "titulo": "球队今天归队",
-        "texto": "超级杯夺冠后休整数日，球队本周一在City Bell恢复训练。据媒体公布的日程，球队将每天在那里训练，直至启程前往蒙得维的亚，22日周日休息。"
+        "titulo": "备战正式开始",
+        "texto": "超级杯后短暂休整，球队周一在City Bell恢复训练。据媒体公布的日程，球队将每天在那里训练，直至启程前往蒙得维的亚，22日周日休息。"
+      },
+      {
+        "titulo": "Carrillo和Castro控制负荷",
+        "texto": "两人在首堂训练课中进行健身房训练，以缓解科尔多瓦决赛留下的肌肉疲劳。目前没有伤情，教练组在加以保护。"
       },
       {
         "titulo": "前往蒙得维的亚的大巴：已售罄",
@@ -21,10 +25,6 @@
       {
         "titulo": "帕尔梅拉斯赛程更密集",
         "texto": "七天内要踢三场巴甲：18日对Cruzeiro、21日对Flamengo、24日对Chapecoense，最后一场距决赛仅四天。同时还在争夺联赛冠军，落后Flamengo三分。"
-      },
-      {
-        "titulo": "告别老球迷Mary",
-        "texto": "Agrupación Juan Sebastián Verón的代表人物María Carmen Lucia（“Mary”）去世。俱乐部和Verón向其家人致以悼念。"
       },
       {
         "titulo": "篮球：常规赛以9胜1负收官",
@@ -36,6 +36,15 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Estudiantes在科尔多瓦夺冠后重返City Bell训练，目标直指Palmeiras。"
+      },
+      {
+        "texto": "蒙得维的亚行动：球队恢复训练，全力聚焦决赛。"
+      },
+      {
+        "texto": "带着超级杯奖杯和满满喜悦，解放者杯决赛备战就此开启。"
+      },
       {
         "texto": "巴西媒体提醒帕尔梅拉斯体能消耗：决赛前七天要踢270分钟。"
       },
@@ -62,15 +71,6 @@
       },
       {
         "texto": "球队仍在放假，周一将在City Bell恢复训练，目标直指Palmeiras。"
-      },
-      {
-        "texto": "青训周六对阵Tigre：第七、八、九梯队9点起在City Bell主场作战（俱乐部YouTube频道直播）；第四、五、六梯队客场出战。"
-      },
-      {
-        "texto": "Guido Carrillo，决赛先生：他为Pincha出战的九场决赛中有四场进球。"
-      },
-      {
-        "texto": "历史性车队：球迷抢光了前往Centenario的全部121辆大巴。"
       }
     ]
   },
