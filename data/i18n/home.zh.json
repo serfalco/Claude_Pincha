@@ -1,34 +1,34 @@
 {
   "hoy": {
-    "titular": "City Bell开启倒计时：Estudiantes备战帕尔梅拉斯（Palmeiras）",
+    "titular": "主裁判确定：委内瑞拉裁判Jesús Valenzuela将执法对阵帕尔梅拉斯的决赛",
     "foto": {
       "alt": "教练组在City Bell训练中向两名球员布置战术。"
     },
-    "resumen": "球队周一在City Bell恢复训练，开始为期12天的备战，迎接本月28日周六在Centenario球场进行的南美解放者杯决赛，对手是Palmeiras。Correa仍单独训练，Carrillo和Castro则进行健身房训练以减轻负荷。",
+    "resumen": "南美足联指派委内瑞拉裁判Jesús Valenzuela执法28日（周六）在Centenario进行的决赛：他曾执法Pincha在四分之一决赛1比0战胜Corinthians的比赛。南美足联还额外开售约一千张看台座位票，仅限Banco Provincia万事达卡持卡人，球队则继续在City Bell备战。",
     "siete": [
+      {
+        "titulo": "加售座位票，明天截止",
+        "texto": "南美足联通过ElevenTickets为决赛加售约1,000张座位票，仅限Banco Provincia万事达卡持卡人。销售持续到18日（周三）19:00或售完为止；俱乐部澄清此次销售并非由其组织。"
+      },
+      {
+        "titulo": "Valenzuela执法决赛",
+        "texto": "南美足联选定委内瑞拉裁判Jesús Valenzuela，裁判组全部来自委内瑞拉，Juan Soto担任VAR。他曾执法Pincha在四分之一决赛1比0战胜Corinthians的比赛；帕尔梅拉斯今年在他执法下保持不败。"
+      },
       {
         "titulo": "Correa决赛出战成疑",
         "texto": "他右腿股二头肌二级拉伤，球队恢复训练后仍与大部队分开练习。即便获准复出也缺乏比赛节奏，能否首发尚无定论。"
       },
       {
-        "titulo": "备战正式开始",
-        "texto": "超级杯后短暂休整，球队周一在City Bell恢复训练。据媒体公布的日程，球队将每天在那里训练，直至启程前往蒙得维的亚，22日周日休息。"
+        "titulo": "一周调整备战",
+        "texto": "球队将继续在City Bell训练直到前往蒙得维的亚，22日（周日）休息。Correa单独进行康复理疗，Carrillo和Castro因肌肉负荷受到保护：教练组在控制负荷的同时保持训练强度。"
       },
       {
-        "titulo": "Carrillo和Castro控制负荷",
-        "texto": "两人在首堂训练课中进行健身房训练，以缓解科尔多瓦决赛留下的肌肉疲劳。目前没有伤情，教练组在加以保护。"
+        "titulo": "González Pirez：“我一直在想这场比赛”",
+        "texto": "这位后卫接受DSports采访时谈到对决赛的焦虑，淡化了裁判话题，并称赞了Carrillo、Rojo和Verón。"
       },
       {
-        "titulo": "前往蒙得维的亚的大巴：已售罄",
-        "texto": "球迷买光了俱乐部组织的121辆大巴，创纪录的车队将开赴Centenario。"
-      },
-      {
-        "titulo": "帕尔梅拉斯赛程更密集",
-        "texto": "七天内要踢三场巴甲：18日对Cruzeiro、21日对Flamengo、24日对Chapecoense，最后一场距决赛仅四天。同时还在争夺联赛冠军，落后Flamengo三分。"
-      },
-      {
-        "titulo": "帕尔梅拉斯（Palmeiras）：Piquerez成疑",
-        "texto": "这位乌拉圭边后卫13日（周五）代表国家队比赛时右大腿受伤。Palmeiras未公布复出时间，巴西媒体认为他很难赶上决赛。"
+        "titulo": "帕尔梅拉斯明天出战，Piquerez缺阵",
+        "texto": "帕尔梅拉斯18日（周三）20:30将在Mineirão客场挑战Cruzeiro（巴甲），Piquerez（右大腿伤）、Murilo和Paulinho缺阵。随后还将对阵Flamengo（21日）和Chapecoense（24日），距决赛仅四天。"
       },
       {
         "titulo": "Recopa de Campeones或在拉普拉塔举行",
@@ -37,7 +37,19 @@
     ],
     "linea": [
       {
+        "texto": "Jesús Valenzuela将在Centenario执法Estudiantes与帕尔梅拉斯的决赛。"
+      },
+      {
+        "texto": "帕尔梅拉斯结束客场挑战Cruzeiro的备战，五人缺阵，其中包括Piquerez。"
+      },
+      {
+        "texto": "南美足联为决赛额外开售座位票，仅限Banco Provincia万事达卡持卡人。"
+      },
+      {
         "texto": "Pincha或将在拉普拉塔参加1月的Recopa de Campeones；场地尚未确认。"
+      },
+      {
+        "texto": "González Pirez谈决赛：“我一直在想这场比赛”。"
       },
       {
         "texto": "Estudiantes在科尔多瓦夺冠后重返City Bell训练，目标直指Palmeiras。"
@@ -62,21 +74,6 @@
       },
       {
         "texto": "Correa在City Bell加快康复进程，力争以最佳状态出战28日的决赛。"
-      },
-      {
-        "texto": "Pincha痛失老球迷：Agrupación Juan Sebastián Verón的代表人物Mary去世。"
-      },
-      {
-        "texto": "Palmeiras决赛前要踢三场比赛，赛程对Pincha有利。"
-      },
-      {
-        "texto": "女排1比3负于San Gregorio，但已确保2027年留在División de Honor。"
-      },
-      {
-        "texto": "Medina创造历史：他是首位率Estudiantes夺冠的外籍主帅。"
-      },
-      {
-        "texto": "球队仍在放假，周一将在City Bell恢复训练，目标直指Palmeiras。"
       }
     ]
   },

@@ -163,6 +163,18 @@
   ],
   "linea": [
     {
+      "hora": "2026-11-16T21:08:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/gonzalez-pirez-palpito-la-final-de-la-libertadores-ante-palmeiras-pienso-todo-el-tiempo-en-el-partido-deportes_1794874080",
+      "texto": {
+        "es": "González Pirez palpitó la final: \"Pienso todo el tiempo en el partido\".",
+        "en": "González Pirez on the final: \"I think about the match all the time\".",
+        "pt": "González Pirez sobre a final: \"Penso o tempo todo no jogo\".",
+        "zh": "González Pirez谈决赛：“我一直在想这场比赛”。",
+        "hi": "फ़ाइनल पर González Pirez: \"मैं हर वक़्त मैच के बारे में सोचता हूँ\"।"
+      }
+    },
+    {
       "hora": "2026-11-16T00:00:00-03:00",
       "fuente": "0221",
       "url": "https://www.0221.com.ar/estudiantes/estudiantes-volvio-entrenarse-la-consagracion-cordoba-y-ya-prepara-la-final-la-copa-libertadores-n137559",

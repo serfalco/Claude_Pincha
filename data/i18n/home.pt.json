@@ -1,34 +1,34 @@
 {
   "hoy": {
-    "titular": "Contagem regressiva em City Bell: o Pincha já treina para enfrentar o Palmeiras",
+    "titular": "Árbitro definido: o venezuelano Jesús Valenzuela vai apitar a final contra o Palmeiras",
     "foto": {
       "alt": "A comissão técnica orienta dois jogadores durante um treino em City Bell."
     },
-    "resumen": "O elenco voltou aos treinos na segunda-feira em City Bell e começou os 12 dias de preparação para a final da Copa Libertadores contra o Palmeiras, no sábado, 28, no Centenario. Correa segue treinando à parte, e Carrillo e Castro fizeram academia para aliviar a carga.",
+    "resumen": "A Conmebol escalou o venezuelano Jesús Valenzuela para a final do sábado, dia 28, no Centenário: ele já apitou o 1 a 0 do Pincha sobre o Corinthians nas quartas. Também abriu uma venda extra de cerca de mil cadeiras, exclusiva para clientes Mastercard do Banco Provincia, enquanto o elenco segue a preparação em City Bell.",
     "siete": [
+      {
+        "titulo": "Venda extra de cadeiras, até amanhã",
+        "texto": "A Conmebol liberou cerca de 1.000 cadeiras a mais para a final, pela ElevenTickets e só para clientes com cartão Mastercard do Banco Provincia. A venda vai até quarta-feira, dia 18, às 19h ou até esgotar; o clube esclareceu que não a organiza."
+      },
+      {
+        "titulo": "Valenzuela, o árbitro da final",
+        "texto": "A Conmebol escolheu o venezuelano Jesús Valenzuela, com trio todo venezuelano e Juan Soto no VAR. Ele apitou o 1 a 0 do Pincha sobre o Corinthians nas quartas; o Palmeiras não perdeu com ele neste ano."
+      },
       {
         "titulo": "Correa, dúvida para a final",
         "texto": "Ele se recupera de uma lesão muscular grau 2 no bíceps femoral da perna direita e, na volta aos treinos, seguiu trabalhando separado do grupo. Mesmo liberado, faltará ritmo: sua presença entre os titulares não está garantida."
       },
       {
-        "titulo": "Começou a preparação",
-        "texto": "O elenco voltou a treinar na segunda-feira em City Bell após o descanso pela Supercopa. Segundo a agenda divulgada pela imprensa, vai treinar lá todos os dias até a viagem a Montevidéu, com folga no domingo, 22."
+        "titulo": "Semana de ajustes",
+        "texto": "O elenco segue treinando em City Bell até a viagem a Montevidéu, com folga no domingo, dia 22. Correa faz fisioterapia à parte, e Carrillo e Castro são poupados pela carga muscular: a comissão técnica dosa o trabalho sem perder intensidade."
       },
       {
-        "titulo": "Carrillo e Castro poupados",
-        "texto": "Os dois fizeram trabalhos de academia no primeiro treino para aliviar o desgaste muscular deixado pela final em Córdoba. Por enquanto não há lesão: a comissão técnica os preserva."
+        "titulo": "González Pirez: \"Penso o tempo todo no jogo\"",
+        "texto": "O zagueiro falou à DSports sobre a ansiedade pela final, minimizou o debate sobre a arbitragem e elogiou Carrillo, Rojo e Verón."
       },
       {
-        "titulo": "Ônibus para Montevidéu: esgotados",
-        "texto": "Os torcedores compraram os 121 ônibus organizados pelo clube: uma caravana recorde rumo ao Centenario."
-      },
-      {
-        "titulo": "Palmeiras chega com mais jogos",
-        "texto": "Joga três pelo Brasileirão em sete dias: Cruzeiro (18), Flamengo (21) e Chapecoense (24), quatro dias antes da final. Além disso, briga pelo título, a três pontos do Flamengo."
-      },
-      {
-        "titulo": "Palmeiras com Piquerez em dúvida",
-        "texto": "O lateral uruguaio lesionou a coxa direita na sexta, dia 13, pela seleção. O Palmeiras não dá prazo de retorno e a imprensa brasileira vê difícil ele chegar à final."
+        "titulo": "Palmeiras joga amanhã, sem Piquerez",
+        "texto": "Visita o Cruzeiro na quarta-feira, dia 18, às 20h30, no Mineirão, pelo Brasileirão, sem Piquerez (lesão na coxa direita), Murilo e Paulinho. Depois enfrenta Flamengo (21) e Chapecoense (24), quatro dias antes da final."
       },
       {
         "titulo": "Recopa pode ser em La Plata",
@@ -37,7 +37,19 @@
     ],
     "linea": [
       {
+        "texto": "Jesús Valenzuela será o árbitro da final entre Estudiantes e Palmeiras no Centenário."
+      },
+      {
+        "texto": "O Palmeiras encerrou a preparação para visitar o Cruzeiro com cinco desfalques, entre eles Piquerez."
+      },
+      {
+        "texto": "A Conmebol abriu uma venda extra de cadeiras para a final, só para clientes Mastercard do Banco Provincia."
+      },
+      {
         "texto": "O Pincha pode jogar a Recopa de Campeones de janeiro em La Plata; a sede ainda não foi confirmada."
+      },
+      {
+        "texto": "González Pirez sobre a final: \"Penso o tempo todo no jogo\"."
       },
       {
         "texto": "O Pincha voltou a treinar em City Bell depois do título em Córdoba e já pensa no Palmeiras."
@@ -62,21 +74,6 @@
       },
       {
         "texto": "Correa acelera a recuperação em City Bell para chegar em plenas condições à final do dia 28."
-      },
-      {
-        "texto": "Luto no Pincha: morreu Mary, torcedora histórica e referência da Agrupación Juan Sebastián Verón."
-      },
-      {
-        "texto": "O Palmeiras joga três partidas antes da final, e o calendário favorece o Pincha."
-      },
-      {
-        "texto": "Vôlei feminino: perdeu por 3 a 1 para o San Gregorio, mas já garantiu a permanência na División de Honor de 2027."
-      },
-      {
-        "texto": "Medina fez história: é o primeiro técnico estrangeiro a ser campeão com o Estudiantes."
-      },
-      {
-        "texto": "O elenco segue de folga e volta a treinar na segunda-feira em City Bell, já de olho no Palmeiras."
       }
     ]
   },
