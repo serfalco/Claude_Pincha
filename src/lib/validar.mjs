@@ -65,3 +65,28 @@ export const validarHome = (data) => {
   if (errores.length) throw new Error(`Datos inválidos en data/home.json:\n- ${errores.join('\n- ')}`);
   return data;
 };
+
+// Reglas que miran los días anteriores (data/dias/): que la portada no quede igual día tras día.
+// - Foto de Hoy: puede repetirse, pero como máximo 3 días seguidos; al 4.º hay que cambiarla.
+// - Otros deportes e inferiores (básquet, vóley, Reserva…) en las Siete: como máximo 1 por día, solo si no hay
+//   noticias del fútbol profesional, y nunca la misma dos días (ni el día siguiente ni otro).
+export const MAX_DIAS_FOTO = 3;
+export const OTRO_DEPORTE = /b[aá]squet|basket|v[oó]ley|hockey|rugby|handball|h[aá]ndbol|f[uú]tsal|futsal|nataci[oó]n|tenis|atletismo|patin|inferiores|reserva|juveniles|cuarta|quinta divisi|sexta|s[eé]ptima|novena|sub-?1\d|sub-?20|femenino|amateur/i;
+export const validarHistorial = (data, dias) => {
+  const errores = [];
+  const hoyF = data.actualizado.slice(0, 10);
+  const previos = dias.filter((d) => d.fecha < hoyF).sort((a, b) => b.fecha.localeCompare(a.fecha));
+  const es = (o) => (typeof o === 'string' ? o : o?.es ?? '');
+  const id = data.hoy?.foto?.id;
+  if (id) {
+    let seguidos = 0;
+    for (const d of previos) { if (d.foto?.id === id) seguidos++; else break; }
+    if (seguidos >= MAX_DIAS_FOTO) errores.push(`hoy.foto: "${id}" ya estuvo ${seguidos} días seguidos (máximo ${MAX_DIAS_FOTO}); elegir otra del banco`);
+  }
+  const otros = (data.hoy?.siete ?? []).filter((n) => OTRO_DEPORTE.test(n.titulo));
+  if (otros.length > 1) errores.push(`hoy.siete: ${otros.length} noticias de otros deportes o inferiores (${otros.map((n) => n.titulo).join(' / ')}); máximo 1 y solo si no hay del fútbol profesional`);
+  const norm = (x) => x.toLowerCase().normalize('NFD').replace(/[^a-z0-9]/g, '');
+  const usadas = new Map(previos.flatMap((d) => (d.siete ?? []).filter((n) => OTRO_DEPORTE.test(es(n.titulo))).map((n) => [norm(es(n.titulo)), d.fecha])));
+  for (const n of otros) if (usadas.has(norm(n.titulo))) errores.push(`hoy.siete: "${n.titulo}" ya salió el ${usadas.get(norm(n.titulo))}; las de otros deportes o inferiores van un solo día`);
+  if (errores.length) throw new Error(`Datos inválidos en data/home.json (comparado con días anteriores):\n- ${errores.join('\n- ')}`);
+};

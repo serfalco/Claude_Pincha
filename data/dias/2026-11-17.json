@@ -120,46 +120,59 @@
     },
     {
       "titulo": {
-        "es": "Básquet: fase regular cerrada con 9-1",
-        "en": "Basketball: regular season closed at 9-1",
-        "pt": "Basquete: fase regular encerrada com 9-1",
-        "zh": "篮球：常规赛以9胜1负收官",
-        "hi": "बास्केटबॉल: रेगुलर राउंड 9-1 से ख़त्म"
+        "es": "Palmeiras, con Piquerez en duda",
+        "en": "Palmeiras sweat on Piquerez",
+        "pt": "Palmeiras com Piquerez em dúvida",
+        "zh": "帕尔梅拉斯（Palmeiras）：Piquerez成疑",
+        "hi": "Palmeiras: Piquerez पर संशय"
       },
       "texto": {
-        "es": "En el UNO le ganó 71-56 a Riberas del Paraná y terminó la ronda regular del Pre Federal con 9 triunfos y una derrota. En los playoffs enfrenta a Racing de Olavarría.",
-        "en": "At the UNO they beat Riberas del Paraná 71-56 to finish the Pre Federal regular season with 9 wins and one defeat. In the play-offs they face Racing de Olavarría.",
-        "pt": "No UNO venceu o Riberas del Paraná por 71 a 56 e terminou a fase regular do Pre Federal com 9 vitórias e uma derrota. Nos playoffs enfrenta o Racing de Olavarría.",
-        "zh": "在UNO球场以71比56击败Riberas del Paraná，Pre Federal常规赛战绩9胜1负。季后赛对手是Racing de Olavarría。",
-        "hi": "UNO में Riberas del Paraná को 71-56 से हराकर Pre Federal का रेगुलर राउंड 9 जीत और एक हार के साथ पूरा किया। प्लेऑफ़ में मुक़ाबला Racing de Olavarría से है।"
+        "es": "El lateral uruguayo se lesionó el muslo derecho el viernes 13 con su selección. Palmeiras no da fecha de regreso y en Brasil ven difícil que llegue a la final.",
+        "en": "The Uruguayan full-back injured his right thigh on Friday 13th on international duty. Palmeiras have given no return date and the Brazilian press see him as a long shot for the final.",
+        "pt": "O lateral uruguaio lesionou a coxa direita na sexta, dia 13, pela seleção. O Palmeiras não dá prazo de retorno e a imprensa brasileira vê difícil ele chegar à final.",
+        "zh": "这位乌拉圭边后卫13日（周五）代表国家队比赛时右大腿受伤。Palmeiras未公布复出时间，巴西媒体认为他很难赶上决赛。",
+        "hi": "उरुग्वे के इस फ़ुल-बैक की 13 तारीख़ (शुक्रवार) को राष्ट्रीय टीम के साथ दाईं जांघ में चोट लगी। Palmeiras ने वापसी की तारीख़ नहीं बताई और ब्राज़ीली मीडिया के मुताबिक़ फ़ाइनल तक फ़िट होना मुश्किल है।"
       }
     },
     {
       "titulo": {
-        "es": "Vóley: sigue en la División de Honor",
-        "en": "Volleyball: staying in the División de Honor",
-        "pt": "Vôlei: segue na División de Honor",
-        "zh": "排球：保住División de Honor席位",
-        "hi": "वॉलीबॉल: División de Honor में बरक़रार"
+        "es": "Recopa: podría jugarse en La Plata",
+        "en": "Recopa could be played in La Plata",
+        "pt": "Recopa pode ser em La Plata",
+        "zh": "Recopa de Campeones或在拉普拉塔举行",
+        "hi": "Recopa La Plata में हो सकता है"
       },
       "texto": {
-        "es": "El equipo femenino perdió 3-1 con San Gregorio, pero el triunfo de River ante UNTREF le aseguró la permanencia en la máxima categoría para 2027. El viernes 19 recibe a UNTREF en el UNO.",
-        "en": "The women's team lost 3-1 to San Gregorio, but River's win over UNTREF secured their place in the top flight for 2027. On Friday 19th they host UNTREF at the UNO.",
-        "pt": "O time feminino perdeu por 3 a 1 para o San Gregorio, mas a vitória do River sobre o UNTREF garantiu a permanência na elite em 2027. Na sexta-feira, 19, recebe o UNTREF no UNO.",
-        "zh": "女排1比3负于San Gregorio，但River击败UNTREF，球队确保2027年留在顶级联赛。19日周五在UNO主场迎战UNTREF。",
-        "hi": "महिला टीम San Gregorio से 3-1 से हारी, लेकिन UNTREF पर River की जीत से 2027 के लिए शीर्ष डिवीज़न में जगह पक्की हो गई। शुक्रवार 19 को UNO में UNTREF से मुक़ाबला।"
+        "es": "Por ganar la Supercopa, el Pincha jugará en enero el triangular de la Recopa de Campeones con Rosario Central y el ganador de la Copa Argentina. El UNO es una de las sedes posibles, pero la AFA todavía no la confirmó.",
+        "en": "Winning the Supercopa puts the Pincha into January's Recopa de Campeones round-robin with Rosario Central and the Copa Argentina winners. The UNO is one possible venue, but AFA has yet to confirm it.",
+        "pt": "Por ganhar a Supercopa, o Pincha jogará em janeiro o triangular da Recopa de Campeones com o Rosario Central e o campeão da Copa Argentina. O UNO é uma das sedes possíveis, mas a AFA ainda não confirmou.",
+        "zh": "凭借Supercopa Argentina冠军，Pincha将于1月与Rosario Central及Copa Argentina冠军进行Recopa de Campeones三队循环赛。el UNO是候选场地之一，但阿根廷足协尚未确认。",
+        "hi": "Supercopa जीतने के बाद Pincha जनवरी में Rosario Central और Copa Argentina विजेता के साथ Recopa de Campeones का त्रिकोणीय टूर्नामेंट खेलेगा। el UNO संभावित स्थलों में है, पर AFA ने अभी पुष्टि नहीं की।"
       }
     }
   ],
   "foto": {
-    "id": "2026-09-17_semifinalista-de-america_3",
+    "id": "2026-10-09_algunos-si-otros-no_1",
     "alt": {
-      "es": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores.",
-      "en": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals.",
-      "pt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores.",
-      "zh": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。",
-      "hi": "Copa Libertadores के सेमीफ़ाइनल में पहुँचने पर Estudiantes के खिलाड़ी मैदान पर जश्न मना रहे हैं।"
+      "es": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell.",
+      "en": "Coaching staff give instructions to two players during a training session at City Bell.",
+      "pt": "A comissão técnica orienta dois jogadores durante um treino em City Bell.",
+      "zh": "教练组在City Bell训练中向两名球员布置战术。",
+      "hi": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
     }
   },
-  "linea": []
+  "linea": [
+    {
+      "hora": "2026-11-17T08:20:00-03:00",
+      "fuente": "Punto Capital",
+      "url": "https://www.puntocapitalnoticias.com/estudiantes-podria-jugar-la-recopa-de-campeones-en-la-plata-y-arrancar-el-2027-con-una-nueva-ilusion/",
+      "texto": {
+        "es": "El Pincha podría jugar la Recopa de Campeones de enero en La Plata; la sede todavía no está confirmada.",
+        "en": "The Pincha could play January's Recopa de Campeones in La Plata; the venue is not yet confirmed.",
+        "pt": "O Pincha pode jogar a Recopa de Campeones de janeiro em La Plata; a sede ainda não foi confirmada.",
+        "zh": "Pincha或将在拉普拉塔参加1月的Recopa de Campeones；场地尚未确认。",
+        "hi": "Pincha जनवरी का Recopa de Campeones La Plata में खेल सकता है; स्थल की अभी पुष्टि नहीं।"
+      }
+    }
+  ]
 }

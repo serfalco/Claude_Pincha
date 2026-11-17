@@ -2,7 +2,7 @@
   "hoy": {
     "titular": "City Bell में उलटी गिनती: Pincha ने Palmeiras के लिए अभ्यास शुरू किया",
     "foto": {
-      "alt": "Copa Libertadores के सेमीफ़ाइनल में पहुँचने पर Estudiantes के खिलाड़ी मैदान पर जश्न मना रहे हैं।"
+      "alt": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
     },
     "resumen": "टीम सोमवार को City Bell में अभ्यास पर लौटी और शनिवार 28 को Centenario में Palmeiras के ख़िलाफ़ Copa Libertadores फ़ाइनल की 12 दिन की तैयारी शुरू की। Correa अब भी अलग से अभ्यास कर रहे हैं, जबकि Carrillo और Castro ने थकान कम करने के लिए जिम में काम किया।",
     "siete": [
@@ -27,15 +27,18 @@
         "texto": "Brasileirão में सात दिन में तीन मैच: Cruzeiro (18), Flamengo (21) और Chapecoense (24), आख़िरी मैच फ़ाइनल से सिर्फ़ चार दिन पहले। साथ ही वह ख़िताब की दौड़ में Flamengo से तीन अंक पीछे है।"
       },
       {
-        "titulo": "बास्केटबॉल: रेगुलर राउंड 9-1 से ख़त्म",
-        "texto": "UNO में Riberas del Paraná को 71-56 से हराकर Pre Federal का रेगुलर राउंड 9 जीत और एक हार के साथ पूरा किया। प्लेऑफ़ में मुक़ाबला Racing de Olavarría से है।"
+        "titulo": "Palmeiras: Piquerez पर संशय",
+        "texto": "उरुग्वे के इस फ़ुल-बैक की 13 तारीख़ (शुक्रवार) को राष्ट्रीय टीम के साथ दाईं जांघ में चोट लगी। Palmeiras ने वापसी की तारीख़ नहीं बताई और ब्राज़ीली मीडिया के मुताबिक़ फ़ाइनल तक फ़िट होना मुश्किल है।"
       },
       {
-        "titulo": "वॉलीबॉल: División de Honor में बरक़रार",
-        "texto": "महिला टीम San Gregorio से 3-1 से हारी, लेकिन UNTREF पर River की जीत से 2027 के लिए शीर्ष डिवीज़न में जगह पक्की हो गई। शुक्रवार 19 को UNO में UNTREF से मुक़ाबला।"
+        "titulo": "Recopa La Plata में हो सकता है",
+        "texto": "Supercopa जीतने के बाद Pincha जनवरी में Rosario Central और Copa Argentina विजेता के साथ Recopa de Campeones का त्रिकोणीय टूर्नामेंट खेलेगा। el UNO संभावित स्थलों में है, पर AFA ने अभी पुष्टि नहीं की।"
       }
     ],
     "linea": [
+      {
+        "texto": "Pincha जनवरी का Recopa de Campeones La Plata में खेल सकता है; स्थल की अभी पुष्टि नहीं।"
+      },
       {
         "texto": "Córdoba में ख़िताब के बाद Pincha फिर City Bell में अभ्यास पर लौटा, नज़र Palmeiras पर।"
       },
@@ -44,6 +47,9 @@
       },
       {
         "texto": "Supercopa ट्रॉफ़ी और ढेर सारी ख़ुशी के साथ ऐसे शुरू हुई Libertadores फ़ाइनल की तैयारी।"
+      },
+      {
+        "texto": "Palmeiras के पास Piquerez की वापसी की कोई तारीख़ नहीं: उरुग्वे के लिए खेलते हुए जांघ में चोट, फ़ाइनल पर संशय।"
       },
       {
         "texto": "ब्राज़ील में Palmeiras की थकान पर चिंता: फ़ाइनल से पहले सात दिन में 270 मिनट।"

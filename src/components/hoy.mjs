@@ -19,10 +19,10 @@ export const siete = (items = [], t, nivel = 2) =>
 </div>`
     : '';
 
-const linea = (items = [], actualizado, t, f, enlace) =>
+export const linea = (items = [], actualizado, t, f, enlace) =>
   items.length
     ? html`<div class="linea" id="noticias">
-  <h2 id="notipinchas-titulo" class="linea__titulo">${icono('diario')}${t.lineaTitulo}</h2>
+  <h1 id="notipinchas-titulo" class="linea__titulo">${icono('diario')}${t.lineaTitulo}</h1>
   <ol class="linea__lista">
     ${items.map(
       (n) => html`<li class="linea__item linea__item--simple">
@@ -36,7 +36,7 @@ const linea = (items = [], actualizado, t, f, enlace) =>
 
 // Bloque principal. En etapas futuras su contenido lo genera la IA; la forma de los datos no cambia.
 // Con hoy.foto, el titular va sobre la foto (no suma alto: la respuesta sigue arriba de todo).
-export const hoy = ({ hoy, actualizado }, { t, f, enlaceDia }, destacado, vistazo) => {
+export const hoy = ({ hoy, actualizado }, { t, f, ruta }, destacado, vistazo) => {
   const cabeza = html`<p class="kicker"><span class="dot" aria-hidden="true"></span><time datetime="${actualizado}">${f.larga(actualizado)}</time></p>
     <h1 id="hoy-titulo" class="hoy__titular">${hoy.titular}</h1>`;
   return html`
@@ -48,13 +48,14 @@ export const hoy = ({ hoy, actualizado }, { t, f, enlaceDia }, destacado, vistaz
     ${hoy.siete?.length
       ? siete(hoy.siete, t)
       : hoy.puntos?.length ? html`<ul class="hoy__puntos">${hoy.puntos.map((p) => html`<li>${p}</li>`)}</ul>` : ''}
+    ${hoy.linea?.length && ruta ? html`<p class="siete__mas"><a href="${ruta('notipinchas')}">${icono('diario')}${t.lineaTitulo} →</a></p>` : ''}
     ${vistazo ?? ''}
     ${destacado ?? ''}
   </div>
 </section>`;
 };
 
-// "Notipinchas en los medios": bloque propio, debajo de El Club. Notas con fuente y link (hoy.linea).
+// "Notipinchas en los medios": página propia (/notipinchas/). En la portada queda solo el link, debajo de las Siete.
 export const notipinchas = ({ hoy, actualizado }, { t, f, enlaceDia }) =>
   hoy.linea?.length
     ? html`

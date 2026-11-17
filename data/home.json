@@ -1,11 +1,11 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-17T00:07:00-03:00",
+  "actualizado": "2026-11-17T09:30:00-03:00",
   "hoy": {
     "titular": "Cuenta regresiva en City Bell: el Pincha ya entrena para Palmeiras",
     "foto": {
-      "id": "2026-09-17_semifinalista-de-america_3",
-      "alt": "Los jugadores de Estudiantes festejan en la cancha el pase a las semifinales de la Copa Libertadores."
+      "id": "2026-10-09_algunos-si-otros-no_1",
+      "alt": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell."
     },
     "resumen": "El plantel volvió el lunes a los entrenamientos en City Bell y arrancó los 12 días de preparación para la final de la Libertadores ante Palmeiras, el sábado 28 en el Centenario. Correa sigue trabajando aparte y Carrillo y Castro hicieron gimnasio para descargar.",
     "siete": [
@@ -30,15 +30,21 @@
         "texto": "Juega tres por el Brasileirão en siete días: Cruzeiro (18), Flamengo (21) y Chapecoense (24), cuatro días antes de la final. Además pelea el título, a tres puntos de Flamengo."
       },
       {
-        "titulo": "Básquet: fase regular cerrada con 9-1",
-        "texto": "En el UNO le ganó 71-56 a Riberas del Paraná y terminó la ronda regular del Pre Federal con 9 triunfos y una derrota. En los playoffs enfrenta a Racing de Olavarría."
+        "titulo": "Palmeiras, con Piquerez en duda",
+        "texto": "El lateral uruguayo se lesionó el muslo derecho el viernes 13 con su selección. Palmeiras no da fecha de regreso y en Brasil ven difícil que llegue a la final."
       },
       {
-        "titulo": "Vóley: sigue en la División de Honor",
-        "texto": "El equipo femenino perdió 3-1 con San Gregorio, pero el triunfo de River ante UNTREF le aseguró la permanencia en la máxima categoría para 2027. El viernes 19 recibe a UNTREF en el UNO."
+        "titulo": "Recopa: podría jugarse en La Plata",
+        "texto": "Por ganar la Supercopa, el Pincha jugará en enero el triangular de la Recopa de Campeones con Rosario Central y el ganador de la Copa Argentina. El UNO es una de las sedes posibles, pero la AFA todavía no la confirmó."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-17T08:20:00-03:00",
+        "fuente": "Punto Capital",
+        "url": "https://www.puntocapitalnoticias.com/estudiantes-podria-jugar-la-recopa-de-campeones-en-la-plata-y-arrancar-el-2027-con-una-nueva-ilusion/",
+        "texto": "El Pincha podría jugar la Recopa de Campeones de enero en La Plata; la sede todavía no está confirmada."
+      },
       {
         "hora": "2026-11-16T00:00:00-03:00",
         "texto": "El Pincha volvió a entrenarse en City Bell tras la consagración en Córdoba y ya piensa en Palmeiras.",
@@ -56,6 +62,12 @@
         "texto": "Con la Supercopa y mucha alegría, así arrancó la preparación para la final de la Libertadores.",
         "fuente": "Infocielo",
         "url": "https://www.infocielo.com/deportes/con-la-supercopa-y-mucha-alegria-asi-comenzo-estudiantes-la-preparacion-para-la-final-de-la-libertadores"
+      },
+      {
+        "hora": "2026-11-15T17:49:00-03:00",
+        "fuente": "ABC do ABC",
+        "url": "https://abcdoabc.com.br/palmeiras-conta-com-piquerez-para-fina/",
+        "texto": "Palmeiras sigue sin fecha para Piquerez: se lesionó el muslo con Uruguay y es duda para la final."
       },
       {
         "hora": "2026-11-15T14:15:00-03:00",

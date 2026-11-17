@@ -7,12 +7,13 @@ import { fileURLToPath } from 'node:url';
 import site from '../site.config.mjs';
 import { layout } from '../src/layout.mjs';
 import { toString } from '../src/lib/html.mjs';
-import { validarHome } from '../src/lib/validar.mjs';
+import { validarHome, validarHistorial } from '../src/lib/validar.mjs';
 import { combinar, pendientes } from '../src/lib/traducir.mjs';
 import home from '../src/pages/home.mjs';
 import dia from '../src/pages/dia.mjs';
 import dias from '../src/pages/dias.mjs';
 import mundo from '../src/pages/mundo.mjs';
+import notipinchas from '../src/pages/notipinchas.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const dist = join(root, 'dist');
@@ -100,6 +101,7 @@ const build = async () => {
   const archivos = (await existe(dirDias)) ? (await readdir(dirDias)).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort().reverse() : [];
   const listaDias = await Promise.all(archivos.map((f) => leerJSON(`data/dias/${f}`)));
   const hayHistorial = listaDias.some((d) => d.linea.length);
+  validarHistorial(base, listaDias);
 
   await pagina('', base.actualizado.slice(0, 10), (ctx, lang) => ({
     ...home({ ...ctx, enlaceDia: hayHistorial ? ctx.ruta('dias') : undefined }, porIdioma[lang]),
@@ -117,6 +119,9 @@ const build = async () => {
       { indexar: d.linea.length > 0 }
     );
   }
+  await pagina('notipinchas', base.actualizado.slice(0, 10), (ctx, lang) =>
+    notipinchas({ ...ctx, enlaceDia: hayHistorial ? ctx.ruta('dias') : undefined }, porIdioma[lang])
+  );
   // Sección global
   await pagina('mundo', mundoPorIdioma[idiomaBase].actualizado.slice(0, 10), (ctx, lang) => mundo(ctx, mundoPorIdioma[lang]));
 

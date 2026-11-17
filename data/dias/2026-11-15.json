@@ -163,6 +163,18 @@
   ],
   "linea": [
     {
+      "hora": "2026-11-15T17:49:00-03:00",
+      "fuente": "ABC do ABC",
+      "url": "https://abcdoabc.com.br/palmeiras-conta-com-piquerez-para-fina/",
+      "texto": {
+        "es": "Palmeiras sigue sin fecha para Piquerez: se lesionó el muslo con Uruguay y es duda para la final.",
+        "en": "Palmeiras still have no return date for Piquerez: he hurt his thigh with Uruguay and is a doubt for the final.",
+        "pt": "O Palmeiras segue sem prazo para Piquerez: ele lesionou a coxa pelo Uruguai e é dúvida para a final.",
+        "zh": "Palmeiras仍未公布Piquerez的复出时间：他在乌拉圭国家队受伤，决赛成疑。",
+        "hi": "Palmeiras के पास Piquerez की वापसी की कोई तारीख़ नहीं: उरुग्वे के लिए खेलते हुए जांघ में चोट, फ़ाइनल पर संशय।"
+      }
+    },
+    {
       "hora": "2026-11-15T14:15:00-03:00",
       "fuente": "Infocielo",
       "url": "https://www.infocielo.com/deportes/en-brasil-preocupa-el-desgaste-de-palmeiras-270-minutos-antes-de-la-final-con-estudiantes",

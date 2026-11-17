@@ -2,7 +2,7 @@
   "hoy": {
     "titular": "Countdown at City Bell: Estudiantes start training for Palmeiras",
     "foto": {
-      "alt": "Estudiantes players celebrate on the pitch after reaching the Copa Libertadores semi-finals."
+      "alt": "Coaching staff give instructions to two players during a training session at City Bell."
     },
     "resumen": "The squad returned to training at City Bell on Monday, beginning 12 days of preparation for the Copa Libertadores final against Palmeiras on Saturday 28th at the Centenario. Correa is still working apart, while Carrillo and Castro did gym work to ease their loads.",
     "siete": [
@@ -27,15 +27,18 @@
         "texto": "They play three Brasileirão matches in seven days: Cruzeiro (18th), Flamengo (21st) and Chapecoense (24th), four days before the final. They are also chasing the title, three points behind Flamengo."
       },
       {
-        "titulo": "Basketball: regular season closed at 9-1",
-        "texto": "At the UNO they beat Riberas del Paraná 71-56 to finish the Pre Federal regular season with 9 wins and one defeat. In the play-offs they face Racing de Olavarría."
+        "titulo": "Palmeiras sweat on Piquerez",
+        "texto": "The Uruguayan full-back injured his right thigh on Friday 13th on international duty. Palmeiras have given no return date and the Brazilian press see him as a long shot for the final."
       },
       {
-        "titulo": "Volleyball: staying in the División de Honor",
-        "texto": "The women's team lost 3-1 to San Gregorio, but River's win over UNTREF secured their place in the top flight for 2027. On Friday 19th they host UNTREF at the UNO."
+        "titulo": "Recopa could be played in La Plata",
+        "texto": "Winning the Supercopa puts the Pincha into January's Recopa de Campeones round-robin with Rosario Central and the Copa Argentina winners. The UNO is one possible venue, but AFA has yet to confirm it."
       }
     ],
     "linea": [
+      {
+        "texto": "The Pincha could play January's Recopa de Campeones in La Plata; the venue is not yet confirmed."
+      },
       {
         "texto": "Estudiantes trained again at City Bell after the title in Córdoba, with Palmeiras already in mind."
       },
@@ -44,6 +47,9 @@
       },
       {
         "texto": "With the Supercopa trophy and plenty of joy, this is how preparations for the Libertadores final began."
+      },
+      {
+        "texto": "Palmeiras still have no return date for Piquerez: he hurt his thigh with Uruguay and is a doubt for the final."
       },
       {
         "texto": "In Brazil there are warnings about Palmeiras' workload: 270 minutes in seven days before the final."

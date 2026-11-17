@@ -2,7 +2,7 @@
   "hoy": {
     "titular": "City Bell开启倒计时：Estudiantes备战帕尔梅拉斯（Palmeiras）",
     "foto": {
-      "alt": "Estudiantes球员在场上庆祝晋级Copa Libertadores半决赛。"
+      "alt": "教练组在City Bell训练中向两名球员布置战术。"
     },
     "resumen": "球队周一在City Bell恢复训练，开始为期12天的备战，迎接本月28日周六在Centenario球场进行的南美解放者杯决赛，对手是Palmeiras。Correa仍单独训练，Carrillo和Castro则进行健身房训练以减轻负荷。",
     "siete": [
@@ -27,15 +27,18 @@
         "texto": "七天内要踢三场巴甲：18日对Cruzeiro、21日对Flamengo、24日对Chapecoense，最后一场距决赛仅四天。同时还在争夺联赛冠军，落后Flamengo三分。"
       },
       {
-        "titulo": "篮球：常规赛以9胜1负收官",
-        "texto": "在UNO球场以71比56击败Riberas del Paraná，Pre Federal常规赛战绩9胜1负。季后赛对手是Racing de Olavarría。"
+        "titulo": "帕尔梅拉斯（Palmeiras）：Piquerez成疑",
+        "texto": "这位乌拉圭边后卫13日（周五）代表国家队比赛时右大腿受伤。Palmeiras未公布复出时间，巴西媒体认为他很难赶上决赛。"
       },
       {
-        "titulo": "排球：保住División de Honor席位",
-        "texto": "女排1比3负于San Gregorio，但River击败UNTREF，球队确保2027年留在顶级联赛。19日周五在UNO主场迎战UNTREF。"
+        "titulo": "Recopa de Campeones或在拉普拉塔举行",
+        "texto": "凭借Supercopa Argentina冠军，Pincha将于1月与Rosario Central及Copa Argentina冠军进行Recopa de Campeones三队循环赛。el UNO是候选场地之一，但阿根廷足协尚未确认。"
       }
     ],
     "linea": [
+      {
+        "texto": "Pincha或将在拉普拉塔参加1月的Recopa de Campeones；场地尚未确认。"
+      },
       {
         "texto": "Estudiantes在科尔多瓦夺冠后重返City Bell训练，目标直指Palmeiras。"
       },
@@ -44,6 +47,9 @@
       },
       {
         "texto": "带着超级杯奖杯和满满喜悦，解放者杯决赛备战就此开启。"
+      },
+      {
+        "texto": "Palmeiras仍未公布Piquerez的复出时间：他在乌拉圭国家队受伤，决赛成疑。"
       },
       {
         "texto": "巴西媒体提醒帕尔梅拉斯体能消耗：决赛前七天要踢270分钟。"

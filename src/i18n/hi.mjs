@@ -13,6 +13,7 @@ export default {
   idiomas: 'भाषा',
   menu: { hoy: 'आज', partidos: 'मैच', tabla: 'तालिका', noticias: 'ख़बरें', club: 'क्लब' },
   lineaTitulo: 'Notipinchas · मीडिया में',
+  notipinchas: { title: 'Notipinchas · मीडिया में · El Pincha Hoy', descripcion: 'Estudiantes de La Plata पर क्लब और मीडिया की ताज़ा ख़बरें, हर स्रोत के लिंक के साथ।' },
   siete: 'सात ख़बरें',
   sieteMarca: 'El Pincha Hoy',
   sieteLema: 'Pincha की ज़रूरी ख़बरें, हज़ार अख़बार खंगाले बिना।',

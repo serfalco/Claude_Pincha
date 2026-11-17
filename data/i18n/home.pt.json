@@ -2,7 +2,7 @@
   "hoy": {
     "titular": "Contagem regressiva em City Bell: o Pincha já treina para enfrentar o Palmeiras",
     "foto": {
-      "alt": "Os jogadores do Estudiantes comemoram em campo a vaga nas semifinais da Copa Libertadores."
+      "alt": "A comissão técnica orienta dois jogadores durante um treino em City Bell."
     },
     "resumen": "O elenco voltou aos treinos na segunda-feira em City Bell e começou os 12 dias de preparação para a final da Copa Libertadores contra o Palmeiras, no sábado, 28, no Centenario. Correa segue treinando à parte, e Carrillo e Castro fizeram academia para aliviar a carga.",
     "siete": [
@@ -27,15 +27,18 @@
         "texto": "Joga três pelo Brasileirão em sete dias: Cruzeiro (18), Flamengo (21) e Chapecoense (24), quatro dias antes da final. Além disso, briga pelo título, a três pontos do Flamengo."
       },
       {
-        "titulo": "Basquete: fase regular encerrada com 9-1",
-        "texto": "No UNO venceu o Riberas del Paraná por 71 a 56 e terminou a fase regular do Pre Federal com 9 vitórias e uma derrota. Nos playoffs enfrenta o Racing de Olavarría."
+        "titulo": "Palmeiras com Piquerez em dúvida",
+        "texto": "O lateral uruguaio lesionou a coxa direita na sexta, dia 13, pela seleção. O Palmeiras não dá prazo de retorno e a imprensa brasileira vê difícil ele chegar à final."
       },
       {
-        "titulo": "Vôlei: segue na División de Honor",
-        "texto": "O time feminino perdeu por 3 a 1 para o San Gregorio, mas a vitória do River sobre o UNTREF garantiu a permanência na elite em 2027. Na sexta-feira, 19, recebe o UNTREF no UNO."
+        "titulo": "Recopa pode ser em La Plata",
+        "texto": "Por ganhar a Supercopa, o Pincha jogará em janeiro o triangular da Recopa de Campeones com o Rosario Central e o campeão da Copa Argentina. O UNO é uma das sedes possíveis, mas a AFA ainda não confirmou."
       }
     ],
     "linea": [
+      {
+        "texto": "O Pincha pode jogar a Recopa de Campeones de janeiro em La Plata; a sede ainda não foi confirmada."
+      },
       {
         "texto": "O Pincha voltou a treinar em City Bell depois do título em Córdoba e já pensa no Palmeiras."
       },
@@ -44,6 +47,9 @@
       },
       {
         "texto": "Com a Supercopa e muita alegria, assim começou a preparação para a final da Libertadores."
+      },
+      {
+        "texto": "O Palmeiras segue sem prazo para Piquerez: ele lesionou a coxa pelo Uruguai e é dúvida para a final."
       },
       {
         "texto": "No Brasil alertam para o desgaste do Palmeiras: 270 minutos em sete dias antes da final."

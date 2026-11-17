@@ -14,6 +14,7 @@ export default {
   idiomas: 'Idioma',
   menu: { hoy: 'Hoy', partidos: 'Partidos', tabla: 'Tabla', noticias: 'Noticias', club: 'Club' },
   lineaTitulo: 'Notipinchas en los medios',
+  notipinchas: { title: 'Notipinchas en los medios · El Pincha Hoy', descripcion: 'Las notas sobre Estudiantes de La Plata de los últimos días, en el club y en los medios, con link a cada fuente.' },
   siete: 'Siete noticias',
   sieteMarca: 'El Pincha Hoy',
   sieteLema: 'Lo importante del Pincha, sin buscar en mil diarios.',
