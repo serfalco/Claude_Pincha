@@ -1,17 +1,17 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-18T00:20:00-03:00",
+  "actualizado": "2026-11-18T00:45:00-03:00",
   "hoy": {
-    "titular": "Última chance de plateas extra y Palmeiras juega hoy en el Mineirão",
+    "titular": "Las plateas extra volaron en menos de una hora y Palmeiras juega hoy en el Mineirão",
     "foto": {
       "id": "2026-10-09_algunos-si-otros-no_1",
       "alt": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell."
     },
-    "resumen": "La venta extra de plateas para la final, exclusiva para clientes Mastercard del Banco Provincia, cierra hoy a las 19 o al agotarse. Palmeiras visita a Cruzeiro con varias bajas a diez días de Montevideo, mientras el Pincha sigue la puesta a punto en City Bell.",
+    "resumen": "Las 1.000 plateas extra para la final, exclusivas para clientes Mastercard del Banco Provincia, se agotaron en menos de una hora entre caídas de la web y quejas de los hinchas. Palmeiras visita a Cruzeiro con varias bajas y Medina ya sabe que no tendrá a Baltasar Rodríguez en Montevideo.",
     "siete": [
       {
-        "titulo": "Plateas extra: cierra hoy a las 19",
-        "texto": "La venta adicional de unas 1.000 plateas para la final sigue por ElevenTickets, solo para clientes con Mastercard del Banco Provincia, hasta hoy a las 19 o hasta agotar. La organiza la Conmebol, no el club."
+        "titulo": "Volaron las plateas extra",
+        "texto": "Las 1.000 plateas de categoría 2 (USD 250) que la Conmebol puso a la venta el martes por ElevenTickets, solo para clientes Mastercard del Banco Provincia, se agotaron en menos de una hora. Hubo caídas de la página y muchas quejas de hinchas que se quedaron afuera."
       },
       {
         "titulo": "Palmeiras visita hoy a Cruzeiro, con bajas",
@@ -22,8 +22,8 @@
         "texto": "Arrastra un desgarro grado 2 en el bíceps de la pierna derecha y sigue trabajando aparte del grupo. Si le dan el alta, igual le faltará ritmo: su presencia de entrada no está asegurada."
       },
       {
-        "titulo": "Medina piensa en una línea de cinco",
-        "texto": "Según El Día, el Cacique analiza poner cinco defensores en el Centenario para frenar las subidas de los laterales de Palmeiras. La idea del cuerpo técnico es recuperar físicamente al plantel tras un año muy cargado."
+        "titulo": "Sin Baltasar, Medina piensa en una línea de cinco",
+        "texto": "Baltasar Rodríguez, expulsado ante Flamengo en el Maracaná, no podrá jugar la final. Según El Día, el Cacique analiza poner cinco defensores en el Centenario para frenar las subidas de los laterales de Palmeiras."
       },
       {
         "titulo": "Valenzuela, el árbitro de la final",
@@ -56,6 +56,12 @@
         "fuente": "Perfil",
         "url": "https://442.perfil.com/noticias/futbol/estudiantes-vs-palmeiras-jesus-valenzuela-sera-el-arbitro-de-la-final-de-la-copa-libertadores-2026.phtml",
         "texto": "Jesús Valenzuela será el árbitro de la final entre Estudiantes y Palmeiras en el Centenario."
+      },
+      {
+        "hora": "2026-11-17T15:52:00-03:00",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/atentos-pinchas-a-las-14-habilitan-la-venta-de-mas-plateas-para-la-final-hay-un-requisito-deportes_1794924729",
+        "texto": "Volaron en menos de una hora las 1.000 plateas extra para la final, entre caídas de la web y quejas."
       },
       {
         "hora": "2026-11-17T15:30:00-03:00",
@@ -98,12 +104,6 @@
         "texto": "El Pincha volvió a entrenarse en City Bell tras la consagración en Córdoba y ya piensa en Palmeiras.",
         "fuente": "0221",
         "url": "https://www.0221.com.ar/estudiantes/estudiantes-volvio-entrenarse-la-consagracion-cordoba-y-ya-prepara-la-final-la-copa-libertadores-n137559"
-      },
-      {
-        "hora": "2026-11-16T00:00:00-03:00",
-        "texto": "Operativo Montevideo: el plantel regresó a las prácticas con el foco puesto en la final.",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/operativo-montevideo-regresa-a-las-practicas-con-el-foco-en-palmeiras-deportes_1794786902"
       },
       {
         "hora": "2026-11-16T00:00:00-03:00",
@@ -423,6 +423,7 @@
     "https://www.0221.com.ar/estudiantes/leandro-benitez-recordo-la-copa-libertadores-2009-y-confirmo-que-viajara-junto-estudiantes-montevideo-n137619",
     "https://www.puntocapitalnoticias.com/estudiantes-presento-a-su-nuevo-dt-y-un-proyecto-para-el-futbol-femenino-hasta-2030",
     "https://www.lance.com.br/palmeiras/escalacao-palmeiras-encerra-preparacao-e-abel-busca-alternativas-sem-convocados.html",
-    "https://www.eldia.com/deportes/en-city-bell-comenzo-el-operativo-palmeiras-deportes_1794894270"
+    "https://www.eldia.com/deportes/en-city-bell-comenzo-el-operativo-palmeiras-deportes_1794894270",
+    "https://www.eldia.com/deportes/atentos-pinchas-a-las-14-habilitan-la-venta-de-mas-plateas-para-la-final-hay-un-requisito-deportes_1794924729"
   ]
 }

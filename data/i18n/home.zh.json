@@ -1,14 +1,14 @@
 {
   "hoy": {
-    "titular": "追加看台票最后机会，帕尔梅拉斯（Palmeiras）今天在Mineirão出战",
+    "titular": "追加看台票不到一小时售罄，帕尔梅拉斯（Palmeiras）今天在Mineirão出战",
     "foto": {
       "alt": "教练组在City Bell训练中向两名球员布置战术。"
     },
-    "resumen": "决赛追加看台票仅限Banco Provincia万事达卡持卡人，今天19点截止或售完即止。帕尔梅拉斯在距蒙得维的亚决赛十天之际带着多名伤缺客场挑战Cruzeiro，Pincha则继续在City Bell备战。",
+    "resumen": "决赛1000张追加看台票仅限Banco Provincia万事达卡持卡人购买，在网站崩溃和球迷抱怨声中不到一小时售罄。帕尔梅拉斯带着多名伤缺客战Cruzeiro，Medina则已确定在蒙得维的亚无法使用Baltasar Rodríguez。",
     "siete": [
       {
-        "titulo": "追加看台票：今天19点截止",
-        "texto": "决赛约1000张追加看台票继续通过ElevenTickets发售，仅限Banco Provincia万事达卡持卡人，今天19点截止或售完即止。此次发售由南美足联组织，而非俱乐部。"
+        "titulo": "追加看台票秒光",
+        "texto": "南美足联周二通过ElevenTickets发售的1000张二类看台票（250美元），仅限Banco Provincia万事达卡持卡人，不到一小时即售罄。售票网站崩溃，许多没买到票的球迷表达不满。"
       },
       {
         "titulo": "帕尔梅拉斯今天客战Cruzeiro，多人缺阵",
@@ -19,8 +19,8 @@
         "texto": "他右腿股二头肌二级撕裂，仍在与大部队分开训练。即便获准复出，比赛节奏也将不足，首发位置并无保证。"
       },
       {
-        "titulo": "Medina考虑五后卫",
-        "texto": "据El Día报道，主帅正考虑在Centenario排出五名后卫，以遏制帕尔梅拉斯边后卫的插上。教练组的目标是在漫长赛季后让球员恢复体能。"
+        "titulo": "Baltasar停赛，Medina考虑五后卫",
+        "texto": "在马拉卡纳对阵弗拉门戈时被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，主帅正考虑在Centenario排出五名后卫，以遏制帕尔梅拉斯边后卫的插上。"
       },
       {
         "titulo": "Valenzuela执法决赛",
@@ -46,6 +46,9 @@
         "texto": "Jesús Valenzuela将在Centenario执法Estudiantes与帕尔梅拉斯的决赛。"
       },
       {
+        "texto": "决赛1000张追加看台票不到一小时售罄，网站崩溃，球迷抱怨。"
+      },
+      {
         "texto": "帕尔梅拉斯结束客场挑战Cruzeiro的备战，五人缺阵，其中包括Piquerez。"
       },
       {
@@ -65,9 +68,6 @@
       },
       {
         "texto": "Estudiantes在科尔多瓦夺冠后重返City Bell训练，目标直指Palmeiras。"
-      },
-      {
-        "texto": "蒙得维的亚行动：球队恢复训练，全力聚焦决赛。"
       },
       {
         "texto": "带着超级杯奖杯和满满喜悦，解放者杯决赛备战就此开启。"

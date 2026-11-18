@@ -1,14 +1,14 @@
 {
   "hoy": {
-    "titular": "Last chance for extra seats as Palmeiras play at the Mineirão today",
+    "titular": "Extra seats gone in under an hour as Palmeiras play at the Mineirão today",
     "foto": {
       "alt": "Coaching staff give instructions to two players during a training session at City Bell."
     },
-    "resumen": "The extra seat sale for the final, exclusive to Banco Provincia Mastercard holders, closes today at 19:00 or when sold out. Palmeiras visit Cruzeiro with several absentees ten days before Montevideo, while the Pincha continue their build-up at City Bell.",
+    "resumen": "The 1,000 extra seats for the final, exclusive to Banco Provincia Mastercard holders, sold out in under an hour amid website crashes and fan complaints. Palmeiras visit Cruzeiro with several absentees, and Medina already knows he will be without Baltasar Rodríguez in Montevideo.",
     "siete": [
       {
-        "titulo": "Extra seats: sale closes today at 19:00",
-        "texto": "The additional sale of around 1,000 seats for the final continues via ElevenTickets, only for Banco Provincia Mastercard holders, until 19:00 today or until sold out. It is run by CONMEBOL, not the club."
+        "titulo": "Extra seats snapped up",
+        "texto": "The 1,000 category 2 seats (USD 250) that CONMEBOL put on sale on Tuesday via ElevenTickets, only for Banco Provincia Mastercard holders, sold out in under an hour. The site crashed and many fans who missed out complained."
       },
       {
         "titulo": "Palmeiras visit Cruzeiro today, short-handed",
@@ -19,8 +19,8 @@
         "texto": "He is nursing a grade 2 tear in the biceps of his right leg and is still working apart from the group. Even if he is cleared, he will lack match rhythm: a starting place is far from certain."
       },
       {
-        "titulo": "Medina weighing a back five",
-        "texto": "According to El Día, the coach is considering five defenders at the Centenario to stop Palmeiras' full-backs getting forward. The staff's aim is to get the squad physically fresh after a gruelling year."
+        "titulo": "Without Baltasar, Medina weighs a back five",
+        "texto": "Baltasar Rodríguez, sent off against Flamengo at the Maracanã, will miss the final. According to El Día, the coach is considering five defenders at the Centenario to stop Palmeiras' full-backs getting forward."
       },
       {
         "titulo": "Valenzuela to referee the final",
@@ -46,6 +46,9 @@
         "texto": "Jesús Valenzuela will referee the final between Estudiantes and Palmeiras at the Centenario."
       },
       {
+        "texto": "The 1,000 extra seats for the final sold out in under an hour, amid website crashes and complaints."
+      },
+      {
         "texto": "Palmeiras wrapped up preparations for their trip to Cruzeiro with five absentees, Piquerez among them."
       },
       {
@@ -65,9 +68,6 @@
       },
       {
         "texto": "Estudiantes trained again at City Bell after the title in Córdoba, with Palmeiras already in mind."
-      },
-      {
-        "texto": "Operation Montevideo: the squad are back in training with the focus on the final."
       },
       {
         "texto": "With the Supercopa trophy and plenty of joy, this is how preparations for the Libertadores final began."

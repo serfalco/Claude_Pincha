@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-18",
   "titular": {
-    "es": "Última chance de plateas extra y Palmeiras juega hoy en el Mineirão",
-    "en": "Last chance for extra seats as Palmeiras play at the Mineirão today",
-    "pt": "Última chance de cadeiras extras e Palmeiras joga hoje no Mineirão",
-    "zh": "追加看台票最后机会，帕尔梅拉斯（Palmeiras）今天在Mineirão出战",
-    "hi": "अतिरिक्त सीटों का आख़िरी मौका, Palmeiras आज Mineirão में खेलेगा"
+    "es": "Las plateas extra volaron en menos de una hora y Palmeiras juega hoy en el Mineirão",
+    "en": "Extra seats gone in under an hour as Palmeiras play at the Mineirão today",
+    "pt": "Cadeiras extras esgotam em menos de uma hora e Palmeiras joga hoje no Mineirão",
+    "zh": "追加看台票不到一小时售罄，帕尔梅拉斯（Palmeiras）今天在Mineirão出战",
+    "hi": "अतिरिक्त सीटें एक घंटे से कम में बिकीं, Palmeiras आज Mineirão में खेलेगा"
   },
   "resumen": {
-    "es": "La venta extra de plateas para la final, exclusiva para clientes Mastercard del Banco Provincia, cierra hoy a las 19 o al agotarse. Palmeiras visita a Cruzeiro con varias bajas a diez días de Montevideo, mientras el Pincha sigue la puesta a punto en City Bell.",
-    "en": "The extra seat sale for the final, exclusive to Banco Provincia Mastercard holders, closes today at 19:00 or when sold out. Palmeiras visit Cruzeiro with several absentees ten days before Montevideo, while the Pincha continue their build-up at City Bell.",
-    "pt": "A venda extra de cadeiras para a final, exclusiva para clientes Mastercard do Banco Provincia, termina hoje às 19h ou ao esgotar. O Palmeiras visita o Cruzeiro com vários desfalques a dez dias de Montevidéu, enquanto o Pincha segue a preparação em City Bell.",
-    "zh": "决赛追加看台票仅限Banco Provincia万事达卡持卡人，今天19点截止或售完即止。帕尔梅拉斯在距蒙得维的亚决赛十天之际带着多名伤缺客场挑战Cruzeiro，Pincha则继续在City Bell备战。",
-    "hi": "फ़ाइनल के लिए अतिरिक्त सीटों की बिक्री, जो सिर्फ़ Banco Provincia Mastercard धारकों के लिए है, आज 19:00 बजे या टिकट ख़त्म होते ही बंद होगी। Montevideo से दस दिन पहले Palmeiras कई खिलाड़ियों के बिना Cruzeiro के मैदान पर उतरेगा, जबकि Pincha City Bell में तैयारी जारी रखे हुए है।"
+    "es": "Las 1.000 plateas extra para la final, exclusivas para clientes Mastercard del Banco Provincia, se agotaron en menos de una hora entre caídas de la web y quejas de los hinchas. Palmeiras visita a Cruzeiro con varias bajas y Medina ya sabe que no tendrá a Baltasar Rodríguez en Montevideo.",
+    "en": "The 1,000 extra seats for the final, exclusive to Banco Provincia Mastercard holders, sold out in under an hour amid website crashes and fan complaints. Palmeiras visit Cruzeiro with several absentees, and Medina already knows he will be without Baltasar Rodríguez in Montevideo.",
+    "pt": "As 1.000 cadeiras extras para a final, exclusivas para clientes Mastercard do Banco Provincia, esgotaram em menos de uma hora, entre quedas do site e reclamações dos torcedores. O Palmeiras visita o Cruzeiro com vários desfalques, e Medina já sabe que não terá Baltasar Rodríguez em Montevidéu.",
+    "zh": "决赛1000张追加看台票仅限Banco Provincia万事达卡持卡人购买，在网站崩溃和球迷抱怨声中不到一小时售罄。帕尔梅拉斯带着多名伤缺客战Cruzeiro，Medina则已确定在蒙得维的亚无法使用Baltasar Rodríguez。",
+    "hi": "फ़ाइनल की 1,000 अतिरिक्त सीटें, जो सिर्फ़ Banco Provincia Mastercard धारकों के लिए थीं, वेबसाइट क्रैश और प्रशंसकों की शिकायतों के बीच एक घंटे से कम में बिक गईं। Palmeiras कई खिलाड़ियों के बिना Cruzeiro के मैदान पर उतरेगा, और Medina जानते हैं कि Montevideo में Baltasar Rodríguez नहीं होंगे।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -40,18 +40,18 @@
   "siete": [
     {
       "titulo": {
-        "es": "Plateas extra: cierra hoy a las 19",
-        "en": "Extra seats: sale closes today at 19:00",
-        "pt": "Cadeiras extras: venda termina hoje às 19h",
-        "zh": "追加看台票：今天19点截止",
-        "hi": "अतिरिक्त सीटें: बिक्री आज 19:00 बजे बंद"
+        "es": "Volaron las plateas extra",
+        "en": "Extra seats snapped up",
+        "pt": "Cadeiras extras esgotadas",
+        "zh": "追加看台票秒光",
+        "hi": "अतिरिक्त सीटें फटाफट ख़त्म"
       },
       "texto": {
-        "es": "La venta adicional de unas 1.000 plateas para la final sigue por ElevenTickets, solo para clientes con Mastercard del Banco Provincia, hasta hoy a las 19 o hasta agotar. La organiza la Conmebol, no el club.",
-        "en": "The additional sale of around 1,000 seats for the final continues via ElevenTickets, only for Banco Provincia Mastercard holders, until 19:00 today or until sold out. It is run by CONMEBOL, not the club.",
-        "pt": "A venda adicional de cerca de 1.000 cadeiras para a final segue pela ElevenTickets, só para clientes com Mastercard do Banco Provincia, até hoje às 19h ou até esgotar. Quem organiza é a Conmebol, não o clube.",
-        "zh": "决赛约1000张追加看台票继续通过ElevenTickets发售，仅限Banco Provincia万事达卡持卡人，今天19点截止或售完即止。此次发售由南美足联组织，而非俱乐部。",
-        "hi": "फ़ाइनल की लगभग 1,000 अतिरिक्त सीटों की बिक्री ElevenTickets पर जारी है, सिर्फ़ Banco Provincia Mastercard धारकों के लिए, आज 19:00 बजे तक या टिकट ख़त्म होने तक। इसे CONMEBOL चला रहा है, क्लब नहीं।"
+        "es": "Las 1.000 plateas de categoría 2 (USD 250) que la Conmebol puso a la venta el martes por ElevenTickets, solo para clientes Mastercard del Banco Provincia, se agotaron en menos de una hora. Hubo caídas de la página y muchas quejas de hinchas que se quedaron afuera.",
+        "en": "The 1,000 category 2 seats (USD 250) that CONMEBOL put on sale on Tuesday via ElevenTickets, only for Banco Provincia Mastercard holders, sold out in under an hour. The site crashed and many fans who missed out complained.",
+        "pt": "As 1.000 cadeiras da categoria 2 (US$ 250) que a Conmebol colocou à venda na terça pela ElevenTickets, só para clientes Mastercard do Banco Provincia, esgotaram em menos de uma hora. O site caiu e muitos torcedores que ficaram de fora reclamaram.",
+        "zh": "南美足联周二通过ElevenTickets发售的1000张二类看台票（250美元），仅限Banco Provincia万事达卡持卡人，不到一小时即售罄。售票网站崩溃，许多没买到票的球迷表达不满。",
+        "hi": "CONMEBOL ने मंगलवार को ElevenTickets पर कैटेगरी 2 की 1,000 सीटें (USD 250) सिर्फ़ Banco Provincia Mastercard धारकों के लिए बेचीं, जो एक घंटे से कम में ख़त्म हो गईं। साइट क्रैश हुई और टिकट से चूके कई प्रशंसकों ने शिकायत की।"
       }
     },
     {
@@ -88,18 +88,18 @@
     },
     {
       "titulo": {
-        "es": "Medina piensa en una línea de cinco",
-        "en": "Medina weighing a back five",
-        "pt": "Medina pensa em linha de cinco",
-        "zh": "Medina考虑五后卫",
-        "hi": "Medina पाँच डिफ़ेंडरों पर विचार कर रहे हैं"
+        "es": "Sin Baltasar, Medina piensa en una línea de cinco",
+        "en": "Without Baltasar, Medina weighs a back five",
+        "pt": "Sem Baltasar, Medina pensa em linha de cinco",
+        "zh": "Baltasar停赛，Medina考虑五后卫",
+        "hi": "Baltasar के बिना, Medina पाँच डिफ़ेंडरों पर विचार कर रहे हैं"
       },
       "texto": {
-        "es": "Según El Día, el Cacique analiza poner cinco defensores en el Centenario para frenar las subidas de los laterales de Palmeiras. La idea del cuerpo técnico es recuperar físicamente al plantel tras un año muy cargado.",
-        "en": "According to El Día, the coach is considering five defenders at the Centenario to stop Palmeiras' full-backs getting forward. The staff's aim is to get the squad physically fresh after a gruelling year.",
-        "pt": "Segundo o El Día, o técnico avalia escalar cinco defensores no Centenario para frear o apoio dos laterais do Palmeiras. A ideia da comissão é recuperar fisicamente o elenco depois de um ano muito puxado.",
-        "zh": "据El Día报道，主帅正考虑在Centenario排出五名后卫，以遏制帕尔梅拉斯边后卫的插上。教练组的目标是在漫长赛季后让球员恢复体能。",
-        "hi": "El Día के अनुसार कोच Centenario में पाँच डिफ़ेंडर उतारने पर विचार कर रहे हैं ताकि Palmeiras के फ़ुल-बैक आगे न बढ़ सकें। कोचिंग स्टाफ़ का लक्ष्य थकाऊ साल के बाद खिलाड़ियों को शारीरिक रूप से तरोताज़ा करना है।"
+        "es": "Baltasar Rodríguez, expulsado ante Flamengo en el Maracaná, no podrá jugar la final. Según El Día, el Cacique analiza poner cinco defensores en el Centenario para frenar las subidas de los laterales de Palmeiras.",
+        "en": "Baltasar Rodríguez, sent off against Flamengo at the Maracanã, will miss the final. According to El Día, the coach is considering five defenders at the Centenario to stop Palmeiras' full-backs getting forward.",
+        "pt": "Baltasar Rodríguez, expulso contra o Flamengo no Maracanã, está fora da final. Segundo o El Día, o técnico avalia escalar cinco defensores no Centenario para frear o apoio dos laterais do Palmeiras.",
+        "zh": "在马拉卡纳对阵弗拉门戈时被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，主帅正考虑在Centenario排出五名后卫，以遏制帕尔梅拉斯边后卫的插上。",
+        "hi": "Maracanã में Flamengo के ख़िलाफ़ रेड कार्ड पाने वाले Baltasar Rodríguez फ़ाइनल नहीं खेल पाएँगे। El Día के अनुसार कोच Centenario में पाँच डिफ़ेंडर उतारने पर विचार कर रहे हैं ताकि Palmeiras के फ़ुल-बैक आगे न बढ़ सकें।"
       }
     },
     {

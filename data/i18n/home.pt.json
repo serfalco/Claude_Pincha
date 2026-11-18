@@ -1,14 +1,14 @@
 {
   "hoy": {
-    "titular": "Última chance de cadeiras extras e Palmeiras joga hoje no Mineirão",
+    "titular": "Cadeiras extras esgotam em menos de uma hora e Palmeiras joga hoje no Mineirão",
     "foto": {
       "alt": "A comissão técnica orienta dois jogadores durante um treino em City Bell."
     },
-    "resumen": "A venda extra de cadeiras para a final, exclusiva para clientes Mastercard do Banco Provincia, termina hoje às 19h ou ao esgotar. O Palmeiras visita o Cruzeiro com vários desfalques a dez dias de Montevidéu, enquanto o Pincha segue a preparação em City Bell.",
+    "resumen": "As 1.000 cadeiras extras para a final, exclusivas para clientes Mastercard do Banco Provincia, esgotaram em menos de uma hora, entre quedas do site e reclamações dos torcedores. O Palmeiras visita o Cruzeiro com vários desfalques, e Medina já sabe que não terá Baltasar Rodríguez em Montevidéu.",
     "siete": [
       {
-        "titulo": "Cadeiras extras: venda termina hoje às 19h",
-        "texto": "A venda adicional de cerca de 1.000 cadeiras para a final segue pela ElevenTickets, só para clientes com Mastercard do Banco Provincia, até hoje às 19h ou até esgotar. Quem organiza é a Conmebol, não o clube."
+        "titulo": "Cadeiras extras esgotadas",
+        "texto": "As 1.000 cadeiras da categoria 2 (US$ 250) que a Conmebol colocou à venda na terça pela ElevenTickets, só para clientes Mastercard do Banco Provincia, esgotaram em menos de uma hora. O site caiu e muitos torcedores que ficaram de fora reclamaram."
       },
       {
         "titulo": "Palmeiras visita o Cruzeiro hoje, com desfalques",
@@ -19,8 +19,8 @@
         "texto": "Ele se recupera de uma lesão grau 2 no bíceps femoral da perna direita e segue treinando separado do grupo. Mesmo liberado, vai faltar ritmo: a presença entre os titulares não está garantida."
       },
       {
-        "titulo": "Medina pensa em linha de cinco",
-        "texto": "Segundo o El Día, o técnico avalia escalar cinco defensores no Centenario para frear o apoio dos laterais do Palmeiras. A ideia da comissão é recuperar fisicamente o elenco depois de um ano muito puxado."
+        "titulo": "Sem Baltasar, Medina pensa em linha de cinco",
+        "texto": "Baltasar Rodríguez, expulso contra o Flamengo no Maracanã, está fora da final. Segundo o El Día, o técnico avalia escalar cinco defensores no Centenario para frear o apoio dos laterais do Palmeiras."
       },
       {
         "titulo": "Valenzuela apita a final",
@@ -46,6 +46,9 @@
         "texto": "Jesús Valenzuela será o árbitro da final entre Estudiantes e Palmeiras no Centenário."
       },
       {
+        "texto": "As 1.000 cadeiras extras para a final esgotaram em menos de uma hora, entre quedas do site e reclamações."
+      },
+      {
         "texto": "O Palmeiras encerrou a preparação para visitar o Cruzeiro com cinco desfalques, entre eles Piquerez."
       },
       {
@@ -65,9 +68,6 @@
       },
       {
         "texto": "O Pincha voltou a treinar em City Bell depois do título em Córdoba e já pensa no Palmeiras."
-      },
-      {
-        "texto": "Operação Montevidéu: o elenco voltou aos treinos com o foco na final."
       },
       {
         "texto": "Com a Supercopa e muita alegria, assim começou a preparação para a final da Libertadores."
