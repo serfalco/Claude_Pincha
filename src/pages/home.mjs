@@ -46,9 +46,10 @@ export const datos = 'home';
 export default (ctx, data) => {
   const { site, t } = ctx;
   const ctxF = { ...ctx, f: fechas(t.locale) };
+  const descripcion = t.descripcionHoy ? t.descripcionHoy({ proximo: data.proximos?.[0], ultimo: data.ultimo }, ctxF.f) : t.descripcion;
   return {
     title: t.title,
-    description: t.descripcion,
+    description: descripcion,
     jsonLd: [
       {
         '@context': 'https://schema.org',

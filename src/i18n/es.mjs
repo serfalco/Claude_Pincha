@@ -5,9 +5,22 @@ export default {
   ogLocale: 'es_AR',
   etiqueta: 'ES',
   nombreIdioma: 'Español',
-  title: 'El Pincha Hoy · Las 7 noticias de Estudiantes de La Plata, hoy',
+  title: 'Pincha hoy: cómo está Estudiantes y las últimas 7 noticias',
   descripcion:
     'Las 7 noticias del Pincha, todos los días y para todo el mundo, sin buscar en mil diarios: cómo está hoy Estudiantes de La Plata, en un minuto y en 5 idiomas.',
+  // Descripción de la portada con el dato del día (se rehace en cada build).
+  // Descripción de la portada con el dato del día (se rehace en cada build). Corta: Google muestra ~155 caracteres.
+  descripcionHoy: ({ proximo, ultimo }, f) => {
+    const partes = [];
+    if (proximo) partes.push(`Cómo va el Pincha hoy: vs ${proximo.rival}, ${proximo.instancia ? `${proximo.instancia} ` : ''}${proximo.torneo.replace('Copa ', '')}, ${f.corta(proximo.fecha)} ${f.hora(proximo.fecha).replace(':00 h', ' h')}.`);
+    else partes.push('Cómo va el Pincha hoy.');
+    if (ultimo) {
+      const r = ultimo.golesPropios > ultimo.golesRival ? 'ganó' : ultimo.golesPropios < ultimo.golesRival ? 'perdió' : 'empató';
+      partes.push(`Último: ${r} ${ultimo.golesPropios}-${ultimo.golesRival} ${r === 'ganó' ? 'a' : 'con'} ${ultimo.rival}.`);
+    }
+    partes.push('Las últimas 7 noticias.');
+    return partes.join(' ');
+  },
   saltar: 'Saltar al contenido',
   inicio: 'inicio',
   secciones: 'Secciones',
