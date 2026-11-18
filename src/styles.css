@@ -529,3 +529,7 @@ body:has(.pegado--on) .footer { padding-bottom: 84px; }
 .notipinchas__pie { margin-top: 22px; }
 .linea__item--simple { gap: 2px; }
 .linea__item--simple .linea__texto, .linea__meta { margin: 0; }
+
+/* Página de partido (src/pages/partido.mjs): el aviso de "en vivo" se oculta como la franja mientras se juega */
+.franja.partido__aviso:not([hidden]) { display: block; }
+.dia__resultado a { color: inherit; }

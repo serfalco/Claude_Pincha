@@ -130,3 +130,7 @@ Solo campos de texto: `hoy` (incluidos `hoy.siete[].titulo/texto`, `hoy.linea[].
 3. Commit en `main` (incluye `data/dias/`) con mensaje `Actualización AAAA-MM-DD HH:MM: <qué cambió>` y push. Cloudflare Pages publica solo.
 4. Cuando el sitio ya muestre lo nuevo, correr `npm run indexnow` para avisar a Bing y otros buscadores (si falla, seguir: no es bloqueante).
 5. Resumen final corto: qué cambió, fuentes usadas y cualquier dato dudoso que se dejó sin tocar.
+
+## Páginas de partido
+
+`/partido/AAAA-MM-DD-rival/` se generan solas desde `proximos`, `ultimo` y el `ultimo` de cada día del historial: no hay que crear nada. La URL es la misma antes (previa + en vivo) y después (resultado y goles), así que **no cambiar la fecha ni el nombre del rival** de un partido ya publicado salvo que estén mal: cambiar cualquiera de los dos cambia la URL. Cargar `goles` en `ultimo` apenas termina el partido: es lo que muestra la página como resultado.

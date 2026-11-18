@@ -38,6 +38,30 @@ export const listaSiete = (siete, t, url) => ({
   itemListElement: siete.map((n, i) => ({ '@type': 'ListItem', position: i + 1, name: n.titulo, description: n.texto })),
 });
 
+// Partido como evento deportivo (schema.org SportsEvent): lo usan la portada y la página del partido.
+export const eventoLd = (p, site) => {
+  const nombre = p.condicion === 'visitante' ? `${p.rival} vs Estudiantes` : `Estudiantes vs ${p.rival}`;
+  const equipos = [
+    { '@type': 'SportsTeam', name: site.equipo, url: 'https://estudiantesdelaplata.com' },
+    { '@type': 'SportsTeam', name: p.rival },
+  ];
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'SportsEvent',
+    name: `${p.torneo}${p.instancia ? ` (${p.instancia})` : ''}: ${nombre}`,
+    description: `${nombre} por ${p.torneo}${p.instancia ? `, ${p.instancia.toLowerCase()}` : ''}${p.estadio ? ` en ${p.estadio}` : ''}.`,
+    startDate: p.fecha,
+    endDate: finEstimado(p.fecha),
+    sport: 'Football',
+    eventStatus: 'https://schema.org/EventScheduled',
+    eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+    ...(p.estadio && { location: { '@type': 'Place', name: p.estadio, address: p.estadio } }),
+    organizer: organizador(p.torneo),
+    competitor: equipos,
+    performer: equipos,
+  };
+      };
+
 // Una página = una función (ctx, data) → { title, description, jsonLd, body }.
 // ctx trae site, t (textos del idioma), f (fechas del idioma) y alternates (las otras versiones).
 export const slug = '';
@@ -60,28 +84,7 @@ export default (ctx, data) => {
         description: t.descripcion,
       },
       ...(data.hoy.siete?.length ? [listaSiete(data.hoy.siete, t, new URL(ctx.ruta(''), site.url).href)] : []),
-      ...data.proximos.map((p) => {
-        const nombre = p.condicion === 'visitante' ? `${p.rival} vs Estudiantes` : `Estudiantes vs ${p.rival}`;
-        const equipos = [
-          { '@type': 'SportsTeam', name: site.equipo, url: 'https://estudiantesdelaplata.com' },
-          { '@type': 'SportsTeam', name: p.rival },
-        ];
-        return {
-          '@context': 'https://schema.org',
-          '@type': 'SportsEvent',
-          name: `${p.torneo}${p.instancia ? ` (${p.instancia})` : ''}: ${nombre}`,
-          description: `${nombre} por ${p.torneo}${p.instancia ? `, ${p.instancia.toLowerCase()}` : ''}${p.estadio ? ` en ${p.estadio}` : ''}.`,
-          startDate: p.fecha,
-          endDate: finEstimado(p.fecha),
-          sport: 'Football',
-          eventStatus: 'https://schema.org/EventScheduled',
-          eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
-          ...(p.estadio && { location: { '@type': 'Place', name: p.estadio, address: p.estadio } }),
-          organizer: organizador(p.torneo),
-          competitor: equipos,
-          performer: equipos,
-        };
-      }),
+      ...data.proximos.map((p) => eventoLd(p, site)),
     ],
     body: html`
 ${header(ctxF)}

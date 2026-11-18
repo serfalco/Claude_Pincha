@@ -1,6 +1,7 @@
 import { html, raw } from '../lib/html.mjs';
 import { icono } from './iconos.mjs';
 import { mascota, estadoPorResultado } from './mascota.mjs';
+import { slugPartido } from '../lib/partido.mjs';
 
 // Franja "en un vistazo" debajo del titular: próximo partido + último resultado,
 // y cuenta regresiva al partido marcado como `destacado` (ej. la final).
@@ -11,28 +12,28 @@ const diasHasta = (iso, desde, zona) => {
   return Math.round((d(new Date(iso)) - d(desde)) / DIA);
 };
 
-export const franja = ({ proximos, ultimo: u }, { t, f, site }) => {
+export const franja = ({ proximos, ultimo: u }, { t, f, site, ruta }) => {
   const p = proximos[0];
   const estado = estadoPorResultado(u.golesPropios, u.golesRival);
   const dest = proximos.find((x) => x.destacado);
   const n = dest ? diasHasta(dest.fecha, new Date(), site.zonaHoraria) : null;
   return html`
 <div class="franja">
-  <div class="franja__item">
+  <a class="franja__item" href="${ruta(slugPartido(p))}">
     <span class="franja__label">${icono('calendario')}${t.proximo}</span>
     <span class="franja__rival">${t.vs} ${p.rival}</span>
     <span class="franja__dato"><time datetime="${p.fecha}">${f.corta(p.fecha)} · ${f.hora(p.fecha)}</time></span>
     <span class="franja__meta">${p.torneo}${p.instancia ? ` · ${p.instancia}` : ''}</span>
     ${p.estadio ? html`<span class="franja__meta">${p.estadio}</span>` : ''}
-  </div>
-  <div class="franja__item franja__item--ultimo">
+  </a>
+  <a class="franja__item franja__item--ultimo" href="${ruta(slugPartido(u))}">
     <span class="franja__label">${icono('marcador')}${t.ultimo}</span>
     <span class="franja__rival">${t.vs} ${u.rival}</span>
     <span class="franja__dato">${u.golesPropios} - ${u.golesRival}</span>
     <span class="franja__meta">${t.estados[estado]} · <time datetime="${u.fecha}">${f.corta(u.fecha)}</time></span>
     ${u.goles?.length ? html`<ul class="franja__goles">${u.goles.map((g) => html`<li>⚽ ${g.jugador} ${g.min}'${g.ec ? ` (${t.gol.ec})` : ''}${g.pen ? ` (${t.gol.pen})` : ''}</li>`)}</ul>` : ''}
     <span class="franja__mascota" aria-hidden="true">${raw(mascota(estado))}</span>
-  </div>
+  </a>
 </div>
 ${dest && n >= 0
   ? html`<div class="cuenta" data-fecha="${dest.fecha}">

@@ -51,6 +51,14 @@ export default {
   balance: 'Último balanço',
   fuente: 'Fonte',
   campania: { cerrar: 'Fechar', metaCorta: 'meta', pasos: 'Como se associar', beneficios: 'O que você ganha', compartir: 'Mande para um pincha', ver: 'Como me associo?', aviso: 'O site do clube está em espanhol; estes passos te guiam.', ctaGrande: 'Associe-se agora', meta: (n) => `Meta: ${n}`, cta: 'Seja sócio', info: 'Saiba mais' },
+  partido: {
+    tituloPrevia: (n, torneo, cuando) => `${n} ao vivo: ${torneo}, ${cuando}`,
+    tituloJugado: (marcador, torneo) => `${marcador}: resultado e gols · ${torneo}`,
+    descPrevia: (n, torneo, larga, hora, estadio) => `${n} pela ${torneo}: ${larga} às ${hora} (horário argentino)${estadio ? ` no ${estadio}` : ''}. Acompanhe ao vivo e com as últimas notícias do Pincha.`,
+    descJugado: (n, torneo, larga, estado, marcador, goles) => `${n} pela ${torneo}, ${larga}: ${estado.toLowerCase()}, ${marcador}.${goles ? ` Gols: ${goles}.` : ''}`,
+    horaArg: 'horário argentino', final: 'Resultado final', goles: 'Gols', volver: 'Voltar à capa', cronica: 'O que aconteceu naquele dia',
+    enVivo: 'Acompanhe ao vivo aqui: o placar se atualiza sozinho durante o jogo.',
+  },
   dia: {
     kicker: 'O dia do Pincha',
     title: (fecha) => `Estudiantes de La Plata, ${fecha}: o que aconteceu · El Pincha Hoy`,

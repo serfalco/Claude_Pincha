@@ -14,6 +14,8 @@ import dia from '../src/pages/dia.mjs';
 import dias from '../src/pages/dias.mjs';
 import mundo from '../src/pages/mundo.mjs';
 import notipinchas from '../src/pages/notipinchas.mjs';
+import partido from '../src/pages/partido.mjs';
+import { slugPartido } from '../src/lib/partido.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const dist = join(root, 'dist');
@@ -122,6 +124,25 @@ const build = async () => {
       }),
       { indexar: d.linea.length > 0 }
     );
+  }
+  // Partidos: los próximos, el último y los que quedaron en el historial. Una URL fija por partido.
+  const conocidos = new Map();
+  for (const d of [...listaDias].reverse()) if (d.ultimo) conocidos.set(slugPartido(d.ultimo), { base: d.ultimo, dia: d.fecha });
+  if (base.ultimo) conocidos.set(slugPartido(base.ultimo), { ...conocidos.get(slugPartido(base.ultimo)), base: base.ultimo, clave: 'ultimo' });
+  base.proximos.forEach((p, i) => conocidos.set(slugPartido(p), { base: p, clave: 'proximos', i }));
+  const conFecha = new Set(listaDias.filter((d) => d.linea.length).map((d) => d.fecha));
+  for (const [slug, m] of conocidos) {
+    const fechaPartido = m.base.fecha.slice(0, 10);
+    await pagina(slug, m.clave === 'proximos' ? base.actualizado.slice(0, 10) : fechaPartido, (ctx, lang) => {
+      const data = porIdioma[lang];
+      const p = m.clave === 'proximos' ? data.proximos[m.i] : m.clave === 'ultimo' ? data.ultimo : m.base;
+      return partido(ctx, p, {
+        enVivo: m.clave === 'proximos' && m.i === 0,
+        siete: m.clave === 'proximos' ? data.hoy.siete ?? [] : [],
+        dia: conFecha.has(fechaPartido) ? ctx.ruta(`dia/${fechaPartido}`) : undefined,
+        data,
+      });
+    });
   }
   await pagina('notipinchas', base.actualizado.slice(0, 10), (ctx, lang) =>
     notipinchas({ ...ctx, enlaceDia: hayHistorial ? ctx.ruta('dias') : undefined }, porIdioma[lang])

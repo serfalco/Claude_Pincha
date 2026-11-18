@@ -6,6 +6,7 @@ import { pegado } from '../components/club.mjs';
 import { sinHora, siete } from '../components/hoy.mjs';
 import { foto } from '../components/foto.mjs';
 import { listaSiete } from './home.mjs';
+import { slugPartido } from '../lib/partido.mjs';
 
 // Página de un día del historial: /dia/AAAA-MM-DD/ (y /en/dia/..., /pt/dia/...).
 // dia = contenido de data/dias/AAAA-MM-DD.json; nav = { anterior, siguiente, todos } con rutas ya resueltas.
@@ -64,7 +65,7 @@ ${header(ctx)}
       })()}
       ${tx(dia.resumen) ? html`<p class="hoy__resumen">${tx(dia.resumen)}</p>` : ''}
       ${ultimoDelDia
-        ? html`<p class="dia__resultado">${t.dia.ultimoResultado}: Estudiantes ${u.golesPropios} - ${u.golesRival} ${u.rival}</p>`
+        ? html`<p class="dia__resultado"><a href="${ctx.ruta(slugPartido(u))}">${t.dia.ultimoResultado}: Estudiantes ${u.golesPropios} - ${u.golesRival} ${u.rival}</a></p>`
         : ''}
       ${dia.siete?.length ? siete(dia.siete.map((n) => ({ titulo: tx(n.titulo), texto: tx(n.texto) })), t) : ''}
       <div class="linea">

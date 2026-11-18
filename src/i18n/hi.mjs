@@ -49,6 +49,14 @@ export default {
   balance: 'ताज़ा वित्तीय विवरण',
   fuente: 'स्रोत',
   campania: { cerrar: 'बंद करें', metaCorta: 'लक्ष्य', pasos: 'सदस्य कैसे बनें', beneficios: 'आपको क्या मिलता है', compartir: 'किसी पिंचा को भेजें', ver: 'मैं सदस्य कैसे बनूँ?', aviso: 'क्लब की वेबसाइट स्पेनिश में है; ये कदम आपकी मदद करेंगे।', ctaGrande: 'अभी सदस्य बनें', meta: (n) => `लक्ष्य: ${n}`, cta: 'सदस्य बनें', info: 'और जानकारी' },
+  partido: {
+    tituloPrevia: (n, torneo, cuando) => `${n} लाइव: ${torneo}, ${cuando}`,
+    tituloJugado: (marcador, torneo) => `${marcador}: नतीजा और गोल · ${torneo}`,
+    descPrevia: (n, torneo, larga, hora, estadio) => `${n}, ${torneo}: ${larga}, ${hora} (अर्जेंटीना समय)${estadio ? `, ${estadio}` : ''}। यहाँ लाइव देखें, साथ में Pincha की ताज़ा ख़बरें।`,
+    descJugado: (n, torneo, larga, estado, marcador, goles) => `${n}, ${torneo}, ${larga}: ${estado}, ${marcador}।${goles ? ` गोल: ${goles}।` : ''}`,
+    horaArg: 'अर्जेंटीना समय', final: 'अंतिम नतीजा', goles: 'गोल', volver: 'मुखपृष्ठ पर लौटें', cronica: 'उस दिन क्या हुआ',
+    enVivo: 'यहाँ लाइव देखें: मैच के दौरान स्कोर अपने-आप अपडेट होता है।',
+  },
   dia: {
     kicker: 'Pincha दिन-ब-दिन',
     title: (fecha) => `एस्टुडियांटेस डे ला प्लाटा, ${fecha}: क्या हुआ · El Pincha Hoy`,

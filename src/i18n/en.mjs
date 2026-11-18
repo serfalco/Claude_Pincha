@@ -51,6 +51,14 @@ export default {
   balance: 'Latest financial statement',
   fuente: 'Source',
   campania: { cerrar: 'Close', metaCorta: 'goal', pasos: 'How to join', beneficios: 'What you get', compartir: 'Send it to a Pincha', ver: 'How do I join?', aviso: 'The club’s site is in Spanish; these steps guide you.', ctaGrande: 'Join now', meta: (n) => `Goal: ${n}`, cta: 'Become a member', info: 'More info' },
+  partido: {
+    tituloPrevia: (n, torneo, cuando) => `${n} live: ${torneo}, ${cuando}`,
+    tituloJugado: (marcador, torneo) => `${marcador}: result and goals · ${torneo}`,
+    descPrevia: (n, torneo, larga, hora, estadio) => `${n}, ${torneo}: ${larga} at ${hora} (Argentina time)${estadio ? ` at ${estadio}` : ''}. Follow it live, plus the latest Pincha news.`,
+    descJugado: (n, torneo, larga, estado, marcador, goles) => `${n}, ${torneo}, ${larga}: ${estado.toLowerCase()}, ${marcador}.${goles ? ` Goals: ${goles}.` : ''}`,
+    horaArg: 'Argentina time', final: 'Final result', goles: 'Goals', volver: 'Back to the front page', cronica: 'What happened that day',
+    enVivo: 'Follow it live here: the score updates by itself during the match.',
+  },
   dia: {
     kicker: 'Pincha day by day',
     title: (fecha) => `Estudiantes de La Plata, ${fecha}: what happened · El Pincha Hoy`,

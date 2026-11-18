@@ -49,6 +49,14 @@ export default {
   balance: '最新财务报告',
   fuente: '来源',
   campania: { cerrar: '关闭', metaCorta: '目标', pasos: '如何入会', beneficios: '会员福利', compartir: '发给一位Pincha球迷', ver: '如何入会？', aviso: '俱乐部网站为西班牙语；以下步骤可为你指引。', ctaGrande: '立即入会', meta: (n) => `目标：${n}`, cta: '成为会员', info: '了解更多' },
+  partido: {
+    tituloPrevia: (n, torneo, cuando) => `${n} 直播：${torneo}，${cuando}`,
+    tituloJugado: (marcador, torneo) => `${marcador}：比赛结果与进球 · ${torneo}`,
+    descPrevia: (n, torneo, larga, hora, estadio) => `${n}，${torneo}：${larga} ${hora}（阿根廷时间）${estadio ? `，${estadio}` : ''}。在这里关注比赛直播和Pincha的最新消息。`,
+    descJugado: (n, torneo, larga, estado, marcador, goles) => `${n}，${torneo}，${larga}：${estado}，${marcador}。${goles ? `进球：${goles}。` : ''}`,
+    horaArg: '阿根廷时间', final: '最终比分', goles: '进球', volver: '返回首页', cronica: '当天发生了什么',
+    enVivo: '在这里关注直播：比赛期间比分会自动更新。',
+  },
   dia: {
     kicker: 'Pincha 每日回顾',
     title: (fecha) => `拉普拉塔大学生队 ${fecha}：当天发生了什么 · El Pincha Hoy`,
