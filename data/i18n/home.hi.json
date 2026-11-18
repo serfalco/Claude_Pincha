@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "अतिरिक्त सीटें एक घंटे से कम में बिकीं, Palmeiras आज Mineirão में खेलेगा",
+    "titular": "Palmeiras आज Mineirão में खेलेगा, Giay, Flaco López और Arias का इंतज़ार",
     "foto": {
       "alt": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
     },
-    "resumen": "फ़ाइनल की 1,000 अतिरिक्त सीटें, जो सिर्फ़ Banco Provincia Mastercard धारकों के लिए थीं, वेबसाइट क्रैश और प्रशंसकों की शिकायतों के बीच एक घंटे से कम में बिक गईं। Palmeiras कई खिलाड़ियों के बिना Cruzeiro के मैदान पर उतरेगा, और Medina जानते हैं कि Montevideo में Baltasar Rodríguez नहीं होंगे।",
+    "resumen": "फ़ाइनल के लिए 1,000 अतिरिक्त सीटें एक घंटे से भी कम समय में बिक गईं। Palmeiras आज पाँच खिलाड़ियों के बिना Cruzeiro से भिड़ेगा और चार्टर उड़ानों से लौट रहे तीन अंतरराष्ट्रीय खिलाड़ियों का इंतज़ार कर रहा है, जबकि Pincha Baltasar Rodríguez के बिना फ़ाइनल की तैयारी जारी रखे हुए है।",
     "siete": [
       {
         "titulo": "अतिरिक्त सीटें फटाफट ख़त्म",
@@ -12,7 +12,7 @@
       },
       {
         "titulo": "Palmeiras आज Cruzeiro के मैदान पर, कई खिलाड़ी बाहर",
-        "texto": "टीम 20:30 बजे Mineirão में Brasileirão मैच खेलेगी, Gustavo Gómez और Mauricio (Paraguay से लौट रहे), Piquerez, Murilo, Paulinho और Jefté के बिना। ब्राज़ील की मीडिया के मुताबिक़ Murilo और Jefté फ़ाइनल तक फ़िट हो जाएँगे।"
+        "texto": "Brasileirão का यह मैच 20:30 बजे Mineirão में होगा; Gustavo Gómez और Maurício (Paraguay के साथ), Murilo, Piquerez और Paulinho नहीं खेलेंगे। Giay, Flaco López और Jhon Arias ने मंगलवार को अपनी राष्ट्रीय टीमों के लिए खेला, आज चार्टर उड़ानों से पहुँचेंगे और उनकी जाँच होगी।"
       },
       {
         "titulo": "Correa का फ़ाइनल खेलना संदिग्ध",
@@ -31,11 +31,17 @@
         "texto": "क्लब ने 2009 Libertadores जीतने वाली Sabella की टीम के सदस्यों को आमंत्रित किया है। Leandro Benítez ने पुष्टि की कि वे Centenario में होंगे: \"मैं आनंद लेने जा रहा हूँ, फ़ाइनल रोज़ नहीं खेला जाता\"।"
       },
       {
-        "titulo": "Recopa La Plata में हो सकता है",
-        "texto": "Supercopa जीतने से Pincha जनवरी में Rosario Central और Copa Argentina विजेता के साथ Recopa de Campeones का त्रिकोणीय टूर्नामेंट खेलेगा। Estadio Único Diego Armando Maradona (el UNO नहीं, जो Pincha का अपना मैदान है) संभावित स्थलों में से एक है, लेकिन AFA ने अभी पुष्टि नहीं की है।"
+        "titulo": "Palmeiras का आठ दिन बाद एक और फ़ाइनल",
+        "texto": "6 दिसंबर को, Montevideo के आठ दिन बाद, Palmeiras Brasília के Mané Garrincha में Grêmio के ख़िलाफ़ Copa do Brasil का एकल-मैच फ़ाइनल खेलेगा। CBF ने अभी समय तय नहीं किया है।"
       }
     ],
     "linea": [
+      {
+        "texto": "टीम Montevideo फ़ाइनल की तैयारी जारी रखे हुए है।"
+      },
+      {
+        "texto": "Brasileirão में दूसरे स्थान पर मौजूद Palmeiras आज Mineirão में Cruzeiro से भिड़ेगा, टीम में कई खिलाड़ी बाहर हैं।"
+      },
       {
         "texto": "2009 के चैंपियन Leandro Benítez ने पुष्टि की कि वे क्लब के मेहमान के रूप में Montevideo जाएँगे।"
       },
@@ -61,22 +67,16 @@
         "texto": "Pincha जनवरी का Recopa de Campeones La Plata में खेल सकता है; स्थल की अभी पुष्टि नहीं।"
       },
       {
-        "texto": "City Bell में 'ऑपरेशन Palmeiras' शुरू: Medina पाँच डिफ़ेंडरों पर विचार कर रहे हैं।"
+        "texto": "Palmeiras को Giay, Flaco López और Arias का इंतज़ार है, जो अंतरराष्ट्रीय मैच के बाद चार्टर उड़ानों से लौट रहे हैं।"
       },
       {
-        "texto": "फ़ाइनल पर González Pirez: \"मैं हर वक़्त मैच के बारे में सोचता हूँ\"।"
+        "texto": "City Bell में 'ऑपरेशन Palmeiras' शुरू: Medina पाँच डिफ़ेंडरों पर विचार कर रहे हैं।"
       },
       {
         "texto": "Córdoba में ख़िताब के बाद Pincha फिर City Bell में अभ्यास पर लौटा, नज़र Palmeiras पर।"
       },
       {
         "texto": "Supercopa ट्रॉफ़ी और ढेर सारी ख़ुशी के साथ ऐसे शुरू हुई Libertadores फ़ाइनल की तैयारी।"
-      },
-      {
-        "texto": "Palmeiras के पास Piquerez की वापसी की कोई तारीख़ नहीं: उरुग्वे के लिए खेलते हुए जांघ में चोट, फ़ाइनल पर संशय।"
-      },
-      {
-        "texto": "ब्राज़ील में Palmeiras की थकान पर चिंता: फ़ाइनल से पहले सात दिन में 270 मिनट।"
       }
     ]
   },

@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "Extra seats gone in under an hour as Palmeiras play at the Mineirão today",
+    "titular": "Palmeiras play at the Mineirão today and wait on Giay, Flaco López and Arias",
     "foto": {
       "alt": "Coaching staff give instructions to two players during a training session at City Bell."
     },
-    "resumen": "The 1,000 extra seats for the final, exclusive to Banco Provincia Mastercard holders, sold out in under an hour amid website crashes and fan complaints. Palmeiras visit Cruzeiro with several absentees, and Medina already knows he will be without Baltasar Rodríguez in Montevideo.",
+    "resumen": "The 1,000 extra seats for the final sold out in under an hour. Palmeiras visit Cruzeiro today with five players missing and are waiting on three internationals arriving on charter flights, while the Pincha keep preparing for the final without Baltasar Rodríguez.",
     "siete": [
       {
         "titulo": "Extra seats snapped up",
@@ -12,7 +12,7 @@
       },
       {
         "titulo": "Palmeiras visit Cruzeiro today, short-handed",
-        "texto": "They play at 20:30 at the Mineirão in the Brasileirão without Gustavo Gómez or Mauricio (back from Paraguay duty), Piquerez, Murilo, Paulinho or Jefté. Brazilian press say Murilo and Jefté should be fit for the final."
+        "texto": "They play at 20:30 at the Mineirão in the Brasileirão without Gustavo Gómez or Maurício (on Paraguay duty), Murilo, Piquerez or Paulinho. Giay, Flaco López and Jhon Arias played for their countries on Tuesday, arrive today on charter flights and will be assessed."
       },
       {
         "titulo": "Correa a doubt for the final",
@@ -31,11 +31,17 @@
         "texto": "The club invited members of Sabella's squad that won the 2009 Libertadores. Leandro Benítez confirmed he will be at the Centenario: \"I'm going to enjoy it, you don't play a final every day\"."
       },
       {
-        "titulo": "Recopa could be played in La Plata",
-        "texto": "Winning the Supercopa puts the Pincha into January's Recopa de Campeones round-robin with Rosario Central and the Copa Argentina winners. The Estadio Único Diego Armando Maradona (not the UNO, the Pincha's own ground) is one possible venue, but AFA has yet to confirm it."
+        "titulo": "Palmeiras have another final eight days later",
+        "texto": "On 6 December, eight days after Montevideo, Palmeiras face Grêmio in the Copa do Brasil final, a one-off match at the Mané Garrincha in Brasília. The CBF has not set the kick-off time yet."
       }
     ],
     "linea": [
+      {
+        "texto": "The squad press on with their preparations for the final in Montevideo."
+      },
+      {
+        "texto": "Cruzeiro and Palmeiras, second in the Brasileirão, meet today at the Mineirão with Verdão badly depleted."
+      },
       {
         "texto": "Leandro Benítez, a 2009 champion, confirmed he will travel to Montevideo as the club's guest."
       },
@@ -61,22 +67,16 @@
         "texto": "The Pincha could play January's Recopa de Campeones in La Plata; the venue is not yet confirmed."
       },
       {
-        "texto": "Operation Palmeiras is under way at City Bell: Medina is considering a back five."
+        "texto": "Palmeiras await Giay, Flaco López and Arias, arriving on charter flights after international duty."
       },
       {
-        "texto": "González Pirez on the final: \"I think about the match all the time\"."
+        "texto": "Operation Palmeiras is under way at City Bell: Medina is considering a back five."
       },
       {
         "texto": "Estudiantes trained again at City Bell after the title in Córdoba, with Palmeiras already in mind."
       },
       {
         "texto": "With the Supercopa trophy and plenty of joy, this is how preparations for the Libertadores final began."
-      },
-      {
-        "texto": "Palmeiras still have no return date for Piquerez: he hurt his thigh with Uruguay and is a doubt for the final."
-      },
-      {
-        "texto": "In Brazil there are warnings about Palmeiras' workload: 270 minutes in seven days before the final."
       }
     ]
   },

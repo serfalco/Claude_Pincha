@@ -1,18 +1,18 @@
 {
   "hoy": {
-    "titular": "追加看台票不到一小时售罄，帕尔梅拉斯（Palmeiras）今天在Mineirão出战",
+    "titular": "帕尔梅拉斯(Palmeiras)今天在Mineirão出战，等待Giay、Flaco López和Arias归队",
     "foto": {
       "alt": "教练组在City Bell训练中向两名球员布置战术。"
     },
-    "resumen": "决赛1000张追加看台票仅限Banco Provincia万事达卡持卡人购买，在网站崩溃和球迷抱怨声中不到一小时售罄。帕尔梅拉斯带着多名伤缺客战Cruzeiro，Medina则已确定在蒙得维的亚无法使用Baltasar Rodríguez。",
+    "resumen": "决赛新增的1000张看台票不到一小时即告售罄。帕尔梅拉斯今天客场挑战Cruzeiro，五名球员缺阵，另有三名国脚乘包机返回；Pincha则在没有Baltasar Rodríguez的情况下继续备战决赛。",
     "siete": [
       {
         "titulo": "追加看台票秒光",
         "texto": "南美足联周二通过ElevenTickets发售的1000张二类看台票（250美元），仅限Banco Provincia万事达卡持卡人，不到一小时即售罄。售票网站崩溃，许多没买到票的球迷表达不满。"
       },
       {
-        "titulo": "帕尔梅拉斯今天客战Cruzeiro，多人缺阵",
-        "texto": "球队将于20:30在Mineirão进行巴西甲级联赛比赛，Gustavo Gómez和Mauricio（刚从巴拉圭国家队归来）、Piquerez、Murilo、Paulinho和Jefté均无法出场。巴西媒体称Murilo和Jefté有望赶上决赛。"
+        "titulo": "帕尔梅拉斯今日客战Cruzeiro，阵容残缺",
+        "texto": "巴甲比赛将于20:30在Mineirão进行，Gustavo Gómez和Maurício（随巴拉圭队）、Murilo、Piquerez和Paulinho均无法出场。Giay、Flaco López和Jhon Arias周二代表国家队出战，今天乘包机抵达，届时将接受评估。"
       },
       {
         "titulo": "Correa决赛出战成疑",
@@ -31,11 +31,17 @@
         "texto": "俱乐部邀请了Sabella麾下2009年解放者杯冠军阵容的成员。Leandro Benítez确认将到场Centenario：“我去就是为了享受，决赛不是天天都有。”"
       },
       {
-        "titulo": "Recopa可能在拉普拉塔举行",
-        "texto": "凭借超级杯冠军，Pincha将于1月与Rosario Central和阿根廷杯冠军进行Recopa de Campeones三队赛。Estadio Único Diego Armando Maradona（不是Pincha主场el UNO）是候选场地之一，但阿根廷足协尚未确认。"
+        "titulo": "帕尔梅拉斯八天后还有一场决赛",
+        "texto": "12月6日，也就是蒙得维的亚决赛八天后，帕尔梅拉斯将在巴西利亚Mané Garrincha球场与Grêmio进行Copa do Brasil单场决赛。巴西足协尚未确定开球时间。"
       }
     ],
     "linea": [
+      {
+        "texto": "球队继续为蒙得维的亚决赛进行备战。"
+      },
+      {
+        "texto": "Cruzeiro与巴甲第二名帕尔梅拉斯今天在Mineirão交锋，后者伤停众多。"
+      },
       {
         "texto": "2009年冠军成员Leandro Benítez确认将作为俱乐部嘉宾前往蒙得维的亚。"
       },
@@ -61,22 +67,16 @@
         "texto": "Pincha或将在拉普拉塔参加1月的Recopa de Campeones；场地尚未确认。"
       },
       {
-        "texto": "City Bell的“帕尔梅拉斯行动”已启动，Medina考虑采用五后卫。"
+        "texto": "帕尔梅拉斯等待Giay、Flaco López和Arias，三人结束国家队比赛后乘包机归队。"
       },
       {
-        "texto": "González Pirez谈决赛：“我一直在想这场比赛”。"
+        "texto": "City Bell的“帕尔梅拉斯行动”已启动，Medina考虑采用五后卫。"
       },
       {
         "texto": "Estudiantes在科尔多瓦夺冠后重返City Bell训练，目标直指Palmeiras。"
       },
       {
         "texto": "带着超级杯奖杯和满满喜悦，解放者杯决赛备战就此开启。"
-      },
-      {
-        "texto": "Palmeiras仍未公布Piquerez的复出时间：他在乌拉圭国家队受伤，决赛成疑。"
-      },
-      {
-        "texto": "巴西媒体提醒帕尔梅拉斯体能消耗：决赛前七天要踢270分钟。"
       }
     ]
   },

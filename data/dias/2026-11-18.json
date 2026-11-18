@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-18",
   "titular": {
-    "es": "Las plateas extra volaron en menos de una hora y Palmeiras juega hoy en el Mineirão",
-    "en": "Extra seats gone in under an hour as Palmeiras play at the Mineirão today",
-    "pt": "Cadeiras extras esgotam em menos de uma hora e Palmeiras joga hoje no Mineirão",
-    "zh": "追加看台票不到一小时售罄，帕尔梅拉斯（Palmeiras）今天在Mineirão出战",
-    "hi": "अतिरिक्त सीटें एक घंटे से कम में बिकीं, Palmeiras आज Mineirão में खेलेगा"
+    "es": "Palmeiras juega hoy en el Mineirão y espera por Giay, Flaco López y Arias",
+    "en": "Palmeiras play at the Mineirão today and wait on Giay, Flaco López and Arias",
+    "pt": "Palmeiras joga hoje no Mineirão e espera por Giay, Flaco López e Arias",
+    "zh": "帕尔梅拉斯(Palmeiras)今天在Mineirão出战，等待Giay、Flaco López和Arias归队",
+    "hi": "Palmeiras आज Mineirão में खेलेगा, Giay, Flaco López और Arias का इंतज़ार"
   },
   "resumen": {
-    "es": "Las 1.000 plateas extra para la final, exclusivas para clientes Mastercard del Banco Provincia, se agotaron en menos de una hora entre caídas de la web y quejas de los hinchas. Palmeiras visita a Cruzeiro con varias bajas y Medina ya sabe que no tendrá a Baltasar Rodríguez en Montevideo.",
-    "en": "The 1,000 extra seats for the final, exclusive to Banco Provincia Mastercard holders, sold out in under an hour amid website crashes and fan complaints. Palmeiras visit Cruzeiro with several absentees, and Medina already knows he will be without Baltasar Rodríguez in Montevideo.",
-    "pt": "As 1.000 cadeiras extras para a final, exclusivas para clientes Mastercard do Banco Provincia, esgotaram em menos de uma hora, entre quedas do site e reclamações dos torcedores. O Palmeiras visita o Cruzeiro com vários desfalques, e Medina já sabe que não terá Baltasar Rodríguez em Montevidéu.",
-    "zh": "决赛1000张追加看台票仅限Banco Provincia万事达卡持卡人购买，在网站崩溃和球迷抱怨声中不到一小时售罄。帕尔梅拉斯带着多名伤缺客战Cruzeiro，Medina则已确定在蒙得维的亚无法使用Baltasar Rodríguez。",
-    "hi": "फ़ाइनल की 1,000 अतिरिक्त सीटें, जो सिर्फ़ Banco Provincia Mastercard धारकों के लिए थीं, वेबसाइट क्रैश और प्रशंसकों की शिकायतों के बीच एक घंटे से कम में बिक गईं। Palmeiras कई खिलाड़ियों के बिना Cruzeiro के मैदान पर उतरेगा, और Medina जानते हैं कि Montevideo में Baltasar Rodríguez नहीं होंगे।"
+    "es": "Las 1.000 plateas extra para la final se agotaron en menos de una hora. Palmeiras visita hoy a Cruzeiro con cinco bajas y espera a tres seleccionados que llegan en vuelos chárter, mientras el Pincha sigue preparando la final sin Baltasar Rodríguez.",
+    "en": "The 1,000 extra seats for the final sold out in under an hour. Palmeiras visit Cruzeiro today with five players missing and are waiting on three internationals arriving on charter flights, while the Pincha keep preparing for the final without Baltasar Rodríguez.",
+    "pt": "Os 1.000 ingressos extras de arquibancada para a final esgotaram em menos de uma hora. O Palmeiras visita hoje o Cruzeiro com cinco desfalques e espera três convocados que chegam em voos fretados, enquanto o Pincha segue se preparando para a final sem Baltasar Rodríguez.",
+    "zh": "决赛新增的1000张看台票不到一小时即告售罄。帕尔梅拉斯今天客场挑战Cruzeiro，五名球员缺阵，另有三名国脚乘包机返回；Pincha则在没有Baltasar Rodríguez的情况下继续备战决赛。",
+    "hi": "फ़ाइनल के लिए 1,000 अतिरिक्त सीटें एक घंटे से भी कम समय में बिक गईं। Palmeiras आज पाँच खिलाड़ियों के बिना Cruzeiro से भिड़ेगा और चार्टर उड़ानों से लौट रहे तीन अंतरराष्ट्रीय खिलाड़ियों का इंतज़ार कर रहा है, जबकि Pincha Baltasar Rodríguez के बिना फ़ाइनल की तैयारी जारी रखे हुए है।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -58,16 +58,16 @@
       "titulo": {
         "es": "Palmeiras visita hoy a Cruzeiro, con bajas",
         "en": "Palmeiras visit Cruzeiro today, short-handed",
-        "pt": "Palmeiras visita o Cruzeiro hoje, com desfalques",
-        "zh": "帕尔梅拉斯今天客战Cruzeiro，多人缺阵",
+        "pt": "Palmeiras visita hoje o Cruzeiro, desfalcado",
+        "zh": "帕尔梅拉斯今日客战Cruzeiro，阵容残缺",
         "hi": "Palmeiras आज Cruzeiro के मैदान पर, कई खिलाड़ी बाहर"
       },
       "texto": {
-        "es": "Juega a las 20.30 en el Mineirão por el Brasileirão sin Gustavo Gómez ni Mauricio (vuelven de Paraguay), Piquerez, Murilo, Paulinho ni Jefté. En Brasil dicen que Murilo y Jefté se recuperan para la final.",
-        "en": "They play at 20:30 at the Mineirão in the Brasileirão without Gustavo Gómez or Mauricio (back from Paraguay duty), Piquerez, Murilo, Paulinho or Jefté. Brazilian press say Murilo and Jefté should be fit for the final.",
-        "pt": "Joga às 20h30 no Mineirão, pelo Brasileirão, sem Gustavo Gómez e Mauricio (voltando do Paraguai), Piquerez, Murilo, Paulinho e Jefté. A imprensa brasileira diz que Murilo e Jefté se recuperam para a final.",
-        "zh": "球队将于20:30在Mineirão进行巴西甲级联赛比赛，Gustavo Gómez和Mauricio（刚从巴拉圭国家队归来）、Piquerez、Murilo、Paulinho和Jefté均无法出场。巴西媒体称Murilo和Jefté有望赶上决赛。",
-        "hi": "टीम 20:30 बजे Mineirão में Brasileirão मैच खेलेगी, Gustavo Gómez और Mauricio (Paraguay से लौट रहे), Piquerez, Murilo, Paulinho और Jefté के बिना। ब्राज़ील की मीडिया के मुताबिक़ Murilo और Jefté फ़ाइनल तक फ़िट हो जाएँगे।"
+        "es": "Juega a las 20.30 en el Mineirão por el Brasileirão sin Gustavo Gómez ni Maurício (con Paraguay), Murilo, Piquerez ni Paulinho. Giay, Flaco López y Jhon Arias jugaron el martes con sus selecciones, llegan hoy en vuelos chárter y serán evaluados.",
+        "en": "They play at 20:30 at the Mineirão in the Brasileirão without Gustavo Gómez or Maurício (on Paraguay duty), Murilo, Piquerez or Paulinho. Giay, Flaco López and Jhon Arias played for their countries on Tuesday, arrive today on charter flights and will be assessed.",
+        "pt": "Joga às 20h30 no Mineirão pelo Brasileirão sem Gustavo Gómez nem Maurício (com o Paraguai), Murilo, Piquerez e Paulinho. Giay, Flaco López e Jhon Arias jogaram na terça por suas seleções, chegam hoje em voos fretados e serão avaliados.",
+        "zh": "巴甲比赛将于20:30在Mineirão进行，Gustavo Gómez和Maurício（随巴拉圭队）、Murilo、Piquerez和Paulinho均无法出场。Giay、Flaco López和Jhon Arias周二代表国家队出战，今天乘包机抵达，届时将接受评估。",
+        "hi": "Brasileirão का यह मैच 20:30 बजे Mineirão में होगा; Gustavo Gómez और Maurício (Paraguay के साथ), Murilo, Piquerez और Paulinho नहीं खेलेंगे। Giay, Flaco López और Jhon Arias ने मंगलवार को अपनी राष्ट्रीय टीमों के लिए खेला, आज चार्टर उड़ानों से पहुँचेंगे और उनकी जाँच होगी।"
       }
     },
     {
@@ -136,18 +136,18 @@
     },
     {
       "titulo": {
-        "es": "Recopa: podría jugarse en La Plata",
-        "en": "Recopa could be played in La Plata",
-        "pt": "Recopa pode ser em La Plata",
-        "zh": "Recopa可能在拉普拉塔举行",
-        "hi": "Recopa La Plata में हो सकता है"
+        "es": "Palmeiras tiene otra final ocho días después",
+        "en": "Palmeiras have another final eight days later",
+        "pt": "Palmeiras tem outra final oito dias depois",
+        "zh": "帕尔梅拉斯八天后还有一场决赛",
+        "hi": "Palmeiras का आठ दिन बाद एक और फ़ाइनल"
       },
       "texto": {
-        "es": "Por ganar la Supercopa, el Pincha jugará en enero el triangular de la Recopa de Campeones con Rosario Central y el ganador de la Copa Argentina. El Estadio Único Diego Armando Maradona (no el UNO, la cancha del Pincha) es una de las sedes posibles, pero la AFA todavía no la confirmó.",
-        "en": "Winning the Supercopa puts the Pincha into January's Recopa de Campeones round-robin with Rosario Central and the Copa Argentina winners. The Estadio Único Diego Armando Maradona (not the UNO, the Pincha's own ground) is one possible venue, but AFA has yet to confirm it.",
-        "pt": "Por ganhar a Supercopa, o Pincha jogará em janeiro o triangular da Recopa de Campeones com Rosario Central e o campeão da Copa Argentina. O Estadio Único Diego Armando Maradona (não o UNO, o estádio do Pincha) é uma das sedes possíveis, mas a AFA ainda não confirmou.",
-        "zh": "凭借超级杯冠军，Pincha将于1月与Rosario Central和阿根廷杯冠军进行Recopa de Campeones三队赛。Estadio Único Diego Armando Maradona（不是Pincha主场el UNO）是候选场地之一，但阿根廷足协尚未确认。",
-        "hi": "Supercopa जीतने से Pincha जनवरी में Rosario Central और Copa Argentina विजेता के साथ Recopa de Campeones का त्रिकोणीय टूर्नामेंट खेलेगा। Estadio Único Diego Armando Maradona (el UNO नहीं, जो Pincha का अपना मैदान है) संभावित स्थलों में से एक है, लेकिन AFA ने अभी पुष्टि नहीं की है।"
+        "es": "El 6 de diciembre, ocho días después de Montevideo, Palmeiras juega ante Grêmio la final de la Copa do Brasil, a partido único en el Mané Garrincha de Brasília. La CBF todavía no fijó el horario.",
+        "en": "On 6 December, eight days after Montevideo, Palmeiras face Grêmio in the Copa do Brasil final, a one-off match at the Mané Garrincha in Brasília. The CBF has not set the kick-off time yet.",
+        "pt": "Em 6 de dezembro, oito dias depois de Montevidéu, o Palmeiras enfrenta o Grêmio na final da Copa do Brasil, em jogo único no Mané Garrincha, em Brasília. A CBF ainda não definiu o horário.",
+        "zh": "12月6日，也就是蒙得维的亚决赛八天后，帕尔梅拉斯将在巴西利亚Mané Garrincha球场与Grêmio进行Copa do Brasil单场决赛。巴西足协尚未确定开球时间。",
+        "hi": "6 दिसंबर को, Montevideo के आठ दिन बाद, Palmeiras Brasília के Mané Garrincha में Grêmio के ख़िलाफ़ Copa do Brasil का एकल-मैच फ़ाइनल खेलेगा। CBF ने अभी समय तय नहीं किया है।"
       }
     }
   ],
@@ -161,5 +161,30 @@
       "hi": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
     }
   },
-  "linea": []
+  "linea": [
+    {
+      "hora": "2026-11-18T03:31:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/el-pincha-sigue-adelante-con-la-preparacion-para-la-final-deportes_1794983476",
+      "texto": {
+        "es": "El plantel sigue adelante con la preparación para la final de Montevideo.",
+        "en": "The squad press on with their preparations for the final in Montevideo.",
+        "pt": "O elenco segue a preparação para a final em Montevidéu.",
+        "zh": "球队继续为蒙得维的亚决赛进行备战。",
+        "hi": "टीम Montevideo फ़ाइनल की तैयारी जारी रखे हुए है।"
+      }
+    },
+    {
+      "hora": "2026-11-18T00:00:00-03:00",
+      "fuente": "O Tempo",
+      "url": "https://www.otempo.com.br/sports/cruzeiro/2026/11/18/cruzeiro-e-palmeiras-medem-forcas-no-mineirao-em-confronto-de-peso-pelo-brasileirao",
+      "texto": {
+        "es": "Cruzeiro y Palmeiras, segundo del Brasileirão, se miden hoy en el Mineirão con muchas bajas en el Verdão.",
+        "en": "Cruzeiro and Palmeiras, second in the Brasileirão, meet today at the Mineirão with Verdão badly depleted.",
+        "pt": "Cruzeiro e Palmeiras, vice-líder do Brasileirão, se enfrentam hoje no Mineirão com muitos desfalques no Verdão.",
+        "zh": "Cruzeiro与巴甲第二名帕尔梅拉斯今天在Mineirão交锋，后者伤停众多。",
+        "hi": "Brasileirão में दूसरे स्थान पर मौजूद Palmeiras आज Mineirão में Cruzeiro से भिड़ेगा, टीम में कई खिलाड़ी बाहर हैं।"
+      }
+    }
+  ]
 }

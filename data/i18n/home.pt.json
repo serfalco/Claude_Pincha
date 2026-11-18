@@ -1,18 +1,18 @@
 {
   "hoy": {
-    "titular": "Cadeiras extras esgotam em menos de uma hora e Palmeiras joga hoje no Mineirão",
+    "titular": "Palmeiras joga hoje no Mineirão e espera por Giay, Flaco López e Arias",
     "foto": {
       "alt": "A comissão técnica orienta dois jogadores durante um treino em City Bell."
     },
-    "resumen": "As 1.000 cadeiras extras para a final, exclusivas para clientes Mastercard do Banco Provincia, esgotaram em menos de uma hora, entre quedas do site e reclamações dos torcedores. O Palmeiras visita o Cruzeiro com vários desfalques, e Medina já sabe que não terá Baltasar Rodríguez em Montevidéu.",
+    "resumen": "Os 1.000 ingressos extras de arquibancada para a final esgotaram em menos de uma hora. O Palmeiras visita hoje o Cruzeiro com cinco desfalques e espera três convocados que chegam em voos fretados, enquanto o Pincha segue se preparando para a final sem Baltasar Rodríguez.",
     "siete": [
       {
         "titulo": "Cadeiras extras esgotadas",
         "texto": "As 1.000 cadeiras da categoria 2 (US$ 250) que a Conmebol colocou à venda na terça pela ElevenTickets, só para clientes Mastercard do Banco Provincia, esgotaram em menos de uma hora. O site caiu e muitos torcedores que ficaram de fora reclamaram."
       },
       {
-        "titulo": "Palmeiras visita o Cruzeiro hoje, com desfalques",
-        "texto": "Joga às 20h30 no Mineirão, pelo Brasileirão, sem Gustavo Gómez e Mauricio (voltando do Paraguai), Piquerez, Murilo, Paulinho e Jefté. A imprensa brasileira diz que Murilo e Jefté se recuperam para a final."
+        "titulo": "Palmeiras visita hoje o Cruzeiro, desfalcado",
+        "texto": "Joga às 20h30 no Mineirão pelo Brasileirão sem Gustavo Gómez nem Maurício (com o Paraguai), Murilo, Piquerez e Paulinho. Giay, Flaco López e Jhon Arias jogaram na terça por suas seleções, chegam hoje em voos fretados e serão avaliados."
       },
       {
         "titulo": "Correa, dúvida para a final",
@@ -31,11 +31,17 @@
         "texto": "O clube convidou integrantes do elenco de Sabella campeão da Libertadores 2009. Leandro Benítez confirmou que estará no Centenario: \"Vou para curtir, não é sempre que se joga uma final\"."
       },
       {
-        "titulo": "Recopa pode ser em La Plata",
-        "texto": "Por ganhar a Supercopa, o Pincha jogará em janeiro o triangular da Recopa de Campeones com Rosario Central e o campeão da Copa Argentina. O Estadio Único Diego Armando Maradona (não o UNO, o estádio do Pincha) é uma das sedes possíveis, mas a AFA ainda não confirmou."
+        "titulo": "Palmeiras tem outra final oito dias depois",
+        "texto": "Em 6 de dezembro, oito dias depois de Montevidéu, o Palmeiras enfrenta o Grêmio na final da Copa do Brasil, em jogo único no Mané Garrincha, em Brasília. A CBF ainda não definiu o horário."
       }
     ],
     "linea": [
+      {
+        "texto": "O elenco segue a preparação para a final em Montevidéu."
+      },
+      {
+        "texto": "Cruzeiro e Palmeiras, vice-líder do Brasileirão, se enfrentam hoje no Mineirão com muitos desfalques no Verdão."
+      },
       {
         "texto": "Leandro Benítez, campeão em 2009, confirmou que viajará a Montevidéu como convidado do clube."
       },
@@ -61,22 +67,16 @@
         "texto": "O Pincha pode jogar a Recopa de Campeones de janeiro em La Plata; a sede ainda não foi confirmada."
       },
       {
-        "texto": "Em City Bell começou a operação Palmeiras: Medina avalia jogar com linha de cinco."
+        "texto": "O Palmeiras espera Giay, Flaco López e Arias, que chegam em voos fretados depois de jogar por suas seleções."
       },
       {
-        "texto": "González Pirez sobre a final: \"Penso o tempo todo no jogo\"."
+        "texto": "Em City Bell começou a operação Palmeiras: Medina avalia jogar com linha de cinco."
       },
       {
         "texto": "O Pincha voltou a treinar em City Bell depois do título em Córdoba e já pensa no Palmeiras."
       },
       {
         "texto": "Com a Supercopa e muita alegria, assim começou a preparação para a final da Libertadores."
-      },
-      {
-        "texto": "O Palmeiras segue sem prazo para Piquerez: ele lesionou a coxa pelo Uruguai e é dúvida para a final."
-      },
-      {
-        "texto": "No Brasil alertam para o desgaste do Palmeiras: 270 minutos em sete dias antes da final."
       }
     ]
   },

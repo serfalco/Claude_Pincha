@@ -1,13 +1,13 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-18T00:45:00-03:00",
+  "actualizado": "2026-11-18T08:30:00-03:00",
   "hoy": {
-    "titular": "Las plateas extra volaron en menos de una hora y Palmeiras juega hoy en el Mineirão",
+    "titular": "Palmeiras juega hoy en el Mineirão y espera por Giay, Flaco López y Arias",
     "foto": {
       "id": "2026-10-09_algunos-si-otros-no_1",
       "alt": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell."
     },
-    "resumen": "Las 1.000 plateas extra para la final, exclusivas para clientes Mastercard del Banco Provincia, se agotaron en menos de una hora entre caídas de la web y quejas de los hinchas. Palmeiras visita a Cruzeiro con varias bajas y Medina ya sabe que no tendrá a Baltasar Rodríguez en Montevideo.",
+    "resumen": "Las 1.000 plateas extra para la final se agotaron en menos de una hora. Palmeiras visita hoy a Cruzeiro con cinco bajas y espera a tres seleccionados que llegan en vuelos chárter, mientras el Pincha sigue preparando la final sin Baltasar Rodríguez.",
     "siete": [
       {
         "titulo": "Volaron las plateas extra",
@@ -15,7 +15,7 @@
       },
       {
         "titulo": "Palmeiras visita hoy a Cruzeiro, con bajas",
-        "texto": "Juega a las 20.30 en el Mineirão por el Brasileirão sin Gustavo Gómez ni Mauricio (vuelven de Paraguay), Piquerez, Murilo, Paulinho ni Jefté. En Brasil dicen que Murilo y Jefté se recuperan para la final."
+        "texto": "Juega a las 20.30 en el Mineirão por el Brasileirão sin Gustavo Gómez ni Maurício (con Paraguay), Murilo, Piquerez ni Paulinho. Giay, Flaco López y Jhon Arias jugaron el martes con sus selecciones, llegan hoy en vuelos chárter y serán evaluados."
       },
       {
         "titulo": "Correa, en duda para la final",
@@ -34,11 +34,23 @@
         "texto": "El club invitó a integrantes del plantel de Sabella que ganó la Libertadores 2009. Leandro Benítez confirmó que estará en el Centenario: \"Voy dispuesto a disfrutar, no siempre se juega una final\"."
       },
       {
-        "titulo": "Recopa: podría jugarse en La Plata",
-        "texto": "Por ganar la Supercopa, el Pincha jugará en enero el triangular de la Recopa de Campeones con Rosario Central y el ganador de la Copa Argentina. El Estadio Único Diego Armando Maradona (no el UNO, la cancha del Pincha) es una de las sedes posibles, pero la AFA todavía no la confirmó."
+        "titulo": "Palmeiras tiene otra final ocho días después",
+        "texto": "El 6 de diciembre, ocho días después de Montevideo, Palmeiras juega ante Grêmio la final de la Copa do Brasil, a partido único en el Mané Garrincha de Brasília. La CBF todavía no fijó el horario."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-18T03:31:00-03:00",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/el-pincha-sigue-adelante-con-la-preparacion-para-la-final-deportes_1794983476",
+        "texto": "El plantel sigue adelante con la preparación para la final de Montevideo."
+      },
+      {
+        "hora": "2026-11-18T00:00:00-03:00",
+        "fuente": "O Tempo",
+        "url": "https://www.otempo.com.br/sports/cruzeiro/2026/11/18/cruzeiro-e-palmeiras-medem-forcas-no-mineirao-em-confronto-de-peso-pelo-brasileirao",
+        "texto": "Cruzeiro y Palmeiras, segundo del Brasileirão, se miden hoy en el Mineirão con muchas bajas en el Verdão."
+      },
       {
         "hora": "2026-11-17T20:40:00-03:00",
         "fuente": "0221",
@@ -88,16 +100,16 @@
         "texto": "El Pincha podría jugar la Recopa de Campeones de enero en La Plata; la sede todavía no está confirmada."
       },
       {
+        "hora": "2026-11-17T06:23:00-03:00",
+        "fuente": "Portal do Palestra",
+        "url": "https://portaldopalestra.com.br/palmeiras-desfalques-jogo-cruzeiro-mineirao-convocados/",
+        "texto": "Palmeiras espera a Giay, Flaco López y Arias, que llegan en vuelos chárter tras jugar con sus selecciones."
+      },
+      {
         "hora": "2026-11-17T02:44:00-03:00",
         "fuente": "El Día",
         "url": "https://www.eldia.com/deportes/en-city-bell-comenzo-el-operativo-palmeiras-deportes_1794894270",
         "texto": "En City Bell arrancó el operativo Palmeiras: Medina analiza jugar con línea de cinco."
-      },
-      {
-        "hora": "2026-11-16T21:08:00-03:00",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/gonzalez-pirez-palpito-la-final-de-la-libertadores-ante-palmeiras-pienso-todo-el-tiempo-en-el-partido-deportes_1794874080",
-        "texto": "González Pirez palpitó la final: \"Pienso todo el tiempo en el partido\"."
       },
       {
         "hora": "2026-11-16T00:00:00-03:00",
@@ -110,18 +122,6 @@
         "texto": "Con la Supercopa y mucha alegría, así arrancó la preparación para la final de la Libertadores.",
         "fuente": "Infocielo",
         "url": "https://www.infocielo.com/deportes/con-la-supercopa-y-mucha-alegria-asi-comenzo-estudiantes-la-preparacion-para-la-final-de-la-libertadores"
-      },
-      {
-        "hora": "2026-11-15T17:49:00-03:00",
-        "fuente": "ABC do ABC",
-        "url": "https://abcdoabc.com.br/palmeiras-conta-com-piquerez-para-fina/",
-        "texto": "Palmeiras sigue sin fecha para Piquerez: se lesionó el muslo con Uruguay y es duda para la final."
-      },
-      {
-        "hora": "2026-11-15T14:15:00-03:00",
-        "texto": "En Brasil advierten por el desgaste de Palmeiras: 270 minutos en siete días antes de la final.",
-        "fuente": "Infocielo",
-        "url": "https://www.infocielo.com/deportes/en-brasil-preocupa-el-desgaste-de-palmeiras-270-minutos-antes-de-la-final-con-estudiantes"
       }
     ]
   },
@@ -424,6 +424,10 @@
     "https://www.puntocapitalnoticias.com/estudiantes-presento-a-su-nuevo-dt-y-un-proyecto-para-el-futbol-femenino-hasta-2030",
     "https://www.lance.com.br/palmeiras/escalacao-palmeiras-encerra-preparacao-e-abel-busca-alternativas-sem-convocados.html",
     "https://www.eldia.com/deportes/en-city-bell-comenzo-el-operativo-palmeiras-deportes_1794894270",
-    "https://www.eldia.com/deportes/atentos-pinchas-a-las-14-habilitan-la-venta-de-mas-plateas-para-la-final-hay-un-requisito-deportes_1794924729"
+    "https://www.eldia.com/deportes/atentos-pinchas-a-las-14-habilitan-la-venta-de-mas-plateas-para-la-final-hay-un-requisito-deportes_1794924729",
+    "https://www.otempo.com.br/sports/cruzeiro/2026/11/18/cruzeiro-e-palmeiras-medem-forcas-no-mineirao-em-confronto-de-peso-pelo-brasileirao",
+    "https://portaldopalestra.com.br/palmeiras-desfalques-jogo-cruzeiro-mineirao-convocados/",
+    "https://www.lance.com.br/futebol-nacional/quando-sera-a-final-da-copa-do-brasil-2026-entre-palmeiras-e-gremio-veja-data-horario-e-local.html",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/palmeiras-x-gremio-veja-a-data-e-local-da-final-da-copa-do-brasil/"
   ]
 }
