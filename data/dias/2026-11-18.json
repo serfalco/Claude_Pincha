@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-18",
   "titular": {
-    "es": "Palmeiras juega hoy en el Mineirão y espera por Giay, Flaco López y Arias",
-    "en": "Palmeiras play at the Mineirão today and wait on Giay, Flaco López and Arias",
-    "pt": "Palmeiras joga hoje no Mineirão e espera por Giay, Flaco López e Arias",
-    "zh": "帕尔梅拉斯(Palmeiras)今天在Mineirão出战，等待Giay、Flaco López和Arias归队",
-    "hi": "Palmeiras आज Mineirão में खेलेगा, Giay, Flaco López और Arias का इंतज़ार"
+    "es": "Unos 35 mil pinchas preparan la caravana a Montevideo; Palmeiras juega esta noche en el Mineirão",
+    "en": "Around 35,000 Pincha fans gear up for the trip to Montevideo; Palmeiras play at the Mineirão tonight",
+    "pt": "Cerca de 35 mil torcedores do Pincha preparam a caravana a Montevidéu; Palmeiras joga hoje à noite no Mineirão",
+    "zh": "约3.5万名Pincha球迷准备奔赴蒙得维的亚；帕尔梅拉斯今晚在Mineirão出战",
+    "hi": "करीब 35 हज़ार Pincha प्रशंसक मोंटेवीडियो जाने की तैयारी में; Palmeiras आज रात Mineirão में खेलेगा"
   },
   "resumen": {
-    "es": "Las 1.000 plateas extra para la final se agotaron en menos de una hora. Palmeiras visita hoy a Cruzeiro con cinco bajas y espera a tres seleccionados que llegan en vuelos chárter, mientras el Pincha sigue preparando la final sin Baltasar Rodríguez.",
-    "en": "The 1,000 extra seats for the final sold out in under an hour. Palmeiras visit Cruzeiro today with five players missing and are waiting on three internationals arriving on charter flights, while the Pincha keep preparing for the final without Baltasar Rodríguez.",
-    "pt": "Os 1.000 ingressos extras de arquibancada para a final esgotaram em menos de uma hora. O Palmeiras visita hoje o Cruzeiro com cinco desfalques e espera três convocados que chegam em voos fretados, enquanto o Pincha segue se preparando para a final sem Baltasar Rodríguez.",
-    "zh": "决赛新增的1000张看台票不到一小时即告售罄。帕尔梅拉斯今天客场挑战Cruzeiro，五名球员缺阵，另有三名国脚乘包机返回；Pincha则在没有Baltasar Rodríguez的情况下继续备战决赛。",
-    "hi": "फ़ाइनल के लिए 1,000 अतिरिक्त सीटें एक घंटे से भी कम समय में बिक गईं। Palmeiras आज पाँच खिलाड़ियों के बिना Cruzeiro से भिड़ेगा और चार्टर उड़ानों से लौट रहे तीन अंतरराष्ट्रीय खिलाड़ियों का इंतज़ार कर रहा है, जबकि Pincha Baltasar Rodríguez के बिना फ़ाइनल की तैयारी जारी रखे हुए है।"
+    "es": "Se esperan unos 35 mil hinchas de Estudiantes en Montevideo, con 120 micros y los barcos agotados. Palmeiras visita esta noche a Cruzeiro con cinco bajas y recupera a Giay, Flaco López y Arias, que volvieron sin lesiones de sus selecciones.",
+    "en": "Around 35,000 Estudiantes supporters are expected in Montevideo, with 120 coaches and the ferries sold out. Palmeiras visit Cruzeiro tonight with five absentees but get Giay, Flaco López and Arias back unscathed from international duty.",
+    "pt": "São esperados cerca de 35 mil torcedores do Estudiantes em Montevidéu, com 120 ônibus e os barcos esgotados. O Palmeiras visita o Cruzeiro hoje à noite com cinco desfalques e recupera Giay, Flaco López e Arias, que voltaram sem lesões das seleções.",
+    "zh": "预计约3.5万名Estudiantes球迷将前往蒙得维的亚，120辆大巴出发，渡轮票已售罄。帕尔梅拉斯今晚客战Cruzeiro，五人缺阵，但Giay、Flaco López和Arias从国家队归来未受伤。",
+    "hi": "मोंटेवीडियो में Estudiantes के करीब 35 हज़ार प्रशंसकों के पहुँचने की उम्मीद है, 120 बसें जा रही हैं और नावों के टिकट बिक चुके हैं। Palmeiras आज रात पाँच खिलाड़ियों के बिना Cruzeiro से खेलेगा, लेकिन Giay, Flaco López और Arias राष्ट्रीय टीमों से बिना चोट लौट आए हैं।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -58,16 +58,16 @@
       "titulo": {
         "es": "Palmeiras visita hoy a Cruzeiro, con bajas",
         "en": "Palmeiras visit Cruzeiro today, short-handed",
-        "pt": "Palmeiras visita hoje o Cruzeiro, desfalcado",
-        "zh": "帕尔梅拉斯今日客战Cruzeiro，阵容残缺",
+        "pt": "Palmeiras visita o Cruzeiro hoje, com desfalques",
+        "zh": "帕尔梅拉斯今日客战Cruzeiro，多人缺阵",
         "hi": "Palmeiras आज Cruzeiro के मैदान पर, कई खिलाड़ी बाहर"
       },
       "texto": {
-        "es": "Juega a las 20.30 en el Mineirão por el Brasileirão sin Gustavo Gómez ni Maurício (con Paraguay), Murilo, Piquerez ni Paulinho. Giay, Flaco López y Jhon Arias jugaron el martes con sus selecciones, llegan hoy en vuelos chárter y serán evaluados.",
-        "en": "They play at 20:30 at the Mineirão in the Brasileirão without Gustavo Gómez or Maurício (on Paraguay duty), Murilo, Piquerez or Paulinho. Giay, Flaco López and Jhon Arias played for their countries on Tuesday, arrive today on charter flights and will be assessed.",
-        "pt": "Joga às 20h30 no Mineirão pelo Brasileirão sem Gustavo Gómez nem Maurício (com o Paraguai), Murilo, Piquerez e Paulinho. Giay, Flaco López e Jhon Arias jogaram na terça por suas seleções, chegam hoje em voos fretados e serão avaliados.",
-        "zh": "巴甲比赛将于20:30在Mineirão进行，Gustavo Gómez和Maurício（随巴拉圭队）、Murilo、Piquerez和Paulinho均无法出场。Giay、Flaco López和Jhon Arias周二代表国家队出战，今天乘包机抵达，届时将接受评估。",
-        "hi": "Brasileirão का यह मैच 20:30 बजे Mineirão में होगा; Gustavo Gómez और Maurício (Paraguay के साथ), Murilo, Piquerez और Paulinho नहीं खेलेंगे। Giay, Flaco López और Jhon Arias ने मंगलवार को अपनी राष्ट्रीय टीमों के लिए खेला, आज चार्टर उड़ानों से पहुँचेंगे और उनकी जाँच होगी।"
+        "es": "Juega a las 20.30 en el Mineirão por el Brasileirão sin Gustavo Gómez ni Maurício (con Paraguay), Murilo, Piquerez ni Paulinho. Giay, Flaco López y Jhon Arias volvieron sin lesiones de sus selecciones y arrancarían en el banco.",
+        "en": "They play at 20:30 at the Mineirão in the Brasileirão without Gustavo Gómez or Maurício (on Paraguay duty), Murilo, Piquerez or Paulinho. Giay, Flaco López and Jhon Arias came back from international duty injury-free and are expected to start on the bench.",
+        "pt": "Joga às 20h30 no Mineirão pelo Brasileirão sem Gustavo Gómez nem Maurício (com o Paraguai), Murilo, Piquerez e Paulinho. Giay, Flaco López e Jhon Arias voltaram sem lesões das seleções e devem começar no banco.",
+        "zh": "球队20:30在Mineirão进行巴甲比赛，Gustavo Gómez和Maurício（随巴拉圭队）、Murilo、Piquerez及Paulinho缺阵。Giay、Flaco López和Jhon Arias从国家队归来未受伤，预计替补出场。",
+        "hi": "टीम Brasileirão में 20:30 बजे Mineirão में खेलेगी, Gustavo Gómez और Maurício (Paraguay के साथ), Murilo, Piquerez और Paulinho के बिना। Giay, Flaco López और Jhon Arias राष्ट्रीय टीमों से बिना चोट लौटे हैं और बेंच से शुरुआत कर सकते हैं।"
       }
     },
     {
@@ -120,18 +120,18 @@
     },
     {
       "titulo": {
-        "es": "Los campeones de 2009 viajan a Montevideo",
-        "en": "The 2009 champions head to Montevideo",
-        "pt": "Os campeões de 2009 viajam a Montevidéu",
-        "zh": "2009年冠军成员前往蒙得维的亚",
-        "hi": "2009 के चैंपियन Montevideo जाएँगे"
+        "es": "Unos 35 mil pinchas, rumbo a Montevideo",
+        "en": "Around 35,000 Pincha fans head for Montevideo",
+        "pt": "Cerca de 35 mil torcedores rumo a Montevidéu",
+        "zh": "约3.5万名Pincha球迷奔赴蒙得维的亚",
+        "hi": "करीब 35 हज़ार Pincha प्रशंसक मोंटेवीडियो की ओर"
       },
       "texto": {
-        "es": "El club invitó a integrantes del plantel de Sabella que ganó la Libertadores 2009. Leandro Benítez confirmó que estará en el Centenario: \"Voy dispuesto a disfrutar, no siempre se juega una final\".",
-        "en": "The club invited members of Sabella's squad that won the 2009 Libertadores. Leandro Benítez confirmed he will be at the Centenario: \"I'm going to enjoy it, you don't play a final every day\".",
-        "pt": "O clube convidou integrantes do elenco de Sabella campeão da Libertadores 2009. Leandro Benítez confirmou que estará no Centenario: \"Vou para curtir, não é sempre que se joga uma final\".",
-        "zh": "俱乐部邀请了Sabella麾下2009年解放者杯冠军阵容的成员。Leandro Benítez确认将到场Centenario：“我去就是为了享受，决赛不是天天都有。”",
-        "hi": "क्लब ने 2009 Libertadores जीतने वाली Sabella की टीम के सदस्यों को आमंत्रित किया है। Leandro Benítez ने पुष्टि की कि वे Centenario में होंगे: \"मैं आनंद लेने जा रहा हूँ, फ़ाइनल रोज़ नहीं खेला जाता\"।"
+        "es": "Viajan 120 micros: 60 del club, que salen el viernes por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club.",
+        "en": "120 coaches are going: 60 laid on by the club, leaving the UNO on Friday afternoon, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario.",
+        "pt": "Viajam 120 ônibus: 60 do clube, que saem na sexta à tarde do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario.",
+        "zh": "共有120辆大巴出发：60辆由俱乐部组织，周五下午从el UNO出发，另60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。",
+        "hi": "120 बसें जा रही हैं: 60 क्लब की, जो शुक्रवार दोपहर el UNO से निकलेंगी, और 60 प्रशंसक समूहों और शाखाओं की। शुक्रवार और शनिवार की नावें बिक चुकी हैं, और क्लब के आमंत्रित 2009 के चैंपियन भी Centenario में होंगे।"
       }
     },
     {
@@ -162,6 +162,30 @@
     }
   },
   "linea": [
+    {
+      "hora": "2026-11-18T17:00:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/locura-total-estudiantes-120-micros-barcos-agotados-y-35-mil-hinchas-que-se-esperan-montevideo-n137667",
+      "texto": {
+        "es": "Locura total: 120 micros, barcos agotados y unos 35 mil pinchas esperados en Montevideo.",
+        "en": "Total frenzy: 120 coaches, sold-out ferries and around 35,000 Pincha fans expected in Montevideo.",
+        "pt": "Loucura total: 120 ônibus, barcos esgotados e cerca de 35 mil torcedores do Pincha esperados em Montevidéu.",
+        "zh": "全城沸腾：120辆大巴、渡轮售罄，预计约3.5万名Pincha球迷前往蒙得维的亚。",
+        "hi": "ज़बरदस्त उत्साह: 120 बसें, नावें बिक चुकीं और मोंटेवीडियो में करीब 35 हज़ार Pincha प्रशंसकों की उम्मीद।"
+      }
+    },
+    {
+      "hora": "2026-11-18T09:10:00-03:00",
+      "fuente": "Bolavip Brasil",
+      "url": "https://br.bolavip.com/palmeiras/giay-flaco-lopez-e-jhon-arias-passam-ilesos-e-reforcam-palmeiras-em-bh-para-enfrentar-cruzeiro",
+      "texto": {
+        "es": "Giay, Flaco López y Arias volvieron sin lesiones de la fecha FIFA y quedan a disposición de Palmeiras ante Cruzeiro.",
+        "en": "Giay, Flaco López and Arias came back injury-free from the international break and are available for Palmeiras against Cruzeiro.",
+        "pt": "Giay, Flaco López e Arias voltaram sem lesões da Data Fifa e ficam à disposição do Palmeiras contra o Cruzeiro.",
+        "zh": "Giay、Flaco López和Arias国际比赛日后未受伤归队，可出战帕尔梅拉斯对阵Cruzeiro的比赛。",
+        "hi": "Giay, Flaco López और Arias अंतरराष्ट्रीय ब्रेक से बिना चोट लौटे और Cruzeiro के खिलाफ़ Palmeiras के लिए उपलब्ध हैं।"
+      }
+    },
     {
       "hora": "2026-11-18T03:31:00-03:00",
       "fuente": "El Día",

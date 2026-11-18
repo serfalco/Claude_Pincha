@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "Palmeiras play at the Mineirão today and wait on Giay, Flaco López and Arias",
+    "titular": "Around 35,000 Pincha fans gear up for the trip to Montevideo; Palmeiras play at the Mineirão tonight",
     "foto": {
       "alt": "Coaching staff give instructions to two players during a training session at City Bell."
     },
-    "resumen": "The 1,000 extra seats for the final sold out in under an hour. Palmeiras visit Cruzeiro today with five players missing and are waiting on three internationals arriving on charter flights, while the Pincha keep preparing for the final without Baltasar Rodríguez.",
+    "resumen": "Around 35,000 Estudiantes supporters are expected in Montevideo, with 120 coaches and the ferries sold out. Palmeiras visit Cruzeiro tonight with five absentees but get Giay, Flaco López and Arias back unscathed from international duty.",
     "siete": [
       {
         "titulo": "Extra seats snapped up",
@@ -12,7 +12,7 @@
       },
       {
         "titulo": "Palmeiras visit Cruzeiro today, short-handed",
-        "texto": "They play at 20:30 at the Mineirão in the Brasileirão without Gustavo Gómez or Maurício (on Paraguay duty), Murilo, Piquerez or Paulinho. Giay, Flaco López and Jhon Arias played for their countries on Tuesday, arrive today on charter flights and will be assessed."
+        "texto": "They play at 20:30 at the Mineirão in the Brasileirão without Gustavo Gómez or Maurício (on Paraguay duty), Murilo, Piquerez or Paulinho. Giay, Flaco López and Jhon Arias came back from international duty injury-free and are expected to start on the bench."
       },
       {
         "titulo": "Correa a doubt for the final",
@@ -27,8 +27,8 @@
         "texto": "CONMEBOL chose Venezuelan Jesús Valenzuela, with an all-Venezuelan crew and Juan Soto on VAR. He refereed the Pincha's 1-0 win over Corinthians in the quarter-finals; Palmeiras are unbeaten with him this year."
       },
       {
-        "titulo": "The 2009 champions head to Montevideo",
-        "texto": "The club invited members of Sabella's squad that won the 2009 Libertadores. Leandro Benítez confirmed he will be at the Centenario: \"I'm going to enjoy it, you don't play a final every day\"."
+        "titulo": "Around 35,000 Pincha fans head for Montevideo",
+        "texto": "120 coaches are going: 60 laid on by the club, leaving the UNO on Friday afternoon, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario."
       },
       {
         "titulo": "Palmeiras have another final eight days later",
@@ -36,6 +36,12 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Total frenzy: 120 coaches, sold-out ferries and around 35,000 Pincha fans expected in Montevideo."
+      },
+      {
+        "texto": "Giay, Flaco López and Arias came back injury-free from the international break and are available for Palmeiras against Cruzeiro."
+      },
       {
         "texto": "The squad press on with their preparations for the final in Montevideo."
       },
@@ -71,12 +77,6 @@
       },
       {
         "texto": "Operation Palmeiras is under way at City Bell: Medina is considering a back five."
-      },
-      {
-        "texto": "Estudiantes trained again at City Bell after the title in Córdoba, with Palmeiras already in mind."
-      },
-      {
-        "texto": "With the Supercopa trophy and plenty of joy, this is how preparations for the Libertadores final began."
       }
     ]
   },

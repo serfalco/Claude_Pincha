@@ -1,13 +1,13 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-18T08:30:00-03:00",
+  "actualizado": "2026-11-18T18:30:00-03:00",
   "hoy": {
-    "titular": "Palmeiras juega hoy en el Mineirão y espera por Giay, Flaco López y Arias",
+    "titular": "Unos 35 mil pinchas preparan la caravana a Montevideo; Palmeiras juega esta noche en el Mineirão",
     "foto": {
       "id": "2026-10-09_algunos-si-otros-no_1",
       "alt": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell."
     },
-    "resumen": "Las 1.000 plateas extra para la final se agotaron en menos de una hora. Palmeiras visita hoy a Cruzeiro con cinco bajas y espera a tres seleccionados que llegan en vuelos chárter, mientras el Pincha sigue preparando la final sin Baltasar Rodríguez.",
+    "resumen": "Se esperan unos 35 mil hinchas de Estudiantes en Montevideo, con 120 micros y los barcos agotados. Palmeiras visita esta noche a Cruzeiro con cinco bajas y recupera a Giay, Flaco López y Arias, que volvieron sin lesiones de sus selecciones.",
     "siete": [
       {
         "titulo": "Volaron las plateas extra",
@@ -15,7 +15,7 @@
       },
       {
         "titulo": "Palmeiras visita hoy a Cruzeiro, con bajas",
-        "texto": "Juega a las 20.30 en el Mineirão por el Brasileirão sin Gustavo Gómez ni Maurício (con Paraguay), Murilo, Piquerez ni Paulinho. Giay, Flaco López y Jhon Arias jugaron el martes con sus selecciones, llegan hoy en vuelos chárter y serán evaluados."
+        "texto": "Juega a las 20.30 en el Mineirão por el Brasileirão sin Gustavo Gómez ni Maurício (con Paraguay), Murilo, Piquerez ni Paulinho. Giay, Flaco López y Jhon Arias volvieron sin lesiones de sus selecciones y arrancarían en el banco."
       },
       {
         "titulo": "Correa, en duda para la final",
@@ -30,8 +30,8 @@
         "texto": "La Conmebol eligió al venezolano Jesús Valenzuela, con una terna toda venezolana y Juan Soto en el VAR. Dirigió al Pincha en el 1-0 a Corinthians en los cuartos; Palmeiras no perdió con él este año."
       },
       {
-        "titulo": "Los campeones de 2009 viajan a Montevideo",
-        "texto": "El club invitó a integrantes del plantel de Sabella que ganó la Libertadores 2009. Leandro Benítez confirmó que estará en el Centenario: \"Voy dispuesto a disfrutar, no siempre se juega una final\"."
+        "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
+        "texto": "Viajan 120 micros: 60 del club, que salen el viernes por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club."
       },
       {
         "titulo": "Palmeiras tiene otra final ocho días después",
@@ -39,6 +39,18 @@
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-18T17:00:00-03:00",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/locura-total-estudiantes-120-micros-barcos-agotados-y-35-mil-hinchas-que-se-esperan-montevideo-n137667",
+        "texto": "Locura total: 120 micros, barcos agotados y unos 35 mil pinchas esperados en Montevideo."
+      },
+      {
+        "hora": "2026-11-18T09:10:00-03:00",
+        "fuente": "Bolavip Brasil",
+        "url": "https://br.bolavip.com/palmeiras/giay-flaco-lopez-e-jhon-arias-passam-ilesos-e-reforcam-palmeiras-em-bh-para-enfrentar-cruzeiro",
+        "texto": "Giay, Flaco López y Arias volvieron sin lesiones de la fecha FIFA y quedan a disposición de Palmeiras ante Cruzeiro."
+      },
       {
         "hora": "2026-11-18T03:31:00-03:00",
         "fuente": "El Día",
@@ -110,18 +122,6 @@
         "fuente": "El Día",
         "url": "https://www.eldia.com/deportes/en-city-bell-comenzo-el-operativo-palmeiras-deportes_1794894270",
         "texto": "En City Bell arrancó el operativo Palmeiras: Medina analiza jugar con línea de cinco."
-      },
-      {
-        "hora": "2026-11-16T00:00:00-03:00",
-        "texto": "El Pincha volvió a entrenarse en City Bell tras la consagración en Córdoba y ya piensa en Palmeiras.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/estudiantes-volvio-entrenarse-la-consagracion-cordoba-y-ya-prepara-la-final-la-copa-libertadores-n137559"
-      },
-      {
-        "hora": "2026-11-16T00:00:00-03:00",
-        "texto": "Con la Supercopa y mucha alegría, así arrancó la preparación para la final de la Libertadores.",
-        "fuente": "Infocielo",
-        "url": "https://www.infocielo.com/deportes/con-la-supercopa-y-mucha-alegria-asi-comenzo-estudiantes-la-preparacion-para-la-final-de-la-libertadores"
       }
     ]
   },

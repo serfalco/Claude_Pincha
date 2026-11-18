@@ -1,18 +1,18 @@
 {
   "hoy": {
-    "titular": "Palmeiras joga hoje no Mineirão e espera por Giay, Flaco López e Arias",
+    "titular": "Cerca de 35 mil torcedores do Pincha preparam a caravana a Montevidéu; Palmeiras joga hoje à noite no Mineirão",
     "foto": {
       "alt": "A comissão técnica orienta dois jogadores durante um treino em City Bell."
     },
-    "resumen": "Os 1.000 ingressos extras de arquibancada para a final esgotaram em menos de uma hora. O Palmeiras visita hoje o Cruzeiro com cinco desfalques e espera três convocados que chegam em voos fretados, enquanto o Pincha segue se preparando para a final sem Baltasar Rodríguez.",
+    "resumen": "São esperados cerca de 35 mil torcedores do Estudiantes em Montevidéu, com 120 ônibus e os barcos esgotados. O Palmeiras visita o Cruzeiro hoje à noite com cinco desfalques e recupera Giay, Flaco López e Arias, que voltaram sem lesões das seleções.",
     "siete": [
       {
         "titulo": "Cadeiras extras esgotadas",
         "texto": "As 1.000 cadeiras da categoria 2 (US$ 250) que a Conmebol colocou à venda na terça pela ElevenTickets, só para clientes Mastercard do Banco Provincia, esgotaram em menos de uma hora. O site caiu e muitos torcedores que ficaram de fora reclamaram."
       },
       {
-        "titulo": "Palmeiras visita hoje o Cruzeiro, desfalcado",
-        "texto": "Joga às 20h30 no Mineirão pelo Brasileirão sem Gustavo Gómez nem Maurício (com o Paraguai), Murilo, Piquerez e Paulinho. Giay, Flaco López e Jhon Arias jogaram na terça por suas seleções, chegam hoje em voos fretados e serão avaliados."
+        "titulo": "Palmeiras visita o Cruzeiro hoje, com desfalques",
+        "texto": "Joga às 20h30 no Mineirão pelo Brasileirão sem Gustavo Gómez nem Maurício (com o Paraguai), Murilo, Piquerez e Paulinho. Giay, Flaco López e Jhon Arias voltaram sem lesões das seleções e devem começar no banco."
       },
       {
         "titulo": "Correa, dúvida para a final",
@@ -27,8 +27,8 @@
         "texto": "A Conmebol escolheu o venezuelano Jesús Valenzuela, com trio todo venezuelano e Juan Soto no VAR. Ele apitou o 1 a 0 do Pincha sobre o Corinthians nas quartas; o Palmeiras não perdeu com ele neste ano."
       },
       {
-        "titulo": "Os campeões de 2009 viajam a Montevidéu",
-        "texto": "O clube convidou integrantes do elenco de Sabella campeão da Libertadores 2009. Leandro Benítez confirmou que estará no Centenario: \"Vou para curtir, não é sempre que se joga uma final\"."
+        "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
+        "texto": "Viajam 120 ônibus: 60 do clube, que saem na sexta à tarde do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario."
       },
       {
         "titulo": "Palmeiras tem outra final oito dias depois",
@@ -36,6 +36,12 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Loucura total: 120 ônibus, barcos esgotados e cerca de 35 mil torcedores do Pincha esperados em Montevidéu."
+      },
+      {
+        "texto": "Giay, Flaco López e Arias voltaram sem lesões da Data Fifa e ficam à disposição do Palmeiras contra o Cruzeiro."
+      },
       {
         "texto": "O elenco segue a preparação para a final em Montevidéu."
       },
@@ -71,12 +77,6 @@
       },
       {
         "texto": "Em City Bell começou a operação Palmeiras: Medina avalia jogar com linha de cinco."
-      },
-      {
-        "texto": "O Pincha voltou a treinar em City Bell depois do título em Córdoba e já pensa no Palmeiras."
-      },
-      {
-        "texto": "Com a Supercopa e muita alegria, assim começou a preparação para a final da Libertadores."
       }
     ]
   },

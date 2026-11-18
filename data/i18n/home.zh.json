@@ -1,18 +1,18 @@
 {
   "hoy": {
-    "titular": "帕尔梅拉斯(Palmeiras)今天在Mineirão出战，等待Giay、Flaco López和Arias归队",
+    "titular": "约3.5万名Pincha球迷准备奔赴蒙得维的亚；帕尔梅拉斯今晚在Mineirão出战",
     "foto": {
       "alt": "教练组在City Bell训练中向两名球员布置战术。"
     },
-    "resumen": "决赛新增的1000张看台票不到一小时即告售罄。帕尔梅拉斯今天客场挑战Cruzeiro，五名球员缺阵，另有三名国脚乘包机返回；Pincha则在没有Baltasar Rodríguez的情况下继续备战决赛。",
+    "resumen": "预计约3.5万名Estudiantes球迷将前往蒙得维的亚，120辆大巴出发，渡轮票已售罄。帕尔梅拉斯今晚客战Cruzeiro，五人缺阵，但Giay、Flaco López和Arias从国家队归来未受伤。",
     "siete": [
       {
         "titulo": "追加看台票秒光",
         "texto": "南美足联周二通过ElevenTickets发售的1000张二类看台票（250美元），仅限Banco Provincia万事达卡持卡人，不到一小时即售罄。售票网站崩溃，许多没买到票的球迷表达不满。"
       },
       {
-        "titulo": "帕尔梅拉斯今日客战Cruzeiro，阵容残缺",
-        "texto": "巴甲比赛将于20:30在Mineirão进行，Gustavo Gómez和Maurício（随巴拉圭队）、Murilo、Piquerez和Paulinho均无法出场。Giay、Flaco López和Jhon Arias周二代表国家队出战，今天乘包机抵达，届时将接受评估。"
+        "titulo": "帕尔梅拉斯今日客战Cruzeiro，多人缺阵",
+        "texto": "球队20:30在Mineirão进行巴甲比赛，Gustavo Gómez和Maurício（随巴拉圭队）、Murilo、Piquerez及Paulinho缺阵。Giay、Flaco López和Jhon Arias从国家队归来未受伤，预计替补出场。"
       },
       {
         "titulo": "Correa决赛出战成疑",
@@ -27,8 +27,8 @@
         "texto": "南美足联选派委内瑞拉裁判Jesús Valenzuela执法，裁判组全部来自委内瑞拉，Juan Soto担任VAR。他曾执法Pincha在1/4决赛1-0击败Corinthians的比赛；帕尔梅拉斯今年在他执法下保持不败。"
       },
       {
-        "titulo": "2009年冠军成员前往蒙得维的亚",
-        "texto": "俱乐部邀请了Sabella麾下2009年解放者杯冠军阵容的成员。Leandro Benítez确认将到场Centenario：“我去就是为了享受，决赛不是天天都有。”"
+        "titulo": "约3.5万名Pincha球迷奔赴蒙得维的亚",
+        "texto": "共有120辆大巴出发：60辆由俱乐部组织，周五下午从el UNO出发，另60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。"
       },
       {
         "titulo": "帕尔梅拉斯八天后还有一场决赛",
@@ -36,6 +36,12 @@
       }
     ],
     "linea": [
+      {
+        "texto": "全城沸腾：120辆大巴、渡轮售罄，预计约3.5万名Pincha球迷前往蒙得维的亚。"
+      },
+      {
+        "texto": "Giay、Flaco López和Arias国际比赛日后未受伤归队，可出战帕尔梅拉斯对阵Cruzeiro的比赛。"
+      },
       {
         "texto": "球队继续为蒙得维的亚决赛进行备战。"
       },
@@ -71,12 +77,6 @@
       },
       {
         "texto": "City Bell的“帕尔梅拉斯行动”已启动，Medina考虑采用五后卫。"
-      },
-      {
-        "texto": "Estudiantes在科尔多瓦夺冠后重返City Bell训练，目标直指Palmeiras。"
-      },
-      {
-        "texto": "带着超级杯奖杯和满满喜悦，解放者杯决赛备战就此开启。"
       }
     ]
   },
