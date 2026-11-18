@@ -18,7 +18,7 @@ export const header = ({ site, t, alternates, home, ruta }) => html`
     </nav>
     <nav class="nav" aria-label="${t.secciones}">
       <ul class="menu">
-        ${site.secciones.map((s) => html`<li><a href="${s === 'noticias' ? ruta('notipinchas') : `${home}#${s}`}">${t.menu[s]}</a></li>`)}
+        ${site.secciones.map((s) => html`<li><a href="${`${home}#${s}`}">${t.menu[s]}</a></li>`)}
         <li><a href="${ruta('mundo')}">${t.mundo.menu}</a></li>
       </ul>
     </nav>

@@ -1,7 +1,7 @@
 import { html } from '../lib/html.mjs';
 import { fechas } from '../lib/fechas.mjs';
 import { header } from '../components/header.mjs';
-import { hoy } from '../components/hoy.mjs';
+import { hoy, notipinchasPortada } from '../components/hoy.mjs';
 import { video } from '../components/video.mjs';
 import { franja } from '../components/franja.mjs';
 import { vivo } from '../components/vivo.mjs';
@@ -87,6 +87,7 @@ ${header(ctxF)}
 <main>
   ${hoy(data, ctxF, video(data, ctxF), html`<div id="partidos">${vivo(data, ctxF)}${franja(data, ctxF)}</div>`)}
   ${socio(data, ctxF)}
+  ${notipinchasPortada(data, ctxF)}
   ${partidos(data, ctxF)}
   ${tabla(data, ctxF)}
   ${club(data, ctxF)}

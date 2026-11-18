@@ -13,7 +13,7 @@ export default {
   idiomas: 'भाषा',
   menu: { hoy: 'आज', partidos: 'मैच', tabla: 'तालिका', noticias: 'ख़बरें', club: 'क्लब' },
   lineaTitulo: 'Notipinchas · मीडिया में',
-  notipinchas: { title: 'Notipinchas · मीडिया में · El Pincha Hoy', descripcion: 'Estudiantes de La Plata पर क्लब और मीडिया की ताज़ा ख़बरें, हर स्रोत के लिंक के साथ।' },
+  notipinchas: { title: 'Notipinchas · मीडिया में · El Pincha Hoy', descripcion: 'Estudiantes de La Plata पर क्लब और मीडिया की ताज़ा ख़बरें, हर स्रोत के लिंक के साथ।', lede: 'पिछले तीन दिनों में क्लब और मीडिया ने Pincha के बारे में जो प्रकाशित किया, नया सबसे पहले। हर ख़बर अपने स्रोत से जुड़ी है।', actualizado: 'अपडेट', verTodas: (n) => `सभी ${n} ख़बरें देखें`, volver: 'मुख्य पृष्ठ पर लौटें', sinHora: 'समय नहीं दिया गया' },
   siete: 'सात ख़बरें',
   sieteMarca: 'El Pincha Hoy',
   sieteLema: 'Pincha की ज़रूरी ख़बरें, हज़ार अख़बार खंगाले बिना।',

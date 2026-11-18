@@ -19,18 +19,20 @@ export const siete = (items = [], t, nivel = 2) =>
 </div>`
     : '';
 
-export const linea = (items = [], actualizado, t, f, enlace) =>
+const item = (n, t, hora) => html`<li class="linea__item linea__item--simple">
+      <p class="linea__texto">${n.url ? html`<a href="${n.url}" rel="noopener">${n.texto}</a>` : n.texto}</p>
+      <p class="linea__meta"><span class="linea__fuente">${n.fuente === 'Club' ? t.menu.club : n.fuente}</span>${hora ? html` · <time datetime="${n.hora}">${hora}</time>` : ''}</p>
+    </li>`;
+
+// Lista de notas. En la portada: las más nuevas, sin hora ni día (no se rotula nada como "ayer").
+export const linea = (items = [], t, { titulo, max, mas } = {}) =>
   items.length
     ? html`<div class="linea" id="noticias">
-  <h1 id="notipinchas-titulo" class="linea__titulo">${icono('diario')}${t.lineaTitulo}</h1>
+  ${titulo ?? ''}
   <ol class="linea__lista">
-    ${items.map(
-      (n) => html`<li class="linea__item linea__item--simple">
-      <p class="linea__texto">${n.url ? html`<a href="${n.url}" rel="noopener">${n.texto}</a>` : n.texto} <span class="linea__fuente">${n.fuente === 'Club' ? t.menu.club : n.fuente}</span></p>
-    </li>`
-    )}
+    ${items.slice(0, max ?? items.length).map((n) => item(n, t))}
   </ol>
-  ${enlace ? html`<p class="linea__mas"><a href="${enlace}">${t.dia.verDia} →</a></p>` : ''}
+  ${mas ?? ''}
 </div>`
     : '';
 
@@ -48,18 +50,44 @@ export const hoy = ({ hoy, actualizado }, { t, f, ruta }, destacado, vistazo) =>
     ${hoy.siete?.length
       ? siete(hoy.siete, t)
       : hoy.puntos?.length ? html`<ul class="hoy__puntos">${hoy.puntos.map((p) => html`<li>${p}</li>`)}</ul>` : ''}
-    ${hoy.linea?.length && ruta ? html`<p class="siete__mas"><a href="${ruta('notipinchas')}">${icono('diario')}${t.lineaTitulo} →</a></p>` : ''}
+    ${hoy.linea?.length && ruta ? html`<p class="siete__mas"><a href="#noticias">${icono('diario')}${t.lineaTitulo} ↓</a></p>` : ''}
     ${vistazo ?? ''}
     ${destacado ?? ''}
   </div>
 </section>`;
 };
 
-// "Notipinchas en los medios": página propia (/notipinchas/). En la portada queda solo el link, debajo de las Siete.
-export const notipinchas = ({ hoy, actualizado }, { t, f, enlaceDia }) =>
+// "Notipinchas en los medios" en la portada: las 6 más nuevas y el link a la página con todas.
+const EN_PORTADA = 6;
+export const notipinchasPortada = ({ hoy }, { t, ruta }) =>
   hoy.linea?.length
     ? html`
 <section class="wrap block notipinchas" aria-labelledby="notipinchas-titulo">
-  ${linea(hoy.linea, actualizado, t, f, enlaceDia)}
+  ${linea(hoy.linea, t, {
+    titulo: html`<h2 id="notipinchas-titulo" class="linea__titulo">${icono('diario')}${t.lineaTitulo}</h2>`,
+    max: EN_PORTADA,
+    mas: html`<p class="linea__mas"><a href="${ruta('notipinchas')}">${t.notipinchas.verTodas(hoy.linea.length)} →</a></p>`,
+  })}
 </section>`
     : '';
+
+// Página /notipinchas/: todas las notas (72 h), agrupadas por día y con la hora de publicación (si el medio la da).
+export const notipinchas = ({ hoy, actualizado }, { t, f, home, enlaceDia }) => {
+  if (!hoy.linea?.length) return '';
+  const dias = [];
+  for (const n of hoy.linea) {
+    const d = f.larga(n.hora);
+    if (dias.at(-1)?.d !== d) dias.push({ d, iso: n.hora, notas: [] });
+    dias.at(-1).notas.push(n);
+  }
+  return html`
+<section class="wrap block notipinchas notipinchas--pagina" aria-labelledby="notipinchas-titulo">
+  <p class="migas"><a href="${home}">El Pincha Hoy</a> › ${t.lineaTitulo}</p>
+  <h1 id="notipinchas-titulo" class="linea__titulo">${icono('diario')}${t.lineaTitulo}</h1>
+  <p class="notipinchas__lede">${t.notipinchas.lede}</p>
+  <p class="notipinchas__act">${t.notipinchas.actualizado}: <time datetime="${actualizado}">${f.larga(actualizado)}, ${f.hora(actualizado)}</time></p>
+  ${dias.map(({ d, iso, notas }) => html`<h2 class="notipinchas__dia"><time datetime="${iso.slice(0, 10)}">${d}</time></h2>
+  <ol class="linea__lista">${notas.map((n) => item(n, t, sinHora(n.hora) ? '' : f.hora(n.hora)))}</ol>`)}
+  <p class="linea__mas notipinchas__pie"><a href="${home}">← ${t.notipinchas.volver}</a>${enlaceDia ? html` · <a href="${enlaceDia}">${t.dia.todos}</a>` : ''}</p>
+</section>`;
+};

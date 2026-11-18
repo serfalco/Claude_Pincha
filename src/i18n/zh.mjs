@@ -13,7 +13,7 @@ export default {
   idiomas: '语言',
   menu: { hoy: '今日', partidos: '比赛', tabla: '积分榜', noticias: '新闻', club: '俱乐部' },
   lineaTitulo: 'Notipinchas · 媒体报道',
-  notipinchas: { title: 'Notipinchas · 媒体报道 · El Pincha Hoy', descripcion: '拉普拉塔大学生队（Estudiantes de La Plata）近几天来自俱乐部和媒体的报道，附原文链接。' },
+  notipinchas: { title: 'Notipinchas · 媒体报道 · El Pincha Hoy', descripcion: '拉普拉塔大学生队（Estudiantes de La Plata）近几天来自俱乐部和媒体的报道，附原文链接。', lede: '过去三天俱乐部和媒体关于Pincha的报道，按时间由新到旧排列，每条均链接至原文。', actualizado: '更新于', verTodas: (n) => `查看全部${n}条报道`, volver: '返回首页', sinHora: '未注明时间' },
   siete: '七条新闻',
   sieteMarca: 'El Pincha Hoy',
   sieteLema: 'Pincha的要闻，不必翻遍上千家媒体。',

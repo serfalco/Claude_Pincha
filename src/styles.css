@@ -515,3 +515,16 @@ body:has(.pegado--on) .footer { padding-bottom: 84px; }
 .siete__mas a { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: #fff; border-bottom: 2px solid var(--rojo); padding-bottom: 2px; }
 .notipinchas { padding-top: 24px; }
 .notipinchas h1.linea__titulo { font-size: 1.1rem; }
+
+/* Notipinchas: en la portada (6 notas + link) y en su página (todas, por día, con hora). */
+.linea__meta { margin: 3px 0 0; font-size: .75rem; }
+.notipinchas .linea__meta { color: var(--muted); }
+.notipinchas .linea__meta time { font-variant-numeric: tabular-nums; }
+.migas { margin: 0 0 14px; font-size: .82rem; color: var(--muted); }
+.migas a { color: inherit; }
+.notipinchas__lede { margin: 12px 0 4px; font-size: 1rem; line-height: 1.45; color: var(--text); }
+.notipinchas__act { margin: 0 0 6px; font-size: .82rem; color: var(--muted); }
+.notipinchas__dia { margin: 22px 0 2px; font-size: .95rem; font-weight: 800; color: var(--text); }
+.notipinchas__pie { margin-top: 22px; }
+.linea__item--simple { gap: 2px; }
+.linea__item--simple .linea__texto, .linea__meta { margin: 0; }

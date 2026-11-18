@@ -13,7 +13,7 @@ export default {
   idiomas: 'Language',
   menu: { hoy: 'Today', partidos: 'Matches', tabla: 'Table', noticias: 'News', club: 'Club' },
   lineaTitulo: 'Notipinchas in the media',
-  notipinchas: { title: 'Notipinchas in the media · El Pincha Hoy', descripcion: 'The latest stories on Estudiantes de La Plata from the club and the media, with a link to each source.' },
+  notipinchas: { title: 'Notipinchas in the media · El Pincha Hoy', descripcion: 'The latest stories on Estudiantes de La Plata from the club and the media, with a link to each source.', lede: 'What the club and the media published about the Pincha over the last three days, newest first. Each story links to its source.', actualizado: 'Updated', verTodas: (n) => `See all ${n} stories`, volver: 'Back to the front page', sinHora: 'no time given' },
   siete: 'Seven stories',
   sieteMarca: 'El Pincha Hoy',
   sieteLema: 'What matters about the Pincha, without trawling a thousand papers.',
