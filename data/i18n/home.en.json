@@ -1,34 +1,34 @@
 {
   "hoy": {
-    "titular": "Referee named: Venezuela's Jesús Valenzuela will take charge of the final against Palmeiras",
+    "titular": "Last chance for extra seats as Palmeiras play at the Mineirão today",
     "foto": {
       "alt": "Coaching staff give instructions to two players during a training session at City Bell."
     },
-    "resumen": "CONMEBOL appointed Venezuelan Jesús Valenzuela for Saturday 28th's final at the Centenario: he refereed the Pincha's 1-0 win over Corinthians in the quarter-finals. It also opened an extra sale of around a thousand seats, exclusive to Banco Provincia Mastercard holders, while the squad continue their build-up at City Bell.",
+    "resumen": "The extra seat sale for the final, exclusive to Banco Provincia Mastercard holders, closes today at 19:00 or when sold out. Palmeiras visit Cruzeiro with several absentees ten days before Montevideo, while the Pincha continue their build-up at City Bell.",
     "siete": [
       {
-        "titulo": "Extra seat sale, until tomorrow",
-        "texto": "CONMEBOL released around 1,000 more seats for the final via ElevenTickets, only for Banco Provincia Mastercard holders. The sale runs until Wednesday 18th at 19:00 or until sold out; the club made clear it is not organising it."
+        "titulo": "Extra seats: sale closes today at 19:00",
+        "texto": "The additional sale of around 1,000 seats for the final continues via ElevenTickets, only for Banco Provincia Mastercard holders, until 19:00 today or until sold out. It is run by CONMEBOL, not the club."
+      },
+      {
+        "titulo": "Palmeiras visit Cruzeiro today, short-handed",
+        "texto": "They play at 20:30 at the Mineirão in the Brasileirão without Gustavo Gómez or Mauricio (back from Paraguay duty), Piquerez, Murilo, Paulinho or Jefté. Brazilian press say Murilo and Jefté should be fit for the final."
+      },
+      {
+        "titulo": "Correa a doubt for the final",
+        "texto": "He is nursing a grade 2 tear in the biceps of his right leg and is still working apart from the group. Even if he is cleared, he will lack match rhythm: a starting place is far from certain."
+      },
+      {
+        "titulo": "Medina weighing a back five",
+        "texto": "According to El Día, the coach is considering five defenders at the Centenario to stop Palmeiras' full-backs getting forward. The staff's aim is to get the squad physically fresh after a gruelling year."
       },
       {
         "titulo": "Valenzuela to referee the final",
         "texto": "CONMEBOL chose Venezuelan Jesús Valenzuela, with an all-Venezuelan crew and Juan Soto on VAR. He refereed the Pincha's 1-0 win over Corinthians in the quarter-finals; Palmeiras are unbeaten with him this year."
       },
       {
-        "titulo": "Correa a doubt for the final",
-        "texto": "He is nursing a grade 2 tear in the biceps of his right leg and kept working apart from the group as training resumed. Even if he is cleared, he will lack match rhythm: a starting place is far from certain."
-      },
-      {
-        "titulo": "A week of fine-tuning",
-        "texto": "The squad keep training at City Bell until the trip to Montevideo, with Sunday 22nd off. Correa is doing physio apart, while Carrillo and Castro are being managed for muscle fatigue: the coaching staff are dosing the load without losing intensity."
-      },
-      {
-        "titulo": "González Pirez: \"I think about the match all the time\"",
-        "texto": "The defender spoke to DSports about his nerves ahead of the final, played down the refereeing debate and praised Carrillo, Rojo and Verón."
-      },
-      {
-        "titulo": "Palmeiras play tomorrow, without Piquerez",
-        "texto": "They visit Cruzeiro on Wednesday 18th at 20:30 at the Mineirão in the Brasileirão, without Piquerez (right thigh injury), Murilo or Paulinho. Then come Flamengo (21st) and Chapecoense (24th), four days before the final."
+        "titulo": "The 2009 champions head to Montevideo",
+        "texto": "The club invited members of Sabella's squad that won the 2009 Libertadores. Leandro Benítez confirmed he will be at the Centenario: \"I'm going to enjoy it, you don't play a final every day\"."
       },
       {
         "titulo": "Recopa could be played in La Plata",
@@ -37,16 +37,28 @@
     ],
     "linea": [
       {
+        "texto": "Leandro Benítez, a 2009 champion, confirmed he will travel to Montevideo as the club's guest."
+      },
+      {
+        "texto": "The women's team unveiled Mauro Silva as new head coach and a project running to 2030."
+      },
+      {
         "texto": "Jesús Valenzuela will referee the final between Estudiantes and Palmeiras at the Centenario."
       },
       {
         "texto": "Palmeiras wrapped up preparations for their trip to Cruzeiro with five absentees, Piquerez among them."
       },
       {
+        "texto": "Palmeiras wrapped up preparations for Cruzeiro without their internationals: Murilo and Jefté target the final."
+      },
+      {
         "texto": "CONMEBOL opened an extra seat sale for the final, only for Banco Provincia Mastercard holders."
       },
       {
         "texto": "The Pincha could play January's Recopa de Campeones in La Plata; the venue is not yet confirmed."
+      },
+      {
+        "texto": "Operation Palmeiras is under way at City Bell: Medina is considering a back five."
       },
       {
         "texto": "González Pirez on the final: \"I think about the match all the time\"."
@@ -65,15 +77,6 @@
       },
       {
         "texto": "In Brazil there are warnings about Palmeiras' workload: 270 minutes in seven days before the final."
-      },
-      {
-        "texto": "Two key weeks begin: the countdown starts on Monday and Medina gets key players back for the final."
-      },
-      {
-        "texto": "The basketball team closed the Pre Federal regular season with a 71-56 win over Riberas del Paraná; Racing de Olavarría await in the play-offs."
-      },
-      {
-        "texto": "Correa steps up his recovery at City Bell to arrive in the best possible shape for the final on the 28th."
       }
     ]
   },

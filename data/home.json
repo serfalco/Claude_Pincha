@@ -1,37 +1,37 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-17T18:30:00-03:00",
+  "actualizado": "2026-11-18T00:20:00-03:00",
   "hoy": {
-    "titular": "Ya hay árbitro: el venezolano Jesús Valenzuela dirigirá la final ante Palmeiras",
+    "titular": "Última chance de plateas extra y Palmeiras juega hoy en el Mineirão",
     "foto": {
       "id": "2026-10-09_algunos-si-otros-no_1",
       "alt": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell."
     },
-    "resumen": "La Conmebol designó al venezolano Jesús Valenzuela para la final del sábado 28 en el Centenario: ya dirigió al Pincha en el 1-0 a Corinthians por los cuartos. Además abrió una venta extra de unas mil plateas, exclusiva para clientes con Mastercard del Banco Provincia, mientras el plantel sigue la puesta a punto en City Bell.",
+    "resumen": "La venta extra de plateas para la final, exclusiva para clientes Mastercard del Banco Provincia, cierra hoy a las 19 o al agotarse. Palmeiras visita a Cruzeiro con varias bajas a diez días de Montevideo, mientras el Pincha sigue la puesta a punto en City Bell.",
     "siete": [
       {
-        "titulo": "Venta extra de plateas, hasta mañana",
-        "texto": "La Conmebol habilitó unas 1.000 plateas más para la final, por ElevenTickets y solo para clientes con tarjeta Mastercard del Banco Provincia. La venta va hasta el miércoles 18 a las 19 o hasta agotar; el club aclaró que no la organiza."
+        "titulo": "Plateas extra: cierra hoy a las 19",
+        "texto": "La venta adicional de unas 1.000 plateas para la final sigue por ElevenTickets, solo para clientes con Mastercard del Banco Provincia, hasta hoy a las 19 o hasta agotar. La organiza la Conmebol, no el club."
+      },
+      {
+        "titulo": "Palmeiras visita hoy a Cruzeiro, con bajas",
+        "texto": "Juega a las 20.30 en el Mineirão por el Brasileirão sin Gustavo Gómez ni Mauricio (vuelven de Paraguay), Piquerez, Murilo, Paulinho ni Jefté. En Brasil dicen que Murilo y Jefté se recuperan para la final."
+      },
+      {
+        "titulo": "Correa, en duda para la final",
+        "texto": "Arrastra un desgarro grado 2 en el bíceps de la pierna derecha y sigue trabajando aparte del grupo. Si le dan el alta, igual le faltará ritmo: su presencia de entrada no está asegurada."
+      },
+      {
+        "titulo": "Medina piensa en una línea de cinco",
+        "texto": "Según El Día, el Cacique analiza poner cinco defensores en el Centenario para frenar las subidas de los laterales de Palmeiras. La idea del cuerpo técnico es recuperar físicamente al plantel tras un año muy cargado."
       },
       {
         "titulo": "Valenzuela, el árbitro de la final",
         "texto": "La Conmebol eligió al venezolano Jesús Valenzuela, con una terna toda venezolana y Juan Soto en el VAR. Dirigió al Pincha en el 1-0 a Corinthians en los cuartos; Palmeiras no perdió con él este año."
       },
       {
-        "titulo": "Correa, en duda para la final",
-        "texto": "Arrastra un desgarro grado 2 en el bíceps de la pierna derecha y en la vuelta a las prácticas siguió trabajando aparte del grupo. Si le dan el alta, igual le faltará ritmo: su presencia de entrada no está asegurada."
-      },
-      {
-        "titulo": "Semana de puesta a punto",
-        "texto": "El plantel sigue entrenando en City Bell hasta el viaje a Montevideo, con el domingo 22 libre. Correa hace kinesiología aparte, Carrillo y Castro se cuidan por la carga muscular: el cuerpo técnico dosifica sin perder intensidad."
-      },
-      {
-        "titulo": "González Pirez: \"Pienso todo el tiempo en el partido\"",
-        "texto": "El defensor habló con DSports: contó la ansiedad por la final, le restó peso al tema de los árbitros y elogió a Carrillo, Rojo y Verón."
-      },
-      {
-        "titulo": "Palmeiras juega mañana, sin Piquerez",
-        "texto": "Visita a Cruzeiro el miércoles 18 a las 20.30 en el Mineirão, por el Brasileirão, sin Piquerez (lesión en el muslo derecho), Murilo ni Paulinho. Después tiene a Flamengo (21) y Chapecoense (24), cuatro días antes de la final."
+        "titulo": "Los campeones de 2009 viajan a Montevideo",
+        "texto": "El club invitó a integrantes del plantel de Sabella que ganó la Libertadores 2009. Leandro Benítez confirmó que estará en el Centenario: \"Voy dispuesto a disfrutar, no siempre se juega una final\"."
       },
       {
         "titulo": "Recopa: podría jugarse en La Plata",
@@ -39,6 +39,18 @@
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-17T20:40:00-03:00",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/leandro-benitez-recordo-la-copa-libertadores-2009-y-confirmo-que-viajara-junto-estudiantes-montevideo-n137619",
+        "texto": "Leandro Benítez, campeón en 2009, confirmó que viajará a Montevideo como invitado del club."
+      },
+      {
+        "hora": "2026-11-17T18:16:00-03:00",
+        "fuente": "Punto Capital",
+        "url": "https://www.puntocapitalnoticias.com/estudiantes-presento-a-su-nuevo-dt-y-un-proyecto-para-el-futbol-femenino-hasta-2030",
+        "texto": "El fútbol femenino presentó a Mauro Silva como nuevo DT y un proyecto hasta 2030."
+      },
       {
         "hora": "2026-11-17T17:34:00-03:00",
         "fuente": "Perfil",
@@ -52,6 +64,12 @@
         "texto": "Palmeiras cerró la preparación para visitar a Cruzeiro con cinco bajas, entre ellas Piquerez."
       },
       {
+        "hora": "2026-11-17T13:00:00-03:00",
+        "fuente": "Lance!",
+        "url": "https://www.lance.com.br/palmeiras/escalacao-palmeiras-encerra-preparacao-e-abel-busca-alternativas-sem-convocados.html",
+        "texto": "Palmeiras cerró la preparación para Cruzeiro sin sus convocados: Murilo y Jefté apuntan a la final."
+      },
+      {
         "hora": "2026-11-17T11:29:00-03:00",
         "fuente": "0221",
         "url": "https://www.0221.com.ar/estudiantes/conmebol-sorprende-una-nueva-venta-plateas-la-final-estudiantes-y-palmeiras-como-comprarlas-n137580",
@@ -62,6 +80,12 @@
         "fuente": "Punto Capital",
         "url": "https://www.puntocapitalnoticias.com/estudiantes-podria-jugar-la-recopa-de-campeones-en-la-plata-y-arrancar-el-2027-con-una-nueva-ilusion/",
         "texto": "El Pincha podría jugar la Recopa de Campeones de enero en La Plata; la sede todavía no está confirmada."
+      },
+      {
+        "hora": "2026-11-17T02:44:00-03:00",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/en-city-bell-comenzo-el-operativo-palmeiras-deportes_1794894270",
+        "texto": "En City Bell arrancó el operativo Palmeiras: Medina analiza jugar con línea de cinco."
       },
       {
         "hora": "2026-11-16T21:08:00-03:00",
@@ -98,24 +122,6 @@
         "texto": "En Brasil advierten por el desgaste de Palmeiras: 270 minutos en siete días antes de la final.",
         "fuente": "Infocielo",
         "url": "https://www.infocielo.com/deportes/en-brasil-preocupa-el-desgaste-de-palmeiras-270-minutos-antes-de-la-final-con-estudiantes"
-      },
-      {
-        "hora": "2026-11-15T13:14:00-03:00",
-        "texto": "Arrancan dos semanas clave: el lunes empieza la cuenta regresiva y Medina recupera piezas para la final.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/arrancan-dos-semanas-clave-estudiantes-agenda-jugadores-recuperar-y-el-plan-alexander-medina-n137482"
-      },
-      {
-        "hora": "2026-11-15T11:04:00-03:00",
-        "texto": "El básquet cerró la fase regular del Pre Federal con un 71-56 a Riberas del Paraná; en los playoffs va con Racing de Olavarría.",
-        "fuente": "Club",
-        "url": "https://estudiantesdelaplata.com/cerro-la-fase-regular-victorioso/"
-      },
-      {
-        "hora": "2026-11-15T05:58:00-03:00",
-        "texto": "Correa acelera su recuperación en City Bell para llegar en las mejores condiciones a la final del 28.",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/correa-acelera-su-puesta-a-punto-para-la-gran-final-deportes_1794733130"
       }
     ]
   },
@@ -413,6 +419,10 @@
     "https://www.0221.com.ar/estudiantes/conmebol-sorprende-una-nueva-venta-plateas-la-final-estudiantes-y-palmeiras-como-comprarlas-n137580",
     "https://www.eldia.com/deportes/gonzalez-pirez-palpito-la-final-de-la-libertadores-ante-palmeiras-pienso-todo-el-tiempo-en-el-partido-deportes_1794874080",
     "https://www.rionegro.com.ar/deportes/conmebol-confirmo-el-arbitro-para-la-final-de-la-libertadores-entre-estudiantes-y-palmeiras-4802214/",
-    "https://diariohoy.net/el-clasico/entre-cuidar-jugadores-y-no-perder-la-intensidad-la-semana-del-pincha-290263"
+    "https://diariohoy.net/el-clasico/entre-cuidar-jugadores-y-no-perder-la-intensidad-la-semana-del-pincha-290263",
+    "https://www.0221.com.ar/estudiantes/leandro-benitez-recordo-la-copa-libertadores-2009-y-confirmo-que-viajara-junto-estudiantes-montevideo-n137619",
+    "https://www.puntocapitalnoticias.com/estudiantes-presento-a-su-nuevo-dt-y-un-proyecto-para-el-futbol-femenino-hasta-2030",
+    "https://www.lance.com.br/palmeiras/escalacao-palmeiras-encerra-preparacao-e-abel-busca-alternativas-sem-convocados.html",
+    "https://www.eldia.com/deportes/en-city-bell-comenzo-el-operativo-palmeiras-deportes_1794894270"
   ]
 }

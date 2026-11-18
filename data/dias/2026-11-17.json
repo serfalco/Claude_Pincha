@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-10-09_algunos-si-otros-no_1",
+    "alt": {
+      "es": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell.",
+      "en": "Coaching staff give instructions to two players during a training session at City Bell.",
+      "pt": "A comissão técnica orienta dois jogadores durante um treino em City Bell.",
+      "zh": "教练组在City Bell训练中向两名球员布置战术。",
+      "hi": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
+    }
+  },
   "siete": [
     {
       "titulo": {
@@ -151,17 +161,31 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-10-09_algunos-si-otros-no_1",
-    "alt": {
-      "es": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell.",
-      "en": "Coaching staff give instructions to two players during a training session at City Bell.",
-      "pt": "A comissão técnica orienta dois jogadores durante um treino em City Bell.",
-      "zh": "教练组在City Bell训练中向两名球员布置战术。",
-      "hi": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
-    }
-  },
   "linea": [
+    {
+      "hora": "2026-11-17T20:40:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/leandro-benitez-recordo-la-copa-libertadores-2009-y-confirmo-que-viajara-junto-estudiantes-montevideo-n137619",
+      "texto": {
+        "es": "Leandro Benítez, campeón en 2009, confirmó que viajará a Montevideo como invitado del club.",
+        "en": "Leandro Benítez, a 2009 champion, confirmed he will travel to Montevideo as the club's guest.",
+        "pt": "Leandro Benítez, campeão em 2009, confirmou que viajará a Montevidéu como convidado do clube.",
+        "zh": "2009年冠军成员Leandro Benítez确认将作为俱乐部嘉宾前往蒙得维的亚。",
+        "hi": "2009 के चैंपियन Leandro Benítez ने पुष्टि की कि वे क्लब के मेहमान के रूप में Montevideo जाएँगे।"
+      }
+    },
+    {
+      "hora": "2026-11-17T18:16:00-03:00",
+      "fuente": "Punto Capital",
+      "url": "https://www.puntocapitalnoticias.com/estudiantes-presento-a-su-nuevo-dt-y-un-proyecto-para-el-futbol-femenino-hasta-2030",
+      "texto": {
+        "es": "El fútbol femenino presentó a Mauro Silva como nuevo DT y un proyecto hasta 2030.",
+        "en": "The women's team unveiled Mauro Silva as new head coach and a project running to 2030.",
+        "pt": "O futebol feminino apresentou Mauro Silva como novo técnico e um projeto até 2030.",
+        "zh": "女足宣布Mauro Silva出任新主帅，并公布至2030年的发展计划。",
+        "hi": "महिला टीम ने Mauro Silva को नया कोच बनाया और 2030 तक की योजना पेश की।"
+      }
+    },
     {
       "hora": "2026-11-17T17:34:00-03:00",
       "fuente": "Perfil",
@@ -187,6 +211,18 @@
       }
     },
     {
+      "hora": "2026-11-17T13:00:00-03:00",
+      "fuente": "Lance!",
+      "url": "https://www.lance.com.br/palmeiras/escalacao-palmeiras-encerra-preparacao-e-abel-busca-alternativas-sem-convocados.html",
+      "texto": {
+        "es": "Palmeiras cerró la preparación para Cruzeiro sin sus convocados: Murilo y Jefté apuntan a la final.",
+        "en": "Palmeiras wrapped up preparations for Cruzeiro without their internationals: Murilo and Jefté target the final.",
+        "pt": "O Palmeiras encerrou a preparação para o Cruzeiro sem os convocados: Murilo e Jefté miram a final.",
+        "zh": "帕尔梅拉斯在国脚缺席下完成对Cruzeiro的备战，Murilo和Jefté瞄准决赛。",
+        "hi": "Palmeiras ने अपने अंतरराष्ट्रीय खिलाड़ियों के बिना Cruzeiro के लिए तैयारी पूरी की: Murilo और Jefté की नज़र फ़ाइनल पर।"
+      }
+    },
+    {
       "hora": "2026-11-17T11:29:00-03:00",
       "fuente": "0221",
       "url": "https://www.0221.com.ar/estudiantes/conmebol-sorprende-una-nueva-venta-plateas-la-final-estudiantes-y-palmeiras-como-comprarlas-n137580",
@@ -208,6 +244,18 @@
         "pt": "O Pincha pode jogar a Recopa de Campeones de janeiro em La Plata; a sede ainda não foi confirmada.",
         "zh": "Pincha或将在拉普拉塔参加1月的Recopa de Campeones；场地尚未确认。",
         "hi": "Pincha जनवरी का Recopa de Campeones La Plata में खेल सकता है; स्थल की अभी पुष्टि नहीं।"
+      }
+    },
+    {
+      "hora": "2026-11-17T02:44:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/en-city-bell-comenzo-el-operativo-palmeiras-deportes_1794894270",
+      "texto": {
+        "es": "En City Bell arrancó el operativo Palmeiras: Medina analiza jugar con línea de cinco.",
+        "en": "Operation Palmeiras is under way at City Bell: Medina is considering a back five.",
+        "pt": "Em City Bell começou a operação Palmeiras: Medina avalia jogar com linha de cinco.",
+        "zh": "City Bell的“帕尔梅拉斯行动”已启动，Medina考虑采用五后卫。",
+        "hi": "City Bell में 'ऑपरेशन Palmeiras' शुरू: Medina पाँच डिफ़ेंडरों पर विचार कर रहे हैं।"
       }
     }
   ]

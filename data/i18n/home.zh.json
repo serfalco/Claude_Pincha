@@ -1,41 +1,47 @@
 {
   "hoy": {
-    "titular": "主裁判确定：委内瑞拉裁判Jesús Valenzuela将执法对阵帕尔梅拉斯的决赛",
+    "titular": "追加看台票最后机会，帕尔梅拉斯（Palmeiras）今天在Mineirão出战",
     "foto": {
       "alt": "教练组在City Bell训练中向两名球员布置战术。"
     },
-    "resumen": "南美足联指派委内瑞拉裁判Jesús Valenzuela执法28日（周六）在Centenario进行的决赛：他曾执法Pincha在四分之一决赛1比0战胜Corinthians的比赛。南美足联还额外开售约一千张看台座位票，仅限Banco Provincia万事达卡持卡人，球队则继续在City Bell备战。",
+    "resumen": "决赛追加看台票仅限Banco Provincia万事达卡持卡人，今天19点截止或售完即止。帕尔梅拉斯在距蒙得维的亚决赛十天之际带着多名伤缺客场挑战Cruzeiro，Pincha则继续在City Bell备战。",
     "siete": [
       {
-        "titulo": "加售座位票，明天截止",
-        "texto": "南美足联通过ElevenTickets为决赛加售约1,000张座位票，仅限Banco Provincia万事达卡持卡人。销售持续到18日（周三）19:00或售完为止；俱乐部澄清此次销售并非由其组织。"
+        "titulo": "追加看台票：今天19点截止",
+        "texto": "决赛约1000张追加看台票继续通过ElevenTickets发售，仅限Banco Provincia万事达卡持卡人，今天19点截止或售完即止。此次发售由南美足联组织，而非俱乐部。"
       },
       {
-        "titulo": "Valenzuela执法决赛",
-        "texto": "南美足联选定委内瑞拉裁判Jesús Valenzuela，裁判组全部来自委内瑞拉，Juan Soto担任VAR。他曾执法Pincha在四分之一决赛1比0战胜Corinthians的比赛；帕尔梅拉斯今年在他执法下保持不败。"
+        "titulo": "帕尔梅拉斯今天客战Cruzeiro，多人缺阵",
+        "texto": "球队将于20:30在Mineirão进行巴西甲级联赛比赛，Gustavo Gómez和Mauricio（刚从巴拉圭国家队归来）、Piquerez、Murilo、Paulinho和Jefté均无法出场。巴西媒体称Murilo和Jefté有望赶上决赛。"
       },
       {
         "titulo": "Correa决赛出战成疑",
-        "texto": "他右腿股二头肌二级拉伤，球队恢复训练后仍与大部队分开练习。即便获准复出也缺乏比赛节奏，能否首发尚无定论。"
+        "texto": "他右腿股二头肌二级撕裂，仍在与大部队分开训练。即便获准复出，比赛节奏也将不足，首发位置并无保证。"
       },
       {
-        "titulo": "一周调整备战",
-        "texto": "球队将继续在City Bell训练直到前往蒙得维的亚，22日（周日）休息。Correa单独进行康复理疗，Carrillo和Castro因肌肉负荷受到保护：教练组在控制负荷的同时保持训练强度。"
+        "titulo": "Medina考虑五后卫",
+        "texto": "据El Día报道，主帅正考虑在Centenario排出五名后卫，以遏制帕尔梅拉斯边后卫的插上。教练组的目标是在漫长赛季后让球员恢复体能。"
       },
       {
-        "titulo": "González Pirez：“我一直在想这场比赛”",
-        "texto": "这位后卫接受DSports采访时谈到对决赛的焦虑，淡化了裁判话题，并称赞了Carrillo、Rojo和Verón。"
+        "titulo": "Valenzuela执法决赛",
+        "texto": "南美足联选派委内瑞拉裁判Jesús Valenzuela执法，裁判组全部来自委内瑞拉，Juan Soto担任VAR。他曾执法Pincha在1/4决赛1-0击败Corinthians的比赛；帕尔梅拉斯今年在他执法下保持不败。"
       },
       {
-        "titulo": "帕尔梅拉斯明天出战，Piquerez缺阵",
-        "texto": "帕尔梅拉斯18日（周三）20:30将在Mineirão客场挑战Cruzeiro（巴甲），Piquerez（右大腿伤）、Murilo和Paulinho缺阵。随后还将对阵Flamengo（21日）和Chapecoense（24日），距决赛仅四天。"
+        "titulo": "2009年冠军成员前往蒙得维的亚",
+        "texto": "俱乐部邀请了Sabella麾下2009年解放者杯冠军阵容的成员。Leandro Benítez确认将到场Centenario：“我去就是为了享受，决赛不是天天都有。”"
       },
       {
-        "titulo": "Recopa de Campeones或在拉普拉塔举行",
-        "texto": "凭借Supercopa Argentina冠军，Pincha将于1月与Rosario Central及Copa Argentina冠军进行Recopa de Campeones三队循环赛。Estadio Único Diego Armando Maradona（并非Pincha的主场el UNO）是候选场地之一，但阿根廷足协尚未确认。"
+        "titulo": "Recopa可能在拉普拉塔举行",
+        "texto": "凭借超级杯冠军，Pincha将于1月与Rosario Central和阿根廷杯冠军进行Recopa de Campeones三队赛。Estadio Único Diego Armando Maradona（不是Pincha主场el UNO）是候选场地之一，但阿根廷足协尚未确认。"
       }
     ],
     "linea": [
+      {
+        "texto": "2009年冠军成员Leandro Benítez确认将作为俱乐部嘉宾前往蒙得维的亚。"
+      },
+      {
+        "texto": "女足宣布Mauro Silva出任新主帅，并公布至2030年的发展计划。"
+      },
       {
         "texto": "Jesús Valenzuela将在Centenario执法Estudiantes与帕尔梅拉斯的决赛。"
       },
@@ -43,10 +49,16 @@
         "texto": "帕尔梅拉斯结束客场挑战Cruzeiro的备战，五人缺阵，其中包括Piquerez。"
       },
       {
+        "texto": "帕尔梅拉斯在国脚缺席下完成对Cruzeiro的备战，Murilo和Jefté瞄准决赛。"
+      },
+      {
         "texto": "南美足联为决赛额外开售座位票，仅限Banco Provincia万事达卡持卡人。"
       },
       {
         "texto": "Pincha或将在拉普拉塔参加1月的Recopa de Campeones；场地尚未确认。"
+      },
+      {
+        "texto": "City Bell的“帕尔梅拉斯行动”已启动，Medina考虑采用五后卫。"
       },
       {
         "texto": "González Pirez谈决赛：“我一直在想这场比赛”。"
@@ -65,15 +77,6 @@
       },
       {
         "texto": "巴西媒体提醒帕尔梅拉斯体能消耗：决赛前七天要踢270分钟。"
-      },
-      {
-        "texto": "关键两周开始：周一开启倒计时，Medina将迎回多名主力备战决赛。"
-      },
-      {
-        "texto": "篮球队以71比56击败Riberas del Paraná结束Pre Federal常规赛，季后赛对阵Racing de Olavarría。"
-      },
-      {
-        "texto": "Correa在City Bell加快康复进程，力争以最佳状态出战28日的决赛。"
       }
     ]
   },

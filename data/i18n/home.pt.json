@@ -1,41 +1,47 @@
 {
   "hoy": {
-    "titular": "Árbitro definido: o venezuelano Jesús Valenzuela vai apitar a final contra o Palmeiras",
+    "titular": "Última chance de cadeiras extras e Palmeiras joga hoje no Mineirão",
     "foto": {
       "alt": "A comissão técnica orienta dois jogadores durante um treino em City Bell."
     },
-    "resumen": "A Conmebol escalou o venezuelano Jesús Valenzuela para a final do sábado, dia 28, no Centenário: ele já apitou o 1 a 0 do Pincha sobre o Corinthians nas quartas. Também abriu uma venda extra de cerca de mil cadeiras, exclusiva para clientes Mastercard do Banco Provincia, enquanto o elenco segue a preparação em City Bell.",
+    "resumen": "A venda extra de cadeiras para a final, exclusiva para clientes Mastercard do Banco Provincia, termina hoje às 19h ou ao esgotar. O Palmeiras visita o Cruzeiro com vários desfalques a dez dias de Montevidéu, enquanto o Pincha segue a preparação em City Bell.",
     "siete": [
       {
-        "titulo": "Venda extra de cadeiras, até amanhã",
-        "texto": "A Conmebol liberou cerca de 1.000 cadeiras a mais para a final, pela ElevenTickets e só para clientes com cartão Mastercard do Banco Provincia. A venda vai até quarta-feira, dia 18, às 19h ou até esgotar; o clube esclareceu que não a organiza."
+        "titulo": "Cadeiras extras: venda termina hoje às 19h",
+        "texto": "A venda adicional de cerca de 1.000 cadeiras para a final segue pela ElevenTickets, só para clientes com Mastercard do Banco Provincia, até hoje às 19h ou até esgotar. Quem organiza é a Conmebol, não o clube."
       },
       {
-        "titulo": "Valenzuela, o árbitro da final",
-        "texto": "A Conmebol escolheu o venezuelano Jesús Valenzuela, com trio todo venezuelano e Juan Soto no VAR. Ele apitou o 1 a 0 do Pincha sobre o Corinthians nas quartas; o Palmeiras não perdeu com ele neste ano."
+        "titulo": "Palmeiras visita o Cruzeiro hoje, com desfalques",
+        "texto": "Joga às 20h30 no Mineirão, pelo Brasileirão, sem Gustavo Gómez e Mauricio (voltando do Paraguai), Piquerez, Murilo, Paulinho e Jefté. A imprensa brasileira diz que Murilo e Jefté se recuperam para a final."
       },
       {
         "titulo": "Correa, dúvida para a final",
-        "texto": "Ele se recupera de uma lesão muscular grau 2 no bíceps femoral da perna direita e, na volta aos treinos, seguiu trabalhando separado do grupo. Mesmo liberado, faltará ritmo: sua presença entre os titulares não está garantida."
+        "texto": "Ele se recupera de uma lesão grau 2 no bíceps femoral da perna direita e segue treinando separado do grupo. Mesmo liberado, vai faltar ritmo: a presença entre os titulares não está garantida."
       },
       {
-        "titulo": "Semana de ajustes",
-        "texto": "O elenco segue treinando em City Bell até a viagem a Montevidéu, com folga no domingo, dia 22. Correa faz fisioterapia à parte, e Carrillo e Castro são poupados pela carga muscular: a comissão técnica dosa o trabalho sem perder intensidade."
+        "titulo": "Medina pensa em linha de cinco",
+        "texto": "Segundo o El Día, o técnico avalia escalar cinco defensores no Centenario para frear o apoio dos laterais do Palmeiras. A ideia da comissão é recuperar fisicamente o elenco depois de um ano muito puxado."
       },
       {
-        "titulo": "González Pirez: \"Penso o tempo todo no jogo\"",
-        "texto": "O zagueiro falou à DSports sobre a ansiedade pela final, minimizou o debate sobre a arbitragem e elogiou Carrillo, Rojo e Verón."
+        "titulo": "Valenzuela apita a final",
+        "texto": "A Conmebol escolheu o venezuelano Jesús Valenzuela, com trio todo venezuelano e Juan Soto no VAR. Ele apitou o 1 a 0 do Pincha sobre o Corinthians nas quartas; o Palmeiras não perdeu com ele neste ano."
       },
       {
-        "titulo": "Palmeiras joga amanhã, sem Piquerez",
-        "texto": "Visita o Cruzeiro na quarta-feira, dia 18, às 20h30, no Mineirão, pelo Brasileirão, sem Piquerez (lesão na coxa direita), Murilo e Paulinho. Depois enfrenta Flamengo (21) e Chapecoense (24), quatro dias antes da final."
+        "titulo": "Os campeões de 2009 viajam a Montevidéu",
+        "texto": "O clube convidou integrantes do elenco de Sabella campeão da Libertadores 2009. Leandro Benítez confirmou que estará no Centenario: \"Vou para curtir, não é sempre que se joga uma final\"."
       },
       {
         "titulo": "Recopa pode ser em La Plata",
-        "texto": "Por ganhar a Supercopa, o Pincha jogará em janeiro o triangular da Recopa de Campeones com o Rosario Central e o campeão da Copa Argentina. O Estadio Único Diego Armando Maradona (não o UNO, o estádio do Pincha) é uma das sedes possíveis, mas a AFA ainda não confirmou."
+        "texto": "Por ganhar a Supercopa, o Pincha jogará em janeiro o triangular da Recopa de Campeones com Rosario Central e o campeão da Copa Argentina. O Estadio Único Diego Armando Maradona (não o UNO, o estádio do Pincha) é uma das sedes possíveis, mas a AFA ainda não confirmou."
       }
     ],
     "linea": [
+      {
+        "texto": "Leandro Benítez, campeão em 2009, confirmou que viajará a Montevidéu como convidado do clube."
+      },
+      {
+        "texto": "O futebol feminino apresentou Mauro Silva como novo técnico e um projeto até 2030."
+      },
       {
         "texto": "Jesús Valenzuela será o árbitro da final entre Estudiantes e Palmeiras no Centenário."
       },
@@ -43,10 +49,16 @@
         "texto": "O Palmeiras encerrou a preparação para visitar o Cruzeiro com cinco desfalques, entre eles Piquerez."
       },
       {
+        "texto": "O Palmeiras encerrou a preparação para o Cruzeiro sem os convocados: Murilo e Jefté miram a final."
+      },
+      {
         "texto": "A Conmebol abriu uma venda extra de cadeiras para a final, só para clientes Mastercard do Banco Provincia."
       },
       {
         "texto": "O Pincha pode jogar a Recopa de Campeones de janeiro em La Plata; a sede ainda não foi confirmada."
+      },
+      {
+        "texto": "Em City Bell começou a operação Palmeiras: Medina avalia jogar com linha de cinco."
       },
       {
         "texto": "González Pirez sobre a final: \"Penso o tempo todo no jogo\"."
@@ -65,15 +77,6 @@
       },
       {
         "texto": "No Brasil alertam para o desgaste do Palmeiras: 270 minutos em sete dias antes da final."
-      },
-      {
-        "texto": "Começam duas semanas decisivas: a contagem regressiva começa na segunda e Medina recupera peças para a final."
-      },
-      {
-        "texto": "O basquete encerrou a fase regular do Pre Federal com 71 a 56 sobre o Riberas del Paraná; nos playoffs pega o Racing de Olavarría."
-      },
-      {
-        "texto": "Correa acelera a recuperação em City Bell para chegar em plenas condições à final do dia 28."
       }
     ]
   },
