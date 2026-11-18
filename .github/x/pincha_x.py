@@ -12,7 +12,7 @@ import json
 import os
 from datetime import datetime, time, timedelta
 
-from buffer_x import AR, ahora_ar, ajustar, publicar
+from buffer_x import AR, ahora_ar, ajustar, marcar, publicar, ya_hecho
 
 CANAL = "6af9e06aece6dfde5fd48ed5"  # @ElPinchaHoy en Buffer
 SITIO = "https://elpinchahoy.com.ar"
@@ -85,10 +85,24 @@ def main():
         print("::warning::No pude leer data/home.json; hoy no sale nada.")
         return
 
-    publicar(CANAL, post_diario(home, hoy), datetime.combine(hoy, HORA, tzinfo=AR))
+    if not a.fecha:  # corrida real: solo con la edicion del dia y antes del mediodia
+        if ahora_ar().time() > time(12, 0):
+            print("Ya pasó el mediodía: el post del día no sale tarde.")
+            return
+        if not str(home.get("actualizado", "")).startswith(hoy.isoformat()):
+            print("Todavía no está la edición de hoy; espero la próxima actualización.")
+            return
+
+    clave = f"pincha-{hoy.isoformat()}"
+    if ya_hecho(clave):
+        print(f"{clave}: ya programado.")
+    elif publicar(CANAL, post_diario(home, hoy), datetime.combine(hoy, HORA, tzinfo=AR)):
+        marcar(clave)
+
     partido = post_partido(home, hoy)
-    if partido:
-        publicar(CANAL, *partido)
+    clave = f"pincha-partido-{hoy.isoformat()}"
+    if partido and not ya_hecho(clave) and publicar(CANAL, *partido):
+        marcar(clave)
 
 
 if __name__ == "__main__":

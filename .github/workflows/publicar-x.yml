@@ -1,16 +1,23 @@
 name: Publicar en X
 
-# El Pincha Hoy: post diario a las 6:00 ART (#EDLP #EstudiantesLP) y otro 2 h antes de cada partido.
-# Publica en X a traves de Buffer (plan gratis). Necesita el secret
-# BUFFER_API_KEY (vence al año: se regenera en publish.buffer.com/settings/api).
-# Scripts en .github/x/. Si un dia falla, ese dia no sale nada y listo.
+# El Pincha Hoy: post diario a las 6:00 ART (#EDLP #EstudiantesLP #LaPlata) y otro 2 h antes de cada partido. Se programa apenas entra la edicion del dia (push de data/home.json); el cron es respaldo.
+# Publica en X a traves de Buffer (plan gratis). Secret BUFFER_API_KEY (vence
+# al año: se regenera en publish.buffer.com/settings/api). Scripts en .github/x/.
 #
-# "Run workflow" a mano con "prueba" tildado: muestra el texto y verifica la
-# clave contra Buffer, sin publicar.
+# GitHub dispara los cron con horas de atraso, asi que el post NO sale cuando
+# corre esto: se deja programado en Buffer con la hora exacta. Corre varias
+# veces por dia por las dudas; .x-estado (cache) evita programar dos veces.
+#
+# "Run workflow" con "prueba" tildado: muestra el texto y verifica la clave,
+# sin publicar.
 
 on:
+  push:
+    branches: [main]
+    paths: [data/home.json]
   schedule:
-    - cron: "20 8 * * *"
+    - cron: "20 4 * * *"
+    - cron: "20 9 * * *"
   workflow_dispatch:
     inputs:
       prueba:
@@ -38,13 +45,26 @@ jobs:
           sparse-checkout: |
             .github/x
             data
+      - name: Estado (que ya se programo)
+        uses: actions/cache/restore@v4
+        with:
+          path: .x-estado
+          key: x-estado-${{ github.run_id }}
+          restore-keys: x-estado-
       - name: Publicar
         working-directory: .github/x
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          X_ESTADO: ${{ github.workspace }}/.x-estado/hechos.json
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.prueba && '1' || '' }}
         run: |
           if [ -n "$DRY_RUN" ]; then
             python3 -c "import buffer_x,sys; sys.exit(0 if buffer_x.verificar('6af9e06aece6dfde5fd48ed5') else 1)" || true
           fi
           python3 pincha_x.py --data ../../data ${{ inputs.fecha && format('--fecha {0}', inputs.fecha) || '' }}
+      - name: Guardar estado
+        if: always() && hashFiles('.x-estado/hechos.json') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: .x-estado
+          key: x-estado-${{ github.run_id }}
