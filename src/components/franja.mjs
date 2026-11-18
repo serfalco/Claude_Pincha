@@ -30,9 +30,9 @@ export const franja = ({ proximos, ultimo: u }, { t, f, site }) => {
     <span class="franja__rival">${t.vs} ${u.rival}</span>
     <span class="franja__dato">${u.golesPropios} - ${u.golesRival}</span>
     <span class="franja__meta">${t.estados[estado]} · <time datetime="${u.fecha}">${f.corta(u.fecha)}</time></span>
+    ${u.goles?.length ? html`<ul class="franja__goles">${u.goles.map((g) => html`<li>⚽ ${g.jugador} ${g.min}'${g.ec ? ` (${t.gol.ec})` : ''}${g.pen ? ` (${t.gol.pen})` : ''}</li>`)}</ul>` : ''}
     <span class="franja__mascota" aria-hidden="true">${raw(mascota(estado))}</span>
   </div>
-  ${u.goles?.length ? html`<p class="franja__goles"><span aria-hidden="true">⚽</span> ${u.goles.map((g) => `${g.jugador} ${g.min}'${g.ec ? ` (${t.gol.ec})` : ''}${g.pen ? ` (${t.gol.pen})` : ''}`).join(' · ')}</p>` : ''}
 </div>
 ${dest && n >= 0
   ? html`<div class="cuenta" data-fecha="${dest.fecha}">
