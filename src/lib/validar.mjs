@@ -90,3 +90,34 @@ export const validarHistorial = (data, dias) => {
   for (const n of otros) if (usadas.has(norm(n.titulo))) errores.push(`hoy.siete: "${n.titulo}" ya salió el ${usadas.get(norm(n.titulo))}; las de otros deportes o inferiores van un solo día`);
   if (errores.length) throw new Error(`Datos inválidos en data/home.json (comparado con días anteriores):\n- ${errores.join('\n- ')}`);
 };
+
+// Verificación: que las Siete no digan algo que ya sabemos que dejó de ser cierto.
+// - Lo que tiene plazo (una venta "hasta hoy", una ventana "hasta agotar") lleva `vence` (fecha ISO):
+//   si ya pasó, el build falla. Sin `vence`, una frase con plazo también hace fallar el build.
+// - data/plantel.json es la memoria de bajas: si un jugador está "afuera" (suspendido, operado),
+//   las Siete no pueden ponerlo "en duda"; si está "en duda", no pueden darlo por descartado ni por confirmado sin actualizar plantel.json.
+export const CON_PLAZO = /hasta (hoy|mañana|el (lunes|martes|mi[eé]rcoles|jueves|viernes|s[aá]bado|domingo)|las \d)|hasta agotar|sigue (abierta|la venta)|todav[ií]a (hay|quedan) (entradas|plateas|lugares)|quedan (entradas|plateas)|cierra (hoy|mañana)/i;
+const sinTildes = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+export const validarVerificacion = (data, plantel) => {
+  const errores = [];
+  const ahora = Date.parse(data.actualizado);
+  (data.hoy?.siete ?? []).forEach((n, i) => {
+    const txt = `${n.titulo} ${n.texto}`;
+    if (n.vence !== undefined && !esFecha(n.vence)) errores.push(`hoy.siete[${i}].vence no es una fecha`);
+    else if (n.vence && Date.parse(n.vence) <= ahora) errores.push(`hoy.siete[${i}] "${n.titulo}": venció el ${n.vence}; verificar qué pasó (¿se agotó? ¿cerró?) y reescribirla`);
+    if (CON_PLAZO.test(txt) && !n.vence) errores.push(`hoy.siete[${i}] "${n.titulo}": habla de un plazo ("${txt.match(CON_PLAZO)[0]}") y no tiene "vence"; ponerle la fecha y hora en que deja de ser cierto`);
+  });
+  for (const b of plantel?.bajas ?? []) {
+    // Se lo busca por "alias" (cómo lo nombran los medios) o, si no hay, por cada parte del nombre.
+    const nombres = (b.alias ?? b.jugador.split(' ')).map(sinTildes);
+    for (const [i, n] of (data.hoy?.siete ?? []).entries()) {
+      const txt = sinTildes(`${n.titulo} ${n.texto}`);
+      if (!nombres.some((x) => new RegExp(`\\b${x}\\b`).test(txt))) continue;
+      if (b.estado === 'afuera' && /\ben duda\b|\bduda\b|podria (jugar|estar|llegar)|llegaria|se recupera|recibio el alta/.test(txt))
+        errores.push(`hoy.siete[${i}] "${n.titulo}": ${b.jugador} figura "afuera" en data/plantel.json (${b.motivo}: ${b.detalle}); no puede estar en duda. Si cambió, actualizar plantel.json con la fuente`);
+      if (b.estado === 'en duda' && /\bse pierde\b|\bdescartado\b|\bconfirmado (como )?titular\b|recibio el alta/.test(txt))
+        errores.push(`hoy.siete[${i}] "${n.titulo}": ${b.jugador} figura "en duda" en data/plantel.json; si ya se sabe más, actualizar plantel.json (estado, detalle y fuentes) antes de publicarlo`);
+    }
+  }
+  if (errores.length) throw new Error(`Verificación (data/home.json vs. plazos y data/plantel.json):\n- ${errores.join('\n- ')}`);
+};

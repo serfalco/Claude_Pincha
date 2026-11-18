@@ -2,12 +2,13 @@
 // Uso: npm run cobertura [-- --horas 72]
 // Salida: cobertura/ultimas.json (no se publica) + resumen en consola.
 // La actualización automática arranca por acá: el club manda, los medios confirman.
-import { writeFile, mkdir } from 'node:fs/promises';
+import { writeFile, mkdir, readFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const gnews = (id, nombre, q) => ({
-  id, nombre, tipo: 'medio', filtrar: true, agregador: true,
+// local: medio de La Plata; ahí "Estudiantes" a secas ya es el Pincha.
+const gnews = (id, nombre, q, local = false) => ({
+  id, nombre, tipo: 'medio', filtrar: true, agregador: true, local,
   url: `https://news.google.com/rss/search?q=${q}+when:3d&hl=es-419&gl=AR&ceid=AR:es-419`,
 });
 
@@ -31,18 +32,23 @@ export const FUENTES = [
   // trae pocas notas y deja afuera las del Pincha (Perfil, La Nación, Punto Capital). Los feeds directos van
   // antes en la lista: si una nota aparece en los dos, queda el link original del medio.
   gnews('gnews', 'Google Noticias', '%22Estudiantes+de+La+Plata%22'),
-  gnews('infocielo', 'Infocielo', 'site:infocielo.com+Estudiantes'),
-  gnews('diariohoy', 'Diario Hoy', 'site:diariohoy.net+Estudiantes'),
+  // El RSS propio de El Día se queda trabado días enteros (noviembre 2026): Google Noticias lo cubre igual.
+  gnews('eldia-gn', 'El Día', 'site:eldia.com+Estudiantes', true),
+  // Entradas y socios aparte: en la búsqueda general quedan tapadas por las notas del partido, y ahí es donde
+  // más cambia el estado (una venta que se agota en minutos).
+  gnews('entradas-gn', 'Google Noticias', 'Estudiantes+(entradas+OR+plateas+OR+agotadas+OR+socios)'),
+  gnews('infocielo', 'Infocielo', 'site:infocielo.com+Estudiantes', true),
+  gnews('diariohoy', 'Diario Hoy', 'site:diariohoy.net+Estudiantes', true),
   gnews('ole', 'Olé', 'site:ole.com.ar+Estudiantes'),
   gnews('clarin', 'Clarín', 'site:clarin.com+Estudiantes'),
   gnews('perfil-gn', 'Perfil', 'site:perfil.com+Estudiantes'),
   gnews('lanacion-gn', 'La Nación', 'site:lanacion.com.ar+Estudiantes'),
-  gnews('puntocapital-gn', 'Punto Capital', 'site:puntocapitalnoticias.com+Estudiantes'),
+  gnews('puntocapital-gn', 'Punto Capital', 'site:puntocapitalnoticias.com+Estudiantes', true),
   gnews('tyc', 'TyC Sports', 'site:tycsports.com+Estudiantes'),
 ];
 
 // Google Noticias firma algunos medios con otro nombre: se unifican para contar bien la variedad de fuentes.
-const MEDIOS = { 'punto capital noticias': 'Punto Capital', 'la nacion': 'La Nación', 'clarin.com': 'Clarín', 'ole': 'Olé', 'diario el dia': 'El Día', 'eldia.com': 'El Día', 'tycsports.com': 'TyC Sports', 'perfil.com': 'Perfil' };
+const MEDIOS = { 'punto capital noticias': 'Punto Capital', 'la nacion': 'La Nación', 'clarin.com': 'Clarín', 'ole': 'Olé', 'diario el dia': 'El Día', 'diario el dia de la plata': 'El Día', 'eldia.com': 'El Día', 'tycsports.com': 'TyC Sports', 'perfil.com': 'Perfil' };
 const medio = (m) => MEDIOS[m.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()] ?? m;
 
 const SI = /\b(estudiantes de la plata|estudiantes lp|el pincha|los pinchas|pincharratas?|edlp|el le[oó]n)\b/i;
@@ -85,9 +91,10 @@ const desdeWP = (posts) =>
     socios: (p.categories ?? []).some((c) => CATEGORIAS_SOCIOS.includes(c)) || undefined,
   }));
 
-const esDelPincha = (n) => {
+const esDelPincha = (n, local) => {
   const t = `${n.titulo} ${n.resumen}`;
   if (NO.test(t) && !SI.test(t)) return false;
+  if (local && ESTUDIANTES.test(t)) return true;
   return SI.test(t) || (ESTUDIANTES.test(n.titulo) && /la plata|libertadores|palmeiras|uno\b/i.test(t));
 };
 
@@ -119,7 +126,7 @@ const leer = async (f) => {
       // Lo que el club ya publica en su feed no hace falta repetirlo desde el agregador.
       items = items.filter((n) => !/estudiantes de la plata$/i.test(n.medio ?? ''));
     }
-    return { f, aviso, total: crudos.length, items: f.filtrar ? items.filter(esDelPincha) : items };
+    return { f, aviso, total: crudos.length, items: f.filtrar ? items.filter((n) => esDelPincha(n, f.local)) : items };
   } catch (e) {
     return { f, error: e.message, items: [] };
   }
@@ -171,7 +178,49 @@ const main = async () => {
   ]);
   console.log(alertas.length ? `Salud de las fuentes:\n${alertas.map((a) => `  ${a}`).join('\n')}\n` : 'Salud de las fuentes: ✓ todas responden y los feeds propios están al día\n');
 
+  await revisarVigencia(root, notas);
+
   for (const n of notas.slice(0, 15)) console.log(`${n.fecha.slice(5, 16).replace('T', ' ')}Z  ${n.tipo === 'club' ? '[CLUB]' : '      '}${n.socios ? '[SOCIOS]' : ''} ${n.titulo} — ${n.fuente}`);
+};
+
+// Revisar vigencia: cruza lo que hoy dice el sitio (las Siete y data/plantel.json) con las notas que
+// cuentan un cambio de estado (se agotó, expulsado, suspendido, alta, lesión). No decide nada: avisa qué releer.
+export const CAMBIO = /agotad|se agot|volaron|sin stock|sold out|esgotad|cerr[oó] la venta|suspendid|sancion|expulsad|expuls[oó]|tarjeta roja|\broja\b|se pierde|no podr[aá] (jugar|estar)|desgarr|lesi[oó]n|operad|alta m[eé]dica|recibi[oó] el alta|descartad|baja|reprogram|cambi[oó] (el )?horario|postergad|suspendi[oó]/i;
+const VACIAS = new Set('estudiantes pincha final palmeiras copa libertadores para sobre desde hasta contra entre tiene puede luego todos todas porque donde cuando antes despues ademas segun clientes pierna'.split(' '));
+const TEMAS = ['plateas', 'platea', 'entradas', 'entrada', 'venta', 'ventana', 'populares', 'socios', 'abono', 'pasajes', 'micros'];
+const sinTildes = (x) => x.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+const palabras = (x) => new Set(sinTildes(x).match(/[a-z]{5,}/g)?.filter((w) => !VACIAS.has(w)) ?? []);
+const revisarVigencia = async (root, notas) => {
+  const leer = (rel) => readFile(join(root, rel), 'utf8').then(JSON.parse, () => undefined);
+  const [home, plantel] = await Promise.all([leer('data/home.json'), leer('data/plantel.json')]);
+  const cambios = notas.filter((n) => CAMBIO.test(`${n.titulo} ${n.resumen ?? ''}`));
+  const avisos = [];
+  for (const [i, s] of (home?.hoy?.siete ?? []).entries()) {
+    const claves = palabras(`${s.titulo} ${s.texto}`);
+    // Pesan doble los nombres propios de la noticia y las palabras de entradas: con una sola alcanza.
+    const fuertes = new Set([...(`${s.titulo} ${s.texto}`.match(/\b[A-ZÁÉÍÓÚÑ][a-záéíóúñ]{4,}/g) ?? []).map(sinTildes), ...TEMAS]);
+    for (const n of cambios) {
+      const comunes = [...palabras(`${n.titulo} ${n.resumen ?? ''}`)].filter((w) => claves.has(w));
+      const peso = comunes.reduce((a, w) => a + (fuertes.has(w) ? 2 : 1), 0);
+      if (peso >= 2 && new Date(n.fecha) > new Date(home.actualizado) - 36 * 3600e3)
+        avisos.push(`Siete n.º ${i + 1} "${s.titulo}" ↔ ${n.fecha.slice(5, 16).replace('T', ' ')}Z ${n.titulo} — ${n.fuente} (${comunes.slice(0, 4).join(', ')})`);
+    }
+  }
+  for (const b of plantel?.bajas ?? []) {
+    const nombres = (b.alias ?? [b.jugador]).map(sinTildes);
+    for (const n of notas) {
+      const t = sinTildes(`${n.titulo} ${n.resumen ?? ''}`);
+      if (nombres.some((x) => t.includes(x))) avisos.push(`plantel: ${b.jugador} (${b.estado}) ↔ ${n.titulo} — ${n.fuente}`);
+    }
+  }
+  const bajasNuevas = cambios.filter((n) => /suspendid|sancion|expuls|roja|se pierde|no podr[aá]/i.test(n.titulo));
+  console.log(`Revisar vigencia (abrir la nota y confirmar antes de publicar):${avisos.length ? '' : ' nada que cruce con lo publicado'}`);
+  [...new Set(avisos)].slice(0, 20).forEach((a) => console.log(`  ⚠ ${a}`));
+  if (bajasNuevas.length) {
+    console.log('Bajas o sanciones mencionadas en las notas (¿están en data/plantel.json?):');
+    bajasNuevas.slice(0, 10).forEach((n) => console.log(`  · ${n.titulo} — ${n.fuente}`));
+  }
+  console.log(`En data/plantel.json: ${(plantel?.bajas ?? []).map((b) => `${b.jugador} (${b.equipo}, ${b.estado})`).join(' · ') || 'vacío'}\n`);
 };
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) main();

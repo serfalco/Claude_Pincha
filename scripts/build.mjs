@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 import site from '../site.config.mjs';
 import { layout } from '../src/layout.mjs';
 import { toString } from '../src/lib/html.mjs';
-import { validarHome, validarHistorial } from '../src/lib/validar.mjs';
+import { validarHome, validarHistorial, validarVerificacion } from '../src/lib/validar.mjs';
 import { combinar, pendientes } from '../src/lib/traducir.mjs';
 import home from '../src/pages/home.mjs';
 import dia from '../src/pages/dia.mjs';
@@ -95,6 +95,10 @@ const build = async () => {
   // Home
   const porIdioma = await traducidos('home', validarHome);
   const base = porIdioma[idiomaBase];
+  const plantel = (await existe(join(root, 'data/plantel.json'))) ? await leerJSON('data/plantel.json') : undefined;
+  validarVerificacion(base, plantel);
+  if (plantel && (Date.parse(base.actualizado) - Date.parse(plantel.actualizado)) / 36e5 > 72)
+    avisos.push(`data/plantel.json no se revisa desde ${plantel.actualizado.slice(0, 10)}: chequear suspendidos y lesionados`);
 
   // Historial día por día
   const dirDias = join(root, 'data/dias');

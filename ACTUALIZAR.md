@@ -11,6 +11,17 @@ Objetivo: que `data/home.json` y sus traducciones reflejen **cómo está hoy Est
 4. **Textos propios**, nunca copiados: titulares y bajadas reescritos, cortos, en tono de hincha pero informativo.
 5. Si no hay novedades, **no se hace commit**.
 
+## Verificación (obligatoria antes de publicar)
+
+Lo que ya está publicado también se verifica: una noticia de ayer puede haber dejado de ser cierta (una venta que se agotó en una hora, un jugador que ya estaba suspendido). Errores de noviembre de 2026 que esto evita: decir que una venta seguía "hasta mañana" cuando se había agotado en minutos, y no registrar que un jugador expulsado 20 días antes se perdía la final.
+
+1. **Cada una de las Siete que se mantiene de la corrida anterior se vuelve a chequear**: una búsqueda dirigida por noticia ("<tema> agotadas", "<jugador> alta", "<jugador> suspendido", "<partido> horario"). Si cambió, se reescribe; si no se puede confirmar que sigue igual, se dice cómo estaba con fecha ("hasta el martes seguía…") o se saca.
+2. **Lo que tiene plazo lleva `vence`** (fecha ISO en hoy.siete[]): ventas, ventanas de socios, inscripciones, "hasta agotar". El build falla si el plazo ya pasó o si el texto habla de un plazo sin `vence`. Una venta "hasta agotar" de la Conmebol o del club se considera agotada salvo que una fuente diga que sigue: nunca escribir "sigue la venta" sin haberlo confirmado en esta corrida.
+3. **`data/plantel.json` es la memoria de bajas** (suspendidos, lesionados, altas, del Pincha y del rival que viene). Se lee antes de escribir sobre un jugador y se actualiza cuando cambia algo, con fuentes. El build falla si las Siete ponen "en duda" a alguien que figura "afuera", o dan por descartado o confirmado a alguien "en duda" sin actualizar el archivo. Antes de cada partido oficial, buscar "suspendidos Estudiantes <torneo>", acumulación de amarillas y expulsiones de partidos anteriores **del mismo torneo** (las sanciones de la Conmebol se cumplen en la Copa, aunque en el medio se juegue otro torneo). Si un jugador figura en duda hace más de una semana, buscar su situación de nuevo.
+4. **Revisar vigencia**: `npm run cobertura` cruza las Siete y plantel.json con las notas que cuentan un cambio (agotadas, expulsado, suspendido, alta, lesión, horario) y lo muestra en "Revisar vigencia". Cada aviso se abre y se resuelve antes de publicar. También lista "Bajas o sanciones mencionadas": si alguna no está en plantel.json, agregarla.
+5. **Un dato crítico con una sola fuente no se descarta sin buscarlo**: hacer al menos dos búsquedas dirigidas para confirmarlo (otro medio, el club, la crónica del partido donde pasó). Si se confirma, se publica; si no, no se publica y va **primero** en el resumen final, como pendiente para que lo confirme el dueño del sitio.
+6. **Leer la nota completa**, no solo el título ni el resumen de Google: la fecha de la nota, y si el dato es de hoy o de una nota vieja reciclada.
+
 ## Búsqueda activa (obligatoria para las Siete)
 
 La cobertura por RSS es el piso, no el techo. En cada corrida, además de `npm run cobertura`, hacer **al menos 6 búsquedas** (WebSearch, en la misma vuelta) sobre el **fútbol profesional**, con ángulos distintos: parte médico / lesionados, entrenamiento y probable equipo, declaraciones (Medina, jugadores, Verón), el rival que viene (lesiones, calendario, prensa de su país), socios / entradas / viaje, y mercado o calendario que viene (torneos, sedes, fixture). Sumar la prensa del país del rival cuando hay copa (ej. Brasil con Palmeiras).
@@ -18,7 +29,7 @@ Lo que sea nuevo y confirmado reemplaza a lo que ya se contó días anteriores.
 
 ## Primer paso: cobertura por RSS
 
-Correr `npm run cobertura`. Junta en `cobertura/ultimas.json` todo lo publicado en las últimas 72 h por el feed del club, El Día, 0221, Punto Capital, Olé, Perfil, Clarín, La Nación, Infobae, Infocielo, Diario Hoy y Google Noticias (que suma TyC, ESPN, DSports, Minuto Uno, etc.), filtrado para Estudiantes de La Plata y sin duplicados.
+Correr `npm run cobertura`. Junta en `cobertura/ultimas.json` todo lo publicado en las últimas 72 h por el feed del club, El Día, 0221, Punto Capital, Olé, Perfil, Clarín, La Nación, Infobae, Infocielo, Diario Hoy y Google Noticias (que suma TyC, ESPN, DSports, Minuto Uno, etc.), filtrado para Estudiantes de La Plata y sin duplicados. Suma una búsqueda aparte de entradas, plateas y socios, y al final muestra **Revisar vigencia** (ver Verificación).
 - `[CLUB]` = publicación oficial: manda sobre todo lo demás.
 - `[SOCIOS]` = entradas, ventanas, ranking, cuota: revisar primero.
 - `confirman` = otros medios que contaron lo mismo (sirve como segunda fuente).
@@ -65,7 +76,7 @@ Lo que el club publica en estas redes lo levantan rápido los medios de abajo: b
 - Liga Profesional / AFA para fixture y horarios oficiales.
 
 **Medios (confirmación y velocidad)**
-- La Plata: El Día (RSS propio de Estudiantes), 0221 (RSS propio), Punto Capital (RSS), Infocielo y Diario Hoy (vía Google Noticias por sitio). Cielosport bloquea el acceso automático y no figura en Google Noticias: no se puede leer.
+- La Plata: El Día (RSS propio de Estudiantes, que a veces se traba días enteros: por eso también se lee vía Google Noticias), 0221 (RSS propio), Punto Capital (RSS), Infocielo y Diario Hoy (vía Google Noticias por sitio). Cielosport bloquea el acceso automático y no figura en Google Noticias: no se puede leer.
 - Nacionales: La Nación / Canchallena, Olé, TyC Sports, ESPN, Infobae, 442 Perfil, El Gráfico.
 - Tablas y números: futbolargentino.com, promediosinfo.com.
 

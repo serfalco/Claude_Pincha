@@ -1,0 +1,53 @@
+{
+  "_info": "Memoria de bajas entre corridas: suspensiones, lesiones y altas del plantel y del rival que viene. No se publica: lo usan la cobertura (alertas) y el build (que las Siete no contradigan esto). Ver ACTUALIZAR.md › Verificación.",
+  "actualizado": "2026-11-18T01:00:00-03:00",
+  "bajas": [
+    {
+      "jugador": "Baltasar Rodríguez",
+      "alias": [
+        "Baltasar",
+        "Baltasar Rodríguez"
+      ],
+      "equipo": "Estudiantes",
+      "estado": "afuera",
+      "motivo": "suspensión",
+      "detalle": "Expulsado ante Flamengo en el Maracaná (semifinal de vuelta de la Copa Libertadores).",
+      "hasta": "Final de la Copa Libertadores, 28/11 (la sanción se cumple en la Copa)",
+      "fuentes": [
+        "https://www.eldia.com/deportes/en-city-bell-comenzo-el-operativo-palmeiras-deportes_1794894270",
+        "Dueño del sitio (18/11)"
+      ]
+    },
+    {
+      "jugador": "Joaquín Correa",
+      "alias": [
+        "Correa",
+        "Tucu Correa"
+      ],
+      "equipo": "Estudiantes",
+      "estado": "en duda",
+      "motivo": "lesión",
+      "detalle": "Desgarro grado 2 en el bíceps femoral de la pierna derecha; trabaja aparte del grupo.",
+      "hasta": "Sin alta médica confirmada",
+      "fuentes": [
+        "https://www.0221.com.ar/estudiantes/joaquin-correa-trabaja-contrarreloj-estudiantes-la-ilusion-llegar-la-final-la-copa-libertadores-n137490",
+        "https://www.eldia.com/deportes/correa-acelera-su-puesta-a-punto-para-la-gran-final-deportes_1794733130"
+      ]
+    },
+    {
+      "jugador": "Piquerez",
+      "alias": [
+        "Piquerez"
+      ],
+      "equipo": "Palmeiras",
+      "estado": "en duda",
+      "motivo": "lesión",
+      "detalle": "Lesión en el muslo derecho jugando para Uruguay; sin fecha de regreso.",
+      "hasta": "Sin confirmar para la final",
+      "fuentes": [
+        "https://www.lance.com.br/palmeiras/escalacao-palmeiras-encerra-preparacao-e-abel-busca-alternativas-sem-convocados.html",
+        "https://abcdoabc.com.br/palmeiras-conta-com-piquerez-para-fina/"
+      ]
+    }
+  ]
+}
