@@ -12,6 +12,9 @@ import { listaSiete } from './home.mjs';
 const fechaLarga = (dia, t) =>
   new Intl.DateTimeFormat(t.locale, { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${dia}T12:00:00Z`));
 
+// Corta en el último espacio antes del límite (Google muestra ~60 caracteres de title y ~155 de description).
+const recortar = (s, max) => (s.length <= max ? s : `${s.slice(0, s.lastIndexOf(' ', max - 1)).replace(/[\s,;:.]+$/, '')}…`);
+
 export default (ctx, dia, nav) => {
   const { site, t } = ctx;
   const f = fechas(t.locale);
@@ -25,8 +28,11 @@ export default (ctx, dia, nav) => {
   return {
     og: ctx.og,
     ogAlt: fotoDia?.alt,
-    title: dia.siete?.length ? t.dia.tituloSiete(larga) : t.dia.title(larga),
-    description: dia.siete?.length ? t.dia.descripcionSiete(larga) : t.dia.descripcion(larga),
+    // Cada día con el hecho del día en el title: así puede aparecer en búsquedas de esa noticia puntual.
+    title: titular
+      ? `${recortar(titular, 62)} · ${site.nombre} ${dia.fecha.slice(8)}/${dia.fecha.slice(5, 7)}`
+      : dia.siete?.length ? t.dia.tituloSiete(larga) : t.dia.title(larga),
+    description: tx(dia.resumen) ? recortar(tx(dia.resumen), 155) : dia.siete?.length ? t.dia.descripcionSiete(larga) : t.dia.descripcion(larga),
     jsonLd: [
       {
         // Cada día es una nota: ayuda a aparecer en búsquedas de noticias.
