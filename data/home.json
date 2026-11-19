@@ -1,44 +1,57 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-18T18:30:00-03:00",
+  "actualizado": "2026-11-19T00:07:00-03:00",
   "hoy": {
-    "titular": "Unos 35 mil pinchas preparan la caravana a Montevideo; Palmeiras juega esta noche en el Mineirão",
+    "titular": "Palmeiras perdió con Cruzeiro y el sábado recibe a Flamengo; el Pincha encara la última semana en City Bell",
     "foto": {
       "id": "2026-10-09_algunos-si-otros-no_1",
       "alt": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell."
     },
-    "resumen": "Se esperan unos 35 mil hinchas de Estudiantes en Montevideo, con 120 micros y los barcos agotados. Palmeiras visita esta noche a Cruzeiro con cinco bajas y recupera a Giay, Flaco López y Arias, que volvieron sin lesiones de sus selecciones.",
+    "resumen": "Palmeiras cayó 2-1 ante Cruzeiro en el Mineirão y el sábado recibe a Flamengo, que puede consagrarse campeón del Brasileirão. Estudiantes se entrena en City Bell hasta el miércoles 25, cuando viaja a Montevideo, y Correa sigue sin parte médico definitivo.",
     "siete": [
       {
-        "titulo": "Volaron las plateas extra",
-        "texto": "Las 1.000 plateas de categoría 2 (USD 250) que la Conmebol puso a la venta el martes por ElevenTickets, solo para clientes Mastercard del Banco Provincia, se agotaron en menos de una hora. Hubo caídas de la página y muchas quejas de hinchas que se quedaron afuera."
+        "titulo": "Palmeiras perdió en el Mineirão",
+        "texto": "Cruzeiro le dio vuelta el partido 2-1 en el segundo tiempo: Ramón Sosa abrió apenas empezado el complemento, pero empató Matheus Pereira de tiro libre y Khellven la metió en contra. El Flaco López y Jhon Arias entraron desde el banco."
       },
       {
-        "titulo": "Palmeiras visita hoy a Cruzeiro, con bajas",
-        "texto": "Juega a las 20.30 en el Mineirão por el Brasileirão sin Gustavo Gómez ni Maurício (con Paraguay), Murilo, Piquerez ni Paulinho. Giay, Flaco López y Jhon Arias volvieron sin lesiones de sus selecciones y arrancarían en el banco."
+        "titulo": "El sábado, Palmeiras-Flamengo",
+        "texto": "Una semana antes de la final, Palmeiras recibe al líder el sábado 21 a las 16.30 en el Nubank Parque, por la fecha 36 del Brasileirão. Está seis puntos abajo a falta de dos fechas: si gana Flamengo, es campeón. El 6 de diciembre, además, juega la final de la Copa do Brasil."
       },
       {
         "titulo": "Correa, en duda para la final",
-        "texto": "Arrastra un desgarro grado 2 en el bíceps de la pierna derecha y sigue trabajando aparte del grupo. Si le dan el alta, igual le faltará ritmo: su presencia de entrada no está asegurada."
+        "texto": "Sigue el tratamiento por el desgarro grado 2 en el bíceps femoral derecho y todavía no hay parte médico definitivo. El cuerpo técnico lo ve como una alternativa importante en ataque, pero su presencia en el Centenario no está asegurada."
+      },
+      {
+        "titulo": "Rojo, Palacios y Mancuso, a la par del grupo",
+        "texto": "Marcos Rojo, Tomás Palacios y Eros Mancuso arrancaron la semana con trabajos en el gimnasio, pero ya se entrenan con normalidad junto al resto del plantel."
+      },
+      {
+        "titulo": "La hoja de ruta hasta el Centenario",
+        "texto": "Hoy hay práctica y asado en City Bell. El plantel se entrena ahí hasta el miércoles 25 (el domingo es libre) y esa tarde viaja a Montevideo, donde parará en el Hilton; el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "vence": "2026-11-25T23:59:00-03:00"
       },
       {
         "titulo": "Sin Baltasar, Medina piensa en una línea de cinco",
         "texto": "Baltasar Rodríguez, expulsado ante Flamengo en el Maracaná, no podrá jugar la final. Según El Día, el Cacique analiza poner cinco defensores en el Centenario para frenar las subidas de los laterales de Palmeiras."
       },
       {
-        "titulo": "Valenzuela, el árbitro de la final",
-        "texto": "La Conmebol eligió al venezolano Jesús Valenzuela, con una terna toda venezolana y Juan Soto en el VAR. Dirigió al Pincha en el 1-0 a Corinthians en los cuartos; Palmeiras no perdió con él este año."
-      },
-      {
         "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
         "texto": "Viajan 120 micros: 60 del club, que salen el viernes por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club."
-      },
-      {
-        "titulo": "Palmeiras tiene otra final ocho días después",
-        "texto": "El 6 de diciembre, ocho días después de Montevideo, Palmeiras juega ante Grêmio la final de la Copa do Brasil, a partido único en el Mané Garrincha de Brasília. La CBF todavía no fijó el horario."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-18T23:16:00-03:00",
+        "fuente": "DeporTV",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGpaTm5abEhnN2pmcU1iV0FwcWVMZzljcjhmUTh4WXNaRlVPVzFLYUNzdm9LVjdiNW1yN0lrVlNvckJkMU1TUG9jdWFLaXREMlBCUWZhN1RkZHcwWGM2S3FNNUF5MG9GamIxQTJ4N0V1T2hFSG55S19aQnFxLWhOc1ZuV2ItaTBDQmxlOHFXamhvbVNmOWQ3WElna3FDQWdCQWd2dFRDUUV2dw?oc=5",
+        "texto": "Palmeiras perdió en el Mineirão y el Flaco López jugó su segundo partido en dos días."
+      },
+      {
+        "hora": "2026-11-18T20:24:00-03:00",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/la-agenda-definitiva-estudiantes-la-final-la-copa-libertadores-n137680",
+        "texto": "Día por día, la agenda del plantel hasta la final: City Bell, viaje el miércoles 25 y prácticas en Montevideo."
+      },
       {
         "hora": "2026-11-18T17:00:00-03:00",
         "fuente": "0221",
@@ -62,12 +75,6 @@
         "fuente": "O Tempo",
         "url": "https://www.otempo.com.br/sports/cruzeiro/2026/11/18/cruzeiro-e-palmeiras-medem-forcas-no-mineirao-em-confronto-de-peso-pelo-brasileirao",
         "texto": "Cruzeiro y Palmeiras, segundo del Brasileirão, se miden hoy en el Mineirão con muchas bajas en el Verdão."
-      },
-      {
-        "hora": "2026-11-17T20:40:00-03:00",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/leandro-benitez-recordo-la-copa-libertadores-2009-y-confirmo-que-viajara-junto-estudiantes-montevideo-n137619",
-        "texto": "Leandro Benítez, campeón en 2009, confirmó que viajará a Montevideo como invitado del club."
       },
       {
         "hora": "2026-11-17T18:16:00-03:00",
@@ -116,12 +123,6 @@
         "fuente": "Portal do Palestra",
         "url": "https://portaldopalestra.com.br/palmeiras-desfalques-jogo-cruzeiro-mineirao-convocados/",
         "texto": "Palmeiras espera a Giay, Flaco López y Arias, que llegan en vuelos chárter tras jugar con sus selecciones."
-      },
-      {
-        "hora": "2026-11-17T02:44:00-03:00",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/en-city-bell-comenzo-el-operativo-palmeiras-deportes_1794894270",
-        "texto": "En City Bell arrancó el operativo Palmeiras: Medina analiza jugar con línea de cinco."
       }
     ]
   },
@@ -428,6 +429,10 @@
     "https://www.otempo.com.br/sports/cruzeiro/2026/11/18/cruzeiro-e-palmeiras-medem-forcas-no-mineirao-em-confronto-de-peso-pelo-brasileirao",
     "https://portaldopalestra.com.br/palmeiras-desfalques-jogo-cruzeiro-mineirao-convocados/",
     "https://www.lance.com.br/futebol-nacional/quando-sera-a-final-da-copa-do-brasil-2026-entre-palmeiras-e-gremio-veja-data-horario-e-local.html",
-    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/palmeiras-x-gremio-veja-a-data-e-local-da-final-da-copa-do-brasil/"
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/palmeiras-x-gremio-veja-a-data-e-local-da-final-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/palmeiras/cruzeiro-x-palmeiras-35-rodada-brasileirao-18-11-2026/",
+    "https://lanacion.com.ar/deportes/canchallena/cruzeiro-vencio-2-1-a-palmeiras-por-el-brasileirao-serie-a-2026-nid18112026",
+    "https://acritica.net/esportes/cbf-define-data-horario-palmeiras-flamengo-brasileirao-21-novembro/",
+    "https://www.0221.com.ar/estudiantes/la-agenda-definitiva-estudiantes-la-final-la-copa-libertadores-n137680"
   ]
 }

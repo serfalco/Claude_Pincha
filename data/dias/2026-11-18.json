@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-10-09_algunos-si-otros-no_1",
+    "alt": {
+      "es": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell.",
+      "en": "Coaching staff give instructions to two players during a training session at City Bell.",
+      "pt": "A comissão técnica orienta dois jogadores durante um treino em City Bell.",
+      "zh": "教练组在City Bell训练中向两名球员布置战术。",
+      "hi": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
+    }
+  },
   "siete": [
     {
       "titulo": {
@@ -151,17 +161,31 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-10-09_algunos-si-otros-no_1",
-    "alt": {
-      "es": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell.",
-      "en": "Coaching staff give instructions to two players during a training session at City Bell.",
-      "pt": "A comissão técnica orienta dois jogadores durante um treino em City Bell.",
-      "zh": "教练组在City Bell训练中向两名球员布置战术。",
-      "hi": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
-    }
-  },
   "linea": [
+    {
+      "hora": "2026-11-18T23:16:00-03:00",
+      "fuente": "DeporTV",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGpaTm5abEhnN2pmcU1iV0FwcWVMZzljcjhmUTh4WXNaRlVPVzFLYUNzdm9LVjdiNW1yN0lrVlNvckJkMU1TUG9jdWFLaXREMlBCUWZhN1RkZHcwWGM2S3FNNUF5MG9GamIxQTJ4N0V1T2hFSG55S19aQnFxLWhOc1ZuV2ItaTBDQmxlOHFXamhvbVNmOWQ3WElna3FDQWdCQWd2dFRDUUV2dw?oc=5",
+      "texto": {
+        "es": "Palmeiras perdió en el Mineirão y el Flaco López jugó su segundo partido en dos días.",
+        "en": "Palmeiras lost at the Mineirão and Flaco López played his second match in two days.",
+        "pt": "O Palmeiras perdeu no Mineirão e Flaco López fez seu segundo jogo em dois dias.",
+        "zh": "Palmeiras在Mineirão落败，Flaco López两天内踢了两场比赛。",
+        "hi": "Palmeiras Mineirão में हारा और Flaco López ने दो दिन में अपना दूसरा मैच खेला।"
+      }
+    },
+    {
+      "hora": "2026-11-18T20:24:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/la-agenda-definitiva-estudiantes-la-final-la-copa-libertadores-n137680",
+      "texto": {
+        "es": "Día por día, la agenda del plantel hasta la final: City Bell, viaje el miércoles 25 y prácticas en Montevideo.",
+        "en": "Day by day, the squad's schedule up to the final: City Bell, travel on Wednesday 25th and training in Montevideo.",
+        "pt": "Dia a dia, a agenda do elenco até a final: City Bell, viagem na quarta, 25, e treinos em Montevidéu.",
+        "zh": "逐日行程：City Bell训练、25日周三出发、在蒙得维的亚训练，直至决赛。",
+        "hi": "दिन-ब-दिन टीम का कार्यक्रम: City Bell, बुधवार 25 को रवानगी और मोंटेवीडियो में अभ्यास।"
+      }
+    },
     {
       "hora": "2026-11-18T17:00:00-03:00",
       "fuente": "0221",

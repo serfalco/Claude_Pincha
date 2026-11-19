@@ -1,41 +1,47 @@
 {
   "hoy": {
-    "titular": "Around 35,000 Pincha fans gear up for the trip to Montevideo; Palmeiras play at the Mineirão tonight",
+    "titular": "Palmeiras lose to Cruzeiro and host Flamengo on Saturday; the Pincha begin their final week at City Bell",
     "foto": {
       "alt": "Coaching staff give instructions to two players during a training session at City Bell."
     },
-    "resumen": "Around 35,000 Estudiantes supporters are expected in Montevideo, with 120 coaches and the ferries sold out. Palmeiras visit Cruzeiro tonight with five absentees but get Giay, Flaco López and Arias back unscathed from international duty.",
+    "resumen": "Palmeiras went down 2-1 to Cruzeiro at the Mineirão and host Flamengo on Saturday, who can clinch the Brasileirão title. Estudiantes train at City Bell until Wednesday 25th, when they fly to Montevideo, and there is still no definitive medical update on Correa.",
     "siete": [
       {
-        "titulo": "Extra seats snapped up",
-        "texto": "The 1,000 category 2 seats (USD 250) that CONMEBOL put on sale on Tuesday via ElevenTickets, only for Banco Provincia Mastercard holders, sold out in under an hour. The site crashed and many fans who missed out complained."
+        "titulo": "Palmeiras beaten at the Mineirão",
+        "texto": "Cruzeiro came from behind to win 2-1 in the second half: Ramón Sosa scored straight after the restart, but Matheus Pereira levelled from a free kick and Khellven turned in an own goal. Flaco López and Jhon Arias came off the bench."
       },
       {
-        "titulo": "Palmeiras visit Cruzeiro today, short-handed",
-        "texto": "They play at 20:30 at the Mineirão in the Brasileirão without Gustavo Gómez or Maurício (on Paraguay duty), Murilo, Piquerez or Paulinho. Giay, Flaco López and Jhon Arias came back from international duty injury-free and are expected to start on the bench."
+        "titulo": "Palmeiras v Flamengo on Saturday",
+        "texto": "A week before the final, Palmeiras host the leaders on Saturday 21st at 16:30 at the Nubank Parque, on matchday 36 of the Brasileirão. They are six points behind with two rounds left: a Flamengo win seals the title. On 6 December they also play the Copa do Brasil final."
       },
       {
         "titulo": "Correa a doubt for the final",
-        "texto": "He is nursing a grade 2 tear in the biceps of his right leg and is still working apart from the group. Even if he is cleared, he will lack match rhythm: a starting place is far from certain."
+        "texto": "He is still being treated for a grade 2 tear in his right hamstring and there is no definitive medical update yet. The coaching staff see him as an important attacking option, but his involvement at the Centenario is not guaranteed."
+      },
+      {
+        "titulo": "Rojo, Palacios and Mancuso back with the group",
+        "texto": "Marcos Rojo, Tomás Palacios and Eros Mancuso started the week with gym work but are now training normally with the rest of the squad."
+      },
+      {
+        "titulo": "The road map to the Centenario",
+        "texto": "Today there is training and a squad barbecue at City Bell. The players train there until Wednesday 25th (Sunday is a day off) and fly to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's facilities."
       },
       {
         "titulo": "Without Baltasar, Medina weighs a back five",
         "texto": "Baltasar Rodríguez, sent off against Flamengo at the Maracanã, will miss the final. According to El Día, the coach is considering five defenders at the Centenario to stop Palmeiras' full-backs getting forward."
       },
       {
-        "titulo": "Valenzuela to referee the final",
-        "texto": "CONMEBOL chose Venezuelan Jesús Valenzuela, with an all-Venezuelan crew and Juan Soto on VAR. He refereed the Pincha's 1-0 win over Corinthians in the quarter-finals; Palmeiras are unbeaten with him this year."
-      },
-      {
         "titulo": "Around 35,000 Pincha fans head for Montevideo",
         "texto": "120 coaches are going: 60 laid on by the club, leaving the UNO on Friday afternoon, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario."
-      },
-      {
-        "titulo": "Palmeiras have another final eight days later",
-        "texto": "On 6 December, eight days after Montevideo, Palmeiras face Grêmio in the Copa do Brasil final, a one-off match at the Mané Garrincha in Brasília. The CBF has not set the kick-off time yet."
       }
     ],
     "linea": [
+      {
+        "texto": "Palmeiras lost at the Mineirão and Flaco López played his second match in two days."
+      },
+      {
+        "texto": "Day by day, the squad's schedule up to the final: City Bell, travel on Wednesday 25th and training in Montevideo."
+      },
       {
         "texto": "Total frenzy: 120 coaches, sold-out ferries and around 35,000 Pincha fans expected in Montevideo."
       },
@@ -47,9 +53,6 @@
       },
       {
         "texto": "Cruzeiro and Palmeiras, second in the Brasileirão, meet today at the Mineirão with Verdão badly depleted."
-      },
-      {
-        "texto": "Leandro Benítez, a 2009 champion, confirmed he will travel to Montevideo as the club's guest."
       },
       {
         "texto": "The women's team unveiled Mauro Silva as new head coach and a project running to 2030."
@@ -74,9 +77,6 @@
       },
       {
         "texto": "Palmeiras await Giay, Flaco López and Arias, arriving on charter flights after international duty."
-      },
-      {
-        "texto": "Operation Palmeiras is under way at City Bell: Medina is considering a back five."
       }
     ]
   },

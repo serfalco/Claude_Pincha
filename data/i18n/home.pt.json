@@ -1,41 +1,47 @@
 {
   "hoy": {
-    "titular": "Cerca de 35 mil torcedores do Pincha preparam a caravana a Montevidéu; Palmeiras joga hoje à noite no Mineirão",
+    "titular": "Palmeiras perde para o Cruzeiro e recebe o Flamengo no sábado; o Pincha encara a última semana em City Bell",
     "foto": {
       "alt": "A comissão técnica orienta dois jogadores durante um treino em City Bell."
     },
-    "resumen": "São esperados cerca de 35 mil torcedores do Estudiantes em Montevidéu, com 120 ônibus e os barcos esgotados. O Palmeiras visita o Cruzeiro hoje à noite com cinco desfalques e recupera Giay, Flaco López e Arias, que voltaram sem lesões das seleções.",
+    "resumen": "O Palmeiras perdeu por 2 a 1 para o Cruzeiro no Mineirão e no sábado recebe o Flamengo, que pode ser campeão do Brasileirão. O Estudiantes treina em City Bell até quarta-feira, 25, quando viaja para Montevidéu, e Correa segue sem boletim médico definitivo.",
     "siete": [
       {
-        "titulo": "Cadeiras extras esgotadas",
-        "texto": "As 1.000 cadeiras da categoria 2 (US$ 250) que a Conmebol colocou à venda na terça pela ElevenTickets, só para clientes Mastercard do Banco Provincia, esgotaram em menos de uma hora. O site caiu e muitos torcedores que ficaram de fora reclamaram."
+        "titulo": "Palmeiras perde no Mineirão",
+        "texto": "O Cruzeiro virou para 2 a 1 no segundo tempo: Ramón Sosa abriu o placar logo no começo da etapa final, mas Matheus Pereira empatou de falta e Khellven fez contra. Flaco López e Jhon Arias entraram no decorrer do jogo."
       },
       {
-        "titulo": "Palmeiras visita o Cruzeiro hoje, com desfalques",
-        "texto": "Joga às 20h30 no Mineirão pelo Brasileirão sem Gustavo Gómez nem Maurício (com o Paraguai), Murilo, Piquerez e Paulinho. Giay, Flaco López e Jhon Arias voltaram sem lesões das seleções e devem começar no banco."
+        "titulo": "No sábado, Palmeiras x Flamengo",
+        "texto": "Uma semana antes da final, o Palmeiras recebe o líder no sábado, 21, às 16h30 (horário de Brasília), no Nubank Parque, pela 36ª rodada do Brasileirão. Está seis pontos atrás com duas rodadas por jogar: se o Flamengo vencer, é campeão. Em 6 de dezembro, ainda decide a final da Copa do Brasil."
       },
       {
         "titulo": "Correa, dúvida para a final",
-        "texto": "Ele se recupera de uma lesão grau 2 no bíceps femoral da perna direita e segue treinando separado do grupo. Mesmo liberado, vai faltar ritmo: a presença entre os titulares não está garantida."
+        "texto": "Segue o tratamento da lesão grau 2 no bíceps femoral direito e ainda não há boletim médico definitivo. A comissão técnica o vê como uma alternativa importante no ataque, mas sua presença no Centenario não está garantida."
+      },
+      {
+        "titulo": "Rojo, Palacios e Mancuso de volta ao grupo",
+        "texto": "Marcos Rojo, Tomás Palacios e Eros Mancuso começaram a semana com trabalhos na academia, mas já treinam normalmente com o restante do elenco."
+      },
+      {
+        "titulo": "O roteiro até o Centenario",
+        "texto": "Hoje tem treino e churrasco em City Bell. O elenco treina lá até quarta-feira, 25 (domingo é folga), e viaja à tarde para Montevidéu, onde fica no Hilton; na quinta e na sexta treina no CT do Montevideo City Torque."
       },
       {
         "titulo": "Sem Baltasar, Medina pensa em linha de cinco",
         "texto": "Baltasar Rodríguez, expulso contra o Flamengo no Maracanã, está fora da final. Segundo o El Día, o técnico avalia escalar cinco defensores no Centenario para frear o apoio dos laterais do Palmeiras."
       },
       {
-        "titulo": "Valenzuela apita a final",
-        "texto": "A Conmebol escolheu o venezuelano Jesús Valenzuela, com trio todo venezuelano e Juan Soto no VAR. Ele apitou o 1 a 0 do Pincha sobre o Corinthians nas quartas; o Palmeiras não perdeu com ele neste ano."
-      },
-      {
         "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
         "texto": "Viajam 120 ônibus: 60 do clube, que saem na sexta à tarde do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario."
-      },
-      {
-        "titulo": "Palmeiras tem outra final oito dias depois",
-        "texto": "Em 6 de dezembro, oito dias depois de Montevidéu, o Palmeiras enfrenta o Grêmio na final da Copa do Brasil, em jogo único no Mané Garrincha, em Brasília. A CBF ainda não definiu o horário."
       }
     ],
     "linea": [
+      {
+        "texto": "O Palmeiras perdeu no Mineirão e Flaco López fez seu segundo jogo em dois dias."
+      },
+      {
+        "texto": "Dia a dia, a agenda do elenco até a final: City Bell, viagem na quarta, 25, e treinos em Montevidéu."
+      },
       {
         "texto": "Loucura total: 120 ônibus, barcos esgotados e cerca de 35 mil torcedores do Pincha esperados em Montevidéu."
       },
@@ -47,9 +53,6 @@
       },
       {
         "texto": "Cruzeiro e Palmeiras, vice-líder do Brasileirão, se enfrentam hoje no Mineirão com muitos desfalques no Verdão."
-      },
-      {
-        "texto": "Leandro Benítez, campeão em 2009, confirmou que viajará a Montevidéu como convidado do clube."
       },
       {
         "texto": "O futebol feminino apresentou Mauro Silva como novo técnico e um projeto até 2030."
@@ -74,9 +77,6 @@
       },
       {
         "texto": "O Palmeiras espera Giay, Flaco López e Arias, que chegam em voos fretados depois de jogar por suas seleções."
-      },
-      {
-        "texto": "Em City Bell começou a operação Palmeiras: Medina avalia jogar com linha de cinco."
       }
     ]
   },

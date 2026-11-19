@@ -1,0 +1,165 @@
+{
+  "fecha": "2026-11-19",
+  "titular": {
+    "es": "Palmeiras perdió con Cruzeiro y el sábado recibe a Flamengo; el Pincha encara la última semana en City Bell",
+    "en": "Palmeiras lose to Cruzeiro and host Flamengo on Saturday; the Pincha begin their final week at City Bell",
+    "pt": "Palmeiras perde para o Cruzeiro e recebe o Flamengo no sábado; o Pincha encara a última semana em City Bell",
+    "zh": "帕尔梅拉斯不敌Cruzeiro，周六主场迎战Flamengo；Pincha在City Bell开启决赛前最后一周",
+    "hi": "Palmeiras को Cruzeiro से हार, शनिवार को Flamengo से मुक़ाबला; Pincha ने City Bell में आख़िरी हफ़्ता शुरू किया"
+  },
+  "resumen": {
+    "es": "Palmeiras cayó 2-1 ante Cruzeiro en el Mineirão y el sábado recibe a Flamengo, que puede consagrarse campeón del Brasileirão. Estudiantes se entrena en City Bell hasta el miércoles 25, cuando viaja a Montevideo, y Correa sigue sin parte médico definitivo.",
+    "en": "Palmeiras went down 2-1 to Cruzeiro at the Mineirão and host Flamengo on Saturday, who can clinch the Brasileirão title. Estudiantes train at City Bell until Wednesday 25th, when they fly to Montevideo, and there is still no definitive medical update on Correa.",
+    "pt": "O Palmeiras perdeu por 2 a 1 para o Cruzeiro no Mineirão e no sábado recebe o Flamengo, que pode ser campeão do Brasileirão. O Estudiantes treina em City Bell até quarta-feira, 25, quando viaja para Montevidéu, e Correa segue sem boletim médico definitivo.",
+    "zh": "Palmeiras在Mineirão球场1比2不敌Cruzeiro，周六将主场迎战有望提前夺得巴甲冠军的Flamengo。Estudiantes将在City Bell训练至25日周三，当天启程前往蒙得维的亚；Correa仍无最终伤情报告。",
+    "hi": "Palmeiras को Mineirão में Cruzeiro से 2-1 से हार मिली और शनिवार को वह Flamengo की मेज़बानी करेगा, जो ब्राज़ीलियाई लीग का ख़िताब पक्का कर सकता है। Estudiantes बुधवार 25 तारीख़ तक City Bell में अभ्यास करेगा, उसी दिन मोंटेवीडियो रवाना होगा, और Correa पर अब तक कोई अंतिम मेडिकल अपडेट नहीं है।"
+  },
+  "ultimo": {
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral",
+    "goles": [
+      {
+        "jugador": "Carrillo",
+        "min": "55"
+      },
+      {
+        "jugador": "Villalba",
+        "min": "68",
+        "ec": true
+      },
+      {
+        "jugador": "Alario",
+        "min": "96"
+      }
+    ]
+  },
+  "siete": [
+    {
+      "titulo": {
+        "es": "Palmeiras perdió en el Mineirão",
+        "en": "Palmeiras beaten at the Mineirão",
+        "pt": "Palmeiras perde no Mineirão",
+        "zh": "Palmeiras客场失利",
+        "hi": "Mineirão में Palmeiras की हार"
+      },
+      "texto": {
+        "es": "Cruzeiro le dio vuelta el partido 2-1 en el segundo tiempo: Ramón Sosa abrió apenas empezado el complemento, pero empató Matheus Pereira de tiro libre y Khellven la metió en contra. El Flaco López y Jhon Arias entraron desde el banco.",
+        "en": "Cruzeiro came from behind to win 2-1 in the second half: Ramón Sosa scored straight after the restart, but Matheus Pereira levelled from a free kick and Khellven turned in an own goal. Flaco López and Jhon Arias came off the bench.",
+        "pt": "O Cruzeiro virou para 2 a 1 no segundo tempo: Ramón Sosa abriu o placar logo no começo da etapa final, mas Matheus Pereira empatou de falta e Khellven fez contra. Flaco López e Jhon Arias entraram no decorrer do jogo.",
+        "zh": "Cruzeiro在下半场以2比1逆转：Ramón Sosa在下半场开场后不久首开纪录，但Matheus Pereira任意球扳平，Khellven随后自摆乌龙。Flaco López和Jhon Arias替补登场。",
+        "hi": "Cruzeiro ने दूसरे हाफ़ में पिछड़ने के बाद 2-1 से जीत दर्ज की: Ramón Sosa ने दूसरे हाफ़ की शुरुआत में गोल किया, लेकिन Matheus Pereira ने फ़्री-किक से बराबरी की और Khellven ने आत्मघाती गोल कर दिया। Flaco López और Jhon Arias बेंच से उतरे।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "El sábado, Palmeiras-Flamengo",
+        "en": "Palmeiras v Flamengo on Saturday",
+        "pt": "No sábado, Palmeiras x Flamengo",
+        "zh": "周六：Palmeiras对阵Flamengo",
+        "hi": "शनिवार को Palmeiras बनाम Flamengo"
+      },
+      "texto": {
+        "es": "Una semana antes de la final, Palmeiras recibe al líder el sábado 21 a las 16.30 en el Nubank Parque, por la fecha 36 del Brasileirão. Está seis puntos abajo a falta de dos fechas: si gana Flamengo, es campeón. El 6 de diciembre, además, juega la final de la Copa do Brasil.",
+        "en": "A week before the final, Palmeiras host the leaders on Saturday 21st at 16:30 at the Nubank Parque, on matchday 36 of the Brasileirão. They are six points behind with two rounds left: a Flamengo win seals the title. On 6 December they also play the Copa do Brasil final.",
+        "pt": "Uma semana antes da final, o Palmeiras recebe o líder no sábado, 21, às 16h30 (horário de Brasília), no Nubank Parque, pela 36ª rodada do Brasileirão. Está seis pontos atrás com duas rodadas por jogar: se o Flamengo vencer, é campeão. Em 6 de dezembro, ainda decide a final da Copa do Brasil.",
+        "zh": "决赛前一周，Palmeiras将于21日周六16:30在Nubank Parque主场迎战领头羊，进行巴甲第36轮比赛。目前落后6分、还剩两轮：Flamengo若取胜即提前夺冠。12月6日，Palmeiras还要踢巴西杯决赛。",
+        "hi": "फ़ाइनल से एक हफ़्ता पहले Palmeiras शनिवार 21 तारीख़ को 16:30 बजे Nubank Parque में लीग के शीर्ष क्लब से भिड़ेगा, ब्राज़ीलियाई लीग के राउंड 36 में। दो राउंड बाक़ी रहते वह छह अंक पीछे है: Flamengo जीता तो चैंपियन। 6 दिसंबर को Palmeiras Copa do Brasil का फ़ाइनल भी खेलेगा।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Correa, en duda para la final",
+        "en": "Correa a doubt for the final",
+        "pt": "Correa, dúvida para a final",
+        "zh": "Correa决赛出战成疑",
+        "hi": "फ़ाइनल के लिए Correa पर संशय"
+      },
+      "texto": {
+        "es": "Sigue el tratamiento por el desgarro grado 2 en el bíceps femoral derecho y todavía no hay parte médico definitivo. El cuerpo técnico lo ve como una alternativa importante en ataque, pero su presencia en el Centenario no está asegurada.",
+        "en": "He is still being treated for a grade 2 tear in his right hamstring and there is no definitive medical update yet. The coaching staff see him as an important attacking option, but his involvement at the Centenario is not guaranteed.",
+        "pt": "Segue o tratamento da lesão grau 2 no bíceps femoral direito e ainda não há boletim médico definitivo. A comissão técnica o vê como uma alternativa importante no ataque, mas sua presença no Centenario não está garantida.",
+        "zh": "他仍在治疗右腿股二头肌二级拉伤，目前尚无最终伤情报告。教练组视他为重要的进攻选择，但能否在Centenario球场出场仍不确定。",
+        "hi": "दाएँ पैर की हैमस्ट्रिंग में ग्रेड 2 खिंचाव का इलाज जारी है और अभी कोई अंतिम मेडिकल अपडेट नहीं आया है। कोचिंग स्टाफ़ उन्हें आक्रमण का अहम विकल्प मानता है, लेकिन Centenario में उनका खेलना तय नहीं है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Rojo, Palacios y Mancuso, a la par del grupo",
+        "en": "Rojo, Palacios and Mancuso back with the group",
+        "pt": "Rojo, Palacios e Mancuso de volta ao grupo",
+        "zh": "Rojo、Palacios和Mancuso已随队合练",
+        "hi": "Rojo, Palacios और Mancuso टीम के साथ"
+      },
+      "texto": {
+        "es": "Marcos Rojo, Tomás Palacios y Eros Mancuso arrancaron la semana con trabajos en el gimnasio, pero ya se entrenan con normalidad junto al resto del plantel.",
+        "en": "Marcos Rojo, Tomás Palacios and Eros Mancuso started the week with gym work but are now training normally with the rest of the squad.",
+        "pt": "Marcos Rojo, Tomás Palacios e Eros Mancuso começaram a semana com trabalhos na academia, mas já treinam normalmente com o restante do elenco.",
+        "zh": "Marcos Rojo、Tomás Palacios和Eros Mancuso本周初在健身房训练，目前已与全队正常合练。",
+        "hi": "Marcos Rojo, Tomás Palacios और Eros Mancuso ने हफ़्ते की शुरुआत जिम में की, लेकिन अब बाक़ी टीम के साथ सामान्य रूप से अभ्यास कर रहे हैं।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "La hoja de ruta hasta el Centenario",
+        "en": "The road map to the Centenario",
+        "pt": "O roteiro até o Centenario",
+        "zh": "前往Centenario的行程",
+        "hi": "Centenario तक का कार्यक्रम"
+      },
+      "texto": {
+        "es": "Hoy hay práctica y asado en City Bell. El plantel se entrena ahí hasta el miércoles 25 (el domingo es libre) y esa tarde viaja a Montevideo, donde parará en el Hilton; el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "en": "Today there is training and a squad barbecue at City Bell. The players train there until Wednesday 25th (Sunday is a day off) and fly to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's facilities.",
+        "pt": "Hoje tem treino e churrasco em City Bell. O elenco treina lá até quarta-feira, 25 (domingo é folga), e viaja à tarde para Montevidéu, onde fica no Hilton; na quinta e na sexta treina no CT do Montevideo City Torque.",
+        "zh": "今天球队在City Bell训练并举行烧烤聚餐。全队将在那里训练至25日周三（周日休息），当天下午飞赴蒙得维的亚，入住Hilton酒店；周四和周五在Montevideo City Torque的训练基地训练。",
+        "hi": "आज City Bell में अभ्यास और टीम का बारबेक्यू है। खिलाड़ी बुधवार 25 तारीख़ तक वहीं अभ्यास करेंगे (रविवार छुट्टी), उसी दोपहर मोंटेवीडियो रवाना होंगे और Hilton में ठहरेंगे; गुरुवार और शुक्रवार को Montevideo City Torque के मैदान पर अभ्यास होगा।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Sin Baltasar, Medina piensa en una línea de cinco",
+        "en": "Without Baltasar, Medina weighs a back five",
+        "pt": "Sem Baltasar, Medina pensa em linha de cinco",
+        "zh": "Baltasar停赛，Medina考虑五后卫",
+        "hi": "Baltasar के बिना, Medina पाँच डिफ़ेंडरों पर विचार कर रहे हैं"
+      },
+      "texto": {
+        "es": "Baltasar Rodríguez, expulsado ante Flamengo en el Maracaná, no podrá jugar la final. Según El Día, el Cacique analiza poner cinco defensores en el Centenario para frenar las subidas de los laterales de Palmeiras.",
+        "en": "Baltasar Rodríguez, sent off against Flamengo at the Maracanã, will miss the final. According to El Día, the coach is considering five defenders at the Centenario to stop Palmeiras' full-backs getting forward.",
+        "pt": "Baltasar Rodríguez, expulso contra o Flamengo no Maracanã, está fora da final. Segundo o El Día, o técnico avalia escalar cinco defensores no Centenario para frear o apoio dos laterais do Palmeiras.",
+        "zh": "在马拉卡纳对阵弗拉门戈时被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，主帅正考虑在Centenario排出五名后卫，以遏制帕尔梅拉斯边后卫的插上。",
+        "hi": "Maracanã में Flamengo के ख़िलाफ़ रेड कार्ड पाने वाले Baltasar Rodríguez फ़ाइनल नहीं खेल पाएँगे। El Día के अनुसार कोच Centenario में पाँच डिफ़ेंडर उतारने पर विचार कर रहे हैं ताकि Palmeiras के फ़ुल-बैक आगे न बढ़ सकें।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Unos 35 mil pinchas, rumbo a Montevideo",
+        "en": "Around 35,000 Pincha fans head for Montevideo",
+        "pt": "Cerca de 35 mil torcedores rumo a Montevidéu",
+        "zh": "约3.5万名Pincha球迷奔赴蒙得维的亚",
+        "hi": "करीब 35 हज़ार Pincha प्रशंसक मोंटेवीडियो की ओर"
+      },
+      "texto": {
+        "es": "Viajan 120 micros: 60 del club, que salen el viernes por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club.",
+        "en": "120 coaches are going: 60 laid on by the club, leaving the UNO on Friday afternoon, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario.",
+        "pt": "Viajam 120 ônibus: 60 do clube, que saem na sexta à tarde do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario.",
+        "zh": "共有120辆大巴出发：60辆由俱乐部组织，周五下午从el UNO出发，另60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。",
+        "hi": "120 बसें जा रही हैं: 60 क्लब की, जो शुक्रवार दोपहर el UNO से निकलेंगी, और 60 प्रशंसक समूहों और शाखाओं की। शुक्रवार और शनिवार की नावें बिक चुकी हैं, और क्लब के आमंत्रित 2009 के चैंपियन भी Centenario में होंगे।"
+      }
+    }
+  ],
+  "foto": {
+    "id": "2026-10-09_algunos-si-otros-no_1",
+    "alt": {
+      "es": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell.",
+      "en": "Coaching staff give instructions to two players during a training session at City Bell.",
+      "pt": "A comissão técnica orienta dois jogadores durante um treino em City Bell.",
+      "zh": "教练组在City Bell训练中向两名球员布置战术。",
+      "hi": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
+    }
+  },
+  "linea": []
+}

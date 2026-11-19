@@ -1,6 +1,6 @@
 {
   "_info": "Memoria de bajas entre corridas: suspensiones, lesiones y altas del plantel y del rival que viene. No se publica: lo usan la cobertura (alertas) y el build (que las Siete no contradigan esto). Ver ACTUALIZAR.md › Verificación.",
-  "actualizado": "2026-11-18T01:00:00-03:00",
+  "actualizado": "2026-11-19T00:07:00-03:00",
   "bajas": [
     {
       "jugador": "Baltasar Rodríguez",
@@ -27,11 +27,12 @@
       "equipo": "Estudiantes",
       "estado": "en duda",
       "motivo": "lesión",
-      "detalle": "Desgarro grado 2 en el bíceps femoral de la pierna derecha; trabaja aparte del grupo.",
+      "detalle": "Desgarro grado 2 en el bíceps femoral de la pierna derecha; sigue el tratamiento, sin parte médico definitivo (18/11).",
       "hasta": "Sin alta médica confirmada",
       "fuentes": [
         "https://www.0221.com.ar/estudiantes/joaquin-correa-trabaja-contrarreloj-estudiantes-la-ilusion-llegar-la-final-la-copa-libertadores-n137490",
-        "https://www.eldia.com/deportes/correa-acelera-su-puesta-a-punto-para-la-gran-final-deportes_1794733130"
+        "https://www.eldia.com/deportes/correa-acelera-su-puesta-a-punto-para-la-gran-final-deportes_1794733130",
+        "https://www.0221.com.ar/estudiantes/la-agenda-definitiva-estudiantes-la-final-la-copa-libertadores-n137680"
       ]
     },
     {
