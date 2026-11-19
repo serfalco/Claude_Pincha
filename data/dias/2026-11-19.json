@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-19",
   "titular": {
-    "es": "Abel dio por perdido el Brasileirão y Palmeiras apunta a las copas; el Pincha sigue en City Bell",
-    "en": "Abel concedes the Brasileirão as Palmeiras turn to the cups; the Pincha keep working at City Bell",
-    "pt": "Abel dá o Brasileirão como perdido e o Palmeiras mira as copas; o Pincha segue em City Bell",
-    "zh": "阿贝尔承认巴甲夺冠无望，帕尔梅拉斯转战杯赛；Pincha继续在City Bell备战",
-    "hi": "Abel ने ब्रासीलीराओ ख़िताब छोड़ा, Palmeiras का ध्यान अब कप पर; Pincha का City Bell में अभ्यास जारी"
+    "es": "Palmeiras guardaría a sus titulares ante Flamengo para llegar entero a la final",
+    "en": "Palmeiras set to rest their starters against Flamengo to arrive fresh for the final",
+    "pt": "Palmeiras deve poupar os titulares contra o Flamengo para chegar inteiro à final",
+    "zh": "帕尔梅拉斯或将对弗拉门戈轮换主力，以最佳状态迎战决赛",
+    "hi": "फ़ाइनल के लिए तरोताज़ा रहने को Palmeiras, Flamengo के ख़िलाफ़ मुख्य खिलाड़ियों को आराम दे सकता है"
   },
   "resumen": {
-    "es": "Tras perder 2-1 con Cruzeiro, Abel Ferreira dijo que el título del Brasileirão \"está entregado\" y se quejó de tener solo tres días para preparar la final. Estudiantes se entrena en City Bell hasta el miércoles 25, cuando viaja a Montevideo, y Correa sigue sin parte médico definitivo.",
-    "en": "After losing 2-1 to Cruzeiro, Abel Ferreira said the Brasileirão title \"has been handed over\" and complained of having only three days to prepare for the final. Estudiantes train at City Bell until Wednesday 25th, when they fly to Montevideo, and there is still no definitive medical update on Correa.",
-    "pt": "Depois de perder por 2 a 1 para o Cruzeiro, Abel Ferreira disse que o título do Brasileirão \"está entregue\" e reclamou de ter apenas três dias para preparar a final. O Estudiantes treina em City Bell até quarta-feira, 25, quando viaja a Montevidéu, e Correa segue sem boletim médico definitivo.",
-    "zh": "帕尔梅拉斯1比2负于克鲁塞罗后，主帅Abel Ferreira表示巴甲冠军\"已经拱手相让\"，并抱怨只有三天时间准备决赛。Estudiantes将在City Bell训练至25日周三，当天飞赴蒙得维的亚；Correa仍未有最终伤情报告。",
-    "hi": "Cruzeiro से 2-1 की हार के बाद Abel Ferreira ने कहा कि ब्रासीलीराओ का ख़िताब \"हाथ से जा चुका है\" और शिकायत की कि फ़ाइनल की तैयारी के लिए सिर्फ़ तीन दिन मिलेंगे। Estudiantes बुधवार 25 तक City Bell में अभ्यास करेगा, उसी दिन Montevideo रवाना होगा, और Correa पर अब भी अंतिम मेडिकल रिपोर्ट नहीं आई है।"
+    "es": "Después de dar por perdido el Brasileirão, Abel Ferreira pondría un equipo alternativo el sábado ante Flamengo para cuidar a los titulares de cara al Centenario. Estudiantes sigue en City Bell hasta el miércoles 25, Correa continúa en recuperación y la Conmebol anunció el primer show de entretiempo en una final.",
+    "en": "Having conceded the Brasileirão, Abel Ferreira is expected to field a second-string side against Flamengo on Saturday to protect his starters ahead of the Centenario. Estudiantes stay in City Bell until Wednesday 25th, Correa continues his recovery and CONMEBOL announced the first-ever half-time show at a final.",
+    "pt": "Depois de dar o Brasileirão como perdido, Abel Ferreira deve escalar um time alternativo no sábado contra o Flamengo para preservar os titulares visando o Centenario. O Estudiantes segue em City Bell até a quarta-feira, dia 25, Correa continua em recuperação e a Conmebol anunciou o primeiro show de intervalo em uma final.",
+    "zh": "在宣布放弃巴甲争冠后，Abel Ferreira 预计将在周六对阵 Flamengo 时派出替补阵容，为 Centenario 决赛保护主力。Estudiantes 将在 City Bell 训练至 25 日周三，Correa 仍在康复中，南美足联宣布决赛首次设立中场表演。",
+    "hi": "ब्राज़ीलियाई लीग का ख़िताब हाथ से जाने की बात मानने के बाद Abel Ferreira शनिवार को Flamengo के ख़िलाफ़ वैकल्पिक टीम उतार सकते हैं, ताकि Centenario से पहले मुख्य खिलाड़ी सुरक्षित रहें। Estudiantes बुधवार 25 तारीख़ तक City Bell में रहेगा, Correa की रिकवरी जारी है और CONMEBOL ने किसी फ़ाइनल में पहली बार हाफ़-टाइम शो की घोषणा की है।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -40,34 +40,18 @@
   "siete": [
     {
       "titulo": {
-        "es": "Abel: \"El título está entregado\"",
-        "en": "Abel: \"The title has been handed over\"",
-        "pt": "Abel: \"O título está entregue\"",
-        "zh": "阿贝尔：\"冠军已经拱手相让\"",
-        "hi": "Abel: \"ख़िताब हाथ से जा चुका है\""
+        "es": "Palmeiras, con suplentes ante Flamengo",
+        "en": "Palmeiras to field reserves against Flamengo",
+        "pt": "Palmeiras com reservas contra o Flamengo",
+        "zh": "帕尔梅拉斯将派替补迎战弗拉门戈",
+        "hi": "Flamengo के ख़िलाफ़ Palmeiras की रिज़र्व टीम"
       },
       "texto": {
-        "es": "Después del 2-1 en el Mineirão, el DT de Palmeiras dio por perdido el Brasileirão y felicitó a Flamengo. No tuvo a Gustavo Gómez ni a Maurício (llegaron tarde de Paraguay) y sigue con Murilo, Jefté, Paulinho y Piquerez lesionados.",
-        "en": "After the 2-1 defeat at the Mineirão, the Palmeiras coach conceded the Brasileirão and congratulated Flamengo. He was without Gustavo Gómez and Maurício (back late from Paraguay duty) and still has Murilo, Jefté, Paulinho and Piquerez injured.",
-        "pt": "Depois do 2 a 1 no Mineirão, o técnico do Palmeiras deu o Brasileirão como perdido e parabenizou o Flamengo. Não teve Gustavo Gómez nem Maurício (chegaram tarde do Paraguai) e segue com Murilo, Jefté, Paulinho e Piquerez lesionados.",
-        "zh": "在Mineirão球场1比2落败后，帕尔梅拉斯主帅承认巴甲夺冠无望，并祝贺Flamengo。Gustavo Gómez和Maurício因从巴拉圭国家队晚归缺阵，Murilo、Jefté、Paulinho和Piquerez仍然伤停。",
-        "hi": "Mineirão में 2-1 की हार के बाद Palmeiras के कोच ने ब्रासीलीराओ ख़िताब की उम्मीद छोड़ दी और Flamengo को बधाई दी। Gustavo Gómez और Maurício (Paraguay से देर से लौटे) नहीं खेले, और Murilo, Jefté, Paulinho व Piquerez अब भी चोटिल हैं।"
-      }
-    },
-    {
-      "titulo": {
-        "es": "Tres partidos en una semana para Palmeiras",
-        "en": "Three matches in a week for Palmeiras",
-        "pt": "Três jogos em uma semana para o Palmeiras",
-        "zh": "帕尔梅拉斯一周三赛",
-        "hi": "Palmeiras के एक हफ़्ते में तीन मैच"
-      },
-      "texto": {
-        "es": "El sábado 21 recibe a Flamengo, que puede ser campeón, y el martes 24 visita a Chapecoense en Chapecó a las 18. Abel se quejó: le quedan solo tres días para preparar la final del Centenario.",
-        "en": "On Saturday 21st they host Flamengo, who can clinch the title, and on Tuesday 24th they visit Chapecoense in Chapecó at 18:00. Abel complained he will have just three days to prepare for the final at the Centenario.",
-        "pt": "No sábado, 21, recebe o Flamengo, que pode ser campeão, e na terça, 24, visita a Chapecoense em Chapecó, às 18h. Abel reclamou: terá apenas três dias para preparar a final no Centenario.",
-        "zh": "21日周六主场迎战有望提前夺冠的Flamengo，24日周二18:00客场挑战Chapecoense。Abel抱怨只剩三天时间准备Centenario的决赛。",
-        "hi": "शनिवार 21 को वह Flamengo की मेज़बानी करेगा, जो चैंपियन बन सकता है, और मंगलवार 24 को शाम 18:00 बजे Chapecó में Chapecoense से भिड़ेगा। Abel ने शिकायत की कि Centenario के फ़ाइनल की तैयारी के लिए सिर्फ़ तीन दिन बचेंगे।"
+        "es": "En Brasil dan por hecho que Abel guardará a los titulares el sábado ante Flamengo, que puede ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final.",
+        "en": "The Brazilian press takes it as read that Abel will rest his starters on Saturday against Flamengo, who can clinch the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final.",
+        "pt": "No Brasil, dá-se como certo que Abel vai poupar os titulares no sábado contra o Flamengo, que pode ser campeão do Brasileirão. Na terça, dia 24, o Palmeiras visita a Chapecoense às 18h e depois terá três dias até a final.",
+        "zh": "巴西媒体普遍认为，Abel 周六对阵可能提前夺得巴甲冠军的 Flamengo 时将轮换主力。24 日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。",
+        "hi": "ब्राज़ीली मीडिया मान रहा है कि Abel शनिवार को Flamengo के ख़िलाफ़ मुख्य खिलाड़ियों को आराम देंगे; Flamengo उस दिन ब्राज़ीलियाई लीग जीत सकता है। मंगलवार 24 तारीख़ को Palmeiras 18:00 बजे Chapecoense से उसके मैदान पर खेलेगा और उसके बाद फ़ाइनल के लिए सिर्फ़ तीन दिन बचेंगे।"
       }
     },
     {
@@ -88,18 +72,18 @@
     },
     {
       "titulo": {
-        "es": "Rojo, Palacios y Mancuso, a la par del grupo",
-        "en": "Rojo, Palacios and Mancuso back with the group",
-        "pt": "Rojo, Palacios e Mancuso de volta ao grupo",
-        "zh": "Rojo、Palacios和Mancuso已随队合练",
-        "hi": "Rojo, Palacios और Mancuso टीम के साथ"
+        "es": "Habrá show en el entretiempo de la final",
+        "en": "A half-time show at the final",
+        "pt": "Vai ter show no intervalo da final",
+        "zh": "决赛将有中场表演",
+        "hi": "फ़ाइनल में होगा हाफ़-टाइम शो"
       },
       "texto": {
-        "es": "Marcos Rojo, Tomás Palacios y Eros Mancuso arrancaron la semana con trabajos en el gimnasio, pero ya se entrenan con normalidad junto al resto del plantel.",
-        "en": "Marcos Rojo, Tomás Palacios and Eros Mancuso started the week with gym work but are now training normally with the rest of the squad.",
-        "pt": "Marcos Rojo, Tomás Palacios e Eros Mancuso começaram a semana com trabalhos na academia, mas já treinam normalmente com o restante do elenco.",
-        "zh": "Marcos Rojo、Tomás Palacios和Eros Mancuso本周初在健身房训练，目前已与全队正常合练。",
-        "hi": "Marcos Rojo, Tomás Palacios और Eros Mancuso ने हफ़्ते की शुरुआत जिम में की, लेकिन अब बाक़ी टीम के साथ सामान्य रूप से अभ्यास कर रहे हैं।"
+        "es": "Por primera vez, la final de la Libertadores tendrá un espectáculo en el entretiempo, según anunció la Conmebol. El artista todavía no fue confirmado.",
+        "en": "For the first time, the Copa Libertadores final will have a half-time show, CONMEBOL announced. The artist has not been confirmed yet.",
+        "pt": "Pela primeira vez, a final da Libertadores terá um espetáculo no intervalo, anunciou a Conmebol. O artista ainda não foi confirmado.",
+        "zh": "南美足联宣布，解放者杯决赛将首次在中场休息时举行表演。表演嘉宾尚未确定。",
+        "hi": "CONMEBOL ने घोषणा की है कि पहली बार Copa Libertadores फ़ाइनल में हाफ़-टाइम शो होगा। कलाकार का नाम अभी तय नहीं हुआ है।"
       }
     },
     {
@@ -111,11 +95,11 @@
         "hi": "Centenario तक का कार्यक्रम"
       },
       "texto": {
-        "es": "Hoy hay práctica y asado en City Bell. El plantel se entrena ahí hasta el miércoles 25 (el domingo es libre) y esa tarde viaja a Montevideo, donde parará en el Hilton; el jueves y el viernes practicará en el predio de Montevideo City Torque.",
-        "en": "Today there is training and a squad barbecue at City Bell. The players train there until Wednesday 25th (Sunday is a day off) and fly to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's facilities.",
-        "pt": "Hoje tem treino e churrasco em City Bell. O elenco treina lá até quarta-feira, 25 (domingo é folga), e viaja à tarde para Montevidéu, onde fica no Hilton; na quinta e na sexta treina no CT do Montevideo City Torque.",
-        "zh": "今天球队在City Bell训练并举行烧烤聚餐。全队将在那里训练至25日周三（周日休息），当天下午飞赴蒙得维的亚，入住Hilton酒店；周四和周五在Montevideo City Torque的训练基地训练。",
-        "hi": "आज City Bell में अभ्यास और टीम का बारबेक्यू है। खिलाड़ी बुधवार 25 तारीख़ तक वहीं अभ्यास करेंगे (रविवार छुट्टी), उसी दोपहर मोंटेवीडियो रवाना होंगे और Hilton में ठहरेंगे; गुरुवार और शुक्रवार को Montevideo City Torque के मैदान पर अभ्यास होगा।"
+        "es": "Este jueves hubo práctica y asado en City Bell. El plantel se entrena ahí hasta el miércoles 25 (el domingo es libre) y esa tarde viaja a Montevideo, donde parará en el Hilton; el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "en": "On Thursday the squad trained and shared an asado in City Bell. They train there until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground.",
+        "pt": "Nesta quinta teve treino e churrasco em City Bell. O elenco treina lá até a quarta-feira, dia 25 (o domingo é de folga), e à tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque.",
+        "zh": "本周四球队在 City Bell 进行了训练并举行烤肉聚餐。全队将在那里训练至 25 日周三（周日休息），当天下午前往蒙得维的亚，入住 Hilton 酒店；周四和周五将在 Montevideo City Torque 的训练基地训练。",
+        "hi": "गुरुवार को City Bell में अभ्यास और असाडो हुआ। टीम बुधवार 25 तारीख़ तक वहीं अभ्यास करेगी (रविवार को छुट्टी) और उसी दोपहर Montevideo रवाना होगी, जहाँ Hilton में ठहरेगी; गुरुवार और शुक्रवार को Montevideo City Torque के ट्रेनिंग ग्राउंड पर अभ्यास होगा।"
       }
     },
     {
@@ -149,6 +133,22 @@
         "zh": "共有120辆大巴出发：60辆由俱乐部组织，周五下午从el UNO出发，另60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。",
         "hi": "120 बसें जा रही हैं: 60 क्लब की, जो शुक्रवार दोपहर el UNO से निकलेंगी, और 60 प्रशंसक समूहों और शाखाओं की। शुक्रवार और शनिवार की नावें बिक चुकी हैं, और क्लब के आमंत्रित 2009 के चैंपियन भी Centenario में होंगे।"
       }
+    },
+    {
+      "titulo": {
+        "es": "Carrillo, protagonista del video de la Conmebol",
+        "en": "Carrillo stars in CONMEBOL's video",
+        "pt": "Carrillo, protagonista do vídeo da Conmebol",
+        "zh": "Carrillo 成为南美足联宣传片主角",
+        "hi": "CONMEBOL के वीडियो में Carrillo"
+      },
+      "texto": {
+        "es": "Para promocionar la final, la Conmebol armó un video al estilo GTA con un duelo entre Guido Carrillo y Gustavo Gómez, el capitán de Palmeiras.",
+        "en": "To promote the final, CONMEBOL released a GTA-style video featuring a duel between Guido Carrillo and Gustavo Gómez, the Palmeiras captain.",
+        "pt": "Para promover a final, a Conmebol fez um vídeo no estilo GTA com um duelo entre Guido Carrillo e Gustavo Gómez, capitão do Palmeiras.",
+        "zh": "为宣传决赛，南美足联推出了一段 GTA 风格的视频，主角是 Guido Carrillo 与 Palmeiras 队长 Gustavo Gómez 的对决。",
+        "hi": "फ़ाइनल के प्रचार के लिए CONMEBOL ने GTA शैली का एक वीडियो जारी किया, जिसमें Guido Carrillo और Palmeiras के कप्तान Gustavo Gómez का मुक़ाबला दिखाया गया है।"
+      }
     }
   ],
   "foto": {
@@ -161,5 +161,78 @@
       "hi": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
     }
   },
-  "linea": []
+  "linea": [
+    {
+      "hora": "2026-11-19T16:43:00-03:00",
+      "fuente": "El Día",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR3FXWUtWOFVETmNSQXk2Y21ra29NeXdrbXUxOFpsMWpPTjBtbWNWMkhDbXp0Y0dkSkVEQjZyYi1RR2JUOUxxV09palNYQl96OWhZc0RXQ2tCR2czeXBjQzhOSURuUWdaeWV6TEU5UlFCVXFxVWI1cEdYOEVGZ0FzeTRXd0lXbkoybEg4Y2l0ZW93eU40THJkRnJUMXFBREFhNV9MQXpJT3RLSVZwVVZ0QkFTUml4bGFKUnBMTWpiU1UwV0ZHdVlZdTNoWE9ZLVhCMUJHeXdTY2FEZGxRWFBCdEtFano0c0hFMHhqR3ItNGw?oc=5",
+      "texto": {
+        "es": "El DT de Palmeiras se bajó del Brasileirão y pone toda la energía en la final con el Pincha.",
+        "en": "Palmeiras's coach has given up on the Brasileirão and puts all his energy into the final against the Pincha.",
+        "pt": "O técnico do Palmeiras desistiu do Brasileirão e coloca toda a energia na final contra o Pincha.",
+        "zh": "Palmeiras 主帅放弃巴甲，全力备战与 Pincha 的决赛。",
+        "hi": "Palmeiras के कोच ने ब्राज़ीलियाई लीग से उम्मीद छोड़ी, पूरा ध्यान Pincha के ख़िलाफ़ फ़ाइनल पर।"
+      }
+    },
+    {
+      "hora": "2026-11-19T16:24:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://www.infocielo.com/deportes/abel-ferreira-se-bajo-del-brasileirao-y-puso-la-final-con-estudiantes-como-prioridad-va-con-suplentes-ante-el-fla",
+      "texto": {
+        "es": "¿Suplentes ante Flamengo? Lo que dijo Abel tras priorizar la final con Estudiantes.",
+        "en": "Reserves against Flamengo? What Abel said after making the Estudiantes final his priority.",
+        "pt": "Reservas contra o Flamengo? O que disse Abel depois de priorizar a final com o Estudiantes.",
+        "zh": "对 Flamengo 派替补？Abel 在把与 Estudiantes 的决赛列为首要目标后如此表示。",
+        "hi": "Flamengo के ख़िलाफ़ रिज़र्व? Estudiantes के साथ फ़ाइनल को प्राथमिकता देने के बाद Abel ने क्या कहा।"
+      }
+    },
+    {
+      "hora": "2026-11-19T15:55:00-03:00",
+      "fuente": "DSports",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZVRzZEF4T3RxdTlhVi1xQ2RFSWZ3OFZuQ0pNVjQ3X0JFZXJKOVlyMDVULVFVTTRZRXRKVVJQYzV4aEo2dy03QWs0TGhDdjJxRWdETzZKeXNyNVFWaW44RUc0S3IzME1uVkJSTy13RC1mTUt2blJ3WFlJQUJUV2w3U2U2NlZZTU9KQzhzdFJxbjJXblk5WVdfWURsSnFTLXUtSTNhTFkxNXNULXV5WERXZG5IWnBmc1FNTjBsTjFSRk1PcWpHQVdJdmRnU1NsQ1RkNTlmU1BhMWo1NVZsWTEzLVlScGJYT2NseERoSE1fbFpBLUR1VHNUeDdR0gH_AUFVX3lxTFB1Vlhqa2tPbGFCRFRkUFJLY1pLYmJKNWdlcTVIVlZTdTl5dl9TaFR4ZmI2OWN3TWliWlllWmFuUE5zZ1JyZXFQTnBteWhGRjFBWDhDRWxNVU1tMzIyTnJCVk5mbWNPUERWdlQ2MGY5c1RfQjVXaVRSeXBNQ3E0NlhhUk1LRWdLQnEtc05GenRfOXp6SzJNMEk1dHE0dXJ3SlExQThNSVFIUjN0alREb19nUmpDVVJBazFDdUZDc1R1c3pVck9LTXdFWUFuUF9HUFFCZE9sTDI0Sm5lNEZoZDYtdUZmcDFNYmFUcFM3UTI5YjJ6eTY2Q1hFV0NJRGxqcw?oc=5",
+      "texto": {
+        "es": "Gómez contra Carrillo: la Conmebol palpitó la final con un video al estilo GTA.",
+        "en": "Gómez vs Carrillo: CONMEBOL builds up to the final with a GTA-style video.",
+        "pt": "Gómez x Carrillo: a Conmebol esquenta a final com um vídeo no estilo GTA.",
+        "zh": "Gómez 对决 Carrillo：南美足联用 GTA 风格视频为决赛预热。",
+        "hi": "Gómez बनाम Carrillo: CONMEBOL ने GTA शैली के वीडियो से फ़ाइनल का माहौल बनाया।"
+      }
+    },
+    {
+      "hora": "2026-11-19T09:47:00-03:00",
+      "fuente": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2RIZDhzV054Rkw4bjBhUFFhS24zUWdKNTBEeFhXVjB1cGEweFBIeUE1Zy1PSTE4aTJzMDZwTGVNemp5TmNIV1J6N1dDdzZqLW1mR3R6b0llQ3A0Ym05enhhYnRxMmNsdnlQMVJGLUNKZ01OSHVlLWF3SHlVUFRIQnhVeDlTcHUxQWRkTDRhYkhxcEJxYXgxY2t6a1JYWDRpX3lOMjU4NDN1UW9EcklsamVJdExvYVZvWlphSA?oc=5",
+      "texto": {
+        "es": "Qué tiene Estudiantes para cortar la hegemonía brasileña en la Libertadores.",
+        "en": "What Estudiantes have to end Brazil's dominance of the Libertadores.",
+        "pt": "O que o Estudiantes tem para acabar com a hegemonia brasileira na Libertadores.",
+        "zh": "Estudiantes 凭什么终结巴西球队在解放者杯的统治。",
+        "hi": "Libertadores में ब्राज़ील का दबदबा ख़त्म करने के लिए Estudiantes के पास क्या है।"
+      }
+    },
+    {
+      "hora": "2026-11-19T00:00:00-03:00",
+      "fuente": "France 24",
+      "url": "https://www.france24.com/es/minuto-a-minuto/20261119-final-de-la-libertadores-tendr%C3%A1-show-de-entretiempo-por-primera-vez",
+      "texto": {
+        "es": "La final de la Libertadores tendrá show de entretiempo por primera vez.",
+        "en": "The Libertadores final will have a half-time show for the first time.",
+        "pt": "A final da Libertadores terá show no intervalo pela primeira vez.",
+        "zh": "解放者杯决赛将首次举行中场表演。",
+        "hi": "Libertadores फ़ाइनल में पहली बार हाफ़-टाइम शो होगा।"
+      }
+    },
+    {
+      "hora": "2026-11-19T00:00:00-03:00",
+      "fuente": "TV Sim Brasil",
+      "url": "https://tvsimbrasil.com.br/sp/sao-paulo/esportes/noticia/2026/11/19/palmeiras-escala-time-reserva-enfrentar-flamengo-sabado",
+      "texto": {
+        "es": "Palmeiras irá con un equipo suplente el sábado ante Flamengo.",
+        "en": "Palmeiras will field a reserve side against Flamengo on Saturday.",
+        "pt": "O Palmeiras vai com time reserva no sábado contra o Flamengo.",
+        "zh": "Palmeiras 周六将派替补阵容迎战 Flamengo。",
+        "hi": "Palmeiras शनिवार को Flamengo के ख़िलाफ़ रिज़र्व टीम उतारेगा।"
+      }
+    }
+  ]
 }

@@ -1,33 +1,29 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-19T08:07:00-03:00",
+  "actualizado": "2026-11-19T18:07:00-03:00",
   "hoy": {
-    "titular": "Abel dio por perdido el Brasileirão y Palmeiras apunta a las copas; el Pincha sigue en City Bell",
+    "titular": "Palmeiras guardaría a sus titulares ante Flamengo para llegar entero a la final",
     "foto": {
       "id": "2026-10-09_algunos-si-otros-no_1",
       "alt": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell."
     },
-    "resumen": "Tras perder 2-1 con Cruzeiro, Abel Ferreira dijo que el título del Brasileirão \"está entregado\" y se quejó de tener solo tres días para preparar la final. Estudiantes se entrena en City Bell hasta el miércoles 25, cuando viaja a Montevideo, y Correa sigue sin parte médico definitivo.",
+    "resumen": "Después de dar por perdido el Brasileirão, Abel Ferreira pondría un equipo alternativo el sábado ante Flamengo para cuidar a los titulares de cara al Centenario. Estudiantes sigue en City Bell hasta el miércoles 25, Correa continúa en recuperación y la Conmebol anunció el primer show de entretiempo en una final.",
     "siete": [
       {
-        "titulo": "Abel: \"El título está entregado\"",
-        "texto": "Después del 2-1 en el Mineirão, el DT de Palmeiras dio por perdido el Brasileirão y felicitó a Flamengo. No tuvo a Gustavo Gómez ni a Maurício (llegaron tarde de Paraguay) y sigue con Murilo, Jefté, Paulinho y Piquerez lesionados."
-      },
-      {
-        "titulo": "Tres partidos en una semana para Palmeiras",
-        "texto": "El sábado 21 recibe a Flamengo, que puede ser campeón, y el martes 24 visita a Chapecoense en Chapecó a las 18. Abel se quejó: le quedan solo tres días para preparar la final del Centenario."
+        "titulo": "Palmeiras, con suplentes ante Flamengo",
+        "texto": "En Brasil dan por hecho que Abel guardará a los titulares el sábado ante Flamengo, que puede ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final."
       },
       {
         "titulo": "Correa, en duda para la final",
         "texto": "Sigue el tratamiento por el desgarro grado 2 en el bíceps femoral derecho y todavía no hay parte médico definitivo. El cuerpo técnico lo ve como una alternativa importante en ataque, pero su presencia en el Centenario no está asegurada."
       },
       {
-        "titulo": "Rojo, Palacios y Mancuso, a la par del grupo",
-        "texto": "Marcos Rojo, Tomás Palacios y Eros Mancuso arrancaron la semana con trabajos en el gimnasio, pero ya se entrenan con normalidad junto al resto del plantel."
+        "titulo": "Habrá show en el entretiempo de la final",
+        "texto": "Por primera vez, la final de la Libertadores tendrá un espectáculo en el entretiempo, según anunció la Conmebol. El artista todavía no fue confirmado."
       },
       {
         "titulo": "La hoja de ruta hasta el Centenario",
-        "texto": "Hoy hay práctica y asado en City Bell. El plantel se entrena ahí hasta el miércoles 25 (el domingo es libre) y esa tarde viaja a Montevideo, donde parará en el Hilton; el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "texto": "Este jueves hubo práctica y asado en City Bell. El plantel se entrena ahí hasta el miércoles 25 (el domingo es libre) y esa tarde viaja a Montevideo, donde parará en el Hilton; el jueves y el viernes practicará en el predio de Montevideo City Torque.",
         "vence": "2026-11-25T23:59:00-03:00"
       },
       {
@@ -37,9 +33,49 @@
       {
         "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
         "texto": "Viajan 120 micros: 60 del club, que salen el viernes por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club."
+      },
+      {
+        "titulo": "Carrillo, protagonista del video de la Conmebol",
+        "texto": "Para promocionar la final, la Conmebol armó un video al estilo GTA con un duelo entre Guido Carrillo y Gustavo Gómez, el capitán de Palmeiras."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-19T16:43:00-03:00",
+        "fuente": "El Día",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR3FXWUtWOFVETmNSQXk2Y21ra29NeXdrbXUxOFpsMWpPTjBtbWNWMkhDbXp0Y0dkSkVEQjZyYi1RR2JUOUxxV09palNYQl96OWhZc0RXQ2tCR2czeXBjQzhOSURuUWdaeWV6TEU5UlFCVXFxVWI1cEdYOEVGZ0FzeTRXd0lXbkoybEg4Y2l0ZW93eU40THJkRnJUMXFBREFhNV9MQXpJT3RLSVZwVVZ0QkFTUml4bGFKUnBMTWpiU1UwV0ZHdVlZdTNoWE9ZLVhCMUJHeXdTY2FEZGxRWFBCdEtFano0c0hFMHhqR3ItNGw?oc=5",
+        "texto": "El DT de Palmeiras se bajó del Brasileirão y pone toda la energía en la final con el Pincha."
+      },
+      {
+        "hora": "2026-11-19T16:24:00-03:00",
+        "fuente": "Infocielo",
+        "url": "https://www.infocielo.com/deportes/abel-ferreira-se-bajo-del-brasileirao-y-puso-la-final-con-estudiantes-como-prioridad-va-con-suplentes-ante-el-fla",
+        "texto": "¿Suplentes ante Flamengo? Lo que dijo Abel tras priorizar la final con Estudiantes."
+      },
+      {
+        "hora": "2026-11-19T15:55:00-03:00",
+        "fuente": "DSports",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZVRzZEF4T3RxdTlhVi1xQ2RFSWZ3OFZuQ0pNVjQ3X0JFZXJKOVlyMDVULVFVTTRZRXRKVVJQYzV4aEo2dy03QWs0TGhDdjJxRWdETzZKeXNyNVFWaW44RUc0S3IzME1uVkJSTy13RC1mTUt2blJ3WFlJQUJUV2w3U2U2NlZZTU9KQzhzdFJxbjJXblk5WVdfWURsSnFTLXUtSTNhTFkxNXNULXV5WERXZG5IWnBmc1FNTjBsTjFSRk1PcWpHQVdJdmRnU1NsQ1RkNTlmU1BhMWo1NVZsWTEzLVlScGJYT2NseERoSE1fbFpBLUR1VHNUeDdR0gH_AUFVX3lxTFB1Vlhqa2tPbGFCRFRkUFJLY1pLYmJKNWdlcTVIVlZTdTl5dl9TaFR4ZmI2OWN3TWliWlllWmFuUE5zZ1JyZXFQTnBteWhGRjFBWDhDRWxNVU1tMzIyTnJCVk5mbWNPUERWdlQ2MGY5c1RfQjVXaVRSeXBNQ3E0NlhhUk1LRWdLQnEtc05GenRfOXp6SzJNMEk1dHE0dXJ3SlExQThNSVFIUjN0alREb19nUmpDVVJBazFDdUZDc1R1c3pVck9LTXdFWUFuUF9HUFFCZE9sTDI0Sm5lNEZoZDYtdUZmcDFNYmFUcFM3UTI5YjJ6eTY2Q1hFV0NJRGxqcw?oc=5",
+        "texto": "Gómez contra Carrillo: la Conmebol palpitó la final con un video al estilo GTA."
+      },
+      {
+        "hora": "2026-11-19T09:47:00-03:00",
+        "fuente": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2RIZDhzV054Rkw4bjBhUFFhS24zUWdKNTBEeFhXVjB1cGEweFBIeUE1Zy1PSTE4aTJzMDZwTGVNemp5TmNIV1J6N1dDdzZqLW1mR3R6b0llQ3A0Ym05enhhYnRxMmNsdnlQMVJGLUNKZ01OSHVlLWF3SHlVUFRIQnhVeDlTcHUxQWRkTDRhYkhxcEJxYXgxY2t6a1JYWDRpX3lOMjU4NDN1UW9EcklsamVJdExvYVZvWlphSA?oc=5",
+        "texto": "Qué tiene Estudiantes para cortar la hegemonía brasileña en la Libertadores."
+      },
+      {
+        "hora": "2026-11-19T00:00:00-03:00",
+        "fuente": "France 24",
+        "url": "https://www.france24.com/es/minuto-a-minuto/20261119-final-de-la-libertadores-tendr%C3%A1-show-de-entretiempo-por-primera-vez",
+        "texto": "La final de la Libertadores tendrá show de entretiempo por primera vez."
+      },
+      {
+        "hora": "2026-11-19T00:00:00-03:00",
+        "fuente": "TV Sim Brasil",
+        "url": "https://tvsimbrasil.com.br/sp/sao-paulo/esportes/noticia/2026/11/19/palmeiras-escala-time-reserva-enfrentar-flamengo-sabado",
+        "texto": "Palmeiras irá con un equipo suplente el sábado ante Flamengo."
+      },
       {
         "hora": "2026-11-18T23:31:00-03:00",
         "fuente": "Lance!",
@@ -87,42 +123,6 @@
         "fuente": "Portal do Palestra",
         "url": "https://portaldopalestra.com.br/abel-ferreira-calendario-tres-dias-final-libertadores-chapecoense/",
         "texto": "Abel reclamó por el calendario: Palmeiras juega en Chapecó el martes 24 y tendrá tres días para preparar la final."
-      },
-      {
-        "hora": "2026-11-17T18:16:00-03:00",
-        "fuente": "Punto Capital",
-        "url": "https://www.puntocapitalnoticias.com/estudiantes-presento-a-su-nuevo-dt-y-un-proyecto-para-el-futbol-femenino-hasta-2030",
-        "texto": "El fútbol femenino presentó a Mauro Silva como nuevo DT y un proyecto hasta 2030."
-      },
-      {
-        "hora": "2026-11-17T17:34:00-03:00",
-        "fuente": "Perfil",
-        "url": "https://442.perfil.com/noticias/futbol/estudiantes-vs-palmeiras-jesus-valenzuela-sera-el-arbitro-de-la-final-de-la-copa-libertadores-2026.phtml",
-        "texto": "Jesús Valenzuela será el árbitro de la final entre Estudiantes y Palmeiras en el Centenario."
-      },
-      {
-        "hora": "2026-11-17T15:52:00-03:00",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/atentos-pinchas-a-las-14-habilitan-la-venta-de-mas-plateas-para-la-final-hay-un-requisito-deportes_1794924729",
-        "texto": "Volaron en menos de una hora las 1.000 plateas extra para la final, entre caídas de la web y quejas."
-      },
-      {
-        "hora": "2026-11-17T15:30:00-03:00",
-        "fuente": "Diário Celeste",
-        "url": "https://www.diarioceleste.com.br/noticias-do-cruzeiro/palmeiras-fecha-preparacao-cruzeiro-desfalques-reforcos-2026/",
-        "texto": "Palmeiras cerró la preparación para visitar a Cruzeiro con cinco bajas, entre ellas Piquerez."
-      },
-      {
-        "hora": "2026-11-17T13:00:00-03:00",
-        "fuente": "Lance!",
-        "url": "https://www.lance.com.br/palmeiras/escalacao-palmeiras-encerra-preparacao-e-abel-busca-alternativas-sem-convocados.html",
-        "texto": "Palmeiras cerró la preparación para Cruzeiro sin sus convocados: Murilo y Jefté apuntan a la final."
-      },
-      {
-        "hora": "2026-11-17T11:29:00-03:00",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/conmebol-sorprende-una-nueva-venta-plateas-la-final-estudiantes-y-palmeiras-como-comprarlas-n137580",
-        "texto": "La Conmebol abrió una venta extra de plateas para la final, solo para clientes Mastercard del Banco Provincia."
       }
     ]
   },

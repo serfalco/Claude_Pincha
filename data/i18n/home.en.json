@@ -1,30 +1,26 @@
 {
   "hoy": {
-    "titular": "Abel concedes the Brasileirão as Palmeiras turn to the cups; the Pincha keep working at City Bell",
+    "titular": "Palmeiras set to rest their starters against Flamengo to arrive fresh for the final",
     "foto": {
       "alt": "Coaching staff give instructions to two players during a training session at City Bell."
     },
-    "resumen": "After losing 2-1 to Cruzeiro, Abel Ferreira said the Brasileirão title \"has been handed over\" and complained of having only three days to prepare for the final. Estudiantes train at City Bell until Wednesday 25th, when they fly to Montevideo, and there is still no definitive medical update on Correa.",
+    "resumen": "Having conceded the Brasileirão, Abel Ferreira is expected to field a second-string side against Flamengo on Saturday to protect his starters ahead of the Centenario. Estudiantes stay in City Bell until Wednesday 25th, Correa continues his recovery and CONMEBOL announced the first-ever half-time show at a final.",
     "siete": [
       {
-        "titulo": "Abel: \"The title has been handed over\"",
-        "texto": "After the 2-1 defeat at the Mineirão, the Palmeiras coach conceded the Brasileirão and congratulated Flamengo. He was without Gustavo Gómez and Maurício (back late from Paraguay duty) and still has Murilo, Jefté, Paulinho and Piquerez injured."
-      },
-      {
-        "titulo": "Three matches in a week for Palmeiras",
-        "texto": "On Saturday 21st they host Flamengo, who can clinch the title, and on Tuesday 24th they visit Chapecoense in Chapecó at 18:00. Abel complained he will have just three days to prepare for the final at the Centenario."
+        "titulo": "Palmeiras to field reserves against Flamengo",
+        "texto": "The Brazilian press takes it as read that Abel will rest his starters on Saturday against Flamengo, who can clinch the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final."
       },
       {
         "titulo": "Correa a doubt for the final",
         "texto": "He is still being treated for a grade 2 tear in his right hamstring and there is no definitive medical update yet. The coaching staff see him as an important attacking option, but his involvement at the Centenario is not guaranteed."
       },
       {
-        "titulo": "Rojo, Palacios and Mancuso back with the group",
-        "texto": "Marcos Rojo, Tomás Palacios and Eros Mancuso started the week with gym work but are now training normally with the rest of the squad."
+        "titulo": "A half-time show at the final",
+        "texto": "For the first time, the Copa Libertadores final will have a half-time show, CONMEBOL announced. The artist has not been confirmed yet."
       },
       {
         "titulo": "The road map to the Centenario",
-        "texto": "Today there is training and a squad barbecue at City Bell. The players train there until Wednesday 25th (Sunday is a day off) and fly to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's facilities."
+        "texto": "On Thursday the squad trained and shared an asado in City Bell. They train there until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground."
       },
       {
         "titulo": "Without Baltasar, Medina weighs a back five",
@@ -33,9 +29,31 @@
       {
         "titulo": "Around 35,000 Pincha fans head for Montevideo",
         "texto": "120 coaches are going: 60 laid on by the club, leaving the UNO on Friday afternoon, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario."
+      },
+      {
+        "titulo": "Carrillo stars in CONMEBOL's video",
+        "texto": "To promote the final, CONMEBOL released a GTA-style video featuring a duel between Guido Carrillo and Gustavo Gómez, the Palmeiras captain."
       }
     ],
     "linea": [
+      {
+        "texto": "Palmeiras's coach has given up on the Brasileirão and puts all his energy into the final against the Pincha."
+      },
+      {
+        "texto": "Reserves against Flamengo? What Abel said after making the Estudiantes final his priority."
+      },
+      {
+        "texto": "Gómez vs Carrillo: CONMEBOL builds up to the final with a GTA-style video."
+      },
+      {
+        "texto": "What Estudiantes have to end Brazil's dominance of the Libertadores."
+      },
+      {
+        "texto": "The Libertadores final will have a half-time show for the first time."
+      },
+      {
+        "texto": "Palmeiras will field a reserve side against Flamengo on Saturday."
+      },
       {
         "texto": "Abel Ferreira after the Cruzeiro defeat: \"The title has been handed over\"."
       },
@@ -59,24 +77,6 @@
       },
       {
         "texto": "Abel hit out at the fixture list: Palmeiras play in Chapecó on Tuesday 24th and will have three days to prepare for the final."
-      },
-      {
-        "texto": "The women's team unveiled Mauro Silva as new head coach and a project running to 2030."
-      },
-      {
-        "texto": "Jesús Valenzuela will referee the final between Estudiantes and Palmeiras at the Centenario."
-      },
-      {
-        "texto": "The 1,000 extra seats for the final sold out in under an hour, amid website crashes and complaints."
-      },
-      {
-        "texto": "Palmeiras wrapped up preparations for their trip to Cruzeiro with five absentees, Piquerez among them."
-      },
-      {
-        "texto": "Palmeiras wrapped up preparations for Cruzeiro without their internationals: Murilo and Jefté target the final."
-      },
-      {
-        "texto": "CONMEBOL opened an extra seat sale for the final, only for Banco Provincia Mastercard holders."
       }
     ]
   },

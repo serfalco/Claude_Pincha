@@ -1,30 +1,26 @@
 {
   "hoy": {
-    "titular": "阿贝尔承认巴甲夺冠无望，帕尔梅拉斯转战杯赛；Pincha继续在City Bell备战",
+    "titular": "帕尔梅拉斯或将对弗拉门戈轮换主力，以最佳状态迎战决赛",
     "foto": {
       "alt": "教练组在City Bell训练中向两名球员布置战术。"
     },
-    "resumen": "帕尔梅拉斯1比2负于克鲁塞罗后，主帅Abel Ferreira表示巴甲冠军\"已经拱手相让\"，并抱怨只有三天时间准备决赛。Estudiantes将在City Bell训练至25日周三，当天飞赴蒙得维的亚；Correa仍未有最终伤情报告。",
+    "resumen": "在宣布放弃巴甲争冠后，Abel Ferreira 预计将在周六对阵 Flamengo 时派出替补阵容，为 Centenario 决赛保护主力。Estudiantes 将在 City Bell 训练至 25 日周三，Correa 仍在康复中，南美足联宣布决赛首次设立中场表演。",
     "siete": [
       {
-        "titulo": "阿贝尔：\"冠军已经拱手相让\"",
-        "texto": "在Mineirão球场1比2落败后，帕尔梅拉斯主帅承认巴甲夺冠无望，并祝贺Flamengo。Gustavo Gómez和Maurício因从巴拉圭国家队晚归缺阵，Murilo、Jefté、Paulinho和Piquerez仍然伤停。"
-      },
-      {
-        "titulo": "帕尔梅拉斯一周三赛",
-        "texto": "21日周六主场迎战有望提前夺冠的Flamengo，24日周二18:00客场挑战Chapecoense。Abel抱怨只剩三天时间准备Centenario的决赛。"
+        "titulo": "帕尔梅拉斯将派替补迎战弗拉门戈",
+        "texto": "巴西媒体普遍认为，Abel 周六对阵可能提前夺得巴甲冠军的 Flamengo 时将轮换主力。24 日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。"
       },
       {
         "titulo": "Correa决赛出战成疑",
         "texto": "他仍在治疗右腿股二头肌二级拉伤，目前尚无最终伤情报告。教练组视他为重要的进攻选择，但能否在Centenario球场出场仍不确定。"
       },
       {
-        "titulo": "Rojo、Palacios和Mancuso已随队合练",
-        "texto": "Marcos Rojo、Tomás Palacios和Eros Mancuso本周初在健身房训练，目前已与全队正常合练。"
+        "titulo": "决赛将有中场表演",
+        "texto": "南美足联宣布，解放者杯决赛将首次在中场休息时举行表演。表演嘉宾尚未确定。"
       },
       {
         "titulo": "前往Centenario的行程",
-        "texto": "今天球队在City Bell训练并举行烧烤聚餐。全队将在那里训练至25日周三（周日休息），当天下午飞赴蒙得维的亚，入住Hilton酒店；周四和周五在Montevideo City Torque的训练基地训练。"
+        "texto": "本周四球队在 City Bell 进行了训练并举行烤肉聚餐。全队将在那里训练至 25 日周三（周日休息），当天下午前往蒙得维的亚，入住 Hilton 酒店；周四和周五将在 Montevideo City Torque 的训练基地训练。"
       },
       {
         "titulo": "Baltasar停赛，Medina考虑五后卫",
@@ -33,9 +29,31 @@
       {
         "titulo": "约3.5万名Pincha球迷奔赴蒙得维的亚",
         "texto": "共有120辆大巴出发：60辆由俱乐部组织，周五下午从el UNO出发，另60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。"
+      },
+      {
+        "titulo": "Carrillo 成为南美足联宣传片主角",
+        "texto": "为宣传决赛，南美足联推出了一段 GTA 风格的视频，主角是 Guido Carrillo 与 Palmeiras 队长 Gustavo Gómez 的对决。"
       }
     ],
     "linea": [
+      {
+        "texto": "Palmeiras 主帅放弃巴甲，全力备战与 Pincha 的决赛。"
+      },
+      {
+        "texto": "对 Flamengo 派替补？Abel 在把与 Estudiantes 的决赛列为首要目标后如此表示。"
+      },
+      {
+        "texto": "Gómez 对决 Carrillo：南美足联用 GTA 风格视频为决赛预热。"
+      },
+      {
+        "texto": "Estudiantes 凭什么终结巴西球队在解放者杯的统治。"
+      },
+      {
+        "texto": "解放者杯决赛将首次举行中场表演。"
+      },
+      {
+        "texto": "Palmeiras 周六将派替补阵容迎战 Flamengo。"
+      },
       {
         "texto": "Abel Ferreira在负于克鲁塞罗后表示：\"冠军已经拱手相让\"。"
       },
@@ -59,24 +77,6 @@
       },
       {
         "texto": "Abel抱怨赛程：帕尔梅拉斯24日周二客战Chapecó，只有三天时间准备决赛。"
-      },
-      {
-        "texto": "女足宣布Mauro Silva出任新主帅，并公布至2030年的发展计划。"
-      },
-      {
-        "texto": "Jesús Valenzuela将在Centenario执法Estudiantes与帕尔梅拉斯的决赛。"
-      },
-      {
-        "texto": "决赛1000张追加看台票不到一小时售罄，网站崩溃，球迷抱怨。"
-      },
-      {
-        "texto": "帕尔梅拉斯结束客场挑战Cruzeiro的备战，五人缺阵，其中包括Piquerez。"
-      },
-      {
-        "texto": "帕尔梅拉斯在国脚缺席下完成对Cruzeiro的备战，Murilo和Jefté瞄准决赛。"
-      },
-      {
-        "texto": "南美足联为决赛额外开售座位票，仅限Banco Provincia万事达卡持卡人。"
       }
     ]
   },
