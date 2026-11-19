@@ -1,18 +1,18 @@
 {
   "hoy": {
-    "titular": "帕尔梅拉斯不敌Cruzeiro，周六主场迎战Flamengo；Pincha在City Bell开启决赛前最后一周",
+    "titular": "阿贝尔承认巴甲夺冠无望，帕尔梅拉斯转战杯赛；Pincha继续在City Bell备战",
     "foto": {
       "alt": "教练组在City Bell训练中向两名球员布置战术。"
     },
-    "resumen": "Palmeiras在Mineirão球场1比2不敌Cruzeiro，周六将主场迎战有望提前夺得巴甲冠军的Flamengo。Estudiantes将在City Bell训练至25日周三，当天启程前往蒙得维的亚；Correa仍无最终伤情报告。",
+    "resumen": "帕尔梅拉斯1比2负于克鲁塞罗后，主帅Abel Ferreira表示巴甲冠军\"已经拱手相让\"，并抱怨只有三天时间准备决赛。Estudiantes将在City Bell训练至25日周三，当天飞赴蒙得维的亚；Correa仍未有最终伤情报告。",
     "siete": [
       {
-        "titulo": "Palmeiras客场失利",
-        "texto": "Cruzeiro在下半场以2比1逆转：Ramón Sosa在下半场开场后不久首开纪录，但Matheus Pereira任意球扳平，Khellven随后自摆乌龙。Flaco López和Jhon Arias替补登场。"
+        "titulo": "阿贝尔：\"冠军已经拱手相让\"",
+        "texto": "在Mineirão球场1比2落败后，帕尔梅拉斯主帅承认巴甲夺冠无望，并祝贺Flamengo。Gustavo Gómez和Maurício因从巴拉圭国家队晚归缺阵，Murilo、Jefté、Paulinho和Piquerez仍然伤停。"
       },
       {
-        "titulo": "周六：Palmeiras对阵Flamengo",
-        "texto": "决赛前一周，Palmeiras将于21日周六16:30在Nubank Parque主场迎战领头羊，进行巴甲第36轮比赛。目前落后6分、还剩两轮：Flamengo若取胜即提前夺冠。12月6日，Palmeiras还要踢巴西杯决赛。"
+        "titulo": "帕尔梅拉斯一周三赛",
+        "texto": "21日周六主场迎战有望提前夺冠的Flamengo，24日周二18:00客场挑战Chapecoense。Abel抱怨只剩三天时间准备Centenario的决赛。"
       },
       {
         "titulo": "Correa决赛出战成疑",
@@ -37,6 +37,9 @@
     ],
     "linea": [
       {
+        "texto": "Abel Ferreira在负于克鲁塞罗后表示：\"冠军已经拱手相让\"。"
+      },
+      {
         "texto": "Palmeiras在Mineirão落败，Flaco López两天内踢了两场比赛。"
       },
       {
@@ -55,6 +58,9 @@
         "texto": "Cruzeiro与巴甲第二名帕尔梅拉斯今天在Mineirão交锋，后者伤停众多。"
       },
       {
+        "texto": "Abel抱怨赛程：帕尔梅拉斯24日周二客战Chapecó，只有三天时间准备决赛。"
+      },
+      {
         "texto": "女足宣布Mauro Silva出任新主帅，并公布至2030年的发展计划。"
       },
       {
@@ -71,12 +77,6 @@
       },
       {
         "texto": "南美足联为决赛额外开售座位票，仅限Banco Provincia万事达卡持卡人。"
-      },
-      {
-        "texto": "Pincha或将在拉普拉塔参加1月的Recopa de Campeones；场地尚未确认。"
-      },
-      {
-        "texto": "帕尔梅拉斯等待Giay、Flaco López和Arias，三人结束国家队比赛后乘包机归队。"
       }
     ]
   },

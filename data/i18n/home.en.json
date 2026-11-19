@@ -1,18 +1,18 @@
 {
   "hoy": {
-    "titular": "Palmeiras lose to Cruzeiro and host Flamengo on Saturday; the Pincha begin their final week at City Bell",
+    "titular": "Abel concedes the Brasileirão as Palmeiras turn to the cups; the Pincha keep working at City Bell",
     "foto": {
       "alt": "Coaching staff give instructions to two players during a training session at City Bell."
     },
-    "resumen": "Palmeiras went down 2-1 to Cruzeiro at the Mineirão and host Flamengo on Saturday, who can clinch the Brasileirão title. Estudiantes train at City Bell until Wednesday 25th, when they fly to Montevideo, and there is still no definitive medical update on Correa.",
+    "resumen": "After losing 2-1 to Cruzeiro, Abel Ferreira said the Brasileirão title \"has been handed over\" and complained of having only three days to prepare for the final. Estudiantes train at City Bell until Wednesday 25th, when they fly to Montevideo, and there is still no definitive medical update on Correa.",
     "siete": [
       {
-        "titulo": "Palmeiras beaten at the Mineirão",
-        "texto": "Cruzeiro came from behind to win 2-1 in the second half: Ramón Sosa scored straight after the restart, but Matheus Pereira levelled from a free kick and Khellven turned in an own goal. Flaco López and Jhon Arias came off the bench."
+        "titulo": "Abel: \"The title has been handed over\"",
+        "texto": "After the 2-1 defeat at the Mineirão, the Palmeiras coach conceded the Brasileirão and congratulated Flamengo. He was without Gustavo Gómez and Maurício (back late from Paraguay duty) and still has Murilo, Jefté, Paulinho and Piquerez injured."
       },
       {
-        "titulo": "Palmeiras v Flamengo on Saturday",
-        "texto": "A week before the final, Palmeiras host the leaders on Saturday 21st at 16:30 at the Nubank Parque, on matchday 36 of the Brasileirão. They are six points behind with two rounds left: a Flamengo win seals the title. On 6 December they also play the Copa do Brasil final."
+        "titulo": "Three matches in a week for Palmeiras",
+        "texto": "On Saturday 21st they host Flamengo, who can clinch the title, and on Tuesday 24th they visit Chapecoense in Chapecó at 18:00. Abel complained he will have just three days to prepare for the final at the Centenario."
       },
       {
         "titulo": "Correa a doubt for the final",
@@ -37,6 +37,9 @@
     ],
     "linea": [
       {
+        "texto": "Abel Ferreira after the Cruzeiro defeat: \"The title has been handed over\"."
+      },
+      {
         "texto": "Palmeiras lost at the Mineirão and Flaco López played his second match in two days."
       },
       {
@@ -55,6 +58,9 @@
         "texto": "Cruzeiro and Palmeiras, second in the Brasileirão, meet today at the Mineirão with Verdão badly depleted."
       },
       {
+        "texto": "Abel hit out at the fixture list: Palmeiras play in Chapecó on Tuesday 24th and will have three days to prepare for the final."
+      },
+      {
         "texto": "The women's team unveiled Mauro Silva as new head coach and a project running to 2030."
       },
       {
@@ -71,12 +77,6 @@
       },
       {
         "texto": "CONMEBOL opened an extra seat sale for the final, only for Banco Provincia Mastercard holders."
-      },
-      {
-        "texto": "The Pincha could play January's Recopa de Campeones in La Plata; the venue is not yet confirmed."
-      },
-      {
-        "texto": "Palmeiras await Giay, Flaco López and Arias, arriving on charter flights after international duty."
       }
     ]
   },

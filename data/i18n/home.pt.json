@@ -1,18 +1,18 @@
 {
   "hoy": {
-    "titular": "Palmeiras perde para o Cruzeiro e recebe o Flamengo no sábado; o Pincha encara a última semana em City Bell",
+    "titular": "Abel dá o Brasileirão como perdido e o Palmeiras mira as copas; o Pincha segue em City Bell",
     "foto": {
       "alt": "A comissão técnica orienta dois jogadores durante um treino em City Bell."
     },
-    "resumen": "O Palmeiras perdeu por 2 a 1 para o Cruzeiro no Mineirão e no sábado recebe o Flamengo, que pode ser campeão do Brasileirão. O Estudiantes treina em City Bell até quarta-feira, 25, quando viaja para Montevidéu, e Correa segue sem boletim médico definitivo.",
+    "resumen": "Depois de perder por 2 a 1 para o Cruzeiro, Abel Ferreira disse que o título do Brasileirão \"está entregue\" e reclamou de ter apenas três dias para preparar a final. O Estudiantes treina em City Bell até quarta-feira, 25, quando viaja a Montevidéu, e Correa segue sem boletim médico definitivo.",
     "siete": [
       {
-        "titulo": "Palmeiras perde no Mineirão",
-        "texto": "O Cruzeiro virou para 2 a 1 no segundo tempo: Ramón Sosa abriu o placar logo no começo da etapa final, mas Matheus Pereira empatou de falta e Khellven fez contra. Flaco López e Jhon Arias entraram no decorrer do jogo."
+        "titulo": "Abel: \"O título está entregue\"",
+        "texto": "Depois do 2 a 1 no Mineirão, o técnico do Palmeiras deu o Brasileirão como perdido e parabenizou o Flamengo. Não teve Gustavo Gómez nem Maurício (chegaram tarde do Paraguai) e segue com Murilo, Jefté, Paulinho e Piquerez lesionados."
       },
       {
-        "titulo": "No sábado, Palmeiras x Flamengo",
-        "texto": "Uma semana antes da final, o Palmeiras recebe o líder no sábado, 21, às 16h30 (horário de Brasília), no Nubank Parque, pela 36ª rodada do Brasileirão. Está seis pontos atrás com duas rodadas por jogar: se o Flamengo vencer, é campeão. Em 6 de dezembro, ainda decide a final da Copa do Brasil."
+        "titulo": "Três jogos em uma semana para o Palmeiras",
+        "texto": "No sábado, 21, recebe o Flamengo, que pode ser campeão, e na terça, 24, visita a Chapecoense em Chapecó, às 18h. Abel reclamou: terá apenas três dias para preparar a final no Centenario."
       },
       {
         "titulo": "Correa, dúvida para a final",
@@ -37,6 +37,9 @@
     ],
     "linea": [
       {
+        "texto": "Abel Ferreira, após a derrota para o Cruzeiro: \"O título está entregue\"."
+      },
+      {
         "texto": "O Palmeiras perdeu no Mineirão e Flaco López fez seu segundo jogo em dois dias."
       },
       {
@@ -55,6 +58,9 @@
         "texto": "Cruzeiro e Palmeiras, vice-líder do Brasileirão, se enfrentam hoje no Mineirão com muitos desfalques no Verdão."
       },
       {
+        "texto": "Abel reclamou do calendário: o Palmeiras joga em Chapecó na terça, 24, e terá três dias para preparar a final."
+      },
+      {
         "texto": "O futebol feminino apresentou Mauro Silva como novo técnico e um projeto até 2030."
       },
       {
@@ -71,12 +77,6 @@
       },
       {
         "texto": "A Conmebol abriu uma venda extra de cadeiras para a final, só para clientes Mastercard do Banco Provincia."
-      },
-      {
-        "texto": "O Pincha pode jogar a Recopa de Campeones de janeiro em La Plata; a sede ainda não foi confirmada."
-      },
-      {
-        "texto": "O Palmeiras espera Giay, Flaco López e Arias, que chegam em voos fretados depois de jogar por suas seleções."
       }
     ]
   },

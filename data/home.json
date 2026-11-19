@@ -1,21 +1,21 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-19T00:07:00-03:00",
+  "actualizado": "2026-11-19T08:07:00-03:00",
   "hoy": {
-    "titular": "Palmeiras perdió con Cruzeiro y el sábado recibe a Flamengo; el Pincha encara la última semana en City Bell",
+    "titular": "Abel dio por perdido el Brasileirão y Palmeiras apunta a las copas; el Pincha sigue en City Bell",
     "foto": {
       "id": "2026-10-09_algunos-si-otros-no_1",
       "alt": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell."
     },
-    "resumen": "Palmeiras cayó 2-1 ante Cruzeiro en el Mineirão y el sábado recibe a Flamengo, que puede consagrarse campeón del Brasileirão. Estudiantes se entrena en City Bell hasta el miércoles 25, cuando viaja a Montevideo, y Correa sigue sin parte médico definitivo.",
+    "resumen": "Tras perder 2-1 con Cruzeiro, Abel Ferreira dijo que el título del Brasileirão \"está entregado\" y se quejó de tener solo tres días para preparar la final. Estudiantes se entrena en City Bell hasta el miércoles 25, cuando viaja a Montevideo, y Correa sigue sin parte médico definitivo.",
     "siete": [
       {
-        "titulo": "Palmeiras perdió en el Mineirão",
-        "texto": "Cruzeiro le dio vuelta el partido 2-1 en el segundo tiempo: Ramón Sosa abrió apenas empezado el complemento, pero empató Matheus Pereira de tiro libre y Khellven la metió en contra. El Flaco López y Jhon Arias entraron desde el banco."
+        "titulo": "Abel: \"El título está entregado\"",
+        "texto": "Después del 2-1 en el Mineirão, el DT de Palmeiras dio por perdido el Brasileirão y felicitó a Flamengo. No tuvo a Gustavo Gómez ni a Maurício (llegaron tarde de Paraguay) y sigue con Murilo, Jefté, Paulinho y Piquerez lesionados."
       },
       {
-        "titulo": "El sábado, Palmeiras-Flamengo",
-        "texto": "Una semana antes de la final, Palmeiras recibe al líder el sábado 21 a las 16.30 en el Nubank Parque, por la fecha 36 del Brasileirão. Está seis puntos abajo a falta de dos fechas: si gana Flamengo, es campeón. El 6 de diciembre, además, juega la final de la Copa do Brasil."
+        "titulo": "Tres partidos en una semana para Palmeiras",
+        "texto": "El sábado 21 recibe a Flamengo, que puede ser campeón, y el martes 24 visita a Chapecoense en Chapecó a las 18. Abel se quejó: le quedan solo tres días para preparar la final del Centenario."
       },
       {
         "titulo": "Correa, en duda para la final",
@@ -40,6 +40,12 @@
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-18T23:31:00-03:00",
+        "fuente": "Lance!",
+        "url": "https://www.lance.com.br/palmeiras/titulo-esta-entregue-abel-comenta-disputa-com-o-flamengo-apos-derrota-do-palmeiras.html",
+        "texto": "Abel Ferreira, tras la derrota con Cruzeiro: \"El título está entregado\"."
+      },
       {
         "hora": "2026-11-18T23:16:00-03:00",
         "fuente": "DeporTV",
@@ -77,6 +83,12 @@
         "texto": "Cruzeiro y Palmeiras, segundo del Brasileirão, se miden hoy en el Mineirão con muchas bajas en el Verdão."
       },
       {
+        "hora": "2026-11-18T00:00:00-03:00",
+        "fuente": "Portal do Palestra",
+        "url": "https://portaldopalestra.com.br/abel-ferreira-calendario-tres-dias-final-libertadores-chapecoense/",
+        "texto": "Abel reclamó por el calendario: Palmeiras juega en Chapecó el martes 24 y tendrá tres días para preparar la final."
+      },
+      {
         "hora": "2026-11-17T18:16:00-03:00",
         "fuente": "Punto Capital",
         "url": "https://www.puntocapitalnoticias.com/estudiantes-presento-a-su-nuevo-dt-y-un-proyecto-para-el-futbol-femenino-hasta-2030",
@@ -111,18 +123,6 @@
         "fuente": "0221",
         "url": "https://www.0221.com.ar/estudiantes/conmebol-sorprende-una-nueva-venta-plateas-la-final-estudiantes-y-palmeiras-como-comprarlas-n137580",
         "texto": "La Conmebol abrió una venta extra de plateas para la final, solo para clientes Mastercard del Banco Provincia."
-      },
-      {
-        "hora": "2026-11-17T08:20:00-03:00",
-        "fuente": "Punto Capital",
-        "url": "https://www.puntocapitalnoticias.com/estudiantes-podria-jugar-la-recopa-de-campeones-en-la-plata-y-arrancar-el-2027-con-una-nueva-ilusion/",
-        "texto": "El Pincha podría jugar la Recopa de Campeones de enero en La Plata; la sede todavía no está confirmada."
-      },
-      {
-        "hora": "2026-11-17T06:23:00-03:00",
-        "fuente": "Portal do Palestra",
-        "url": "https://portaldopalestra.com.br/palmeiras-desfalques-jogo-cruzeiro-mineirao-convocados/",
-        "texto": "Palmeiras espera a Giay, Flaco López y Arias, que llegan en vuelos chárter tras jugar con sus selecciones."
       }
     ]
   },
@@ -433,6 +433,9 @@
     "https://www.gazetaesportiva.com/times/palmeiras/cruzeiro-x-palmeiras-35-rodada-brasileirao-18-11-2026/",
     "https://lanacion.com.ar/deportes/canchallena/cruzeiro-vencio-2-1-a-palmeiras-por-el-brasileirao-serie-a-2026-nid18112026",
     "https://acritica.net/esportes/cbf-define-data-horario-palmeiras-flamengo-brasileirao-21-novembro/",
-    "https://www.0221.com.ar/estudiantes/la-agenda-definitiva-estudiantes-la-final-la-copa-libertadores-n137680"
+    "https://www.0221.com.ar/estudiantes/la-agenda-definitiva-estudiantes-la-final-la-copa-libertadores-n137680",
+    "https://www.lance.com.br/palmeiras/titulo-esta-entregue-abel-comenta-disputa-com-o-flamengo-apos-derrota-do-palmeiras.html",
+    "https://portaldopalestra.com.br/abel-ferreira-calendario-tres-dias-final-libertadores-chapecoense/",
+    "https://nossopalestra.com.br/noticias/palmeiras-vira-a-chave-e-concentra-forcas-nas-copas-apos-derrota-para-cruzeiro"
   ]
 }

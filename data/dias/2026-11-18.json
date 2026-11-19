@@ -163,6 +163,18 @@
   ],
   "linea": [
     {
+      "hora": "2026-11-18T23:31:00-03:00",
+      "fuente": "Lance!",
+      "url": "https://www.lance.com.br/palmeiras/titulo-esta-entregue-abel-comenta-disputa-com-o-flamengo-apos-derrota-do-palmeiras.html",
+      "texto": {
+        "es": "Abel Ferreira, tras la derrota con Cruzeiro: \"El título está entregado\".",
+        "en": "Abel Ferreira after the Cruzeiro defeat: \"The title has been handed over\".",
+        "pt": "Abel Ferreira, após a derrota para o Cruzeiro: \"O título está entregue\".",
+        "zh": "Abel Ferreira在负于克鲁塞罗后表示：\"冠军已经拱手相让\"。",
+        "hi": "Cruzeiro से हार के बाद Abel Ferreira: \"ख़िताब हाथ से जा चुका है\"।"
+      }
+    },
+    {
       "hora": "2026-11-18T23:16:00-03:00",
       "fuente": "DeporTV",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGpaTm5abEhnN2pmcU1iV0FwcWVMZzljcjhmUTh4WXNaRlVPVzFLYUNzdm9LVjdiNW1yN0lrVlNvckJkMU1TUG9jdWFLaXREMlBCUWZhN1RkZHcwWGM2S3FNNUF5MG9GamIxQTJ4N0V1T2hFSG55S19aQnFxLWhOc1ZuV2ItaTBDQmxlOHFXamhvbVNmOWQ3WElna3FDQWdCQWd2dFRDUUV2dw?oc=5",
@@ -232,6 +244,18 @@
         "pt": "Cruzeiro e Palmeiras, vice-líder do Brasileirão, se enfrentam hoje no Mineirão com muitos desfalques no Verdão.",
         "zh": "Cruzeiro与巴甲第二名帕尔梅拉斯今天在Mineirão交锋，后者伤停众多。",
         "hi": "Brasileirão में दूसरे स्थान पर मौजूद Palmeiras आज Mineirão में Cruzeiro से भिड़ेगा, टीम में कई खिलाड़ी बाहर हैं।"
+      }
+    },
+    {
+      "hora": "2026-11-18T00:00:00-03:00",
+      "fuente": "Portal do Palestra",
+      "url": "https://portaldopalestra.com.br/abel-ferreira-calendario-tres-dias-final-libertadores-chapecoense/",
+      "texto": {
+        "es": "Abel reclamó por el calendario: Palmeiras juega en Chapecó el martes 24 y tendrá tres días para preparar la final.",
+        "en": "Abel hit out at the fixture list: Palmeiras play in Chapecó on Tuesday 24th and will have three days to prepare for the final.",
+        "pt": "Abel reclamou do calendário: o Palmeiras joga em Chapecó na terça, 24, e terá três dias para preparar a final.",
+        "zh": "Abel抱怨赛程：帕尔梅拉斯24日周二客战Chapecó，只有三天时间准备决赛。",
+        "hi": "Abel ने कार्यक्रम पर नाराज़गी जताई: Palmeiras मंगलवार 24 को Chapecó में खेलेगा और फ़ाइनल की तैयारी के लिए तीन दिन मिलेंगे।"
       }
     }
   ]

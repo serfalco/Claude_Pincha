@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-19",
   "titular": {
-    "es": "Palmeiras perdió con Cruzeiro y el sábado recibe a Flamengo; el Pincha encara la última semana en City Bell",
-    "en": "Palmeiras lose to Cruzeiro and host Flamengo on Saturday; the Pincha begin their final week at City Bell",
-    "pt": "Palmeiras perde para o Cruzeiro e recebe o Flamengo no sábado; o Pincha encara a última semana em City Bell",
-    "zh": "帕尔梅拉斯不敌Cruzeiro，周六主场迎战Flamengo；Pincha在City Bell开启决赛前最后一周",
-    "hi": "Palmeiras को Cruzeiro से हार, शनिवार को Flamengo से मुक़ाबला; Pincha ने City Bell में आख़िरी हफ़्ता शुरू किया"
+    "es": "Abel dio por perdido el Brasileirão y Palmeiras apunta a las copas; el Pincha sigue en City Bell",
+    "en": "Abel concedes the Brasileirão as Palmeiras turn to the cups; the Pincha keep working at City Bell",
+    "pt": "Abel dá o Brasileirão como perdido e o Palmeiras mira as copas; o Pincha segue em City Bell",
+    "zh": "阿贝尔承认巴甲夺冠无望，帕尔梅拉斯转战杯赛；Pincha继续在City Bell备战",
+    "hi": "Abel ने ब्रासीलीराओ ख़िताब छोड़ा, Palmeiras का ध्यान अब कप पर; Pincha का City Bell में अभ्यास जारी"
   },
   "resumen": {
-    "es": "Palmeiras cayó 2-1 ante Cruzeiro en el Mineirão y el sábado recibe a Flamengo, que puede consagrarse campeón del Brasileirão. Estudiantes se entrena en City Bell hasta el miércoles 25, cuando viaja a Montevideo, y Correa sigue sin parte médico definitivo.",
-    "en": "Palmeiras went down 2-1 to Cruzeiro at the Mineirão and host Flamengo on Saturday, who can clinch the Brasileirão title. Estudiantes train at City Bell until Wednesday 25th, when they fly to Montevideo, and there is still no definitive medical update on Correa.",
-    "pt": "O Palmeiras perdeu por 2 a 1 para o Cruzeiro no Mineirão e no sábado recebe o Flamengo, que pode ser campeão do Brasileirão. O Estudiantes treina em City Bell até quarta-feira, 25, quando viaja para Montevidéu, e Correa segue sem boletim médico definitivo.",
-    "zh": "Palmeiras在Mineirão球场1比2不敌Cruzeiro，周六将主场迎战有望提前夺得巴甲冠军的Flamengo。Estudiantes将在City Bell训练至25日周三，当天启程前往蒙得维的亚；Correa仍无最终伤情报告。",
-    "hi": "Palmeiras को Mineirão में Cruzeiro से 2-1 से हार मिली और शनिवार को वह Flamengo की मेज़बानी करेगा, जो ब्राज़ीलियाई लीग का ख़िताब पक्का कर सकता है। Estudiantes बुधवार 25 तारीख़ तक City Bell में अभ्यास करेगा, उसी दिन मोंटेवीडियो रवाना होगा, और Correa पर अब तक कोई अंतिम मेडिकल अपडेट नहीं है।"
+    "es": "Tras perder 2-1 con Cruzeiro, Abel Ferreira dijo que el título del Brasileirão \"está entregado\" y se quejó de tener solo tres días para preparar la final. Estudiantes se entrena en City Bell hasta el miércoles 25, cuando viaja a Montevideo, y Correa sigue sin parte médico definitivo.",
+    "en": "After losing 2-1 to Cruzeiro, Abel Ferreira said the Brasileirão title \"has been handed over\" and complained of having only three days to prepare for the final. Estudiantes train at City Bell until Wednesday 25th, when they fly to Montevideo, and there is still no definitive medical update on Correa.",
+    "pt": "Depois de perder por 2 a 1 para o Cruzeiro, Abel Ferreira disse que o título do Brasileirão \"está entregue\" e reclamou de ter apenas três dias para preparar a final. O Estudiantes treina em City Bell até quarta-feira, 25, quando viaja a Montevidéu, e Correa segue sem boletim médico definitivo.",
+    "zh": "帕尔梅拉斯1比2负于克鲁塞罗后，主帅Abel Ferreira表示巴甲冠军\"已经拱手相让\"，并抱怨只有三天时间准备决赛。Estudiantes将在City Bell训练至25日周三，当天飞赴蒙得维的亚；Correa仍未有最终伤情报告。",
+    "hi": "Cruzeiro से 2-1 की हार के बाद Abel Ferreira ने कहा कि ब्रासीलीराओ का ख़िताब \"हाथ से जा चुका है\" और शिकायत की कि फ़ाइनल की तैयारी के लिए सिर्फ़ तीन दिन मिलेंगे। Estudiantes बुधवार 25 तक City Bell में अभ्यास करेगा, उसी दिन Montevideo रवाना होगा, और Correa पर अब भी अंतिम मेडिकल रिपोर्ट नहीं आई है।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -40,34 +40,34 @@
   "siete": [
     {
       "titulo": {
-        "es": "Palmeiras perdió en el Mineirão",
-        "en": "Palmeiras beaten at the Mineirão",
-        "pt": "Palmeiras perde no Mineirão",
-        "zh": "Palmeiras客场失利",
-        "hi": "Mineirão में Palmeiras की हार"
+        "es": "Abel: \"El título está entregado\"",
+        "en": "Abel: \"The title has been handed over\"",
+        "pt": "Abel: \"O título está entregue\"",
+        "zh": "阿贝尔：\"冠军已经拱手相让\"",
+        "hi": "Abel: \"ख़िताब हाथ से जा चुका है\""
       },
       "texto": {
-        "es": "Cruzeiro le dio vuelta el partido 2-1 en el segundo tiempo: Ramón Sosa abrió apenas empezado el complemento, pero empató Matheus Pereira de tiro libre y Khellven la metió en contra. El Flaco López y Jhon Arias entraron desde el banco.",
-        "en": "Cruzeiro came from behind to win 2-1 in the second half: Ramón Sosa scored straight after the restart, but Matheus Pereira levelled from a free kick and Khellven turned in an own goal. Flaco López and Jhon Arias came off the bench.",
-        "pt": "O Cruzeiro virou para 2 a 1 no segundo tempo: Ramón Sosa abriu o placar logo no começo da etapa final, mas Matheus Pereira empatou de falta e Khellven fez contra. Flaco López e Jhon Arias entraram no decorrer do jogo.",
-        "zh": "Cruzeiro在下半场以2比1逆转：Ramón Sosa在下半场开场后不久首开纪录，但Matheus Pereira任意球扳平，Khellven随后自摆乌龙。Flaco López和Jhon Arias替补登场。",
-        "hi": "Cruzeiro ने दूसरे हाफ़ में पिछड़ने के बाद 2-1 से जीत दर्ज की: Ramón Sosa ने दूसरे हाफ़ की शुरुआत में गोल किया, लेकिन Matheus Pereira ने फ़्री-किक से बराबरी की और Khellven ने आत्मघाती गोल कर दिया। Flaco López और Jhon Arias बेंच से उतरे।"
+        "es": "Después del 2-1 en el Mineirão, el DT de Palmeiras dio por perdido el Brasileirão y felicitó a Flamengo. No tuvo a Gustavo Gómez ni a Maurício (llegaron tarde de Paraguay) y sigue con Murilo, Jefté, Paulinho y Piquerez lesionados.",
+        "en": "After the 2-1 defeat at the Mineirão, the Palmeiras coach conceded the Brasileirão and congratulated Flamengo. He was without Gustavo Gómez and Maurício (back late from Paraguay duty) and still has Murilo, Jefté, Paulinho and Piquerez injured.",
+        "pt": "Depois do 2 a 1 no Mineirão, o técnico do Palmeiras deu o Brasileirão como perdido e parabenizou o Flamengo. Não teve Gustavo Gómez nem Maurício (chegaram tarde do Paraguai) e segue com Murilo, Jefté, Paulinho e Piquerez lesionados.",
+        "zh": "在Mineirão球场1比2落败后，帕尔梅拉斯主帅承认巴甲夺冠无望，并祝贺Flamengo。Gustavo Gómez和Maurício因从巴拉圭国家队晚归缺阵，Murilo、Jefté、Paulinho和Piquerez仍然伤停。",
+        "hi": "Mineirão में 2-1 की हार के बाद Palmeiras के कोच ने ब्रासीलीराओ ख़िताब की उम्मीद छोड़ दी और Flamengo को बधाई दी। Gustavo Gómez और Maurício (Paraguay से देर से लौटे) नहीं खेले, और Murilo, Jefté, Paulinho व Piquerez अब भी चोटिल हैं।"
       }
     },
     {
       "titulo": {
-        "es": "El sábado, Palmeiras-Flamengo",
-        "en": "Palmeiras v Flamengo on Saturday",
-        "pt": "No sábado, Palmeiras x Flamengo",
-        "zh": "周六：Palmeiras对阵Flamengo",
-        "hi": "शनिवार को Palmeiras बनाम Flamengo"
+        "es": "Tres partidos en una semana para Palmeiras",
+        "en": "Three matches in a week for Palmeiras",
+        "pt": "Três jogos em uma semana para o Palmeiras",
+        "zh": "帕尔梅拉斯一周三赛",
+        "hi": "Palmeiras के एक हफ़्ते में तीन मैच"
       },
       "texto": {
-        "es": "Una semana antes de la final, Palmeiras recibe al líder el sábado 21 a las 16.30 en el Nubank Parque, por la fecha 36 del Brasileirão. Está seis puntos abajo a falta de dos fechas: si gana Flamengo, es campeón. El 6 de diciembre, además, juega la final de la Copa do Brasil.",
-        "en": "A week before the final, Palmeiras host the leaders on Saturday 21st at 16:30 at the Nubank Parque, on matchday 36 of the Brasileirão. They are six points behind with two rounds left: a Flamengo win seals the title. On 6 December they also play the Copa do Brasil final.",
-        "pt": "Uma semana antes da final, o Palmeiras recebe o líder no sábado, 21, às 16h30 (horário de Brasília), no Nubank Parque, pela 36ª rodada do Brasileirão. Está seis pontos atrás com duas rodadas por jogar: se o Flamengo vencer, é campeão. Em 6 de dezembro, ainda decide a final da Copa do Brasil.",
-        "zh": "决赛前一周，Palmeiras将于21日周六16:30在Nubank Parque主场迎战领头羊，进行巴甲第36轮比赛。目前落后6分、还剩两轮：Flamengo若取胜即提前夺冠。12月6日，Palmeiras还要踢巴西杯决赛。",
-        "hi": "फ़ाइनल से एक हफ़्ता पहले Palmeiras शनिवार 21 तारीख़ को 16:30 बजे Nubank Parque में लीग के शीर्ष क्लब से भिड़ेगा, ब्राज़ीलियाई लीग के राउंड 36 में। दो राउंड बाक़ी रहते वह छह अंक पीछे है: Flamengo जीता तो चैंपियन। 6 दिसंबर को Palmeiras Copa do Brasil का फ़ाइनल भी खेलेगा।"
+        "es": "El sábado 21 recibe a Flamengo, que puede ser campeón, y el martes 24 visita a Chapecoense en Chapecó a las 18. Abel se quejó: le quedan solo tres días para preparar la final del Centenario.",
+        "en": "On Saturday 21st they host Flamengo, who can clinch the title, and on Tuesday 24th they visit Chapecoense in Chapecó at 18:00. Abel complained he will have just three days to prepare for the final at the Centenario.",
+        "pt": "No sábado, 21, recebe o Flamengo, que pode ser campeão, e na terça, 24, visita a Chapecoense em Chapecó, às 18h. Abel reclamou: terá apenas três dias para preparar a final no Centenario.",
+        "zh": "21日周六主场迎战有望提前夺冠的Flamengo，24日周二18:00客场挑战Chapecoense。Abel抱怨只剩三天时间准备Centenario的决赛。",
+        "hi": "शनिवार 21 को वह Flamengo की मेज़बानी करेगा, जो चैंपियन बन सकता है, और मंगलवार 24 को शाम 18:00 बजे Chapecó में Chapecoense से भिड़ेगा। Abel ने शिकायत की कि Centenario के फ़ाइनल की तैयारी के लिए सिर्फ़ तीन दिन बचेंगे।"
       }
     },
     {
