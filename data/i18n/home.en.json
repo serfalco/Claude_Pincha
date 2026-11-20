@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "Palmeiras set to rest their starters against Flamengo to arrive fresh for the final",
+    "titular": "Eight days out from the final, Rojo reveals how his return to the Pincha came about",
     "foto": {
-      "alt": "Coaching staff give instructions to two players during a training session at City Bell."
+      "alt": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo."
     },
-    "resumen": "Having conceded the Brasileirão, Abel Ferreira is expected to field a second-string side against Flamengo on Saturday to protect his starters ahead of the Centenario. Estudiantes stay in City Bell until Wednesday 25th, Correa continues his recovery and CONMEBOL announced the first-ever half-time show at a final.",
+    "resumen": "Marcos Rojo explained how his return to Estudiantes came about, eight days before the final against Palmeiras at the Centenario. The Brazilian press expects Abel to rest his starters against Flamengo on Saturday, and Correa remains a doubt.",
     "siete": [
       {
         "titulo": "Palmeiras to field reserves against Flamengo",
@@ -15,12 +15,16 @@
         "texto": "He is still being treated for a grade 2 tear in his right hamstring and there is no definitive medical update yet. The coaching staff see him as an important attacking option, but his involvement at the Centenario is not guaranteed."
       },
       {
+        "titulo": "Rojo on how he came back to the Pincha",
+        "texto": "Marcos Rojo revealed that the chance to return arose after the tie against Corinthians and named the people who were key to making it happen."
+      },
+      {
         "titulo": "A half-time show at the final",
         "texto": "For the first time, the Copa Libertadores final will have a half-time show, CONMEBOL announced. The artist has not been confirmed yet."
       },
       {
         "titulo": "The road map to the Centenario",
-        "texto": "On Thursday the squad trained and shared an asado in City Bell. They train there until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground."
+        "texto": "The squad train in City Bell until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground."
       },
       {
         "titulo": "Without Baltasar, Medina weighs a back five",
@@ -28,14 +32,19 @@
       },
       {
         "titulo": "Around 35,000 Pincha fans head for Montevideo",
-        "texto": "120 coaches are going: 60 laid on by the club, leaving the UNO on Friday afternoon, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario."
-      },
-      {
-        "titulo": "Carrillo stars in CONMEBOL's video",
-        "texto": "To promote the final, CONMEBOL released a GTA-style video featuring a duel between Guido Carrillo and Gustavo Gómez, the Palmeiras captain."
+        "texto": "120 coaches are going: 60 laid on by the club, leaving the UNO on the afternoon of Friday 27th, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario."
       }
     ],
     "linea": [
+      {
+        "texto": "Rojo opens up: how his unexpected return to Estudiantes came together."
+      },
+      {
+        "texto": "Controversy at Palmeiras over a decision by Abel days before the final."
+      },
+      {
+        "texto": "The Rosario Central president criticised Verón over two attitudes that bothered him."
+      },
       {
         "texto": "Palmeiras's coach has given up on the Brasileirão and puts all his energy into the final against the Pincha."
       },
@@ -68,15 +77,6 @@
       },
       {
         "texto": "Giay, Flaco López and Arias came back injury-free from the international break and are available for Palmeiras against Cruzeiro."
-      },
-      {
-        "texto": "The squad press on with their preparations for the final in Montevideo."
-      },
-      {
-        "texto": "Cruzeiro and Palmeiras, second in the Brasileirão, meet today at the Mineirão with Verdão badly depleted."
-      },
-      {
-        "texto": "Abel hit out at the fixture list: Palmeiras play in Chapecó on Tuesday 24th and will have three days to prepare for the final."
       }
     ]
   },

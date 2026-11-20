@@ -1,0 +1,165 @@
+{
+  "fecha": "2026-11-20",
+  "titular": {
+    "es": "A ocho días de la final, Rojo contó cómo se gestó su vuelta al Pincha",
+    "en": "Eight days out from the final, Rojo reveals how his return to the Pincha came about",
+    "pt": "A oito dias da final, Rojo contou como foi a sua volta ao Pincha",
+    "zh": "距决赛还有八天，Rojo讲述重返Pincha的经过",
+    "hi": "फ़ाइनल से आठ दिन पहले Rojo ने बताया कि Pincha में उनकी वापसी कैसे हुई"
+  },
+  "resumen": {
+    "es": "Marcos Rojo contó cómo surgió su regreso a Estudiantes, a ocho días de la final con Palmeiras en el Centenario. En Brasil dan por hecho que Abel guardará a los titulares el sábado ante Flamengo, y Correa sigue en duda.",
+    "en": "Marcos Rojo explained how his return to Estudiantes came about, eight days before the final against Palmeiras at the Centenario. The Brazilian press expects Abel to rest his starters against Flamengo on Saturday, and Correa remains a doubt.",
+    "pt": "Marcos Rojo contou como surgiu a sua volta ao Estudiantes, a oito dias da final contra o Palmeiras no Centenario. No Brasil, dão como certo que Abel vai poupar os titulares no sábado contra o Flamengo, e Correa segue em dúvida.",
+    "zh": "距与Palmeiras在Centenario的决赛还有八天，Marcos Rojo讲述了重返Estudiantes的来龙去脉。巴西媒体认定Abel周六对阵Flamengo将轮换主力，Correa仍存疑。",
+    "hi": "Centenario में Palmeiras के ख़िलाफ़ फ़ाइनल से आठ दिन पहले Marcos Rojo ने बताया कि Estudiantes में उनकी वापसी कैसे हुई। ब्राज़ील में माना जा रहा है कि Abel शनिवार को Flamengo के ख़िलाफ़ नियमित खिलाड़ियों को आराम देंगे, और Correa पर अब भी संदेह है।"
+  },
+  "ultimo": {
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral",
+    "goles": [
+      {
+        "jugador": "Carrillo",
+        "min": "55"
+      },
+      {
+        "jugador": "Villalba",
+        "min": "68",
+        "ec": true
+      },
+      {
+        "jugador": "Alario",
+        "min": "96"
+      }
+    ]
+  },
+  "siete": [
+    {
+      "titulo": {
+        "es": "Palmeiras, con suplentes ante Flamengo",
+        "en": "Palmeiras to field reserves against Flamengo",
+        "pt": "Palmeiras com reservas contra o Flamengo",
+        "zh": "帕尔梅拉斯将派替补迎战弗拉门戈",
+        "hi": "Flamengo के ख़िलाफ़ Palmeiras की रिज़र्व टीम"
+      },
+      "texto": {
+        "es": "En Brasil dan por hecho que Abel guardará a los titulares el sábado ante Flamengo, que puede ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final.",
+        "en": "The Brazilian press takes it as read that Abel will rest his starters on Saturday against Flamengo, who can clinch the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final.",
+        "pt": "No Brasil, dá-se como certo que Abel vai poupar os titulares no sábado contra o Flamengo, que pode ser campeão do Brasileirão. Na terça, dia 24, o Palmeiras visita a Chapecoense às 18h e depois terá três dias até a final.",
+        "zh": "巴西媒体普遍认为，Abel 周六对阵可能提前夺得巴甲冠军的 Flamengo 时将轮换主力。24 日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。",
+        "hi": "ब्राज़ीली मीडिया मान रहा है कि Abel शनिवार को Flamengo के ख़िलाफ़ मुख्य खिलाड़ियों को आराम देंगे; Flamengo उस दिन ब्राज़ीलियाई लीग जीत सकता है। मंगलवार 24 तारीख़ को Palmeiras 18:00 बजे Chapecoense से उसके मैदान पर खेलेगा और उसके बाद फ़ाइनल के लिए सिर्फ़ तीन दिन बचेंगे।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Correa, en duda para la final",
+        "en": "Correa a doubt for the final",
+        "pt": "Correa, dúvida para a final",
+        "zh": "Correa决赛出战成疑",
+        "hi": "फ़ाइनल के लिए Correa पर संशय"
+      },
+      "texto": {
+        "es": "Sigue el tratamiento por el desgarro grado 2 en el bíceps femoral derecho y todavía no hay parte médico definitivo. El cuerpo técnico lo ve como una alternativa importante en ataque, pero su presencia en el Centenario no está asegurada.",
+        "en": "He is still being treated for a grade 2 tear in his right hamstring and there is no definitive medical update yet. The coaching staff see him as an important attacking option, but his involvement at the Centenario is not guaranteed.",
+        "pt": "Segue o tratamento da lesão grau 2 no bíceps femoral direito e ainda não há boletim médico definitivo. A comissão técnica o vê como uma alternativa importante no ataque, mas sua presença no Centenario não está garantida.",
+        "zh": "他仍在治疗右腿股二头肌二级拉伤，目前尚无最终伤情报告。教练组视他为重要的进攻选择，但能否在Centenario球场出场仍不确定。",
+        "hi": "दाएँ पैर की हैमस्ट्रिंग में ग्रेड 2 खिंचाव का इलाज जारी है और अभी कोई अंतिम मेडिकल अपडेट नहीं आया है। कोचिंग स्टाफ़ उन्हें आक्रमण का अहम विकल्प मानता है, लेकिन Centenario में उनका खेलना तय नहीं है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Rojo contó cómo volvió al Pincha",
+        "en": "Rojo on how he came back to the Pincha",
+        "pt": "Rojo contou como voltou ao Pincha",
+        "zh": "Rojo讲述回归Pincha的经过",
+        "hi": "Rojo ने बताया Pincha में वापसी का क़िस्सा"
+      },
+      "texto": {
+        "es": "Marcos Rojo reveló que la chance de regresar surgió después de la serie con Corinthians y contó quiénes fueron clave para que se concretara su vuelta.",
+        "en": "Marcos Rojo revealed that the chance to return arose after the tie against Corinthians and named the people who were key to making it happen.",
+        "pt": "Marcos Rojo revelou que a chance de voltar surgiu depois do confronto com o Corinthians e contou quem foi fundamental para concretizar o retorno.",
+        "zh": "Marcos Rojo透露，回归的机会出现在与Corinthians的系列赛之后，并讲述了促成回归的关键人物。",
+        "hi": "Marcos Rojo ने बताया कि वापसी का मौक़ा Corinthians के ख़िलाफ़ मुक़ाबले के बाद बना और यह भी कि इसे संभव बनाने में किनकी अहम भूमिका रही।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Habrá show en el entretiempo de la final",
+        "en": "A half-time show at the final",
+        "pt": "Vai ter show no intervalo da final",
+        "zh": "决赛将有中场表演",
+        "hi": "फ़ाइनल में होगा हाफ़-टाइम शो"
+      },
+      "texto": {
+        "es": "Por primera vez, la final de la Libertadores tendrá un espectáculo en el entretiempo, según anunció la Conmebol. El artista todavía no fue confirmado.",
+        "en": "For the first time, the Copa Libertadores final will have a half-time show, CONMEBOL announced. The artist has not been confirmed yet.",
+        "pt": "Pela primeira vez, a final da Libertadores terá um espetáculo no intervalo, anunciou a Conmebol. O artista ainda não foi confirmado.",
+        "zh": "南美足联宣布，解放者杯决赛将首次在中场休息时举行表演。表演嘉宾尚未确定。",
+        "hi": "CONMEBOL ने घोषणा की है कि पहली बार Copa Libertadores फ़ाइनल में हाफ़-टाइम शो होगा। कलाकार का नाम अभी तय नहीं हुआ है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "La hoja de ruta hasta el Centenario",
+        "en": "The road map to the Centenario",
+        "pt": "O roteiro até o Centenario",
+        "zh": "前往Centenario的行程",
+        "hi": "Centenario तक का कार्यक्रम"
+      },
+      "texto": {
+        "es": "El plantel se entrena en City Bell hasta el miércoles 25 (el domingo es libre) y esa tarde viaja a Montevideo, donde parará en el Hilton; el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "en": "The squad train in City Bell until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground.",
+        "pt": "O elenco treina em City Bell até quarta-feira, 25 (domingo é folga), e nessa tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque.",
+        "zh": "球队在City Bell训练至25日周三（周日休息），当天下午前往蒙得维的亚，下榻Hilton酒店；周四和周五将在Montevideo City Torque训练基地训练。",
+        "hi": "टीम बुधवार 25 तारीख़ तक City Bell में अभ्यास करेगी (रविवार छुट्टी है) और उसी दोपहर Montevideo रवाना होगी, जहाँ Hilton में ठहरेगी; गुरुवार और शुक्रवार को Montevideo City Torque के ट्रेनिंग ग्राउंड पर अभ्यास होगा।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Sin Baltasar, Medina piensa en una línea de cinco",
+        "en": "Without Baltasar, Medina weighs a back five",
+        "pt": "Sem Baltasar, Medina pensa em linha de cinco",
+        "zh": "Baltasar停赛，Medina考虑五后卫",
+        "hi": "Baltasar के बिना, Medina पाँच डिफ़ेंडरों पर विचार कर रहे हैं"
+      },
+      "texto": {
+        "es": "Baltasar Rodríguez, expulsado ante Flamengo en el Maracaná, no podrá jugar la final. Según El Día, el Cacique analiza poner cinco defensores en el Centenario para frenar las subidas de los laterales de Palmeiras.",
+        "en": "Baltasar Rodríguez, sent off against Flamengo at the Maracanã, will miss the final. According to El Día, the coach is considering five defenders at the Centenario to stop Palmeiras' full-backs getting forward.",
+        "pt": "Baltasar Rodríguez, expulso contra o Flamengo no Maracanã, está fora da final. Segundo o El Día, o técnico avalia escalar cinco defensores no Centenario para frear o apoio dos laterais do Palmeiras.",
+        "zh": "在马拉卡纳对阵弗拉门戈时被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，主帅正考虑在Centenario排出五名后卫，以遏制帕尔梅拉斯边后卫的插上。",
+        "hi": "Maracanã में Flamengo के ख़िलाफ़ रेड कार्ड पाने वाले Baltasar Rodríguez फ़ाइनल नहीं खेल पाएँगे। El Día के अनुसार कोच Centenario में पाँच डिफ़ेंडर उतारने पर विचार कर रहे हैं ताकि Palmeiras के फ़ुल-बैक आगे न बढ़ सकें।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Unos 35 mil pinchas, rumbo a Montevideo",
+        "en": "Around 35,000 Pincha fans head for Montevideo",
+        "pt": "Cerca de 35 mil torcedores rumo a Montevidéu",
+        "zh": "约3.5万名Pincha球迷奔赴蒙得维的亚",
+        "hi": "करीब 35 हज़ार Pincha प्रशंसक मोंटेवीडियो की ओर"
+      },
+      "texto": {
+        "es": "Viajan 120 micros: 60 del club, que salen el viernes 27 por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club.",
+        "en": "120 coaches are going: 60 laid on by the club, leaving the UNO on the afternoon of Friday 27th, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario.",
+        "pt": "Viajam 120 ônibus: 60 do clube, que saem na tarde de sexta-feira, 27, do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario.",
+        "zh": "共有120辆大巴出发：俱乐部组织60辆，27日周五下午从el UNO出发，另有60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。",
+        "hi": "120 बसें जा रही हैं: 60 क्लब की, जो शुक्रवार 27 तारीख़ की दोपहर el UNO से निकलेंगी, और 60 समर्थक समूहों व शाखाओं की। शुक्रवार और शनिवार की नावें बिक चुकी हैं, और क्लब के बुलावे पर 2009 के चैंपियन भी Centenario में होंगे।"
+      }
+    }
+  ],
+  "foto": {
+    "id": "2026-10-23_maracanazo-y-a-la-final_1",
+    "alt": {
+      "es": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo.",
+      "en": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo.",
+      "pt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo.",
+      "zh": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。",
+      "hi": "Flamengo के ख़िलाफ़ सेमीफ़ाइनल से पहले Maracanã में Estudiantes के शुरुआती खिलाड़ी फ़ोटो के लिए खड़े।"
+    }
+  },
+  "linea": []
+}

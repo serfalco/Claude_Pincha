@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "帕尔梅拉斯或将对弗拉门戈轮换主力，以最佳状态迎战决赛",
+    "titular": "距决赛还有八天，Rojo讲述重返Pincha的经过",
     "foto": {
-      "alt": "教练组在City Bell训练中向两名球员布置战术。"
+      "alt": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。"
     },
-    "resumen": "在宣布放弃巴甲争冠后，Abel Ferreira 预计将在周六对阵 Flamengo 时派出替补阵容，为 Centenario 决赛保护主力。Estudiantes 将在 City Bell 训练至 25 日周三，Correa 仍在康复中，南美足联宣布决赛首次设立中场表演。",
+    "resumen": "距与Palmeiras在Centenario的决赛还有八天，Marcos Rojo讲述了重返Estudiantes的来龙去脉。巴西媒体认定Abel周六对阵Flamengo将轮换主力，Correa仍存疑。",
     "siete": [
       {
         "titulo": "帕尔梅拉斯将派替补迎战弗拉门戈",
@@ -15,12 +15,16 @@
         "texto": "他仍在治疗右腿股二头肌二级拉伤，目前尚无最终伤情报告。教练组视他为重要的进攻选择，但能否在Centenario球场出场仍不确定。"
       },
       {
+        "titulo": "Rojo讲述回归Pincha的经过",
+        "texto": "Marcos Rojo透露，回归的机会出现在与Corinthians的系列赛之后，并讲述了促成回归的关键人物。"
+      },
+      {
         "titulo": "决赛将有中场表演",
         "texto": "南美足联宣布，解放者杯决赛将首次在中场休息时举行表演。表演嘉宾尚未确定。"
       },
       {
         "titulo": "前往Centenario的行程",
-        "texto": "本周四球队在 City Bell 进行了训练并举行烤肉聚餐。全队将在那里训练至 25 日周三（周日休息），当天下午前往蒙得维的亚，入住 Hilton 酒店；周四和周五将在 Montevideo City Torque 的训练基地训练。"
+        "texto": "球队在City Bell训练至25日周三（周日休息），当天下午前往蒙得维的亚，下榻Hilton酒店；周四和周五将在Montevideo City Torque训练基地训练。"
       },
       {
         "titulo": "Baltasar停赛，Medina考虑五后卫",
@@ -28,14 +32,19 @@
       },
       {
         "titulo": "约3.5万名Pincha球迷奔赴蒙得维的亚",
-        "texto": "共有120辆大巴出发：60辆由俱乐部组织，周五下午从el UNO出发，另60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。"
-      },
-      {
-        "titulo": "Carrillo 成为南美足联宣传片主角",
-        "texto": "为宣传决赛，南美足联推出了一段 GTA 风格的视频，主角是 Guido Carrillo 与 Palmeiras 队长 Gustavo Gómez 的对决。"
+        "texto": "共有120辆大巴出发：俱乐部组织60辆，27日周五下午从el UNO出发，另有60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。"
       }
     ],
     "linea": [
+      {
+        "texto": "Rojo敞开心扉：意外重返Estudiantes的经过。"
+      },
+      {
+        "texto": "决赛前几天，Abel的一项决定在Palmeiras引发争议。"
+      },
+      {
+        "texto": "Rosario Central主席批评Verón，称其两种态度令他不满。"
+      },
       {
         "texto": "Palmeiras 主帅放弃巴甲，全力备战与 Pincha 的决赛。"
       },
@@ -68,15 +77,6 @@
       },
       {
         "texto": "Giay、Flaco López和Arias国际比赛日后未受伤归队，可出战帕尔梅拉斯对阵Cruzeiro的比赛。"
-      },
-      {
-        "texto": "球队继续为蒙得维的亚决赛进行备战。"
-      },
-      {
-        "texto": "Cruzeiro与巴甲第二名帕尔梅拉斯今天在Mineirão交锋，后者伤停众多。"
-      },
-      {
-        "texto": "Abel抱怨赛程：帕尔梅拉斯24日周二客战Chapecó，只有三天时间准备决赛。"
       }
     ]
   },

@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-10-09_algunos-si-otros-no_1",
+    "alt": {
+      "es": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell.",
+      "en": "Coaching staff give instructions to two players during a training session at City Bell.",
+      "pt": "A comissão técnica orienta dois jogadores durante um treino em City Bell.",
+      "zh": "教练组在City Bell训练中向两名球员布置战术。",
+      "hi": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
+    }
+  },
   "siete": [
     {
       "titulo": {
@@ -151,17 +161,43 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-10-09_algunos-si-otros-no_1",
-    "alt": {
-      "es": "El cuerpo técnico le da indicaciones a dos jugadores durante un entrenamiento en City Bell.",
-      "en": "Coaching staff give instructions to two players during a training session at City Bell.",
-      "pt": "A comissão técnica orienta dois jogadores durante um treino em City Bell.",
-      "zh": "教练组在City Bell训练中向两名球员布置战术。",
-      "hi": "City Bell में ट्रेनिंग के दौरान कोचिंग स्टाफ़ दो खिलाड़ियों को निर्देश देता हुआ।"
-    }
-  },
   "linea": [
+    {
+      "hora": "2026-11-19T21:51:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/a-corazon-abierto-marcos-rojo-revelo-como-se-gesto-su-inesperado-regreso-a-estudiantes-deportes_1795135417",
+      "texto": {
+        "es": "Rojo, a corazón abierto: cómo se gestó su inesperada vuelta a Estudiantes.",
+        "en": "Rojo opens up: how his unexpected return to Estudiantes came together.",
+        "pt": "Rojo abre o coração: como foi costurada a sua volta inesperada ao Estudiantes.",
+        "zh": "Rojo敞开心扉：意外重返Estudiantes的经过。",
+        "hi": "Rojo ने दिल खोलकर बताया कि Estudiantes में उनकी अप्रत्याशित वापसी कैसे हुई।"
+      }
+    },
+    {
+      "hora": "2026-11-19T20:40:00-03:00",
+      "fuente": "MDZ Online",
+      "url": "https://www.mdzol.com/deportes/2026/11/19/atento-estudiantes-polemica-en-palmeiras-por-una-decision-de-su-dt-a-dias-de-la-final-de-la-libertadores-1996678.html",
+      "texto": {
+        "es": "Polémica en Palmeiras por una decisión de Abel a días de la final.",
+        "en": "Controversy at Palmeiras over a decision by Abel days before the final.",
+        "pt": "Polêmica no Palmeiras por uma decisão de Abel a dias da final.",
+        "zh": "决赛前几天，Abel的一项决定在Palmeiras引发争议。",
+        "hi": "फ़ाइनल से कुछ दिन पहले Abel के एक फ़ैसले पर Palmeiras में विवाद।"
+      }
+    },
+    {
+      "hora": "2026-11-19T19:10:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/el-presidente-rosario-central-hablo-juan-sebastian-veron-y-revelo-que-dos-actitudes-le-molestaron-n137725",
+      "texto": {
+        "es": "El presidente de Rosario Central apuntó contra Verón por dos actitudes que le molestaron.",
+        "en": "The Rosario Central president criticised Verón over two attitudes that bothered him.",
+        "pt": "O presidente do Rosario Central criticou Verón por duas atitudes que o incomodaram.",
+        "zh": "Rosario Central主席批评Verón，称其两种态度令他不满。",
+        "hi": "Rosario Central के अध्यक्ष ने Verón के दो रवैयों पर नाराज़गी जताई।"
+      }
+    },
     {
       "hora": "2026-11-19T16:43:00-03:00",
       "fuente": "El Día",

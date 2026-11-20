@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "Palmeiras deve poupar os titulares contra o Flamengo para chegar inteiro à final",
+    "titular": "A oito dias da final, Rojo contou como foi a sua volta ao Pincha",
     "foto": {
-      "alt": "A comissão técnica orienta dois jogadores durante um treino em City Bell."
+      "alt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo."
     },
-    "resumen": "Depois de dar o Brasileirão como perdido, Abel Ferreira deve escalar um time alternativo no sábado contra o Flamengo para preservar os titulares visando o Centenario. O Estudiantes segue em City Bell até a quarta-feira, dia 25, Correa continua em recuperação e a Conmebol anunciou o primeiro show de intervalo em uma final.",
+    "resumen": "Marcos Rojo contou como surgiu a sua volta ao Estudiantes, a oito dias da final contra o Palmeiras no Centenario. No Brasil, dão como certo que Abel vai poupar os titulares no sábado contra o Flamengo, e Correa segue em dúvida.",
     "siete": [
       {
         "titulo": "Palmeiras com reservas contra o Flamengo",
@@ -15,12 +15,16 @@
         "texto": "Segue o tratamento da lesão grau 2 no bíceps femoral direito e ainda não há boletim médico definitivo. A comissão técnica o vê como uma alternativa importante no ataque, mas sua presença no Centenario não está garantida."
       },
       {
+        "titulo": "Rojo contou como voltou ao Pincha",
+        "texto": "Marcos Rojo revelou que a chance de voltar surgiu depois do confronto com o Corinthians e contou quem foi fundamental para concretizar o retorno."
+      },
+      {
         "titulo": "Vai ter show no intervalo da final",
         "texto": "Pela primeira vez, a final da Libertadores terá um espetáculo no intervalo, anunciou a Conmebol. O artista ainda não foi confirmado."
       },
       {
         "titulo": "O roteiro até o Centenario",
-        "texto": "Nesta quinta teve treino e churrasco em City Bell. O elenco treina lá até a quarta-feira, dia 25 (o domingo é de folga), e à tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque."
+        "texto": "O elenco treina em City Bell até quarta-feira, 25 (domingo é folga), e nessa tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque."
       },
       {
         "titulo": "Sem Baltasar, Medina pensa em linha de cinco",
@@ -28,14 +32,19 @@
       },
       {
         "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
-        "texto": "Viajam 120 ônibus: 60 do clube, que saem na sexta à tarde do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario."
-      },
-      {
-        "titulo": "Carrillo, protagonista do vídeo da Conmebol",
-        "texto": "Para promover a final, a Conmebol fez um vídeo no estilo GTA com um duelo entre Guido Carrillo e Gustavo Gómez, capitão do Palmeiras."
+        "texto": "Viajam 120 ônibus: 60 do clube, que saem na tarde de sexta-feira, 27, do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario."
       }
     ],
     "linea": [
+      {
+        "texto": "Rojo abre o coração: como foi costurada a sua volta inesperada ao Estudiantes."
+      },
+      {
+        "texto": "Polêmica no Palmeiras por uma decisão de Abel a dias da final."
+      },
+      {
+        "texto": "O presidente do Rosario Central criticou Verón por duas atitudes que o incomodaram."
+      },
       {
         "texto": "O técnico do Palmeiras desistiu do Brasileirão e coloca toda a energia na final contra o Pincha."
       },
@@ -68,15 +77,6 @@
       },
       {
         "texto": "Giay, Flaco López e Arias voltaram sem lesões da Data Fifa e ficam à disposição do Palmeiras contra o Cruzeiro."
-      },
-      {
-        "texto": "O elenco segue a preparação para a final em Montevidéu."
-      },
-      {
-        "texto": "Cruzeiro e Palmeiras, vice-líder do Brasileirão, se enfrentam hoje no Mineirão com muitos desfalques no Verdão."
-      },
-      {
-        "texto": "Abel reclamou do calendário: o Palmeiras joga em Chapecó na terça, 24, e terá três dias para preparar a final."
       }
     ]
   },
