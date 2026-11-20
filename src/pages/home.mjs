@@ -39,6 +39,7 @@ export const listaSiete = (siete, t, url) => ({
 });
 
 // Partido como evento deportivo (schema.org SportsEvent): lo usan la portada y la página del partido.
+// Google exige location: sin estadio confirmado no se publica el SportsEvent.
 export const eventoLd = (p, site) => {
   const nombre = p.condicion === 'visitante' ? `${p.rival} vs Estudiantes` : `Estudiantes vs ${p.rival}`;
   const equipos = [
@@ -55,7 +56,7 @@ export const eventoLd = (p, site) => {
     sport: 'Football',
     eventStatus: 'https://schema.org/EventScheduled',
     eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
-    ...(p.estadio && { location: { '@type': 'Place', name: p.estadio, address: p.estadio } }),
+    location: { '@type': 'Place', name: p.estadio, address: p.estadio },
     organizer: organizador(p.torneo),
     competitor: equipos,
     performer: equipos,
@@ -84,7 +85,7 @@ export default (ctx, data) => {
         description: t.descripcion,
       },
       ...(data.hoy.siete?.length ? [listaSiete(data.hoy.siete, t, new URL(ctx.ruta(''), site.url).href)] : []),
-      ...data.proximos.map((p) => eventoLd(p, site)),
+      ...data.proximos.filter((p) => p.estadio).map((p) => eventoLd(p, site)),
     ],
     body: html`
 ${header(ctxF)}

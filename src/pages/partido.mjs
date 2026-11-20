@@ -27,7 +27,7 @@ export default (ctx, p, { enVivo, siete: notas = [], dia, data }) => {
     description: jugado
       ? tp.descJugado(nombre, torneo, larga, t.estados[estado], marcadorPartido(p), golesTexto(p.goles, t))
       : tp.descPrevia(nombre, torneo, larga, f.hora(p.fecha), p.estadio),
-    jsonLd: [{ ...eventoLd(p, site), url }],
+    jsonLd: p.estadio ? [{ ...eventoLd(p, site), url }] : [],
     body: html`
 ${header(ctxF)}
 <main>
