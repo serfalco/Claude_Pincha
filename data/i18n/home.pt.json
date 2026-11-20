@@ -1,18 +1,18 @@
 {
   "hoy": {
-    "titular": "A oito dias da final, Rojo contou como foi a sua volta ao Pincha",
+    "titular": "A oito dias da final, Medina espera por Correa e define o substituto de Baltasar",
     "foto": {
       "alt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo."
     },
-    "resumen": "Marcos Rojo contou como surgiu a sua volta ao Estudiantes, a oito dias da final contra o Palmeiras no Centenario. No Brasil, dão como certo que Abel vai poupar os titulares no sábado contra o Flamengo, e Correa segue em dúvida.",
+    "resumen": "Medina avalia alternativas para substituir Baltasar Rodríguez e espera por Correa, que está na fase final da recuperação. No Brasil, Abel deve escalar um time todo reserva no sábado contra o Flamengo.",
     "siete": [
       {
-        "titulo": "Palmeiras com reservas contra o Flamengo",
-        "texto": "No Brasil, dá-se como certo que Abel vai poupar os titulares no sábado contra o Flamengo, que pode ser campeão do Brasileirão. Na terça, dia 24, o Palmeiras visita a Chapecoense às 18h e depois terá três dias até a final."
+        "titulo": "Palmeiras com time todo reserva contra o Flamengo",
+        "texto": "Segundo a Band, Abel vai escalar um time totalmente reserva no sábado contra o Flamengo, que precisa só de um empate para ser campeão do Brasileirão. Na terça, dia 24, o Palmeiras visita a Chapecoense às 18h e depois terá três dias até a final."
       },
       {
-        "titulo": "Correa, dúvida para a final",
-        "texto": "Segue o tratamento da lesão grau 2 no bíceps femoral direito e ainda não há boletim médico definitivo. A comissão técnica o vê como uma alternativa importante no ataque, mas sua presença no Centenario não está garantida."
+        "titulo": "Correa na reta final da recuperação",
+        "texto": "Segue em dúvida pela lesão no bíceps femoral direito, mas segundo o El Día está na fase final da recuperação. A ideia é que seja titular; se não chegar em condições, pode entrar no segundo tempo e Cetré ganharia espaço."
       },
       {
         "titulo": "Rojo contou como voltou ao Pincha",
@@ -20,15 +20,15 @@
       },
       {
         "titulo": "Vai ter show no intervalo da final",
-        "texto": "Pela primeira vez, a final da Libertadores terá um espetáculo no intervalo, anunciou a Conmebol. O artista ainda não foi confirmado."
+        "texto": "Pela primeira vez, a final da Libertadores terá um espetáculo no intervalo, anunciou a Conmebol."
       },
       {
         "titulo": "O roteiro até o Centenario",
         "texto": "O elenco treina em City Bell até quarta-feira, 25 (domingo é folga), e nessa tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque."
       },
       {
-        "titulo": "Sem Baltasar, Medina pensa em linha de cinco",
-        "texto": "Baltasar Rodríguez, expulso contra o Flamengo no Maracanã, está fora da final. Segundo o El Día, o técnico avalia escalar cinco defensores no Centenario para frear o apoio dos laterais do Palmeiras."
+        "titulo": "Sem Baltasar, Medina deve repetir a linha de cinco",
+        "texto": "Baltasar Rodríguez, expulso contra o Flamengo, está fora da final. Segundo o El Día, a principal opção é repetir os três zagueiros e dois alas do Maracanã, com Tobio Burgos pela esquerda; o Diario Hoy cita Fabricio Pérez, titular na Supercopa Argentina, como alternativa."
       },
       {
         "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
@@ -36,6 +36,12 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Medina avalia variações e espera por Correa para a final."
+      },
+      {
+        "texto": "A oito dias da final, o Pincha ainda não definiu quem substitui Baltasar."
+      },
       {
         "texto": "Rojo abre o coração: como foi costurada a sua volta inesperada ao Estudiantes."
       },
@@ -55,6 +61,9 @@
         "texto": "Gómez x Carrillo: a Conmebol esquenta a final com um vídeo no estilo GTA."
       },
       {
+        "texto": "O Palmeiras vai a campo com time todo reserva contra o Flamengo para se poupar para a final."
+      },
+      {
         "texto": "O que o Estudiantes tem para acabar com a hegemonia brasileira na Libertadores."
       },
       {
@@ -67,16 +76,7 @@
         "texto": "Abel Ferreira, após a derrota para o Cruzeiro: \"O título está entregue\"."
       },
       {
-        "texto": "O Palmeiras perdeu no Mineirão e Flaco López fez seu segundo jogo em dois dias."
-      },
-      {
         "texto": "Dia a dia, a agenda do elenco até a final: City Bell, viagem na quarta, 25, e treinos em Montevidéu."
-      },
-      {
-        "texto": "Loucura total: 120 ônibus, barcos esgotados e cerca de 35 mil torcedores do Pincha esperados em Montevidéu."
-      },
-      {
-        "texto": "Giay, Flaco López e Arias voltaram sem lesões da Data Fifa e ficam à disposição do Palmeiras contra o Cruzeiro."
       }
     ]
   },

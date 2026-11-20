@@ -1,18 +1,18 @@
 {
   "hoy": {
-    "titular": "距决赛还有八天，Rojo讲述重返Pincha的经过",
+    "titular": "距决赛还有八天，Medina等待Correa并敲定Baltasar的替代人选",
     "foto": {
       "alt": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。"
     },
-    "resumen": "距与Palmeiras在Centenario的决赛还有八天，Marcos Rojo讲述了重返Estudiantes的来龙去脉。巴西媒体认定Abel周六对阵Flamengo将轮换主力，Correa仍存疑。",
+    "resumen": "Medina正在考虑替代Baltasar Rodríguez的方案，同时等待已进入康复最后阶段的Correa。巴西方面，Abel周六对阵Flamengo将派出全替补阵容。",
     "siete": [
       {
-        "titulo": "帕尔梅拉斯将派替补迎战弗拉门戈",
-        "texto": "巴西媒体普遍认为，Abel 周六对阵可能提前夺得巴甲冠军的 Flamengo 时将轮换主力。24 日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。"
+        "titulo": "帕尔梅拉斯将派全替补迎战弗拉门戈",
+        "texto": "据Band报道，Abel周六对阵Flamengo将排出清一色替补阵容，Flamengo只需战平即可夺得巴甲冠军。24日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。"
       },
       {
-        "titulo": "Correa决赛出战成疑",
-        "texto": "他仍在治疗右腿股二头肌二级拉伤，目前尚无最终伤情报告。教练组视他为重要的进攻选择，但能否在Centenario球场出场仍不确定。"
+        "titulo": "Correa进入康复最后阶段",
+        "texto": "他仍因右腿股二头肌拉伤而出战成疑，但据El Día报道，他已进入康复的最后阶段。教练组希望他首发；若状态不足，他可能在下半场替补登场，Cetré则有望获得位置。"
       },
       {
         "titulo": "Rojo讲述回归Pincha的经过",
@@ -20,15 +20,15 @@
       },
       {
         "titulo": "决赛将有中场表演",
-        "texto": "南美足联宣布，解放者杯决赛将首次在中场休息时举行表演。表演嘉宾尚未确定。"
+        "texto": "南美足联宣布，解放者杯决赛将首次在中场休息时举行表演。"
       },
       {
         "titulo": "前往Centenario的行程",
         "texto": "球队在City Bell训练至25日周三（周日休息），当天下午前往蒙得维的亚，下榻Hilton酒店；周四和周五将在Montevideo City Torque训练基地训练。"
       },
       {
-        "titulo": "Baltasar停赛，Medina考虑五后卫",
-        "texto": "在马拉卡纳对阵弗拉门戈时被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，主帅正考虑在Centenario排出五名后卫，以遏制帕尔梅拉斯边后卫的插上。"
+        "titulo": "Baltasar停赛，Medina或沿用五后卫",
+        "texto": "对阵Flamengo被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，首选方案是沿用马拉卡纳之战的三中卫加两名边翼卫，左路由Tobio Burgos出任；Diario Hoy则提到在Supercopa Argentina首发的Fabricio Pérez是另一选择。"
       },
       {
         "titulo": "约3.5万名Pincha球迷奔赴蒙得维的亚",
@@ -36,6 +36,12 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Medina考虑多种方案，等待Correa出战决赛。"
+      },
+      {
+        "texto": "距决赛还有八天，Pincha仍未确定由谁替代Baltasar。"
+      },
       {
         "texto": "Rojo敞开心扉：意外重返Estudiantes的经过。"
       },
@@ -55,6 +61,9 @@
         "texto": "Gómez 对决 Carrillo：南美足联用 GTA 风格视频为决赛预热。"
       },
       {
+        "texto": "Palmeiras将派全替补对阵Flamengo，为决赛保存实力。"
+      },
+      {
         "texto": "Estudiantes 凭什么终结巴西球队在解放者杯的统治。"
       },
       {
@@ -67,16 +76,7 @@
         "texto": "Abel Ferreira在负于克鲁塞罗后表示：\"冠军已经拱手相让\"。"
       },
       {
-        "texto": "Palmeiras在Mineirão落败，Flaco López两天内踢了两场比赛。"
-      },
-      {
         "texto": "逐日行程：City Bell训练、25日周三出发、在蒙得维的亚训练，直至决赛。"
-      },
-      {
-        "texto": "全城沸腾：120辆大巴、渡轮售罄，预计约3.5万名Pincha球迷前往蒙得维的亚。"
-      },
-      {
-        "texto": "Giay、Flaco López和Arias国际比赛日后未受伤归队，可出战帕尔梅拉斯对阵Cruzeiro的比赛。"
       }
     ]
   },

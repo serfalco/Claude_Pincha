@@ -1,21 +1,21 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-20T00:07:00-03:00",
+  "actualizado": "2026-11-20T08:07:00-03:00",
   "hoy": {
-    "titular": "A ocho días de la final, Rojo contó cómo se gestó su vuelta al Pincha",
+    "titular": "A ocho días de la final, Medina espera por Correa y define el reemplazo de Baltasar",
     "foto": {
       "id": "2026-10-23_maracanazo-y-a-la-final_1",
       "alt": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo."
     },
-    "resumen": "Marcos Rojo contó cómo surgió su regreso a Estudiantes, a ocho días de la final con Palmeiras en el Centenario. En Brasil dan por hecho que Abel guardará a los titulares el sábado ante Flamengo, y Correa sigue en duda.",
+    "resumen": "Medina analiza variantes para cubrir a Baltasar Rodríguez y espera por Correa, que transita la etapa final de su recuperación. En Brasil, Abel iría con un equipo todo suplente el sábado ante Flamengo.",
     "siete": [
       {
-        "titulo": "Palmeiras, con suplentes ante Flamengo",
-        "texto": "En Brasil dan por hecho que Abel guardará a los titulares el sábado ante Flamengo, que puede ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final."
+        "titulo": "Palmeiras, con todos suplentes ante Flamengo",
+        "texto": "Según la Band, Abel pondrá un equipo íntegramente suplente el sábado ante Flamengo, al que le alcanza un empate para ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final."
       },
       {
-        "titulo": "Correa, en duda para la final",
-        "texto": "Sigue el tratamiento por el desgarro grado 2 en el bíceps femoral derecho y todavía no hay parte médico definitivo. El cuerpo técnico lo ve como una alternativa importante en ataque, pero su presencia en el Centenario no está asegurada."
+        "titulo": "Correa, en la recta final de su recuperación",
+        "texto": "Sigue en duda por el desgarro en el bíceps femoral derecho, pero según El Día está en la etapa final de la recuperación. La idea es que sea titular; si no llega en condiciones, podría entrar en el segundo tiempo y Cetré ganaría lugar."
       },
       {
         "titulo": "Rojo contó cómo volvió al Pincha",
@@ -23,7 +23,7 @@
       },
       {
         "titulo": "Habrá show en el entretiempo de la final",
-        "texto": "Por primera vez, la final de la Libertadores tendrá un espectáculo en el entretiempo, según anunció la Conmebol. El artista todavía no fue confirmado."
+        "texto": "Por primera vez, la final de la Libertadores tendrá un espectáculo en el entretiempo, según anunció la Conmebol."
       },
       {
         "titulo": "La hoja de ruta hasta el Centenario",
@@ -31,8 +31,8 @@
         "vence": "2026-11-25T23:59:00-03:00"
       },
       {
-        "titulo": "Sin Baltasar, Medina piensa en una línea de cinco",
-        "texto": "Baltasar Rodríguez, expulsado ante Flamengo en el Maracaná, no podrá jugar la final. Según El Día, el Cacique analiza poner cinco defensores en el Centenario para frenar las subidas de los laterales de Palmeiras."
+        "titulo": "Sin Baltasar, Medina repetiría la línea de cinco",
+        "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según El Día, la opción principal es repetir los tres centrales y dos carrileros del Maracaná, con Tobio Burgos por la izquierda; Diario Hoy menciona a Fabricio Pérez, titular en la Supercopa, como alternativa."
       },
       {
         "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
@@ -40,6 +40,18 @@
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-20T03:04:00-03:00",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/estudiantes-medina-analiza-variantes-y-aguarda-por-correa-deportes_1795154679",
+        "texto": "Medina analiza variantes y espera por Correa para la final."
+      },
+      {
+        "hora": "2026-11-20T00:00:00-03:00",
+        "fuente": "Diario Hoy",
+        "url": "https://diariohoy.net/el-clasico/a-ocho-dias-de-la-final-estudiantes-aun-no-definio-al-ultimo-titular-290412",
+        "texto": "A ocho días de la final, el Pincha todavía no definió quién reemplaza a Baltasar."
+      },
       {
         "hora": "2026-11-19T21:51:00-03:00",
         "fuente": "El Día",
@@ -77,6 +89,12 @@
         "texto": "Gómez contra Carrillo: la Conmebol palpitó la final con un video al estilo GTA."
       },
       {
+        "hora": "2026-11-19T15:14:00-03:00",
+        "fuente": "Nosso Palmeiras",
+        "url": "https://nossopalmeiras.com.br/noticias-do-palmeiras/palmeiras-campo-fla-re/",
+        "texto": "Palmeiras irá con un equipo todo suplente ante Flamengo para cuidarse para la final."
+      },
+      {
         "hora": "2026-11-19T09:47:00-03:00",
         "fuente": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2RIZDhzV054Rkw4bjBhUFFhS24zUWdKNTBEeFhXVjB1cGEweFBIeUE1Zy1PSTE4aTJzMDZwTGVNemp5TmNIV1J6N1dDdzZqLW1mR3R6b0llQ3A0Ym05enhhYnRxMmNsdnlQMVJGLUNKZ01OSHVlLWF3SHlVUFRIQnhVeDlTcHUxQWRkTDRhYkhxcEJxYXgxY2t6a1JYWDRpX3lOMjU4NDN1UW9EcklsamVJdExvYVZvWlphSA?oc=5",
@@ -101,28 +119,10 @@
         "texto": "Abel Ferreira, tras la derrota con Cruzeiro: \"El título está entregado\"."
       },
       {
-        "hora": "2026-11-18T23:16:00-03:00",
-        "fuente": "DeporTV",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGpaTm5abEhnN2pmcU1iV0FwcWVMZzljcjhmUTh4WXNaRlVPVzFLYUNzdm9LVjdiNW1yN0lrVlNvckJkMU1TUG9jdWFLaXREMlBCUWZhN1RkZHcwWGM2S3FNNUF5MG9GamIxQTJ4N0V1T2hFSG55S19aQnFxLWhOc1ZuV2ItaTBDQmxlOHFXamhvbVNmOWQ3WElna3FDQWdCQWd2dFRDUUV2dw?oc=5",
-        "texto": "Palmeiras perdió en el Mineirão y el Flaco López jugó su segundo partido en dos días."
-      },
-      {
         "hora": "2026-11-18T20:24:00-03:00",
         "fuente": "0221",
         "url": "https://www.0221.com.ar/estudiantes/la-agenda-definitiva-estudiantes-la-final-la-copa-libertadores-n137680",
         "texto": "Día por día, la agenda del plantel hasta la final: City Bell, viaje el miércoles 25 y prácticas en Montevideo."
-      },
-      {
-        "hora": "2026-11-18T17:00:00-03:00",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/locura-total-estudiantes-120-micros-barcos-agotados-y-35-mil-hinchas-que-se-esperan-montevideo-n137667",
-        "texto": "Locura total: 120 micros, barcos agotados y unos 35 mil pinchas esperados en Montevideo."
-      },
-      {
-        "hora": "2026-11-18T09:10:00-03:00",
-        "fuente": "Bolavip Brasil",
-        "url": "https://br.bolavip.com/palmeiras/giay-flaco-lopez-e-jhon-arias-passam-ilesos-e-reforcam-palmeiras-em-bh-para-enfrentar-cruzeiro",
-        "texto": "Giay, Flaco López y Arias volvieron sin lesiones de la fecha FIFA y quedan a disposición de Palmeiras ante Cruzeiro."
       }
     ]
   },
@@ -367,6 +367,9 @@
     }
   },
   "fuentes": [
+    "https://www.eldia.com/deportes/estudiantes-medina-analiza-variantes-y-aguarda-por-correa-deportes_1795154679",
+    "https://diariohoy.net/el-clasico/a-ocho-dias-de-la-final-estudiantes-aun-no-definio-al-ultimo-titular-290412",
+    "https://nossopalmeiras.com.br/noticias-do-palmeiras/palmeiras-campo-fla-re/",
     "https://www.futbolargentino.com/primera-division/clausura/tabla-de-posiciones",
     "https://promediosinfo.com/liga/argentina.html",
     "https://estudiantesdelaplata.com/aprobacion-unanime-del-ejercicio-no-121/",

@@ -1,18 +1,18 @@
 {
   "hoy": {
-    "titular": "Eight days out from the final, Rojo reveals how his return to the Pincha came about",
+    "titular": "Eight days out from the final, Medina waits on Correa and settles Baltasar's replacement",
     "foto": {
       "alt": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo."
     },
-    "resumen": "Marcos Rojo explained how his return to Estudiantes came about, eight days before the final against Palmeiras at the Centenario. The Brazilian press expects Abel to rest his starters against Flamengo on Saturday, and Correa remains a doubt.",
+    "resumen": "Medina is weighing options to cover for Baltasar Rodríguez and waiting on Correa, who is in the final stage of his recovery. In Brazil, Abel is set to field an all-reserve side against Flamengo on Saturday.",
     "siete": [
       {
-        "titulo": "Palmeiras to field reserves against Flamengo",
-        "texto": "The Brazilian press takes it as read that Abel will rest his starters on Saturday against Flamengo, who can clinch the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final."
+        "titulo": "Palmeiras to field an all-reserve side against Flamengo",
+        "texto": "According to Band, Abel will name a team made up entirely of reserves on Saturday against Flamengo, who need only a draw to win the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final."
       },
       {
-        "titulo": "Correa a doubt for the final",
-        "texto": "He is still being treated for a grade 2 tear in his right hamstring and there is no definitive medical update yet. The coaching staff see him as an important attacking option, but his involvement at the Centenario is not guaranteed."
+        "titulo": "Correa in the final stretch of his recovery",
+        "texto": "He remains a doubt with the tear in his right hamstring, but according to El Día he is in the final stage of his recovery. The plan is for him to start; if he is not fully fit, he could come on in the second half, which would open the door for Cetré."
       },
       {
         "titulo": "Rojo on how he came back to the Pincha",
@@ -20,15 +20,15 @@
       },
       {
         "titulo": "A half-time show at the final",
-        "texto": "For the first time, the Copa Libertadores final will have a half-time show, CONMEBOL announced. The artist has not been confirmed yet."
+        "texto": "For the first time, the Copa Libertadores final will have a half-time show, CONMEBOL announced."
       },
       {
         "titulo": "The road map to the Centenario",
         "texto": "The squad train in City Bell until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground."
       },
       {
-        "titulo": "Without Baltasar, Medina weighs a back five",
-        "texto": "Baltasar Rodríguez, sent off against Flamengo at the Maracanã, will miss the final. According to El Día, the coach is considering five defenders at the Centenario to stop Palmeiras' full-backs getting forward."
+        "titulo": "Without Baltasar, Medina likely to stick with a back five",
+        "texto": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to El Día, the main option is to repeat the three centre-backs and two wing-backs used at the Maracanã, with Tobio Burgos on the left; Diario Hoy names Fabricio Pérez, who started in the Supercopa Argentina, as an alternative."
       },
       {
         "titulo": "Around 35,000 Pincha fans head for Montevideo",
@@ -36,6 +36,12 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Medina weighs his options and waits on Correa for the final."
+      },
+      {
+        "texto": "Eight days before the final, the Pincha have yet to decide who replaces Baltasar."
+      },
       {
         "texto": "Rojo opens up: how his unexpected return to Estudiantes came together."
       },
@@ -55,6 +61,9 @@
         "texto": "Gómez vs Carrillo: CONMEBOL builds up to the final with a GTA-style video."
       },
       {
+        "texto": "Palmeiras will field an all-reserve side against Flamengo to protect players for the final."
+      },
+      {
         "texto": "What Estudiantes have to end Brazil's dominance of the Libertadores."
       },
       {
@@ -67,16 +76,7 @@
         "texto": "Abel Ferreira after the Cruzeiro defeat: \"The title has been handed over\"."
       },
       {
-        "texto": "Palmeiras lost at the Mineirão and Flaco López played his second match in two days."
-      },
-      {
         "texto": "Day by day, the squad's schedule up to the final: City Bell, travel on Wednesday 25th and training in Montevideo."
-      },
-      {
-        "texto": "Total frenzy: 120 coaches, sold-out ferries and around 35,000 Pincha fans expected in Montevideo."
-      },
-      {
-        "texto": "Giay, Flaco López and Arias came back injury-free from the international break and are available for Palmeiras against Cruzeiro."
       }
     ]
   },

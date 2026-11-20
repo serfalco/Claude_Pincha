@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-20",
   "titular": {
-    "es": "A ocho días de la final, Rojo contó cómo se gestó su vuelta al Pincha",
-    "en": "Eight days out from the final, Rojo reveals how his return to the Pincha came about",
-    "pt": "A oito dias da final, Rojo contou como foi a sua volta ao Pincha",
-    "zh": "距决赛还有八天，Rojo讲述重返Pincha的经过",
-    "hi": "फ़ाइनल से आठ दिन पहले Rojo ने बताया कि Pincha में उनकी वापसी कैसे हुई"
+    "es": "A ocho días de la final, Medina espera por Correa y define el reemplazo de Baltasar",
+    "en": "Eight days out from the final, Medina waits on Correa and settles Baltasar's replacement",
+    "pt": "A oito dias da final, Medina espera por Correa e define o substituto de Baltasar",
+    "zh": "距决赛还有八天，Medina等待Correa并敲定Baltasar的替代人选",
+    "hi": "फ़ाइनल से आठ दिन पहले Medina को Correa का इंतज़ार, Baltasar की जगह पर फ़ैसला बाक़ी"
   },
   "resumen": {
-    "es": "Marcos Rojo contó cómo surgió su regreso a Estudiantes, a ocho días de la final con Palmeiras en el Centenario. En Brasil dan por hecho que Abel guardará a los titulares el sábado ante Flamengo, y Correa sigue en duda.",
-    "en": "Marcos Rojo explained how his return to Estudiantes came about, eight days before the final against Palmeiras at the Centenario. The Brazilian press expects Abel to rest his starters against Flamengo on Saturday, and Correa remains a doubt.",
-    "pt": "Marcos Rojo contou como surgiu a sua volta ao Estudiantes, a oito dias da final contra o Palmeiras no Centenario. No Brasil, dão como certo que Abel vai poupar os titulares no sábado contra o Flamengo, e Correa segue em dúvida.",
-    "zh": "距与Palmeiras在Centenario的决赛还有八天，Marcos Rojo讲述了重返Estudiantes的来龙去脉。巴西媒体认定Abel周六对阵Flamengo将轮换主力，Correa仍存疑。",
-    "hi": "Centenario में Palmeiras के ख़िलाफ़ फ़ाइनल से आठ दिन पहले Marcos Rojo ने बताया कि Estudiantes में उनकी वापसी कैसे हुई। ब्राज़ील में माना जा रहा है कि Abel शनिवार को Flamengo के ख़िलाफ़ नियमित खिलाड़ियों को आराम देंगे, और Correa पर अब भी संदेह है।"
+    "es": "Medina analiza variantes para cubrir a Baltasar Rodríguez y espera por Correa, que transita la etapa final de su recuperación. En Brasil, Abel iría con un equipo todo suplente el sábado ante Flamengo.",
+    "en": "Medina is weighing options to cover for Baltasar Rodríguez and waiting on Correa, who is in the final stage of his recovery. In Brazil, Abel is set to field an all-reserve side against Flamengo on Saturday.",
+    "pt": "Medina avalia alternativas para substituir Baltasar Rodríguez e espera por Correa, que está na fase final da recuperação. No Brasil, Abel deve escalar um time todo reserva no sábado contra o Flamengo.",
+    "zh": "Medina正在考虑替代Baltasar Rodríguez的方案，同时等待已进入康复最后阶段的Correa。巴西方面，Abel周六对阵Flamengo将派出全替补阵容。",
+    "hi": "Medina, Baltasar Rodríguez की जगह भरने के विकल्पों पर विचार कर रहे हैं और Correa का इंतज़ार कर रहे हैं, जो रिकवरी के अंतिम चरण में हैं। ब्राज़ील में Abel शनिवार को Flamengo के ख़िलाफ़ पूरी रिज़र्व टीम उतारेंगे।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -40,34 +40,34 @@
   "siete": [
     {
       "titulo": {
-        "es": "Palmeiras, con suplentes ante Flamengo",
-        "en": "Palmeiras to field reserves against Flamengo",
-        "pt": "Palmeiras com reservas contra o Flamengo",
-        "zh": "帕尔梅拉斯将派替补迎战弗拉门戈",
-        "hi": "Flamengo के ख़िलाफ़ Palmeiras की रिज़र्व टीम"
+        "es": "Palmeiras, con todos suplentes ante Flamengo",
+        "en": "Palmeiras to field an all-reserve side against Flamengo",
+        "pt": "Palmeiras com time todo reserva contra o Flamengo",
+        "zh": "帕尔梅拉斯将派全替补迎战弗拉门戈",
+        "hi": "Flamengo के ख़िलाफ़ Palmeiras की पूरी रिज़र्व टीम"
       },
       "texto": {
-        "es": "En Brasil dan por hecho que Abel guardará a los titulares el sábado ante Flamengo, que puede ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final.",
-        "en": "The Brazilian press takes it as read that Abel will rest his starters on Saturday against Flamengo, who can clinch the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final.",
-        "pt": "No Brasil, dá-se como certo que Abel vai poupar os titulares no sábado contra o Flamengo, que pode ser campeão do Brasileirão. Na terça, dia 24, o Palmeiras visita a Chapecoense às 18h e depois terá três dias até a final.",
-        "zh": "巴西媒体普遍认为，Abel 周六对阵可能提前夺得巴甲冠军的 Flamengo 时将轮换主力。24 日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。",
-        "hi": "ब्राज़ीली मीडिया मान रहा है कि Abel शनिवार को Flamengo के ख़िलाफ़ मुख्य खिलाड़ियों को आराम देंगे; Flamengo उस दिन ब्राज़ीलियाई लीग जीत सकता है। मंगलवार 24 तारीख़ को Palmeiras 18:00 बजे Chapecoense से उसके मैदान पर खेलेगा और उसके बाद फ़ाइनल के लिए सिर्फ़ तीन दिन बचेंगे।"
+        "es": "Según la Band, Abel pondrá un equipo íntegramente suplente el sábado ante Flamengo, al que le alcanza un empate para ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final.",
+        "en": "According to Band, Abel will name a team made up entirely of reserves on Saturday against Flamengo, who need only a draw to win the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final.",
+        "pt": "Segundo a Band, Abel vai escalar um time totalmente reserva no sábado contra o Flamengo, que precisa só de um empate para ser campeão do Brasileirão. Na terça, dia 24, o Palmeiras visita a Chapecoense às 18h e depois terá três dias até a final.",
+        "zh": "据Band报道，Abel周六对阵Flamengo将排出清一色替补阵容，Flamengo只需战平即可夺得巴甲冠军。24日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。",
+        "hi": "Band के अनुसार Abel शनिवार को Flamengo के ख़िलाफ़ पूरी तरह रिज़र्व खिलाड़ियों की टीम उतारेंगे; Flamengo को ब्राज़ीलियाई लीग जीतने के लिए सिर्फ़ ड्रॉ चाहिए। मंगलवार 24 तारीख़ को Palmeiras 18:00 बजे Chapecoense से उसके मैदान पर खेलेगा और उसके बाद फ़ाइनल के लिए सिर्फ़ तीन दिन बचेंगे।"
       }
     },
     {
       "titulo": {
-        "es": "Correa, en duda para la final",
-        "en": "Correa a doubt for the final",
-        "pt": "Correa, dúvida para a final",
-        "zh": "Correa决赛出战成疑",
-        "hi": "फ़ाइनल के लिए Correa पर संशय"
+        "es": "Correa, en la recta final de su recuperación",
+        "en": "Correa in the final stretch of his recovery",
+        "pt": "Correa na reta final da recuperação",
+        "zh": "Correa进入康复最后阶段",
+        "hi": "Correa रिकवरी के अंतिम चरण में"
       },
       "texto": {
-        "es": "Sigue el tratamiento por el desgarro grado 2 en el bíceps femoral derecho y todavía no hay parte médico definitivo. El cuerpo técnico lo ve como una alternativa importante en ataque, pero su presencia en el Centenario no está asegurada.",
-        "en": "He is still being treated for a grade 2 tear in his right hamstring and there is no definitive medical update yet. The coaching staff see him as an important attacking option, but his involvement at the Centenario is not guaranteed.",
-        "pt": "Segue o tratamento da lesão grau 2 no bíceps femoral direito e ainda não há boletim médico definitivo. A comissão técnica o vê como uma alternativa importante no ataque, mas sua presença no Centenario não está garantida.",
-        "zh": "他仍在治疗右腿股二头肌二级拉伤，目前尚无最终伤情报告。教练组视他为重要的进攻选择，但能否在Centenario球场出场仍不确定。",
-        "hi": "दाएँ पैर की हैमस्ट्रिंग में ग्रेड 2 खिंचाव का इलाज जारी है और अभी कोई अंतिम मेडिकल अपडेट नहीं आया है। कोचिंग स्टाफ़ उन्हें आक्रमण का अहम विकल्प मानता है, लेकिन Centenario में उनका खेलना तय नहीं है।"
+        "es": "Sigue en duda por el desgarro en el bíceps femoral derecho, pero según El Día está en la etapa final de la recuperación. La idea es que sea titular; si no llega en condiciones, podría entrar en el segundo tiempo y Cetré ganaría lugar.",
+        "en": "He remains a doubt with the tear in his right hamstring, but according to El Día he is in the final stage of his recovery. The plan is for him to start; if he is not fully fit, he could come on in the second half, which would open the door for Cetré.",
+        "pt": "Segue em dúvida pela lesão no bíceps femoral direito, mas segundo o El Día está na fase final da recuperação. A ideia é que seja titular; se não chegar em condições, pode entrar no segundo tempo e Cetré ganharia espaço.",
+        "zh": "他仍因右腿股二头肌拉伤而出战成疑，但据El Día报道，他已进入康复的最后阶段。教练组希望他首发；若状态不足，他可能在下半场替补登场，Cetré则有望获得位置。",
+        "hi": "दाएँ पैर की हैमस्ट्रिंग की चोट के कारण उन पर अब भी संशय है, लेकिन El Día के अनुसार वे रिकवरी के अंतिम चरण में हैं। योजना उन्हें शुरुआत से खिलाने की है; पूरी तरह फ़िट न होने पर वे दूसरे हाफ़ में उतर सकते हैं और तब Cetré को मौक़ा मिल सकता है।"
       }
     },
     {
@@ -95,11 +95,11 @@
         "hi": "फ़ाइनल में होगा हाफ़-टाइम शो"
       },
       "texto": {
-        "es": "Por primera vez, la final de la Libertadores tendrá un espectáculo en el entretiempo, según anunció la Conmebol. El artista todavía no fue confirmado.",
-        "en": "For the first time, the Copa Libertadores final will have a half-time show, CONMEBOL announced. The artist has not been confirmed yet.",
-        "pt": "Pela primeira vez, a final da Libertadores terá um espetáculo no intervalo, anunciou a Conmebol. O artista ainda não foi confirmado.",
-        "zh": "南美足联宣布，解放者杯决赛将首次在中场休息时举行表演。表演嘉宾尚未确定。",
-        "hi": "CONMEBOL ने घोषणा की है कि पहली बार Copa Libertadores फ़ाइनल में हाफ़-टाइम शो होगा। कलाकार का नाम अभी तय नहीं हुआ है।"
+        "es": "Por primera vez, la final de la Libertadores tendrá un espectáculo en el entretiempo, según anunció la Conmebol.",
+        "en": "For the first time, the Copa Libertadores final will have a half-time show, CONMEBOL announced.",
+        "pt": "Pela primeira vez, a final da Libertadores terá um espetáculo no intervalo, anunciou a Conmebol.",
+        "zh": "南美足联宣布，解放者杯决赛将首次在中场休息时举行表演。",
+        "hi": "CONMEBOL ने घोषणा की है कि पहली बार Copa Libertadores फ़ाइनल में हाफ़-टाइम शो होगा।"
       }
     },
     {
@@ -120,18 +120,18 @@
     },
     {
       "titulo": {
-        "es": "Sin Baltasar, Medina piensa en una línea de cinco",
-        "en": "Without Baltasar, Medina weighs a back five",
-        "pt": "Sem Baltasar, Medina pensa em linha de cinco",
-        "zh": "Baltasar停赛，Medina考虑五后卫",
-        "hi": "Baltasar के बिना, Medina पाँच डिफ़ेंडरों पर विचार कर रहे हैं"
+        "es": "Sin Baltasar, Medina repetiría la línea de cinco",
+        "en": "Without Baltasar, Medina likely to stick with a back five",
+        "pt": "Sem Baltasar, Medina deve repetir a linha de cinco",
+        "zh": "Baltasar停赛，Medina或沿用五后卫",
+        "hi": "Baltasar के बिना Medina पाँच डिफ़ेंडरों वाली लाइन दोहरा सकते हैं"
       },
       "texto": {
-        "es": "Baltasar Rodríguez, expulsado ante Flamengo en el Maracaná, no podrá jugar la final. Según El Día, el Cacique analiza poner cinco defensores en el Centenario para frenar las subidas de los laterales de Palmeiras.",
-        "en": "Baltasar Rodríguez, sent off against Flamengo at the Maracanã, will miss the final. According to El Día, the coach is considering five defenders at the Centenario to stop Palmeiras' full-backs getting forward.",
-        "pt": "Baltasar Rodríguez, expulso contra o Flamengo no Maracanã, está fora da final. Segundo o El Día, o técnico avalia escalar cinco defensores no Centenario para frear o apoio dos laterais do Palmeiras.",
-        "zh": "在马拉卡纳对阵弗拉门戈时被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，主帅正考虑在Centenario排出五名后卫，以遏制帕尔梅拉斯边后卫的插上。",
-        "hi": "Maracanã में Flamengo के ख़िलाफ़ रेड कार्ड पाने वाले Baltasar Rodríguez फ़ाइनल नहीं खेल पाएँगे। El Día के अनुसार कोच Centenario में पाँच डिफ़ेंडर उतारने पर विचार कर रहे हैं ताकि Palmeiras के फ़ुल-बैक आगे न बढ़ सकें।"
+        "es": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según El Día, la opción principal es repetir los tres centrales y dos carrileros del Maracaná, con Tobio Burgos por la izquierda; Diario Hoy menciona a Fabricio Pérez, titular en la Supercopa, como alternativa.",
+        "en": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to El Día, the main option is to repeat the three centre-backs and two wing-backs used at the Maracanã, with Tobio Burgos on the left; Diario Hoy names Fabricio Pérez, who started in the Supercopa Argentina, as an alternative.",
+        "pt": "Baltasar Rodríguez, expulso contra o Flamengo, está fora da final. Segundo o El Día, a principal opção é repetir os três zagueiros e dois alas do Maracanã, com Tobio Burgos pela esquerda; o Diario Hoy cita Fabricio Pérez, titular na Supercopa Argentina, como alternativa.",
+        "zh": "对阵Flamengo被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，首选方案是沿用马拉卡纳之战的三中卫加两名边翼卫，左路由Tobio Burgos出任；Diario Hoy则提到在Supercopa Argentina首发的Fabricio Pérez是另一选择。",
+        "hi": "Flamengo के ख़िलाफ़ रेड कार्ड पाने वाले Baltasar Rodríguez फ़ाइनल नहीं खेल पाएँगे। El Día के अनुसार मुख्य विकल्प Maracanã वाली तीन सेंटर-बैक और दो विंग-बैक की संरचना दोहराना है, बाईं ओर Tobio Burgos के साथ; Diario Hoy ने Supercopa Argentina में शुरुआत करने वाले Fabricio Pérez को विकल्प बताया है।"
       }
     },
     {
@@ -161,5 +161,30 @@
       "hi": "Flamengo के ख़िलाफ़ सेमीफ़ाइनल से पहले Maracanã में Estudiantes के शुरुआती खिलाड़ी फ़ोटो के लिए खड़े।"
     }
   },
-  "linea": []
+  "linea": [
+    {
+      "hora": "2026-11-20T03:04:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/estudiantes-medina-analiza-variantes-y-aguarda-por-correa-deportes_1795154679",
+      "texto": {
+        "es": "Medina analiza variantes y espera por Correa para la final.",
+        "en": "Medina weighs his options and waits on Correa for the final.",
+        "pt": "Medina avalia variações e espera por Correa para a final.",
+        "zh": "Medina考虑多种方案，等待Correa出战决赛。",
+        "hi": "Medina विकल्पों पर विचार कर रहे हैं और फ़ाइनल के लिए Correa का इंतज़ार है।"
+      }
+    },
+    {
+      "hora": "2026-11-20T00:00:00-03:00",
+      "fuente": "Diario Hoy",
+      "url": "https://diariohoy.net/el-clasico/a-ocho-dias-de-la-final-estudiantes-aun-no-definio-al-ultimo-titular-290412",
+      "texto": {
+        "es": "A ocho días de la final, el Pincha todavía no definió quién reemplaza a Baltasar.",
+        "en": "Eight days before the final, the Pincha have yet to decide who replaces Baltasar.",
+        "pt": "A oito dias da final, o Pincha ainda não definiu quem substitui Baltasar.",
+        "zh": "距决赛还有八天，Pincha仍未确定由谁替代Baltasar。",
+        "hi": "फ़ाइनल से आठ दिन पहले भी Pincha ने तय नहीं किया है कि Baltasar की जगह कौन खेलेगा।"
+      }
+    }
+  ]
 }
