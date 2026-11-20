@@ -1,29 +1,33 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-20T08:07:00-03:00",
+  "actualizado": "2026-11-20T18:07:00-03:00",
   "hoy": {
-    "titular": "A ocho días de la final, Medina espera por Correa y define el reemplazo de Baltasar",
+    "titular": "A ocho días de la final, Medina espera por Correa y Palmeiras cuenta sus lesionados",
     "foto": {
       "id": "2026-10-23_maracanazo-y-a-la-final_1",
       "alt": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo."
     },
-    "resumen": "Medina analiza variantes para cubrir a Baltasar Rodríguez y espera por Correa, que transita la etapa final de su recuperación. En Brasil, Abel iría con un equipo todo suplente el sábado ante Flamengo.",
+    "resumen": "Medina espera por Correa y define el reemplazo de Baltasar Rodríguez. En Palmeiras, Piquerez, Murilo y Paulinho están en duda para la final, y el plantel del Pincha compartió un asado en City Bell.",
     "siete": [
-      {
-        "titulo": "Palmeiras, con todos suplentes ante Flamengo",
-        "texto": "Según la Band, Abel pondrá un equipo íntegramente suplente el sábado ante Flamengo, al que le alcanza un empate para ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final."
-      },
       {
         "titulo": "Correa, en la recta final de su recuperación",
         "texto": "Sigue en duda por el desgarro en el bíceps femoral derecho, pero según El Día está en la etapa final de la recuperación. La idea es que sea titular; si no llega en condiciones, podría entrar en el segundo tiempo y Cetré ganaría lugar."
       },
       {
-        "titulo": "Rojo contó cómo volvió al Pincha",
-        "texto": "Marcos Rojo reveló que la chance de regresar surgió después de la serie con Corinthians y contó quiénes fueron clave para que se concretara su vuelta."
+        "titulo": "Sin Baltasar, Medina repetiría la línea de cinco",
+        "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según El Día, la opción principal es repetir los tres centrales y dos carrileros del Maracaná, con Tobio Burgos por la izquierda; Diario Hoy menciona a Fabricio Pérez, titular en la Supercopa, como alternativa."
       },
       {
-        "titulo": "Habrá show en el entretiempo de la final",
-        "texto": "Por primera vez, la final de la Libertadores tendrá un espectáculo en el entretiempo, según anunció la Conmebol."
+        "titulo": "Palmeiras, con tres en duda para la final",
+        "texto": "Según la prensa brasileña, Piquerez (muslo derecho) llega con dificultades y Murilo (muslo izquierdo) ya trabaja con pelota y tiene más chances. Paulinho, fuera desde el 21 de octubre, sigue sin fecha de regreso y es el caso más complicado."
+      },
+      {
+        "titulo": "Palmeiras, con todos suplentes ante Flamengo",
+        "texto": "Según la Band, Abel pondrá un equipo íntegramente suplente el sábado ante Flamengo, al que le alcanza un empate para ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final."
+      },
+      {
+        "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
+        "texto": "Viajan 120 micros: 60 del club, que salen el viernes 27 por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club."
       },
       {
         "titulo": "La hoja de ruta hasta el Centenario",
@@ -31,15 +35,53 @@
         "vence": "2026-11-25T23:59:00-03:00"
       },
       {
-        "titulo": "Sin Baltasar, Medina repetiría la línea de cinco",
-        "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según El Día, la opción principal es repetir los tres centrales y dos carrileros del Maracaná, con Tobio Burgos por la izquierda; Diario Hoy menciona a Fabricio Pérez, titular en la Supercopa, como alternativa."
-      },
-      {
-        "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
-        "texto": "Viajan 120 micros: 60 del club, que salen el viernes 27 por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club."
+        "titulo": "Asado del plantel en City Bell",
+        "texto": "El plantel compartió un asado en el Country de City Bell para festejar puertas adentro la Supercopa y fortalecer el grupo antes de la final con Palmeiras."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-20T15:03:00-03:00",
+        "fuente": "Olé",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2VQQWhtRVVYSFM2OGpVT3RXTnpmWUExVmt1Ul9OMWFwY3NNUldFZkxWV2k4UjFCRmphY09aME51Q21ZOVRDVGcxWFpUUlZUZnU1TlhRMk8tMXZaQklGazlpT2o1YTRXUU1EZTdqWWtqRTBCa0M1dlJRTjRCNzVjT3JkcWh2aG1YbVhwbWlDLWlRTkIzWDVWM21TZVpUREF3ZXBnQmFzWFo4RHVWS1l2ZkpONmQyRGVWWS1OWVFYT1g2dTdJZ0oyLXUyZ2ZqVGJmTDYxM0NIYWHSAd4BQVVfeXFMT0U4NXlkaEFyYk5IU3dnbUJhRTRzbU44TUxWWGlOb040emNnU1FncmVVLTROblNlQkRyMDQyMDJodVZOckdnTEZxZ0N0Mlh2WXJaOS0wcFBzV1ZJb2RLS0syUk5XMUQxTFBUY2pwYlBuNjF3aUVGQTNBa0ktaG5QTHJyT25Ld3FkUEpNVllwbU1ON2VjbVZFdF8yU2Z1RUM3WFRPOXpIX3ZKVzVrdEQ5LVpIM3dkal9LTk9uTzFnbHJsV0VtdGJqMGtweFlYeGtsaWdmSzlwRzdSSWFvMzFn?oc=5",
+        "texto": "El plantel festejó la Supercopa con un asado y buen clima antes de la final."
+      },
+      {
+        "hora": "2026-11-20T12:40:00-03:00",
+        "fuente": "Portal do Palestra",
+        "url": "https://portaldopalestra.com.br/paulinho-lesao-panturrilha-sem-prazo-finais-palmeiras-libertadores/",
+        "texto": "Paulinho sigue sin fecha de regreso y es duda en Palmeiras para la final."
+      },
+      {
+        "hora": "2026-11-20T10:12:00-03:00",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/el-escudo-estudiantes-ya-luce-el-estadio-centenario-y-crece-la-ilusion-la-copa-libertadores-n137747",
+        "texto": "El escudo del Pincha ya luce en el Estadio Centenario."
+      },
+      {
+        "hora": "2026-11-20T09:55:00-03:00",
+        "fuente": "Punto Capital",
+        "url": "https://www.puntocapitalnoticias.com/veron-comparo-a-nico-paz-con-messi-y-maradona-y-destaco-su-talento-tiene-las-cualidades-para-intentarlo/",
+        "texto": "Verón comparó a Nico Paz con Messi y Maradona."
+      },
+      {
+        "hora": "2026-11-20T09:20:00-03:00",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/un-asado-alimentar-la-ilusion-estudiantes-se-prepara-la-final-la-copa-libertadores-palmeiras-n137743",
+        "texto": "Un asado en City Bell para alimentar la ilusión antes de Montevideo."
+      },
+      {
+        "hora": "2026-11-20T09:02:00-03:00",
+        "fuente": "Infocielo",
+        "url": "https://www.infocielo.com/deportes/palmeiras-en-alerta-tres-figuras-entre-algodones-a-dias-de-la-final-ante-estudiantes",
+        "texto": "Palmeiras en alerta: tres figuras entre algodones a días de la final."
+      },
+      {
+        "hora": "2026-11-20T08:36:00-03:00",
+        "fuente": "Tribuna de Jundiaí",
+        "url": "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
+        "texto": "Palmeiras espera recuperar a Piquerez, Murilo y Paulinho para la final."
+      },
       {
         "hora": "2026-11-20T03:04:00-03:00",
         "fuente": "El Día",
@@ -81,48 +123,6 @@
         "fuente": "Infocielo",
         "url": "https://www.infocielo.com/deportes/abel-ferreira-se-bajo-del-brasileirao-y-puso-la-final-con-estudiantes-como-prioridad-va-con-suplentes-ante-el-fla",
         "texto": "¿Suplentes ante Flamengo? Lo que dijo Abel tras priorizar la final con Estudiantes."
-      },
-      {
-        "hora": "2026-11-19T15:55:00-03:00",
-        "fuente": "DSports",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZVRzZEF4T3RxdTlhVi1xQ2RFSWZ3OFZuQ0pNVjQ3X0JFZXJKOVlyMDVULVFVTTRZRXRKVVJQYzV4aEo2dy03QWs0TGhDdjJxRWdETzZKeXNyNVFWaW44RUc0S3IzME1uVkJSTy13RC1mTUt2blJ3WFlJQUJUV2w3U2U2NlZZTU9KQzhzdFJxbjJXblk5WVdfWURsSnFTLXUtSTNhTFkxNXNULXV5WERXZG5IWnBmc1FNTjBsTjFSRk1PcWpHQVdJdmRnU1NsQ1RkNTlmU1BhMWo1NVZsWTEzLVlScGJYT2NseERoSE1fbFpBLUR1VHNUeDdR0gH_AUFVX3lxTFB1Vlhqa2tPbGFCRFRkUFJLY1pLYmJKNWdlcTVIVlZTdTl5dl9TaFR4ZmI2OWN3TWliWlllWmFuUE5zZ1JyZXFQTnBteWhGRjFBWDhDRWxNVU1tMzIyTnJCVk5mbWNPUERWdlQ2MGY5c1RfQjVXaVRSeXBNQ3E0NlhhUk1LRWdLQnEtc05GenRfOXp6SzJNMEk1dHE0dXJ3SlExQThNSVFIUjN0alREb19nUmpDVVJBazFDdUZDc1R1c3pVck9LTXdFWUFuUF9HUFFCZE9sTDI0Sm5lNEZoZDYtdUZmcDFNYmFUcFM3UTI5YjJ6eTY2Q1hFV0NJRGxqcw?oc=5",
-        "texto": "Gómez contra Carrillo: la Conmebol palpitó la final con un video al estilo GTA."
-      },
-      {
-        "hora": "2026-11-19T15:14:00-03:00",
-        "fuente": "Nosso Palmeiras",
-        "url": "https://nossopalmeiras.com.br/noticias-do-palmeiras/palmeiras-campo-fla-re/",
-        "texto": "Palmeiras irá con un equipo todo suplente ante Flamengo para cuidarse para la final."
-      },
-      {
-        "hora": "2026-11-19T09:47:00-03:00",
-        "fuente": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2RIZDhzV054Rkw4bjBhUFFhS24zUWdKNTBEeFhXVjB1cGEweFBIeUE1Zy1PSTE4aTJzMDZwTGVNemp5TmNIV1J6N1dDdzZqLW1mR3R6b0llQ3A0Ym05enhhYnRxMmNsdnlQMVJGLUNKZ01OSHVlLWF3SHlVUFRIQnhVeDlTcHUxQWRkTDRhYkhxcEJxYXgxY2t6a1JYWDRpX3lOMjU4NDN1UW9EcklsamVJdExvYVZvWlphSA?oc=5",
-        "texto": "Qué tiene Estudiantes para cortar la hegemonía brasileña en la Libertadores."
-      },
-      {
-        "hora": "2026-11-19T00:00:00-03:00",
-        "fuente": "France 24",
-        "url": "https://www.france24.com/es/minuto-a-minuto/20261119-final-de-la-libertadores-tendr%C3%A1-show-de-entretiempo-por-primera-vez",
-        "texto": "La final de la Libertadores tendrá show de entretiempo por primera vez."
-      },
-      {
-        "hora": "2026-11-19T00:00:00-03:00",
-        "fuente": "TV Sim Brasil",
-        "url": "https://tvsimbrasil.com.br/sp/sao-paulo/esportes/noticia/2026/11/19/palmeiras-escala-time-reserva-enfrentar-flamengo-sabado",
-        "texto": "Palmeiras irá con un equipo suplente el sábado ante Flamengo."
-      },
-      {
-        "hora": "2026-11-18T23:31:00-03:00",
-        "fuente": "Lance!",
-        "url": "https://www.lance.com.br/palmeiras/titulo-esta-entregue-abel-comenta-disputa-com-o-flamengo-apos-derrota-do-palmeiras.html",
-        "texto": "Abel Ferreira, tras la derrota con Cruzeiro: \"El título está entregado\"."
-      },
-      {
-        "hora": "2026-11-18T20:24:00-03:00",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/la-agenda-definitiva-estudiantes-la-final-la-copa-libertadores-n137680",
-        "texto": "Día por día, la agenda del plantel hasta la final: City Bell, viaje el miércoles 25 y prácticas en Montevideo."
       }
     ]
   },
@@ -367,6 +367,11 @@
     }
   },
   "fuentes": [
+    "https://portaldopalestra.com.br/paulinho-lesao-panturrilha-sem-prazo-finais-palmeiras-libertadores/",
+    "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
+    "https://www.infocielo.com/deportes/palmeiras-en-alerta-tres-figuras-entre-algodones-a-dias-de-la-final-ante-estudiantes",
+    "https://www.0221.com.ar/estudiantes/un-asado-alimentar-la-ilusion-estudiantes-se-prepara-la-final-la-copa-libertadores-palmeiras-n137743",
+    "https://www.0221.com.ar/estudiantes/el-escudo-estudiantes-ya-luce-el-estadio-centenario-y-crece-la-ilusion-la-copa-libertadores-n137747",
     "https://www.eldia.com/deportes/estudiantes-medina-analiza-variantes-y-aguarda-por-correa-deportes_1795154679",
     "https://diariohoy.net/el-clasico/a-ocho-dias-de-la-final-estudiantes-aun-no-definio-al-ultimo-titular-290412",
     "https://nossopalmeiras.com.br/noticias-do-palmeiras/palmeiras-campo-fla-re/",

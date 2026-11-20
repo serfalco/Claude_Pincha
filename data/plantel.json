@@ -1,6 +1,6 @@
 {
   "_info": "Memoria de bajas entre corridas: suspensiones, lesiones y altas del plantel y del rival que viene. No se publica: lo usan la cobertura (alertas) y el build (que las Siete no contradigan esto). Ver ACTUALIZAR.md › Verificación.",
-  "actualizado": "2026-11-20T08:07:00-03:00",
+  "actualizado": "2026-11-20T18:07:00-03:00",
   "bajas": [
     {
       "jugador": "Baltasar Rodríguez",
@@ -44,11 +44,42 @@
       "equipo": "Palmeiras",
       "estado": "en duda",
       "motivo": "lesión",
-      "detalle": "Lesión en el muslo derecho jugando para Uruguay; sin fecha de regreso.",
+      "detalle": "Lesión en el muslo derecho (Uruguay-Argentina, 13/11); tratamiento intensivo, sin fecha oficial de regreso. Según Tribuna de Jundiaí (20/11), es difícil que llegue a la final.",
       "hasta": "Sin confirmar para la final",
       "fuentes": [
         "https://www.lance.com.br/palmeiras/escalacao-palmeiras-encerra-preparacao-e-abel-busca-alternativas-sem-convocados.html",
-        "https://abcdoabc.com.br/palmeiras-conta-com-piquerez-para-fina/"
+        "https://abcdoabc.com.br/palmeiras-conta-com-piquerez-para-fina/",
+        "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/"
+      ]
+    },
+    {
+      "jugador": "Murilo",
+      "alias": [
+        "Murilo"
+      ],
+      "equipo": "Palmeiras",
+      "estado": "en duda",
+      "motivo": "lesión",
+      "detalle": "Lesión en el muslo izquierdo ante Vasco (8/11). El 19/11 empezó la transición física con trabajo con pelota; evolución positiva, sin fecha de regreso.",
+      "hasta": "Sin confirmar para la final",
+      "fuentes": [
+        "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
+        "https://www.infocielo.com/deportes/palmeiras-en-alerta-tres-figuras-entre-algodones-a-dias-de-la-final-ante-estudiantes"
+      ]
+    },
+    {
+      "jugador": "Paulinho",
+      "alias": [
+        "Paulinho"
+      ],
+      "equipo": "Palmeiras",
+      "estado": "en duda",
+      "motivo": "lesión",
+      "detalle": "Fuera desde el 21/10 (pierna derecha, zona operada); inflamaciones persistentes según el club (18/11). Sin fecha de regreso ni transición al campo; el caso más complicado.",
+      "hasta": "Sin confirmar para la final",
+      "fuentes": [
+        "https://portaldopalestra.com.br/paulinho-lesao-panturrilha-sem-prazo-finais-palmeiras-libertadores/",
+        "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/"
       ]
     }
   ]

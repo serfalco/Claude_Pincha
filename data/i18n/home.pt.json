@@ -1,41 +1,62 @@
 {
   "hoy": {
-    "titular": "A oito dias da final, Medina espera por Correa e define o substituto de Baltasar",
+    "titular": "A oito dias da final, Medina espera por Correa e o Palmeiras conta seus lesionados",
     "foto": {
       "alt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo."
     },
-    "resumen": "Medina avalia alternativas para substituir Baltasar Rodríguez e espera por Correa, que está na fase final da recuperação. No Brasil, Abel deve escalar um time todo reserva no sábado contra o Flamengo.",
+    "resumen": "Medina espera por Correa e define o substituto de Baltasar Rodríguez. No Palmeiras, Piquerez, Murilo e Paulinho são dúvidas para a final, e o elenco do Pincha fez um churrasco em City Bell.",
     "siete": [
-      {
-        "titulo": "Palmeiras com time todo reserva contra o Flamengo",
-        "texto": "Segundo a Band, Abel vai escalar um time totalmente reserva no sábado contra o Flamengo, que precisa só de um empate para ser campeão do Brasileirão. Na terça, dia 24, o Palmeiras visita a Chapecoense às 18h e depois terá três dias até a final."
-      },
       {
         "titulo": "Correa na reta final da recuperação",
         "texto": "Segue em dúvida pela lesão no bíceps femoral direito, mas segundo o El Día está na fase final da recuperação. A ideia é que seja titular; se não chegar em condições, pode entrar no segundo tempo e Cetré ganharia espaço."
-      },
-      {
-        "titulo": "Rojo contou como voltou ao Pincha",
-        "texto": "Marcos Rojo revelou que a chance de voltar surgiu depois do confronto com o Corinthians e contou quem foi fundamental para concretizar o retorno."
-      },
-      {
-        "titulo": "Vai ter show no intervalo da final",
-        "texto": "Pela primeira vez, a final da Libertadores terá um espetáculo no intervalo, anunciou a Conmebol."
-      },
-      {
-        "titulo": "O roteiro até o Centenario",
-        "texto": "O elenco treina em City Bell até quarta-feira, 25 (domingo é folga), e nessa tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque."
       },
       {
         "titulo": "Sem Baltasar, Medina deve repetir a linha de cinco",
         "texto": "Baltasar Rodríguez, expulso contra o Flamengo, está fora da final. Segundo o El Día, a principal opção é repetir os três zagueiros e dois alas do Maracanã, com Tobio Burgos pela esquerda; o Diario Hoy cita Fabricio Pérez, titular na Supercopa Argentina, como alternativa."
       },
       {
+        "titulo": "Palmeiras tem três dúvidas para a final",
+        "texto": "Segundo a imprensa brasileira, Piquerez (coxa direita) dificilmente estará em condições e Murilo (coxa esquerda) já treina com bola e tem mais chances. Paulinho, fora desde 21 de outubro, segue sem prazo de volta e é o caso mais complicado."
+      },
+      {
+        "titulo": "Palmeiras com time todo reserva contra o Flamengo",
+        "texto": "Segundo a Band, Abel vai escalar um time totalmente reserva no sábado contra o Flamengo, que precisa só de um empate para ser campeão do Brasileirão. Na terça, dia 24, o Palmeiras visita a Chapecoense às 18h e depois terá três dias até a final."
+      },
+      {
         "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
         "texto": "Viajam 120 ônibus: 60 do clube, que saem na tarde de sexta-feira, 27, do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario."
+      },
+      {
+        "titulo": "O roteiro até o Centenario",
+        "texto": "O elenco treina em City Bell até quarta-feira, 25 (domingo é folga), e nessa tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque."
+      },
+      {
+        "titulo": "Churrasco do elenco em City Bell",
+        "texto": "O elenco fez um churrasco no Country de City Bell para comemorar a Supercopa entre eles e fortalecer o grupo antes da final contra o Palmeiras."
       }
     ],
     "linea": [
+      {
+        "texto": "O elenco comemorou a Supercopa com churrasco e bom clima antes da final."
+      },
+      {
+        "texto": "Paulinho segue sem prazo de volta e é dúvida no Palmeiras para a final."
+      },
+      {
+        "texto": "O escudo do Pincha já está no Estádio Centenario."
+      },
+      {
+        "texto": "Verón comparou Nico Paz a Messi e Maradona."
+      },
+      {
+        "texto": "Um churrasco em City Bell para alimentar o sonho antes de Montevidéu."
+      },
+      {
+        "texto": "Palmeiras em alerta: três jogadores importantes entregues ao departamento médico."
+      },
+      {
+        "texto": "Palmeiras espera contar com Piquerez, Murilo e Paulinho na final."
+      },
       {
         "texto": "Medina avalia variações e espera por Correa para a final."
       },
@@ -56,27 +77,6 @@
       },
       {
         "texto": "Reservas contra o Flamengo? O que disse Abel depois de priorizar a final com o Estudiantes."
-      },
-      {
-        "texto": "Gómez x Carrillo: a Conmebol esquenta a final com um vídeo no estilo GTA."
-      },
-      {
-        "texto": "O Palmeiras vai a campo com time todo reserva contra o Flamengo para se poupar para a final."
-      },
-      {
-        "texto": "O que o Estudiantes tem para acabar com a hegemonia brasileira na Libertadores."
-      },
-      {
-        "texto": "A final da Libertadores terá show no intervalo pela primeira vez."
-      },
-      {
-        "texto": "O Palmeiras vai com time reserva no sábado contra o Flamengo."
-      },
-      {
-        "texto": "Abel Ferreira, após a derrota para o Cruzeiro: \"O título está entregue\"."
-      },
-      {
-        "texto": "Dia a dia, a agenda do elenco até a final: City Bell, viagem na quarta, 25, e treinos em Montevidéu."
       }
     ]
   },

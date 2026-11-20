@@ -1,41 +1,62 @@
 {
   "hoy": {
-    "titular": "距决赛还有八天，Medina等待Correa并敲定Baltasar的替代人选",
+    "titular": "决赛前八天，Medina等待Correa，帕尔梅拉斯（Palmeiras）清点伤员",
     "foto": {
       "alt": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。"
     },
-    "resumen": "Medina正在考虑替代Baltasar Rodríguez的方案，同时等待已进入康复最后阶段的Correa。巴西方面，Abel周六对阵Flamengo将派出全替补阵容。",
+    "resumen": "Medina在等待Correa，并决定Baltasar Rodríguez的替代人选。帕尔梅拉斯方面，Piquerez、Murilo和Paulinho能否出战决赛成疑；Pincha全队则在City Bell举行了烤肉聚会。",
     "siete": [
-      {
-        "titulo": "帕尔梅拉斯将派全替补迎战弗拉门戈",
-        "texto": "据Band报道，Abel周六对阵Flamengo将排出清一色替补阵容，Flamengo只需战平即可夺得巴甲冠军。24日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。"
-      },
       {
         "titulo": "Correa进入康复最后阶段",
         "texto": "他仍因右腿股二头肌拉伤而出战成疑，但据El Día报道，他已进入康复的最后阶段。教练组希望他首发；若状态不足，他可能在下半场替补登场，Cetré则有望获得位置。"
-      },
-      {
-        "titulo": "Rojo讲述回归Pincha的经过",
-        "texto": "Marcos Rojo透露，回归的机会出现在与Corinthians的系列赛之后，并讲述了促成回归的关键人物。"
-      },
-      {
-        "titulo": "决赛将有中场表演",
-        "texto": "南美足联宣布，解放者杯决赛将首次在中场休息时举行表演。"
-      },
-      {
-        "titulo": "前往Centenario的行程",
-        "texto": "球队在City Bell训练至25日周三（周日休息），当天下午前往蒙得维的亚，下榻Hilton酒店；周四和周五将在Montevideo City Torque训练基地训练。"
       },
       {
         "titulo": "Baltasar停赛，Medina或沿用五后卫",
         "texto": "对阵Flamengo被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，首选方案是沿用马拉卡纳之战的三中卫加两名边翼卫，左路由Tobio Burgos出任；Diario Hoy则提到在Supercopa Argentina首发的Fabricio Pérez是另一选择。"
       },
       {
+        "titulo": "帕尔梅拉斯三人决赛出战成疑",
+        "texto": "据巴西媒体报道，Piquerez（右大腿）很难及时恢复，Murilo（左大腿）已恢复持球训练，出战希望更大。Paulinho自10月21日起缺阵，至今仍无复出时间表，情况最为复杂。"
+      },
+      {
+        "titulo": "帕尔梅拉斯将派全替补迎战弗拉门戈",
+        "texto": "据Band报道，Abel周六对阵Flamengo将排出清一色替补阵容，Flamengo只需战平即可夺得巴甲冠军。24日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。"
+      },
+      {
         "titulo": "约3.5万名Pincha球迷奔赴蒙得维的亚",
         "texto": "共有120辆大巴出发：俱乐部组织60辆，27日周五下午从el UNO出发，另有60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。"
+      },
+      {
+        "titulo": "前往Centenario的行程",
+        "texto": "球队在City Bell训练至25日周三（周日休息），当天下午前往蒙得维的亚，下榻Hilton酒店；周四和周五将在Montevideo City Torque训练基地训练。"
+      },
+      {
+        "titulo": "全队在City Bell烤肉聚会",
+        "texto": "全队在City Bell乡村俱乐部举行烤肉聚会，内部庆祝超级杯夺冠，并在对阵帕尔梅拉斯的决赛前增强凝聚力。"
       }
     ],
     "linea": [
+      {
+        "texto": "全队以烤肉聚会庆祝超级杯夺冠，决赛前气氛良好。"
+      },
+      {
+        "texto": "Paulinho仍无复出时间表，帕尔梅拉斯决赛出战成疑。"
+      },
+      {
+        "texto": "Pincha队徽已亮相Estadio Centenario。"
+      },
+      {
+        "texto": "Verón将Nico Paz与梅西和马拉多纳相比。"
+      },
+      {
+        "texto": "在City Bell烤肉，为蒙得维的亚之行鼓舞士气。"
+      },
+      {
+        "texto": "帕尔梅拉斯告急：决赛前三名主力带伤。"
+      },
+      {
+        "texto": "帕尔梅拉斯希望Piquerez、Murilo和Paulinho能赶上决赛。"
+      },
       {
         "texto": "Medina考虑多种方案，等待Correa出战决赛。"
       },
@@ -56,27 +77,6 @@
       },
       {
         "texto": "对 Flamengo 派替补？Abel 在把与 Estudiantes 的决赛列为首要目标后如此表示。"
-      },
-      {
-        "texto": "Gómez 对决 Carrillo：南美足联用 GTA 风格视频为决赛预热。"
-      },
-      {
-        "texto": "Palmeiras将派全替补对阵Flamengo，为决赛保存实力。"
-      },
-      {
-        "texto": "Estudiantes 凭什么终结巴西球队在解放者杯的统治。"
-      },
-      {
-        "texto": "解放者杯决赛将首次举行中场表演。"
-      },
-      {
-        "texto": "Palmeiras 周六将派替补阵容迎战 Flamengo。"
-      },
-      {
-        "texto": "Abel Ferreira在负于克鲁塞罗后表示：\"冠军已经拱手相让\"。"
-      },
-      {
-        "texto": "逐日行程：City Bell训练、25日周三出发、在蒙得维的亚训练，直至决赛。"
       }
     ]
   },

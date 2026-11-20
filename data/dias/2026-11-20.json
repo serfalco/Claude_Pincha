@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-20",
   "titular": {
-    "es": "A ocho días de la final, Medina espera por Correa y define el reemplazo de Baltasar",
-    "en": "Eight days out from the final, Medina waits on Correa and settles Baltasar's replacement",
-    "pt": "A oito dias da final, Medina espera por Correa e define o substituto de Baltasar",
-    "zh": "距决赛还有八天，Medina等待Correa并敲定Baltasar的替代人选",
-    "hi": "फ़ाइनल से आठ दिन पहले Medina को Correa का इंतज़ार, Baltasar की जगह पर फ़ैसला बाक़ी"
+    "es": "A ocho días de la final, Medina espera por Correa y Palmeiras cuenta sus lesionados",
+    "en": "Eight days out from the final, Medina waits on Correa as Palmeiras count their injuries",
+    "pt": "A oito dias da final, Medina espera por Correa e o Palmeiras conta seus lesionados",
+    "zh": "决赛前八天，Medina等待Correa，帕尔梅拉斯（Palmeiras）清点伤员",
+    "hi": "फ़ाइनल से आठ दिन पहले Medina को Correa का इंतज़ार, Palmeiras गिन रहा है अपने चोटिल खिलाड़ी"
   },
   "resumen": {
-    "es": "Medina analiza variantes para cubrir a Baltasar Rodríguez y espera por Correa, que transita la etapa final de su recuperación. En Brasil, Abel iría con un equipo todo suplente el sábado ante Flamengo.",
-    "en": "Medina is weighing options to cover for Baltasar Rodríguez and waiting on Correa, who is in the final stage of his recovery. In Brazil, Abel is set to field an all-reserve side against Flamengo on Saturday.",
-    "pt": "Medina avalia alternativas para substituir Baltasar Rodríguez e espera por Correa, que está na fase final da recuperação. No Brasil, Abel deve escalar um time todo reserva no sábado contra o Flamengo.",
-    "zh": "Medina正在考虑替代Baltasar Rodríguez的方案，同时等待已进入康复最后阶段的Correa。巴西方面，Abel周六对阵Flamengo将派出全替补阵容。",
-    "hi": "Medina, Baltasar Rodríguez की जगह भरने के विकल्पों पर विचार कर रहे हैं और Correa का इंतज़ार कर रहे हैं, जो रिकवरी के अंतिम चरण में हैं। ब्राज़ील में Abel शनिवार को Flamengo के ख़िलाफ़ पूरी रिज़र्व टीम उतारेंगे।"
+    "es": "Medina espera por Correa y define el reemplazo de Baltasar Rodríguez. En Palmeiras, Piquerez, Murilo y Paulinho están en duda para la final, y el plantel del Pincha compartió un asado en City Bell.",
+    "en": "Medina is waiting on Correa and deciding who replaces Baltasar Rodríguez. At Palmeiras, Piquerez, Murilo and Paulinho are doubts for the final, while the Pincha squad shared an asado in City Bell.",
+    "pt": "Medina espera por Correa e define o substituto de Baltasar Rodríguez. No Palmeiras, Piquerez, Murilo e Paulinho são dúvidas para a final, e o elenco do Pincha fez um churrasco em City Bell.",
+    "zh": "Medina在等待Correa，并决定Baltasar Rodríguez的替代人选。帕尔梅拉斯方面，Piquerez、Murilo和Paulinho能否出战决赛成疑；Pincha全队则在City Bell举行了烤肉聚会。",
+    "hi": "Medina, Correa का इंतज़ार कर रहे हैं और Baltasar Rodríguez की जगह तय कर रहे हैं। Palmeiras में Piquerez, Murilo और Paulinho फ़ाइनल के लिए संदिग्ध हैं, जबकि Pincha की टीम ने City Bell में असादो का आनंद लिया।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -40,22 +40,6 @@
   "siete": [
     {
       "titulo": {
-        "es": "Palmeiras, con todos suplentes ante Flamengo",
-        "en": "Palmeiras to field an all-reserve side against Flamengo",
-        "pt": "Palmeiras com time todo reserva contra o Flamengo",
-        "zh": "帕尔梅拉斯将派全替补迎战弗拉门戈",
-        "hi": "Flamengo के ख़िलाफ़ Palmeiras की पूरी रिज़र्व टीम"
-      },
-      "texto": {
-        "es": "Según la Band, Abel pondrá un equipo íntegramente suplente el sábado ante Flamengo, al que le alcanza un empate para ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final.",
-        "en": "According to Band, Abel will name a team made up entirely of reserves on Saturday against Flamengo, who need only a draw to win the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final.",
-        "pt": "Segundo a Band, Abel vai escalar um time totalmente reserva no sábado contra o Flamengo, que precisa só de um empate para ser campeão do Brasileirão. Na terça, dia 24, o Palmeiras visita a Chapecoense às 18h e depois terá três dias até a final.",
-        "zh": "据Band报道，Abel周六对阵Flamengo将排出清一色替补阵容，Flamengo只需战平即可夺得巴甲冠军。24日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。",
-        "hi": "Band के अनुसार Abel शनिवार को Flamengo के ख़िलाफ़ पूरी तरह रिज़र्व खिलाड़ियों की टीम उतारेंगे; Flamengo को ब्राज़ीलियाई लीग जीतने के लिए सिर्फ़ ड्रॉ चाहिए। मंगलवार 24 तारीख़ को Palmeiras 18:00 बजे Chapecoense से उसके मैदान पर खेलेगा और उसके बाद फ़ाइनल के लिए सिर्फ़ तीन दिन बचेंगे।"
-      }
-    },
-    {
-      "titulo": {
         "es": "Correa, en la recta final de su recuperación",
         "en": "Correa in the final stretch of his recovery",
         "pt": "Correa na reta final da recuperação",
@@ -68,54 +52,6 @@
         "pt": "Segue em dúvida pela lesão no bíceps femoral direito, mas segundo o El Día está na fase final da recuperação. A ideia é que seja titular; se não chegar em condições, pode entrar no segundo tempo e Cetré ganharia espaço.",
         "zh": "他仍因右腿股二头肌拉伤而出战成疑，但据El Día报道，他已进入康复的最后阶段。教练组希望他首发；若状态不足，他可能在下半场替补登场，Cetré则有望获得位置。",
         "hi": "दाएँ पैर की हैमस्ट्रिंग की चोट के कारण उन पर अब भी संशय है, लेकिन El Día के अनुसार वे रिकवरी के अंतिम चरण में हैं। योजना उन्हें शुरुआत से खिलाने की है; पूरी तरह फ़िट न होने पर वे दूसरे हाफ़ में उतर सकते हैं और तब Cetré को मौक़ा मिल सकता है।"
-      }
-    },
-    {
-      "titulo": {
-        "es": "Rojo contó cómo volvió al Pincha",
-        "en": "Rojo on how he came back to the Pincha",
-        "pt": "Rojo contou como voltou ao Pincha",
-        "zh": "Rojo讲述回归Pincha的经过",
-        "hi": "Rojo ने बताया Pincha में वापसी का क़िस्सा"
-      },
-      "texto": {
-        "es": "Marcos Rojo reveló que la chance de regresar surgió después de la serie con Corinthians y contó quiénes fueron clave para que se concretara su vuelta.",
-        "en": "Marcos Rojo revealed that the chance to return arose after the tie against Corinthians and named the people who were key to making it happen.",
-        "pt": "Marcos Rojo revelou que a chance de voltar surgiu depois do confronto com o Corinthians e contou quem foi fundamental para concretizar o retorno.",
-        "zh": "Marcos Rojo透露，回归的机会出现在与Corinthians的系列赛之后，并讲述了促成回归的关键人物。",
-        "hi": "Marcos Rojo ने बताया कि वापसी का मौक़ा Corinthians के ख़िलाफ़ मुक़ाबले के बाद बना और यह भी कि इसे संभव बनाने में किनकी अहम भूमिका रही।"
-      }
-    },
-    {
-      "titulo": {
-        "es": "Habrá show en el entretiempo de la final",
-        "en": "A half-time show at the final",
-        "pt": "Vai ter show no intervalo da final",
-        "zh": "决赛将有中场表演",
-        "hi": "फ़ाइनल में होगा हाफ़-टाइम शो"
-      },
-      "texto": {
-        "es": "Por primera vez, la final de la Libertadores tendrá un espectáculo en el entretiempo, según anunció la Conmebol.",
-        "en": "For the first time, the Copa Libertadores final will have a half-time show, CONMEBOL announced.",
-        "pt": "Pela primeira vez, a final da Libertadores terá um espetáculo no intervalo, anunciou a Conmebol.",
-        "zh": "南美足联宣布，解放者杯决赛将首次在中场休息时举行表演。",
-        "hi": "CONMEBOL ने घोषणा की है कि पहली बार Copa Libertadores फ़ाइनल में हाफ़-टाइम शो होगा।"
-      }
-    },
-    {
-      "titulo": {
-        "es": "La hoja de ruta hasta el Centenario",
-        "en": "The road map to the Centenario",
-        "pt": "O roteiro até o Centenario",
-        "zh": "前往Centenario的行程",
-        "hi": "Centenario तक का कार्यक्रम"
-      },
-      "texto": {
-        "es": "El plantel se entrena en City Bell hasta el miércoles 25 (el domingo es libre) y esa tarde viaja a Montevideo, donde parará en el Hilton; el jueves y el viernes practicará en el predio de Montevideo City Torque.",
-        "en": "The squad train in City Bell until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground.",
-        "pt": "O elenco treina em City Bell até quarta-feira, 25 (domingo é folga), e nessa tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque.",
-        "zh": "球队在City Bell训练至25日周三（周日休息），当天下午前往蒙得维的亚，下榻Hilton酒店；周四和周五将在Montevideo City Torque训练基地训练。",
-        "hi": "टीम बुधवार 25 तारीख़ तक City Bell में अभ्यास करेगी (रविवार छुट्टी है) और उसी दोपहर Montevideo रवाना होगी, जहाँ Hilton में ठहरेगी; गुरुवार और शुक्रवार को Montevideo City Torque के ट्रेनिंग ग्राउंड पर अभ्यास होगा।"
       }
     },
     {
@@ -136,6 +72,38 @@
     },
     {
       "titulo": {
+        "es": "Palmeiras, con tres en duda para la final",
+        "en": "Palmeiras have three doubts for the final",
+        "pt": "Palmeiras tem três dúvidas para a final",
+        "zh": "帕尔梅拉斯三人决赛出战成疑",
+        "hi": "Palmeiras के तीन खिलाड़ी फ़ाइनल के लिए संदिग्ध"
+      },
+      "texto": {
+        "es": "Según la prensa brasileña, Piquerez (muslo derecho) llega con dificultades y Murilo (muslo izquierdo) ya trabaja con pelota y tiene más chances. Paulinho, fuera desde el 21 de octubre, sigue sin fecha de regreso y es el caso más complicado.",
+        "en": "According to the Brazilian press, Piquerez (right thigh) faces a race to be fit, while Murilo (left thigh) is already working with the ball and has a better chance. Paulinho, out since 21 October, still has no return date and is the most complicated case.",
+        "pt": "Segundo a imprensa brasileira, Piquerez (coxa direita) dificilmente estará em condições e Murilo (coxa esquerda) já treina com bola e tem mais chances. Paulinho, fora desde 21 de outubro, segue sem prazo de volta e é o caso mais complicado.",
+        "zh": "据巴西媒体报道，Piquerez（右大腿）很难及时恢复，Murilo（左大腿）已恢复持球训练，出战希望更大。Paulinho自10月21日起缺阵，至今仍无复出时间表，情况最为复杂。",
+        "hi": "ब्राज़ीली मीडिया के अनुसार Piquerez (दाईं जांघ) का फ़िट होना मुश्किल है, जबकि Murilo (बाईं जांघ) गेंद के साथ अभ्यास कर रहे हैं और उनकी संभावना बेहतर है। 21 अक्टूबर से बाहर Paulinho की वापसी की कोई तारीख नहीं है और उनका मामला सबसे जटिल है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Palmeiras, con todos suplentes ante Flamengo",
+        "en": "Palmeiras to field an all-reserve side against Flamengo",
+        "pt": "Palmeiras com time todo reserva contra o Flamengo",
+        "zh": "帕尔梅拉斯将派全替补迎战弗拉门戈",
+        "hi": "Flamengo के ख़िलाफ़ Palmeiras की पूरी रिज़र्व टीम"
+      },
+      "texto": {
+        "es": "Según la Band, Abel pondrá un equipo íntegramente suplente el sábado ante Flamengo, al que le alcanza un empate para ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final.",
+        "en": "According to Band, Abel will name a team made up entirely of reserves on Saturday against Flamengo, who need only a draw to win the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final.",
+        "pt": "Segundo a Band, Abel vai escalar um time totalmente reserva no sábado contra o Flamengo, que precisa só de um empate para ser campeão do Brasileirão. Na terça, dia 24, o Palmeiras visita a Chapecoense às 18h e depois terá três dias até a final.",
+        "zh": "据Band报道，Abel周六对阵Flamengo将排出清一色替补阵容，Flamengo只需战平即可夺得巴甲冠军。24日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。",
+        "hi": "Band के अनुसार Abel शनिवार को Flamengo के ख़िलाफ़ पूरी तरह रिज़र्व खिलाड़ियों की टीम उतारेंगे; Flamengo को ब्राज़ीलियाई लीग जीतने के लिए सिर्फ़ ड्रॉ चाहिए। मंगलवार 24 तारीख़ को Palmeiras 18:00 बजे Chapecoense से उसके मैदान पर खेलेगा और उसके बाद फ़ाइनल के लिए सिर्फ़ तीन दिन बचेंगे।"
+      }
+    },
+    {
+      "titulo": {
         "es": "Unos 35 mil pinchas, rumbo a Montevideo",
         "en": "Around 35,000 Pincha fans head for Montevideo",
         "pt": "Cerca de 35 mil torcedores rumo a Montevidéu",
@@ -148,6 +116,38 @@
         "pt": "Viajam 120 ônibus: 60 do clube, que saem na tarde de sexta-feira, 27, do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario.",
         "zh": "共有120辆大巴出发：俱乐部组织60辆，27日周五下午从el UNO出发，另有60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。",
         "hi": "120 बसें जा रही हैं: 60 क्लब की, जो शुक्रवार 27 तारीख़ की दोपहर el UNO से निकलेंगी, और 60 समर्थक समूहों व शाखाओं की। शुक्रवार और शनिवार की नावें बिक चुकी हैं, और क्लब के बुलावे पर 2009 के चैंपियन भी Centenario में होंगे।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "La hoja de ruta hasta el Centenario",
+        "en": "The road map to the Centenario",
+        "pt": "O roteiro até o Centenario",
+        "zh": "前往Centenario的行程",
+        "hi": "Centenario तक का कार्यक्रम"
+      },
+      "texto": {
+        "es": "El plantel se entrena en City Bell hasta el miércoles 25 (el domingo es libre) y esa tarde viaja a Montevideo, donde parará en el Hilton; el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "en": "The squad train in City Bell until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground.",
+        "pt": "O elenco treina em City Bell até quarta-feira, 25 (domingo é folga), e nessa tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque.",
+        "zh": "球队在City Bell训练至25日周三（周日休息），当天下午前往蒙得维的亚，下榻Hilton酒店；周四和周五将在Montevideo City Torque训练基地训练。",
+        "hi": "टीम बुधवार 25 तारीख़ तक City Bell में अभ्यास करेगी (रविवार छुट्टी है) और उसी दोपहर Montevideo रवाना होगी, जहाँ Hilton में ठहरेगी; गुरुवार और शुक्रवार को Montevideo City Torque के ट्रेनिंग ग्राउंड पर अभ्यास होगा।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Asado del plantel en City Bell",
+        "en": "Squad asado in City Bell",
+        "pt": "Churrasco do elenco em City Bell",
+        "zh": "全队在City Bell烤肉聚会",
+        "hi": "City Bell में टीम का असादो"
+      },
+      "texto": {
+        "es": "El plantel compartió un asado en el Country de City Bell para festejar puertas adentro la Supercopa y fortalecer el grupo antes de la final con Palmeiras.",
+        "en": "The squad shared an asado at the City Bell Country Club to celebrate the Supercopa in private and strengthen the group ahead of the final against Palmeiras.",
+        "pt": "O elenco fez um churrasco no Country de City Bell para comemorar a Supercopa entre eles e fortalecer o grupo antes da final contra o Palmeiras.",
+        "zh": "全队在City Bell乡村俱乐部举行烤肉聚会，内部庆祝超级杯夺冠，并在对阵帕尔梅拉斯的决赛前增强凝聚力。",
+        "hi": "टीम ने City Bell कंट्री क्लब में असादो किया, ताकि सुपरकोपा की जीत का निजी जश्न मनाया जा सके और Palmeiras के ख़िलाफ़ फ़ाइनल से पहले टीम की एकजुटता बढ़े।"
       }
     }
   ],
@@ -162,6 +162,90 @@
     }
   },
   "linea": [
+    {
+      "hora": "2026-11-20T15:03:00-03:00",
+      "fuente": "Olé",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2VQQWhtRVVYSFM2OGpVT3RXTnpmWUExVmt1Ul9OMWFwY3NNUldFZkxWV2k4UjFCRmphY09aME51Q21ZOVRDVGcxWFpUUlZUZnU1TlhRMk8tMXZaQklGazlpT2o1YTRXUU1EZTdqWWtqRTBCa0M1dlJRTjRCNzVjT3JkcWh2aG1YbVhwbWlDLWlRTkIzWDVWM21TZVpUREF3ZXBnQmFzWFo4RHVWS1l2ZkpONmQyRGVWWS1OWVFYT1g2dTdJZ0oyLXUyZ2ZqVGJmTDYxM0NIYWHSAd4BQVVfeXFMT0U4NXlkaEFyYk5IU3dnbUJhRTRzbU44TUxWWGlOb040emNnU1FncmVVLTROblNlQkRyMDQyMDJodVZOckdnTEZxZ0N0Mlh2WXJaOS0wcFBzV1ZJb2RLS0syUk5XMUQxTFBUY2pwYlBuNjF3aUVGQTNBa0ktaG5QTHJyT25Ld3FkUEpNVllwbU1ON2VjbVZFdF8yU2Z1RUM3WFRPOXpIX3ZKVzVrdEQ5LVpIM3dkal9LTk9uTzFnbHJsV0VtdGJqMGtweFlYeGtsaWdmSzlwRzdSSWFvMzFn?oc=5",
+      "texto": {
+        "es": "El plantel festejó la Supercopa con un asado y buen clima antes de la final.",
+        "en": "The squad celebrated the Supercopa with an asado and a good atmosphere ahead of the final.",
+        "pt": "O elenco comemorou a Supercopa com churrasco e bom clima antes da final.",
+        "zh": "全队以烤肉聚会庆祝超级杯夺冠，决赛前气氛良好。",
+        "hi": "फ़ाइनल से पहले टीम ने असादो और अच्छे माहौल के साथ सुपरकोपा का जश्न मनाया।"
+      }
+    },
+    {
+      "hora": "2026-11-20T12:40:00-03:00",
+      "fuente": "Portal do Palestra",
+      "url": "https://portaldopalestra.com.br/paulinho-lesao-panturrilha-sem-prazo-finais-palmeiras-libertadores/",
+      "texto": {
+        "es": "Paulinho sigue sin fecha de regreso y es duda en Palmeiras para la final.",
+        "en": "Paulinho still has no return date and is a doubt for Palmeiras in the final.",
+        "pt": "Paulinho segue sem prazo de volta e é dúvida no Palmeiras para a final.",
+        "zh": "Paulinho仍无复出时间表，帕尔梅拉斯决赛出战成疑。",
+        "hi": "Paulinho की वापसी की तारीख अब भी तय नहीं, Palmeiras के लिए फ़ाइनल में संदिग्ध।"
+      }
+    },
+    {
+      "hora": "2026-11-20T10:12:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/el-escudo-estudiantes-ya-luce-el-estadio-centenario-y-crece-la-ilusion-la-copa-libertadores-n137747",
+      "texto": {
+        "es": "El escudo del Pincha ya luce en el Estadio Centenario.",
+        "en": "The Pincha crest is already on display at the Estadio Centenario.",
+        "pt": "O escudo do Pincha já está no Estádio Centenario.",
+        "zh": "Pincha队徽已亮相Estadio Centenario。",
+        "hi": "Pincha का प्रतीक चिह्न अब Estadio Centenario में सजा है।"
+      }
+    },
+    {
+      "hora": "2026-11-20T09:55:00-03:00",
+      "fuente": "Punto Capital",
+      "url": "https://www.puntocapitalnoticias.com/veron-comparo-a-nico-paz-con-messi-y-maradona-y-destaco-su-talento-tiene-las-cualidades-para-intentarlo/",
+      "texto": {
+        "es": "Verón comparó a Nico Paz con Messi y Maradona.",
+        "en": "Verón compared Nico Paz to Messi and Maradona.",
+        "pt": "Verón comparou Nico Paz a Messi e Maradona.",
+        "zh": "Verón将Nico Paz与梅西和马拉多纳相比。",
+        "hi": "Verón ने Nico Paz की तुलना मेसी और माराडोना से की।"
+      }
+    },
+    {
+      "hora": "2026-11-20T09:20:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/un-asado-alimentar-la-ilusion-estudiantes-se-prepara-la-final-la-copa-libertadores-palmeiras-n137743",
+      "texto": {
+        "es": "Un asado en City Bell para alimentar la ilusión antes de Montevideo.",
+        "en": "An asado in City Bell to fuel the dream before Montevideo.",
+        "pt": "Um churrasco em City Bell para alimentar o sonho antes de Montevidéu.",
+        "zh": "在City Bell烤肉，为蒙得维的亚之行鼓舞士气。",
+        "hi": "Montevideo से पहले जोश बढ़ाने के लिए City Bell में असादो।"
+      }
+    },
+    {
+      "hora": "2026-11-20T09:02:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://www.infocielo.com/deportes/palmeiras-en-alerta-tres-figuras-entre-algodones-a-dias-de-la-final-ante-estudiantes",
+      "texto": {
+        "es": "Palmeiras en alerta: tres figuras entre algodones a días de la final.",
+        "en": "Palmeiras on alert: three key players nursing knocks days before the final.",
+        "pt": "Palmeiras em alerta: três jogadores importantes entregues ao departamento médico.",
+        "zh": "帕尔梅拉斯告急：决赛前三名主力带伤。",
+        "hi": "Palmeiras सतर्क: फ़ाइनल से कुछ दिन पहले तीन अहम खिलाड़ी चोटिल।"
+      }
+    },
+    {
+      "hora": "2026-11-20T08:36:00-03:00",
+      "fuente": "Tribuna de Jundiaí",
+      "url": "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
+      "texto": {
+        "es": "Palmeiras espera recuperar a Piquerez, Murilo y Paulinho para la final.",
+        "en": "Palmeiras hope to have Piquerez, Murilo and Paulinho back for the final.",
+        "pt": "Palmeiras espera contar com Piquerez, Murilo e Paulinho na final.",
+        "zh": "帕尔梅拉斯希望Piquerez、Murilo和Paulinho能赶上决赛。",
+        "hi": "Palmeiras को फ़ाइनल के लिए Piquerez, Murilo और Paulinho की वापसी की उम्मीद।"
+      }
+    },
     {
       "hora": "2026-11-20T03:04:00-03:00",
       "fuente": "El Día",

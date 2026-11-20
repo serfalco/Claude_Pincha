@@ -1,41 +1,62 @@
 {
   "hoy": {
-    "titular": "Eight days out from the final, Medina waits on Correa and settles Baltasar's replacement",
+    "titular": "Eight days out from the final, Medina waits on Correa as Palmeiras count their injuries",
     "foto": {
       "alt": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo."
     },
-    "resumen": "Medina is weighing options to cover for Baltasar Rodríguez and waiting on Correa, who is in the final stage of his recovery. In Brazil, Abel is set to field an all-reserve side against Flamengo on Saturday.",
+    "resumen": "Medina is waiting on Correa and deciding who replaces Baltasar Rodríguez. At Palmeiras, Piquerez, Murilo and Paulinho are doubts for the final, while the Pincha squad shared an asado in City Bell.",
     "siete": [
-      {
-        "titulo": "Palmeiras to field an all-reserve side against Flamengo",
-        "texto": "According to Band, Abel will name a team made up entirely of reserves on Saturday against Flamengo, who need only a draw to win the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final."
-      },
       {
         "titulo": "Correa in the final stretch of his recovery",
         "texto": "He remains a doubt with the tear in his right hamstring, but according to El Día he is in the final stage of his recovery. The plan is for him to start; if he is not fully fit, he could come on in the second half, which would open the door for Cetré."
-      },
-      {
-        "titulo": "Rojo on how he came back to the Pincha",
-        "texto": "Marcos Rojo revealed that the chance to return arose after the tie against Corinthians and named the people who were key to making it happen."
-      },
-      {
-        "titulo": "A half-time show at the final",
-        "texto": "For the first time, the Copa Libertadores final will have a half-time show, CONMEBOL announced."
-      },
-      {
-        "titulo": "The road map to the Centenario",
-        "texto": "The squad train in City Bell until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground."
       },
       {
         "titulo": "Without Baltasar, Medina likely to stick with a back five",
         "texto": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to El Día, the main option is to repeat the three centre-backs and two wing-backs used at the Maracanã, with Tobio Burgos on the left; Diario Hoy names Fabricio Pérez, who started in the Supercopa Argentina, as an alternative."
       },
       {
+        "titulo": "Palmeiras have three doubts for the final",
+        "texto": "According to the Brazilian press, Piquerez (right thigh) faces a race to be fit, while Murilo (left thigh) is already working with the ball and has a better chance. Paulinho, out since 21 October, still has no return date and is the most complicated case."
+      },
+      {
+        "titulo": "Palmeiras to field an all-reserve side against Flamengo",
+        "texto": "According to Band, Abel will name a team made up entirely of reserves on Saturday against Flamengo, who need only a draw to win the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final."
+      },
+      {
         "titulo": "Around 35,000 Pincha fans head for Montevideo",
         "texto": "120 coaches are going: 60 laid on by the club, leaving the UNO on the afternoon of Friday 27th, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario."
+      },
+      {
+        "titulo": "The road map to the Centenario",
+        "texto": "The squad train in City Bell until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground."
+      },
+      {
+        "titulo": "Squad asado in City Bell",
+        "texto": "The squad shared an asado at the City Bell Country Club to celebrate the Supercopa in private and strengthen the group ahead of the final against Palmeiras."
       }
     ],
     "linea": [
+      {
+        "texto": "The squad celebrated the Supercopa with an asado and a good atmosphere ahead of the final."
+      },
+      {
+        "texto": "Paulinho still has no return date and is a doubt for Palmeiras in the final."
+      },
+      {
+        "texto": "The Pincha crest is already on display at the Estadio Centenario."
+      },
+      {
+        "texto": "Verón compared Nico Paz to Messi and Maradona."
+      },
+      {
+        "texto": "An asado in City Bell to fuel the dream before Montevideo."
+      },
+      {
+        "texto": "Palmeiras on alert: three key players nursing knocks days before the final."
+      },
+      {
+        "texto": "Palmeiras hope to have Piquerez, Murilo and Paulinho back for the final."
+      },
       {
         "texto": "Medina weighs his options and waits on Correa for the final."
       },
@@ -56,27 +77,6 @@
       },
       {
         "texto": "Reserves against Flamengo? What Abel said after making the Estudiantes final his priority."
-      },
-      {
-        "texto": "Gómez vs Carrillo: CONMEBOL builds up to the final with a GTA-style video."
-      },
-      {
-        "texto": "Palmeiras will field an all-reserve side against Flamengo to protect players for the final."
-      },
-      {
-        "texto": "What Estudiantes have to end Brazil's dominance of the Libertadores."
-      },
-      {
-        "texto": "The Libertadores final will have a half-time show for the first time."
-      },
-      {
-        "texto": "Palmeiras will field a reserve side against Flamengo on Saturday."
-      },
-      {
-        "texto": "Abel Ferreira after the Cruzeiro defeat: \"The title has been handed over\"."
-      },
-      {
-        "texto": "Day by day, the squad's schedule up to the final: City Bell, travel on Wednesday 25th and training in Montevideo."
       }
     ]
   },
