@@ -1,13 +1,13 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-21T00:07:00-03:00",
+  "actualizado": "2026-11-21T08:07:00-03:00",
   "hoy": {
-    "titular": "A una semana de la final, Palmeiras guarda a sus titulares y un pincha ya pedalea a Montevideo",
+    "titular": "A una semana de la final, Palmeiras guarda a sus titulares y Rojo y González Pirez palpitan \"el partido de nuestras vidas\"",
     "foto": {
       "id": "2026-10-23_maracanazo-y-a-la-final_1",
       "alt": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo."
     },
-    "resumen": "Palmeiras rotará hoy ante Flamengo para cuidarse para la final, con Murilo cerca de volver y Piquerez y Paulinho todavía en tratamiento. En La Plata, Medina sigue esperando por Correa y un hincha salió en bicicleta hacia Montevideo.",
+    "resumen": "Palmeiras rotará hoy ante Flamengo para cuidarse para la final, con Murilo, Piquerez y Paulinho todavía en duda. En La Plata, el plantel se entrena en City Bell, Medina espera por Correa y los centrales ya viven la semana más larga.",
     "siete": [
       {
         "titulo": "Correa, en la recta final de su recuperación",
@@ -18,12 +18,8 @@
         "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según El Día, la opción principal es repetir los tres centrales y dos carrileros del Maracaná, con Tobio Burgos por la izquierda; Diario Hoy menciona a Fabricio Pérez, titular en la Supercopa, como alternativa."
       },
       {
-        "titulo": "Palmeiras guarda a sus titulares ante Flamengo",
-        "texto": "Hoy a las 16.30 (hora argentina) recibe a Flamengo en San Pablo por el Brasileirão y, según la prensa brasileña, Abel rotará pensando en la final; a Flamengo le alcanza un empate para ser campeón. El martes 24 visita a Chapecoense y después le quedan tres días para Montevideo."
-      },
-      {
-        "titulo": "Palmeiras: Murilo avanza, Piquerez y Paulinho siguen en tratamiento",
-        "texto": "Murilo (muslo izquierdo) ya hace la transición física y es el que más chances tiene de llegar. Piquerez (muslo derecho) y Paulinho (pantorrilla derecha) siguen en tratamiento y no juegan hoy: los tres están en duda para la final."
+        "titulo": "Palmeiras, con suplentes ante Flamengo",
+        "texto": "Hoy a las 16.30 (hora argentina) recibe a Flamengo en San Pablo por el Brasileirão con un equipo alternativo; a Flamengo le alcanza un empate para ser campeón. Murilo (ya en transición), Piquerez y Paulinho no juegan y siguen en duda para la final; el martes 24 visita a Chapecoense."
       },
       {
         "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
@@ -31,15 +27,31 @@
       },
       {
         "titulo": "La hoja de ruta hasta el Centenario",
-        "texto": "El plantel se entrena en City Bell hasta el miércoles 25 (el domingo es libre) y esa tarde viaja a Montevideo, donde parará en el Hilton; el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "texto": "Hoy se entrena a las 9.30 en el Country de City Bell; el domingo es libre y el plantel sigue ahí hasta el miércoles 25, cuando viaja a Montevideo (para en el Hilton). El jueves y el viernes practicará en el predio de Montevideo City Torque.",
         "vence": "2026-11-25T23:59:00-03:00"
       },
       {
-        "titulo": "Un pincha, en bicicleta rumbo a Montevideo",
-        "texto": "Facu Mensegues salió de La Plata el viernes a las 4.30 para pedalear hasta la final. Todavía no tiene entrada y pide que los hinchas que viajen por tierra le toquen bocina cuando lo crucen."
+        "titulo": "Rojo y González Pirez: \"El partido de nuestras vidas\"",
+        "texto": "Los dos centrales hablaron con El Día a una semana de Montevideo. Rojo contó que su vuelta se gestó después de la serie con Corinthians, cuando las suspensiones dejaron corta la defensa."
+      },
+      {
+        "titulo": "La final también define Argentina-Brasil",
+        "texto": "Los dos países suman 25 Copas Libertadores cada uno: si gana el Pincha, que va por su quinta, Argentina vuelve a quedar arriba en el historial."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-21T00:57:00-03:00",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/a-corazon-abierto-tenemos-por-delante-el-partido-de-nuestras-vidas-deportes_1795233469",
+        "texto": "Rojo y González Pirez, a una semana de la final: \"Tenemos por delante el partido de nuestras vidas\"."
+      },
+      {
+        "hora": "2026-11-21T00:00:00-03:00",
+        "fuente": "Diario Hoy",
+        "url": "https://diariohoy.net/el-clasico/estudiantes-de-la-patria-la-mision-del-pincha-que-va-mas-alla-de-buscar-su-quinta-libertadores-290439",
+        "texto": "Estudiantes de la Patria: la final también desempata el historial entre Argentina y Brasil."
+      },
       {
         "hora": "2026-11-20T20:07:00-03:00",
         "fuente": "Portal do Palestra",
@@ -51,6 +63,12 @@
         "fuente": "Gazeta Esportiva",
         "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-tudo-sobre-36-rodada-brasileirao-21-11-2026/",
         "texto": "Palmeiras-Flamengo, hoy a las 16.30 en San Pablo: Abel ya soltó la pelea por el Brasileirão."
+      },
+      {
+        "hora": "2026-11-20T19:49:00-03:00",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/la-conmebol-lanzo-una-convocatoria-especial-los-pequenos-hinchas-estudiantes-n137784",
+        "texto": "La Conmebol invita a los pinchas más chicos a dibujar el escudo o la camiseta para sus redes."
       },
       {
         "hora": "2026-11-20T18:25:00-03:00",
@@ -69,6 +87,12 @@
         "fuente": "Portal do Palestra",
         "url": "https://portaldopalestra.com.br/paulinho-lesao-panturrilha-sem-prazo-finais-palmeiras-libertadores/",
         "texto": "Paulinho sigue sin fecha de regreso y es duda en Palmeiras para la final."
+      },
+      {
+        "hora": "2026-11-20T10:48:00-03:00",
+        "fuente": "Bolavip Brasil",
+        "url": "https://br.bolavip.com/palmeiras/com-foco-na-libertadores-palmeiras-define-escalacao-alternativa-contra-flamengo-veja-o-time",
+        "texto": "Palmeiras define un equipo alternativo para Flamengo, con la cabeza en la final."
       },
       {
         "hora": "2026-11-20T10:12:00-03:00",
@@ -99,30 +123,6 @@
         "fuente": "Tribuna de Jundiaí",
         "url": "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
         "texto": "Palmeiras espera recuperar a Piquerez, Murilo y Paulinho para la final."
-      },
-      {
-        "hora": "2026-11-20T03:04:00-03:00",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/estudiantes-medina-analiza-variantes-y-aguarda-por-correa-deportes_1795154679",
-        "texto": "Medina analiza variantes y espera por Correa para la final."
-      },
-      {
-        "hora": "2026-11-20T00:00:00-03:00",
-        "fuente": "Diario Hoy",
-        "url": "https://diariohoy.net/el-clasico/a-ocho-dias-de-la-final-estudiantes-aun-no-definio-al-ultimo-titular-290412",
-        "texto": "A ocho días de la final, el Pincha todavía no definió quién reemplaza a Baltasar."
-      },
-      {
-        "hora": "2026-11-19T21:51:00-03:00",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/a-corazon-abierto-marcos-rojo-revelo-como-se-gesto-su-inesperado-regreso-a-estudiantes-deportes_1795135417",
-        "texto": "Rojo, a corazón abierto: cómo se gestó su inesperada vuelta a Estudiantes."
-      },
-      {
-        "hora": "2026-11-19T20:40:00-03:00",
-        "fuente": "MDZ Online",
-        "url": "https://www.mdzol.com/deportes/2026/11/19/atento-estudiantes-polemica-en-palmeiras-por-una-decision-de-su-dt-a-dias-de-la-final-de-la-libertadores-1996678.html",
-        "texto": "Polémica en Palmeiras por una decisión de Abel a días de la final."
       }
     ]
   },
@@ -367,6 +367,10 @@
     }
   },
   "fuentes": [
+    "https://br.bolavip.com/palmeiras/com-foco-na-libertadores-palmeiras-define-escalacao-alternativa-contra-flamengo-veja-o-time",
+    "https://www.0221.com.ar/estudiantes/la-conmebol-lanzo-una-convocatoria-especial-los-pequenos-hinchas-estudiantes-n137784",
+    "https://diariohoy.net/el-clasico/estudiantes-de-la-patria-la-mision-del-pincha-que-va-mas-alla-de-buscar-su-quinta-libertadores-290439",
+    "https://www.eldia.com/deportes/a-corazon-abierto-tenemos-por-delante-el-partido-de-nuestras-vidas-deportes_1795233469",
     "https://portaldopalestra.com.br/provavel-escalacao-palmeiras-contra-flamengo-brasileirao-36a-rodada/",
     "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-tudo-sobre-36-rodada-brasileirao-21-11-2026/",
     "https://www.eldia.com/deportes/un-hincha-partio-en-bicicleta-hacia-montevideo-para-alentar-a-estudiantes-en-la-final-de-la-libertadores-deportes_1795209939",

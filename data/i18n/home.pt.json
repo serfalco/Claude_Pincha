@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "A uma semana da final, o Palmeiras poupa titulares e um torcedor do Pincha já pedala rumo a Montevidéu",
+    "titular": "A uma semana da final, Palmeiras poupa titulares e Rojo e González Pirez projetam \"a partida das nossas vidas\"",
     "foto": {
       "alt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo."
     },
-    "resumen": "O Palmeiras vai rodar o elenco hoje contra o Flamengo para se preservar para a final, com Murilo perto de voltar e Piquerez e Paulinho ainda em tratamento. Em La Plata, Medina segue esperando por Correa e um torcedor partiu de bicicleta para Montevidéu.",
+    "resumen": "O Palmeiras vai rodar o elenco hoje contra o Flamengo para se preservar para a final, com Murilo, Piquerez e Paulinho ainda em dúvida. Em La Plata, o elenco treina em City Bell, Medina espera por Correa e os zagueiros já vivem a semana mais longa.",
     "siete": [
       {
         "titulo": "Correa na reta final da recuperação",
@@ -15,12 +15,8 @@
         "texto": "Baltasar Rodríguez, expulso contra o Flamengo, está fora da final. Segundo o El Día, a principal opção é repetir os três zagueiros e dois alas do Maracanã, com Tobio Burgos pela esquerda; o Diario Hoy cita Fabricio Pérez, titular na Supercopa Argentina, como alternativa."
       },
       {
-        "titulo": "Palmeiras poupa titulares contra o Flamengo",
-        "texto": "Hoje às 16h30 (horário argentino) recebe o Flamengo em São Paulo pelo Brasileirão e, segundo a imprensa brasileira, Abel vai poupar pensando na final; ao Flamengo basta um empate para ser campeão. Na terça, 24, visita a Chapecoense e depois terá três dias até Montevidéu."
-      },
-      {
-        "titulo": "Palmeiras: Murilo evolui, Piquerez e Paulinho seguem em tratamento",
-        "texto": "Murilo (coxa esquerda) já faz transição física e é quem tem mais chances de chegar. Piquerez (coxa direita) e Paulinho (panturrilha direita) seguem em tratamento e não jogam hoje: os três são dúvida para a final."
+        "titulo": "Palmeiras com reservas contra o Flamengo",
+        "texto": "Hoje, às 16h30 (horário argentino), recebe o Flamengo em São Paulo pelo Brasileirão com um time alternativo; ao Flamengo basta um empate para ser campeão. Murilo (já em transição), Piquerez e Paulinho não jogam e seguem em dúvida para a final; na terça, dia 24, visita a Chapecoense."
       },
       {
         "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
@@ -28,19 +24,32 @@
       },
       {
         "titulo": "O roteiro até o Centenario",
-        "texto": "O elenco treina em City Bell até quarta-feira, 25 (domingo é folga), e nessa tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque."
+        "texto": "Hoje treina às 9h30 no Country de City Bell; o domingo é de folga e o elenco segue ali até a quarta, dia 25, quando viaja a Montevidéu (fica no Hilton). Na quinta e na sexta treinará no CT do Montevideo City Torque."
       },
       {
-        "titulo": "Um torcedor do Pincha, de bicicleta rumo a Montevidéu",
-        "texto": "Facu Mensegues saiu de La Plata na sexta às 4h30 para pedalar até a final. Ainda não tem ingresso e pede que os torcedores que forem por terra buzinem quando passarem por ele."
+        "titulo": "Rojo e González Pirez: \"A partida das nossas vidas\"",
+        "texto": "Os dois zagueiros falaram ao El Día a uma semana de Montevidéu. Rojo contou que sua volta surgiu depois do confronto com o Corinthians, quando as suspensões deixaram a defesa desfalcada."
+      },
+      {
+        "titulo": "A final também decide Argentina x Brasil",
+        "texto": "Os dois países somam 25 Copas Libertadores cada: se o Pincha conquistar a quinta, a Argentina volta a ficar na frente no histórico."
       }
     ],
     "linea": [
+      {
+        "texto": "Rojo e González Pirez, a uma semana da final: \"Temos pela frente a partida das nossas vidas\"."
+      },
+      {
+        "texto": "Estudiantes de la Patria: a final também desempata o histórico entre Argentina e Brasil."
+      },
       {
         "texto": "Palmeiras deve poupar titulares contra o Flamengo: Murilo em transição, Piquerez e Paulinho em tratamento."
       },
       {
         "texto": "Palmeiras x Flamengo, hoje às 16h30 em São Paulo: Abel já abriu mão do Brasileirão."
+      },
+      {
+        "texto": "A Conmebol convida os torcedores mais novos do Pincha a desenhar o escudo ou a camisa para suas redes."
       },
       {
         "texto": "Um torcedor saiu de bicicleta de La Plata rumo à final em Montevidéu."
@@ -50,6 +59,9 @@
       },
       {
         "texto": "Paulinho segue sem prazo de volta e é dúvida no Palmeiras para a final."
+      },
+      {
+        "texto": "Palmeiras define time alternativo para o Flamengo, de olho na final."
       },
       {
         "texto": "O escudo do Pincha já está no Estádio Centenario."
@@ -65,18 +77,6 @@
       },
       {
         "texto": "Palmeiras espera contar com Piquerez, Murilo e Paulinho na final."
-      },
-      {
-        "texto": "Medina avalia variações e espera por Correa para a final."
-      },
-      {
-        "texto": "A oito dias da final, o Pincha ainda não definiu quem substitui Baltasar."
-      },
-      {
-        "texto": "Rojo abre o coração: como foi costurada a sua volta inesperada ao Estudiantes."
-      },
-      {
-        "texto": "Polêmica no Palmeiras por uma decisão de Abel a dias da final."
       }
     ]
   },

@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "距决赛还有一周，帕尔梅拉斯(Palmeiras)轮换主力，一位Pincha球迷已骑车前往蒙得维的亚",
+    "titular": "距决赛还有一周，帕尔梅拉斯轮换主力，Rojo和González Pirez期待“我们人生中最重要的比赛”",
     "foto": {
       "alt": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。"
     },
-    "resumen": "Palmeiras今天对阵Flamengo将进行轮换，为决赛保存实力；Murilo接近复出，Piquerez和Paulinho仍在治疗。在拉普拉塔，Medina仍在等待Correa，一名球迷已骑自行车出发前往蒙得维的亚。",
+    "resumen": "帕尔梅拉斯今天对阵Flamengo将轮换阵容，为决赛保存实力，Murilo、Piquerez和Paulinho仍存疑。在拉普拉塔，球队在City Bell训练，Medina仍在等待Correa，中卫们正度过最漫长的一周。",
     "siete": [
       {
         "titulo": "Correa进入康复最后阶段",
@@ -15,12 +15,8 @@
         "texto": "对阵Flamengo被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，首选方案是沿用马拉卡纳之战的三中卫加两名边翼卫，左路由Tobio Burgos出任；Diario Hoy则提到在Supercopa Argentina首发的Fabricio Pérez是另一选择。"
       },
       {
-        "titulo": "Palmeiras对阵Flamengo轮换主力",
-        "texto": "今天阿根廷时间16:30，Palmeiras在圣保罗主场迎战Flamengo进行巴甲比赛。据巴西媒体报道，Abel将着眼决赛进行轮换；Flamengo只需战平即可夺冠。24日周二Palmeiras客场挑战Chapecoense，之后距蒙得维的亚决赛只剩三天。"
-      },
-      {
-        "titulo": "Palmeiras：Murilo恢复顺利，Piquerez和Paulinho仍在治疗",
-        "texto": "Murilo（左大腿）已进入体能过渡阶段，赶上决赛的希望最大。Piquerez（右大腿）和Paulinho（右小腿）仍在治疗，缺席今天的比赛：三人能否出战决赛均成疑。"
+        "titulo": "帕尔梅拉斯派替补迎战Flamengo",
+        "texto": "今天16:30（阿根廷时间）帕尔梅拉斯在圣保罗主场以替补阵容迎战Flamengo（巴甲）；Flamengo只需战平即可夺冠。Murilo（已进入恢复过渡期）、Piquerez和Paulinho缺阵，决赛出战仍存疑；24日周二客场挑战Chapecoense。"
       },
       {
         "titulo": "约3.5万名Pincha球迷奔赴蒙得维的亚",
@@ -28,19 +24,32 @@
       },
       {
         "titulo": "前往Centenario的行程",
-        "texto": "球队在City Bell训练至25日周三（周日休息），当天下午前往蒙得维的亚，下榻Hilton酒店；周四和周五将在Montevideo City Torque训练基地训练。"
+        "texto": "今天9:30在City Bell的Country训练；周日休息，球队在此训练至25日周三，当天飞赴蒙得维的亚（入住Hilton）。周四和周五将在Montevideo City Torque训练基地训练。"
       },
       {
-        "titulo": "一位Pincha球迷骑车前往蒙得维的亚",
-        "texto": "Facu Mensegues于周五凌晨4:30从拉普拉塔出发，计划一路骑到决赛现场。他目前还没有门票，并请走陆路的球迷经过时为他按喇叭。"
+        "titulo": "Rojo与González Pirez：“我们人生中最重要的比赛”",
+        "texto": "两名中卫在距蒙得维的亚之战一周时接受El Día采访。Rojo透露，他的回归源于对阵Corinthians的系列赛之后，当时停赛导致后防人手不足。"
+      },
+      {
+        "titulo": "决赛也决定阿根廷与巴西之争",
+        "texto": "两国各有25座Copa Libertadores冠军：若Pincha夺得队史第五冠，阿根廷将在历史榜上重新领先。"
       }
     ],
     "linea": [
+      {
+        "texto": "距决赛一周，Rojo与González Pirez：“我们面前是人生中最重要的比赛”。"
+      },
+      {
+        "texto": "“祖国的Estudiantes”：这场决赛也将打破阿根廷与巴西的历史平局。"
+      },
       {
         "texto": "Palmeiras对Flamengo或将轮换主力：Murilo处于过渡阶段，Piquerez和Paulinho仍在治疗。"
       },
       {
         "texto": "Palmeiras对Flamengo今天16:30在圣保罗开战：Abel已放弃巴甲争冠。"
+      },
+      {
+        "texto": "南美足联邀请Pincha的小球迷画出队徽或球衣，登上其社交媒体。"
       },
       {
         "texto": "一名球迷从拉普拉塔骑自行车出发，前往蒙得维的亚观看决赛。"
@@ -50,6 +59,9 @@
       },
       {
         "texto": "Paulinho仍无复出时间表，帕尔梅拉斯决赛出战成疑。"
+      },
+      {
+        "texto": "帕尔梅拉斯确定以替补阵容对阵Flamengo，心思放在决赛上。"
       },
       {
         "texto": "Pincha队徽已亮相Estadio Centenario。"
@@ -65,18 +77,6 @@
       },
       {
         "texto": "帕尔梅拉斯希望Piquerez、Murilo和Paulinho能赶上决赛。"
-      },
-      {
-        "texto": "Medina考虑多种方案，等待Correa出战决赛。"
-      },
-      {
-        "texto": "距决赛还有八天，Pincha仍未确定由谁替代Baltasar。"
-      },
-      {
-        "texto": "Rojo敞开心扉：意外重返Estudiantes的经过。"
-      },
-      {
-        "texto": "决赛前几天，Abel的一项决定在Palmeiras引发争议。"
       }
     ]
   },

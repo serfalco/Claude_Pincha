@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "A week from the final, Palmeiras rest their starters and one Pincha fan is already cycling to Montevideo",
+    "titular": "A week from the final, Palmeiras rest their starters and Rojo and González Pirez look ahead to \"the match of our lives\"",
     "foto": {
       "alt": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo."
     },
-    "resumen": "Palmeiras will rotate against Flamengo today to protect themselves for the final, with Murilo close to a return and Piquerez and Paulinho still in treatment. In La Plata, Medina is still waiting on Correa and a fan has set off by bike for Montevideo.",
+    "resumen": "Palmeiras will rotate against Flamengo today to protect themselves for the final, with Murilo, Piquerez and Paulinho still doubts. In La Plata, the squad train in City Bell, Medina waits on Correa and the centre-backs are living the longest week.",
     "siete": [
       {
         "titulo": "Correa in the final stretch of his recovery",
@@ -15,12 +15,8 @@
         "texto": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to El Día, the main option is to repeat the three centre-backs and two wing-backs used at the Maracanã, with Tobio Burgos on the left; Diario Hoy names Fabricio Pérez, who started in the Supercopa Argentina, as an alternative."
       },
       {
-        "titulo": "Palmeiras rest their starters against Flamengo",
-        "texto": "Today at 16:30 (Argentine time) they host Flamengo in São Paulo in the Brasileirão and, according to the Brazilian press, Abel will rotate with the final in mind; a draw is enough for Flamengo to win the title. On Tuesday 24th they visit Chapecoense, leaving three days before Montevideo."
-      },
-      {
-        "titulo": "Palmeiras: Murilo progressing, Piquerez and Paulinho still in treatment",
-        "texto": "Murilo (left thigh) is already in his physical transition and has the best chance of making it. Piquerez (right thigh) and Paulinho (right calf) are still in treatment and miss today's match: all three are doubts for the final."
+        "titulo": "Palmeiras field second string against Flamengo",
+        "texto": "Today at 16:30 (Argentine time) they host Flamengo in São Paulo in the Brasileirão with an alternative side; a draw is enough for Flamengo to win the title. Murilo (already in his physical transition), Piquerez and Paulinho miss out and remain doubts for the final; on Tuesday 24th they visit Chapecoense."
       },
       {
         "titulo": "Around 35,000 Pincha fans head for Montevideo",
@@ -28,19 +24,32 @@
       },
       {
         "titulo": "The road map to the Centenario",
-        "texto": "The squad train in City Bell until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground."
+        "texto": "Today they train at 09:30 at the City Bell Country Club; Sunday is a day off and the squad stay there until Wednesday 25th, when they travel to Montevideo (staying at the Hilton). On Thursday and Friday they will train at Montevideo City Torque's training ground."
       },
       {
-        "titulo": "A Pincha fan cycling to Montevideo",
-        "texto": "Facu Mensegues left La Plata on Friday at 04:30 to ride all the way to the final. He doesn't have a ticket yet and asks fans travelling by road to honk when they pass him."
+        "titulo": "Rojo and González Pirez: \"The match of our lives\"",
+        "texto": "The two centre-backs spoke to El Día a week out from Montevideo. Rojo explained that his return came about after the Corinthians tie, when suspensions left the defence short."
+      },
+      {
+        "titulo": "The final also settles Argentina v Brazil",
+        "texto": "The two countries have 25 Copa Libertadores titles each: if the Pincha win their fifth, Argentina go back in front in the all-time standings."
       }
     ],
     "linea": [
+      {
+        "texto": "Rojo and González Pirez, a week from the final: \"We have the match of our lives ahead of us\"."
+      },
+      {
+        "texto": "Estudiantes de la Patria: the final also breaks the Argentina-Brazil tie in the all-time standings."
+      },
       {
         "texto": "Palmeiras set to rest starters against Flamengo: Murilo in transition, Piquerez and Paulinho in treatment."
       },
       {
         "texto": "Palmeiras v Flamengo, today at 16:30 in São Paulo: Abel has already let the Brasileirão go."
+      },
+      {
+        "texto": "CONMEBOL invites the youngest Pincha fans to draw the crest or the shirt for its social media."
       },
       {
         "texto": "A fan set off from La Plata by bike for the final in Montevideo."
@@ -50,6 +59,9 @@
       },
       {
         "texto": "Paulinho still has no return date and is a doubt for Palmeiras in the final."
+      },
+      {
+        "texto": "Palmeiras pick an alternative side for Flamengo, with their minds on the final."
       },
       {
         "texto": "The Pincha crest is already on display at the Estadio Centenario."
@@ -65,18 +77,6 @@
       },
       {
         "texto": "Palmeiras hope to have Piquerez, Murilo and Paulinho back for the final."
-      },
-      {
-        "texto": "Medina weighs his options and waits on Correa for the final."
-      },
-      {
-        "texto": "Eight days before the final, the Pincha have yet to decide who replaces Baltasar."
-      },
-      {
-        "texto": "Rojo opens up: how his unexpected return to Estudiantes came together."
-      },
-      {
-        "texto": "Controversy at Palmeiras over a decision by Abel days before the final."
       }
     ]
   },

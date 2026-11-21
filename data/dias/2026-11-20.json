@@ -187,6 +187,18 @@
       }
     },
     {
+      "hora": "2026-11-20T19:49:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/la-conmebol-lanzo-una-convocatoria-especial-los-pequenos-hinchas-estudiantes-n137784",
+      "texto": {
+        "es": "La Conmebol invita a los pinchas más chicos a dibujar el escudo o la camiseta para sus redes.",
+        "en": "CONMEBOL invites the youngest Pincha fans to draw the crest or the shirt for its social media.",
+        "pt": "A Conmebol convida os torcedores mais novos do Pincha a desenhar o escudo ou a camisa para suas redes.",
+        "zh": "南美足联邀请Pincha的小球迷画出队徽或球衣，登上其社交媒体。",
+        "hi": "CONMEBOL ने Pincha के नन्हे फ़ैन्स को क्रेस्ट या जर्सी बनाकर भेजने का न्योता दिया, जो उसके सोशल मीडिया पर दिखेंगी।"
+      }
+    },
+    {
       "hora": "2026-11-20T18:25:00-03:00",
       "fuente": "El Día",
       "url": "https://www.eldia.com/deportes/un-hincha-partio-en-bicicleta-hacia-montevideo-para-alentar-a-estudiantes-en-la-final-de-la-libertadores-deportes_1795209939",
@@ -220,6 +232,18 @@
         "pt": "Paulinho segue sem prazo de volta e é dúvida no Palmeiras para a final.",
         "zh": "Paulinho仍无复出时间表，帕尔梅拉斯决赛出战成疑。",
         "hi": "Paulinho की वापसी की तारीख अब भी तय नहीं, Palmeiras के लिए फ़ाइनल में संदिग्ध।"
+      }
+    },
+    {
+      "hora": "2026-11-20T10:48:00-03:00",
+      "fuente": "Bolavip Brasil",
+      "url": "https://br.bolavip.com/palmeiras/com-foco-na-libertadores-palmeiras-define-escalacao-alternativa-contra-flamengo-veja-o-time",
+      "texto": {
+        "es": "Palmeiras define un equipo alternativo para Flamengo, con la cabeza en la final.",
+        "en": "Palmeiras pick an alternative side for Flamengo, with their minds on the final.",
+        "pt": "Palmeiras define time alternativo para o Flamengo, de olho na final.",
+        "zh": "帕尔梅拉斯确定以替补阵容对阵Flamengo，心思放在决赛上。",
+        "hi": "Palmeiras ने फ़ाइनल पर नज़र रखते हुए Flamengo के लिए वैकल्पिक टीम तय की।"
       }
     },
     {
