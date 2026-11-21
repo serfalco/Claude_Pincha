@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "决赛前八天，Medina等待Correa，帕尔梅拉斯（Palmeiras）清点伤员",
+    "titular": "距决赛还有一周，帕尔梅拉斯(Palmeiras)轮换主力，一位Pincha球迷已骑车前往蒙得维的亚",
     "foto": {
       "alt": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。"
     },
-    "resumen": "Medina在等待Correa，并决定Baltasar Rodríguez的替代人选。帕尔梅拉斯方面，Piquerez、Murilo和Paulinho能否出战决赛成疑；Pincha全队则在City Bell举行了烤肉聚会。",
+    "resumen": "Palmeiras今天对阵Flamengo将进行轮换，为决赛保存实力；Murilo接近复出，Piquerez和Paulinho仍在治疗。在拉普拉塔，Medina仍在等待Correa，一名球迷已骑自行车出发前往蒙得维的亚。",
     "siete": [
       {
         "titulo": "Correa进入康复最后阶段",
@@ -15,12 +15,12 @@
         "texto": "对阵Flamengo被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，首选方案是沿用马拉卡纳之战的三中卫加两名边翼卫，左路由Tobio Burgos出任；Diario Hoy则提到在Supercopa Argentina首发的Fabricio Pérez是另一选择。"
       },
       {
-        "titulo": "帕尔梅拉斯三人决赛出战成疑",
-        "texto": "据巴西媒体报道，Piquerez（右大腿）很难及时恢复，Murilo（左大腿）已恢复持球训练，出战希望更大。Paulinho自10月21日起缺阵，至今仍无复出时间表，情况最为复杂。"
+        "titulo": "Palmeiras对阵Flamengo轮换主力",
+        "texto": "今天阿根廷时间16:30，Palmeiras在圣保罗主场迎战Flamengo进行巴甲比赛。据巴西媒体报道，Abel将着眼决赛进行轮换；Flamengo只需战平即可夺冠。24日周二Palmeiras客场挑战Chapecoense，之后距蒙得维的亚决赛只剩三天。"
       },
       {
-        "titulo": "帕尔梅拉斯将派全替补迎战弗拉门戈",
-        "texto": "据Band报道，Abel周六对阵Flamengo将排出清一色替补阵容，Flamengo只需战平即可夺得巴甲冠军。24日周二 Palmeiras 将于 18:00 客场挑战 Chapecoense，此后距决赛仅剩三天。"
+        "titulo": "Palmeiras：Murilo恢复顺利，Piquerez和Paulinho仍在治疗",
+        "texto": "Murilo（左大腿）已进入体能过渡阶段，赶上决赛的希望最大。Piquerez（右大腿）和Paulinho（右小腿）仍在治疗，缺席今天的比赛：三人能否出战决赛均成疑。"
       },
       {
         "titulo": "约3.5万名Pincha球迷奔赴蒙得维的亚",
@@ -31,11 +31,20 @@
         "texto": "球队在City Bell训练至25日周三（周日休息），当天下午前往蒙得维的亚，下榻Hilton酒店；周四和周五将在Montevideo City Torque训练基地训练。"
       },
       {
-        "titulo": "全队在City Bell烤肉聚会",
-        "texto": "全队在City Bell乡村俱乐部举行烤肉聚会，内部庆祝超级杯夺冠，并在对阵帕尔梅拉斯的决赛前增强凝聚力。"
+        "titulo": "一位Pincha球迷骑车前往蒙得维的亚",
+        "texto": "Facu Mensegues于周五凌晨4:30从拉普拉塔出发，计划一路骑到决赛现场。他目前还没有门票，并请走陆路的球迷经过时为他按喇叭。"
       }
     ],
     "linea": [
+      {
+        "texto": "Palmeiras对Flamengo或将轮换主力：Murilo处于过渡阶段，Piquerez和Paulinho仍在治疗。"
+      },
+      {
+        "texto": "Palmeiras对Flamengo今天16:30在圣保罗开战：Abel已放弃巴甲争冠。"
+      },
+      {
+        "texto": "一名球迷从拉普拉塔骑自行车出发，前往蒙得维的亚观看决赛。"
+      },
       {
         "texto": "全队以烤肉聚会庆祝超级杯夺冠，决赛前气氛良好。"
       },
@@ -68,15 +77,6 @@
       },
       {
         "texto": "决赛前几天，Abel的一项决定在Palmeiras引发争议。"
-      },
-      {
-        "texto": "Rosario Central主席批评Verón，称其两种态度令他不满。"
-      },
-      {
-        "texto": "Palmeiras 主帅放弃巴甲，全力备战与 Pincha 的决赛。"
-      },
-      {
-        "texto": "对 Flamengo 派替补？Abel 在把与 Estudiantes 的决赛列为首要目标后如此表示。"
       }
     ]
   },

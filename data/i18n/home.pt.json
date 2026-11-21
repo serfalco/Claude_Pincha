@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "A oito dias da final, Medina espera por Correa e o Palmeiras conta seus lesionados",
+    "titular": "A uma semana da final, o Palmeiras poupa titulares e um torcedor do Pincha já pedala rumo a Montevidéu",
     "foto": {
       "alt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo."
     },
-    "resumen": "Medina espera por Correa e define o substituto de Baltasar Rodríguez. No Palmeiras, Piquerez, Murilo e Paulinho são dúvidas para a final, e o elenco do Pincha fez um churrasco em City Bell.",
+    "resumen": "O Palmeiras vai rodar o elenco hoje contra o Flamengo para se preservar para a final, com Murilo perto de voltar e Piquerez e Paulinho ainda em tratamento. Em La Plata, Medina segue esperando por Correa e um torcedor partiu de bicicleta para Montevidéu.",
     "siete": [
       {
         "titulo": "Correa na reta final da recuperação",
@@ -15,12 +15,12 @@
         "texto": "Baltasar Rodríguez, expulso contra o Flamengo, está fora da final. Segundo o El Día, a principal opção é repetir os três zagueiros e dois alas do Maracanã, com Tobio Burgos pela esquerda; o Diario Hoy cita Fabricio Pérez, titular na Supercopa Argentina, como alternativa."
       },
       {
-        "titulo": "Palmeiras tem três dúvidas para a final",
-        "texto": "Segundo a imprensa brasileira, Piquerez (coxa direita) dificilmente estará em condições e Murilo (coxa esquerda) já treina com bola e tem mais chances. Paulinho, fora desde 21 de outubro, segue sem prazo de volta e é o caso mais complicado."
+        "titulo": "Palmeiras poupa titulares contra o Flamengo",
+        "texto": "Hoje às 16h30 (horário argentino) recebe o Flamengo em São Paulo pelo Brasileirão e, segundo a imprensa brasileira, Abel vai poupar pensando na final; ao Flamengo basta um empate para ser campeão. Na terça, 24, visita a Chapecoense e depois terá três dias até Montevidéu."
       },
       {
-        "titulo": "Palmeiras com time todo reserva contra o Flamengo",
-        "texto": "Segundo a Band, Abel vai escalar um time totalmente reserva no sábado contra o Flamengo, que precisa só de um empate para ser campeão do Brasileirão. Na terça, dia 24, o Palmeiras visita a Chapecoense às 18h e depois terá três dias até a final."
+        "titulo": "Palmeiras: Murilo evolui, Piquerez e Paulinho seguem em tratamento",
+        "texto": "Murilo (coxa esquerda) já faz transição física e é quem tem mais chances de chegar. Piquerez (coxa direita) e Paulinho (panturrilha direita) seguem em tratamento e não jogam hoje: os três são dúvida para a final."
       },
       {
         "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
@@ -31,11 +31,20 @@
         "texto": "O elenco treina em City Bell até quarta-feira, 25 (domingo é folga), e nessa tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque."
       },
       {
-        "titulo": "Churrasco do elenco em City Bell",
-        "texto": "O elenco fez um churrasco no Country de City Bell para comemorar a Supercopa entre eles e fortalecer o grupo antes da final contra o Palmeiras."
+        "titulo": "Um torcedor do Pincha, de bicicleta rumo a Montevidéu",
+        "texto": "Facu Mensegues saiu de La Plata na sexta às 4h30 para pedalar até a final. Ainda não tem ingresso e pede que os torcedores que forem por terra buzinem quando passarem por ele."
       }
     ],
     "linea": [
+      {
+        "texto": "Palmeiras deve poupar titulares contra o Flamengo: Murilo em transição, Piquerez e Paulinho em tratamento."
+      },
+      {
+        "texto": "Palmeiras x Flamengo, hoje às 16h30 em São Paulo: Abel já abriu mão do Brasileirão."
+      },
+      {
+        "texto": "Um torcedor saiu de bicicleta de La Plata rumo à final em Montevidéu."
+      },
       {
         "texto": "O elenco comemorou a Supercopa com churrasco e bom clima antes da final."
       },
@@ -68,15 +77,6 @@
       },
       {
         "texto": "Polêmica no Palmeiras por uma decisão de Abel a dias da final."
-      },
-      {
-        "texto": "O presidente do Rosario Central criticou Verón por duas atitudes que o incomodaram."
-      },
-      {
-        "texto": "O técnico do Palmeiras desistiu do Brasileirão e coloca toda a energia na final contra o Pincha."
-      },
-      {
-        "texto": "Reservas contra o Flamengo? O que disse Abel depois de priorizar a final com o Estudiantes."
       }
     ]
   },

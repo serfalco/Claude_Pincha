@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-10-23_maracanazo-y-a-la-final_1",
+    "alt": {
+      "es": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo.",
+      "en": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo.",
+      "pt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo.",
+      "zh": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。",
+      "hi": "Flamengo के ख़िलाफ़ सेमीफ़ाइनल से पहले Maracanã में Estudiantes के शुरुआती खिलाड़ी फ़ोटो के लिए खड़े।"
+    }
+  },
   "siete": [
     {
       "titulo": {
@@ -151,17 +161,43 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-10-23_maracanazo-y-a-la-final_1",
-    "alt": {
-      "es": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo.",
-      "en": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo.",
-      "pt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo.",
-      "zh": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。",
-      "hi": "Flamengo के ख़िलाफ़ सेमीफ़ाइनल से पहले Maracanã में Estudiantes के शुरुआती खिलाड़ी फ़ोटो के लिए खड़े।"
-    }
-  },
   "linea": [
+    {
+      "hora": "2026-11-20T20:07:00-03:00",
+      "fuente": "Portal do Palestra",
+      "url": "https://portaldopalestra.com.br/provavel-escalacao-palmeiras-contra-flamengo-brasileirao-36a-rodada/",
+      "texto": {
+        "es": "Palmeiras guardaría titulares ante Flamengo: Murilo en transición, Piquerez y Paulinho en tratamiento.",
+        "en": "Palmeiras set to rest starters against Flamengo: Murilo in transition, Piquerez and Paulinho in treatment.",
+        "pt": "Palmeiras deve poupar titulares contra o Flamengo: Murilo em transição, Piquerez e Paulinho em tratamento.",
+        "zh": "Palmeiras对Flamengo或将轮换主力：Murilo处于过渡阶段，Piquerez和Paulinho仍在治疗。",
+        "hi": "Flamengo के ख़िलाफ़ Palmeiras मुख्य खिलाड़ियों को आराम दे सकता है: Murilo ट्रांज़िशन में, Piquerez और Paulinho का इलाज जारी।"
+      }
+    },
+    {
+      "hora": "2026-11-20T20:00:00-03:00",
+      "fuente": "Gazeta Esportiva",
+      "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-tudo-sobre-36-rodada-brasileirao-21-11-2026/",
+      "texto": {
+        "es": "Palmeiras-Flamengo, hoy a las 16.30 en San Pablo: Abel ya soltó la pelea por el Brasileirão.",
+        "en": "Palmeiras v Flamengo, today at 16:30 in São Paulo: Abel has already let the Brasileirão go.",
+        "pt": "Palmeiras x Flamengo, hoje às 16h30 em São Paulo: Abel já abriu mão do Brasileirão.",
+        "zh": "Palmeiras对Flamengo今天16:30在圣保罗开战：Abel已放弃巴甲争冠。",
+        "hi": "Palmeiras बनाम Flamengo आज 16:30 बजे São Paulo में: Abel पहले ही Brasileirão की दौड़ छोड़ चुके हैं।"
+      }
+    },
+    {
+      "hora": "2026-11-20T18:25:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/un-hincha-partio-en-bicicleta-hacia-montevideo-para-alentar-a-estudiantes-en-la-final-de-la-libertadores-deportes_1795209939",
+      "texto": {
+        "es": "Un hincha salió en bicicleta de La Plata rumbo a la final en Montevideo.",
+        "en": "A fan set off from La Plata by bike for the final in Montevideo.",
+        "pt": "Um torcedor saiu de bicicleta de La Plata rumo à final em Montevidéu.",
+        "zh": "一名球迷从拉普拉塔骑自行车出发，前往蒙得维的亚观看决赛。",
+        "hi": "एक फ़ैन La Plata से साइकिल पर Montevideo में फ़ाइनल के लिए निकला।"
+      }
+    },
     {
       "hora": "2026-11-20T15:03:00-03:00",
       "fuente": "Olé",

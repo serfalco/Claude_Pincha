@@ -1,13 +1,13 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-20T18:07:00-03:00",
+  "actualizado": "2026-11-21T00:07:00-03:00",
   "hoy": {
-    "titular": "A ocho días de la final, Medina espera por Correa y Palmeiras cuenta sus lesionados",
+    "titular": "A una semana de la final, Palmeiras guarda a sus titulares y un pincha ya pedalea a Montevideo",
     "foto": {
       "id": "2026-10-23_maracanazo-y-a-la-final_1",
       "alt": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo."
     },
-    "resumen": "Medina espera por Correa y define el reemplazo de Baltasar Rodríguez. En Palmeiras, Piquerez, Murilo y Paulinho están en duda para la final, y el plantel del Pincha compartió un asado en City Bell.",
+    "resumen": "Palmeiras rotará hoy ante Flamengo para cuidarse para la final, con Murilo cerca de volver y Piquerez y Paulinho todavía en tratamiento. En La Plata, Medina sigue esperando por Correa y un hincha salió en bicicleta hacia Montevideo.",
     "siete": [
       {
         "titulo": "Correa, en la recta final de su recuperación",
@@ -18,12 +18,12 @@
         "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según El Día, la opción principal es repetir los tres centrales y dos carrileros del Maracaná, con Tobio Burgos por la izquierda; Diario Hoy menciona a Fabricio Pérez, titular en la Supercopa, como alternativa."
       },
       {
-        "titulo": "Palmeiras, con tres en duda para la final",
-        "texto": "Según la prensa brasileña, Piquerez (muslo derecho) llega con dificultades y Murilo (muslo izquierdo) ya trabaja con pelota y tiene más chances. Paulinho, fuera desde el 21 de octubre, sigue sin fecha de regreso y es el caso más complicado."
+        "titulo": "Palmeiras guarda a sus titulares ante Flamengo",
+        "texto": "Hoy a las 16.30 (hora argentina) recibe a Flamengo en San Pablo por el Brasileirão y, según la prensa brasileña, Abel rotará pensando en la final; a Flamengo le alcanza un empate para ser campeón. El martes 24 visita a Chapecoense y después le quedan tres días para Montevideo."
       },
       {
-        "titulo": "Palmeiras, con todos suplentes ante Flamengo",
-        "texto": "Según la Band, Abel pondrá un equipo íntegramente suplente el sábado ante Flamengo, al que le alcanza un empate para ser campeón del Brasileirão. El martes 24 Palmeiras visita a Chapecoense a las 18 y después le quedan tres días para la final."
+        "titulo": "Palmeiras: Murilo avanza, Piquerez y Paulinho siguen en tratamiento",
+        "texto": "Murilo (muslo izquierdo) ya hace la transición física y es el que más chances tiene de llegar. Piquerez (muslo derecho) y Paulinho (pantorrilla derecha) siguen en tratamiento y no juegan hoy: los tres están en duda para la final."
       },
       {
         "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
@@ -35,11 +35,29 @@
         "vence": "2026-11-25T23:59:00-03:00"
       },
       {
-        "titulo": "Asado del plantel en City Bell",
-        "texto": "El plantel compartió un asado en el Country de City Bell para festejar puertas adentro la Supercopa y fortalecer el grupo antes de la final con Palmeiras."
+        "titulo": "Un pincha, en bicicleta rumbo a Montevideo",
+        "texto": "Facu Mensegues salió de La Plata el viernes a las 4.30 para pedalear hasta la final. Todavía no tiene entrada y pide que los hinchas que viajen por tierra le toquen bocina cuando lo crucen."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-20T20:07:00-03:00",
+        "fuente": "Portal do Palestra",
+        "url": "https://portaldopalestra.com.br/provavel-escalacao-palmeiras-contra-flamengo-brasileirao-36a-rodada/",
+        "texto": "Palmeiras guardaría titulares ante Flamengo: Murilo en transición, Piquerez y Paulinho en tratamiento."
+      },
+      {
+        "hora": "2026-11-20T20:00:00-03:00",
+        "fuente": "Gazeta Esportiva",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-tudo-sobre-36-rodada-brasileirao-21-11-2026/",
+        "texto": "Palmeiras-Flamengo, hoy a las 16.30 en San Pablo: Abel ya soltó la pelea por el Brasileirão."
+      },
+      {
+        "hora": "2026-11-20T18:25:00-03:00",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/un-hincha-partio-en-bicicleta-hacia-montevideo-para-alentar-a-estudiantes-en-la-final-de-la-libertadores-deportes_1795209939",
+        "texto": "Un hincha salió en bicicleta de La Plata rumbo a la final en Montevideo."
+      },
       {
         "hora": "2026-11-20T15:03:00-03:00",
         "fuente": "Olé",
@@ -105,24 +123,6 @@
         "fuente": "MDZ Online",
         "url": "https://www.mdzol.com/deportes/2026/11/19/atento-estudiantes-polemica-en-palmeiras-por-una-decision-de-su-dt-a-dias-de-la-final-de-la-libertadores-1996678.html",
         "texto": "Polémica en Palmeiras por una decisión de Abel a días de la final."
-      },
-      {
-        "hora": "2026-11-19T19:10:00-03:00",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/el-presidente-rosario-central-hablo-juan-sebastian-veron-y-revelo-que-dos-actitudes-le-molestaron-n137725",
-        "texto": "El presidente de Rosario Central apuntó contra Verón por dos actitudes que le molestaron."
-      },
-      {
-        "hora": "2026-11-19T16:43:00-03:00",
-        "fuente": "El Día",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR3FXWUtWOFVETmNSQXk2Y21ra29NeXdrbXUxOFpsMWpPTjBtbWNWMkhDbXp0Y0dkSkVEQjZyYi1RR2JUOUxxV09palNYQl96OWhZc0RXQ2tCR2czeXBjQzhOSURuUWdaeWV6TEU5UlFCVXFxVWI1cEdYOEVGZ0FzeTRXd0lXbkoybEg4Y2l0ZW93eU40THJkRnJUMXFBREFhNV9MQXpJT3RLSVZwVVZ0QkFTUml4bGFKUnBMTWpiU1UwV0ZHdVlZdTNoWE9ZLVhCMUJHeXdTY2FEZGxRWFBCdEtFano0c0hFMHhqR3ItNGw?oc=5",
-        "texto": "El DT de Palmeiras se bajó del Brasileirão y pone toda la energía en la final con el Pincha."
-      },
-      {
-        "hora": "2026-11-19T16:24:00-03:00",
-        "fuente": "Infocielo",
-        "url": "https://www.infocielo.com/deportes/abel-ferreira-se-bajo-del-brasileirao-y-puso-la-final-con-estudiantes-como-prioridad-va-con-suplentes-ante-el-fla",
-        "texto": "¿Suplentes ante Flamengo? Lo que dijo Abel tras priorizar la final con Estudiantes."
       }
     ]
   },
@@ -367,6 +367,9 @@
     }
   },
   "fuentes": [
+    "https://portaldopalestra.com.br/provavel-escalacao-palmeiras-contra-flamengo-brasileirao-36a-rodada/",
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-tudo-sobre-36-rodada-brasileirao-21-11-2026/",
+    "https://www.eldia.com/deportes/un-hincha-partio-en-bicicleta-hacia-montevideo-para-alentar-a-estudiantes-en-la-final-de-la-libertadores-deportes_1795209939",
     "https://portaldopalestra.com.br/paulinho-lesao-panturrilha-sem-prazo-finais-palmeiras-libertadores/",
     "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
     "https://www.infocielo.com/deportes/palmeiras-en-alerta-tres-figuras-entre-algodones-a-dias-de-la-final-ante-estudiantes",

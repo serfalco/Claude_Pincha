@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "Eight days out from the final, Medina waits on Correa as Palmeiras count their injuries",
+    "titular": "A week from the final, Palmeiras rest their starters and one Pincha fan is already cycling to Montevideo",
     "foto": {
       "alt": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo."
     },
-    "resumen": "Medina is waiting on Correa and deciding who replaces Baltasar Rodríguez. At Palmeiras, Piquerez, Murilo and Paulinho are doubts for the final, while the Pincha squad shared an asado in City Bell.",
+    "resumen": "Palmeiras will rotate against Flamengo today to protect themselves for the final, with Murilo close to a return and Piquerez and Paulinho still in treatment. In La Plata, Medina is still waiting on Correa and a fan has set off by bike for Montevideo.",
     "siete": [
       {
         "titulo": "Correa in the final stretch of his recovery",
@@ -15,12 +15,12 @@
         "texto": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to El Día, the main option is to repeat the three centre-backs and two wing-backs used at the Maracanã, with Tobio Burgos on the left; Diario Hoy names Fabricio Pérez, who started in the Supercopa Argentina, as an alternative."
       },
       {
-        "titulo": "Palmeiras have three doubts for the final",
-        "texto": "According to the Brazilian press, Piquerez (right thigh) faces a race to be fit, while Murilo (left thigh) is already working with the ball and has a better chance. Paulinho, out since 21 October, still has no return date and is the most complicated case."
+        "titulo": "Palmeiras rest their starters against Flamengo",
+        "texto": "Today at 16:30 (Argentine time) they host Flamengo in São Paulo in the Brasileirão and, according to the Brazilian press, Abel will rotate with the final in mind; a draw is enough for Flamengo to win the title. On Tuesday 24th they visit Chapecoense, leaving three days before Montevideo."
       },
       {
-        "titulo": "Palmeiras to field an all-reserve side against Flamengo",
-        "texto": "According to Band, Abel will name a team made up entirely of reserves on Saturday against Flamengo, who need only a draw to win the Brasileirão. On Tuesday 24th Palmeiras visit Chapecoense at 18:00, leaving them three days before the final."
+        "titulo": "Palmeiras: Murilo progressing, Piquerez and Paulinho still in treatment",
+        "texto": "Murilo (left thigh) is already in his physical transition and has the best chance of making it. Piquerez (right thigh) and Paulinho (right calf) are still in treatment and miss today's match: all three are doubts for the final."
       },
       {
         "titulo": "Around 35,000 Pincha fans head for Montevideo",
@@ -31,11 +31,20 @@
         "texto": "The squad train in City Bell until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground."
       },
       {
-        "titulo": "Squad asado in City Bell",
-        "texto": "The squad shared an asado at the City Bell Country Club to celebrate the Supercopa in private and strengthen the group ahead of the final against Palmeiras."
+        "titulo": "A Pincha fan cycling to Montevideo",
+        "texto": "Facu Mensegues left La Plata on Friday at 04:30 to ride all the way to the final. He doesn't have a ticket yet and asks fans travelling by road to honk when they pass him."
       }
     ],
     "linea": [
+      {
+        "texto": "Palmeiras set to rest starters against Flamengo: Murilo in transition, Piquerez and Paulinho in treatment."
+      },
+      {
+        "texto": "Palmeiras v Flamengo, today at 16:30 in São Paulo: Abel has already let the Brasileirão go."
+      },
+      {
+        "texto": "A fan set off from La Plata by bike for the final in Montevideo."
+      },
       {
         "texto": "The squad celebrated the Supercopa with an asado and a good atmosphere ahead of the final."
       },
@@ -68,15 +77,6 @@
       },
       {
         "texto": "Controversy at Palmeiras over a decision by Abel days before the final."
-      },
-      {
-        "texto": "The Rosario Central president criticised Verón over two attitudes that bothered him."
-      },
-      {
-        "texto": "Palmeiras's coach has given up on the Brasileirão and puts all his energy into the final against the Pincha."
-      },
-      {
-        "texto": "Reserves against Flamengo? What Abel said after making the Estudiantes final his priority."
       }
     ]
   },

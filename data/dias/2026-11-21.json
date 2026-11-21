@@ -1,0 +1,165 @@
+{
+  "fecha": "2026-11-21",
+  "titular": {
+    "es": "A una semana de la final, Palmeiras guarda a sus titulares y un pincha ya pedalea a Montevideo",
+    "en": "A week from the final, Palmeiras rest their starters and one Pincha fan is already cycling to Montevideo",
+    "pt": "A uma semana da final, o Palmeiras poupa titulares e um torcedor do Pincha já pedala rumo a Montevidéu",
+    "zh": "距决赛还有一周，帕尔梅拉斯(Palmeiras)轮换主力，一位Pincha球迷已骑车前往蒙得维的亚",
+    "hi": "फ़ाइनल से एक हफ़्ता पहले Palmeiras ने अपने मुख्य खिलाड़ियों को आराम दिया, एक Pincha फ़ैन साइकिल से Montevideo के लिए निकला"
+  },
+  "resumen": {
+    "es": "Palmeiras rotará hoy ante Flamengo para cuidarse para la final, con Murilo cerca de volver y Piquerez y Paulinho todavía en tratamiento. En La Plata, Medina sigue esperando por Correa y un hincha salió en bicicleta hacia Montevideo.",
+    "en": "Palmeiras will rotate against Flamengo today to protect themselves for the final, with Murilo close to a return and Piquerez and Paulinho still in treatment. In La Plata, Medina is still waiting on Correa and a fan has set off by bike for Montevideo.",
+    "pt": "O Palmeiras vai rodar o elenco hoje contra o Flamengo para se preservar para a final, com Murilo perto de voltar e Piquerez e Paulinho ainda em tratamento. Em La Plata, Medina segue esperando por Correa e um torcedor partiu de bicicleta para Montevidéu.",
+    "zh": "Palmeiras今天对阵Flamengo将进行轮换，为决赛保存实力；Murilo接近复出，Piquerez和Paulinho仍在治疗。在拉普拉塔，Medina仍在等待Correa，一名球迷已骑自行车出发前往蒙得维的亚。",
+    "hi": "फ़ाइनल के लिए ख़ुद को बचाने के लिए Palmeiras आज Flamengo के ख़िलाफ़ रोटेशन करेगा; Murilo वापसी के क़रीब हैं, Piquerez और Paulinho का इलाज जारी है। La Plata में Medina अब भी Correa का इंतज़ार कर रहे हैं और एक फ़ैन साइकिल से Montevideo के लिए निकल पड़ा है।"
+  },
+  "ultimo": {
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral",
+    "goles": [
+      {
+        "jugador": "Carrillo",
+        "min": "55"
+      },
+      {
+        "jugador": "Villalba",
+        "min": "68",
+        "ec": true
+      },
+      {
+        "jugador": "Alario",
+        "min": "96"
+      }
+    ]
+  },
+  "siete": [
+    {
+      "titulo": {
+        "es": "Correa, en la recta final de su recuperación",
+        "en": "Correa in the final stretch of his recovery",
+        "pt": "Correa na reta final da recuperação",
+        "zh": "Correa进入康复最后阶段",
+        "hi": "Correa रिकवरी के अंतिम चरण में"
+      },
+      "texto": {
+        "es": "Sigue en duda por el desgarro en el bíceps femoral derecho, pero según El Día está en la etapa final de la recuperación. La idea es que sea titular; si no llega en condiciones, podría entrar en el segundo tiempo y Cetré ganaría lugar.",
+        "en": "He remains a doubt with the tear in his right hamstring, but according to El Día he is in the final stage of his recovery. The plan is for him to start; if he is not fully fit, he could come on in the second half, which would open the door for Cetré.",
+        "pt": "Segue em dúvida pela lesão no bíceps femoral direito, mas segundo o El Día está na fase final da recuperação. A ideia é que seja titular; se não chegar em condições, pode entrar no segundo tempo e Cetré ganharia espaço.",
+        "zh": "他仍因右腿股二头肌拉伤而出战成疑，但据El Día报道，他已进入康复的最后阶段。教练组希望他首发；若状态不足，他可能在下半场替补登场，Cetré则有望获得位置。",
+        "hi": "दाएँ पैर की हैमस्ट्रिंग की चोट के कारण उन पर अब भी संशय है, लेकिन El Día के अनुसार वे रिकवरी के अंतिम चरण में हैं। योजना उन्हें शुरुआत से खिलाने की है; पूरी तरह फ़िट न होने पर वे दूसरे हाफ़ में उतर सकते हैं और तब Cetré को मौक़ा मिल सकता है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Sin Baltasar, Medina repetiría la línea de cinco",
+        "en": "Without Baltasar, Medina likely to stick with a back five",
+        "pt": "Sem Baltasar, Medina deve repetir a linha de cinco",
+        "zh": "Baltasar停赛，Medina或沿用五后卫",
+        "hi": "Baltasar के बिना Medina पाँच डिफ़ेंडरों वाली लाइन दोहरा सकते हैं"
+      },
+      "texto": {
+        "es": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según El Día, la opción principal es repetir los tres centrales y dos carrileros del Maracaná, con Tobio Burgos por la izquierda; Diario Hoy menciona a Fabricio Pérez, titular en la Supercopa, como alternativa.",
+        "en": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to El Día, the main option is to repeat the three centre-backs and two wing-backs used at the Maracanã, with Tobio Burgos on the left; Diario Hoy names Fabricio Pérez, who started in the Supercopa Argentina, as an alternative.",
+        "pt": "Baltasar Rodríguez, expulso contra o Flamengo, está fora da final. Segundo o El Día, a principal opção é repetir os três zagueiros e dois alas do Maracanã, com Tobio Burgos pela esquerda; o Diario Hoy cita Fabricio Pérez, titular na Supercopa Argentina, como alternativa.",
+        "zh": "对阵Flamengo被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，首选方案是沿用马拉卡纳之战的三中卫加两名边翼卫，左路由Tobio Burgos出任；Diario Hoy则提到在Supercopa Argentina首发的Fabricio Pérez是另一选择。",
+        "hi": "Flamengo के ख़िलाफ़ रेड कार्ड पाने वाले Baltasar Rodríguez फ़ाइनल नहीं खेल पाएँगे। El Día के अनुसार मुख्य विकल्प Maracanã वाली तीन सेंटर-बैक और दो विंग-बैक की संरचना दोहराना है, बाईं ओर Tobio Burgos के साथ; Diario Hoy ने Supercopa Argentina में शुरुआत करने वाले Fabricio Pérez को विकल्प बताया है।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Palmeiras guarda a sus titulares ante Flamengo",
+        "en": "Palmeiras rest their starters against Flamengo",
+        "pt": "Palmeiras poupa titulares contra o Flamengo",
+        "zh": "Palmeiras对阵Flamengo轮换主力",
+        "hi": "Flamengo के ख़िलाफ़ Palmeiras ने मुख्य खिलाड़ियों को आराम दिया"
+      },
+      "texto": {
+        "es": "Hoy a las 16.30 (hora argentina) recibe a Flamengo en San Pablo por el Brasileirão y, según la prensa brasileña, Abel rotará pensando en la final; a Flamengo le alcanza un empate para ser campeón. El martes 24 visita a Chapecoense y después le quedan tres días para Montevideo.",
+        "en": "Today at 16:30 (Argentine time) they host Flamengo in São Paulo in the Brasileirão and, according to the Brazilian press, Abel will rotate with the final in mind; a draw is enough for Flamengo to win the title. On Tuesday 24th they visit Chapecoense, leaving three days before Montevideo.",
+        "pt": "Hoje às 16h30 (horário argentino) recebe o Flamengo em São Paulo pelo Brasileirão e, segundo a imprensa brasileira, Abel vai poupar pensando na final; ao Flamengo basta um empate para ser campeão. Na terça, 24, visita a Chapecoense e depois terá três dias até Montevidéu.",
+        "zh": "今天阿根廷时间16:30，Palmeiras在圣保罗主场迎战Flamengo进行巴甲比赛。据巴西媒体报道，Abel将着眼决赛进行轮换；Flamengo只需战平即可夺冠。24日周二Palmeiras客场挑战Chapecoense，之后距蒙得维的亚决赛只剩三天。",
+        "hi": "आज अर्जेंटीना समय 16:30 बजे Palmeiras, São Paulo में Brasileirão में Flamengo की मेज़बानी करेगा। ब्राज़ीली मीडिया के अनुसार Abel फ़ाइनल को ध्यान में रखकर रोटेशन करेंगे; Flamengo को ख़िताब के लिए ड्रॉ ही काफ़ी है। मंगलवार 24 को Palmeiras, Chapecoense के मैदान पर खेलेगा और उसके बाद Montevideo के लिए तीन दिन बचेंगे।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Palmeiras: Murilo avanza, Piquerez y Paulinho siguen en tratamiento",
+        "en": "Palmeiras: Murilo progressing, Piquerez and Paulinho still in treatment",
+        "pt": "Palmeiras: Murilo evolui, Piquerez e Paulinho seguem em tratamento",
+        "zh": "Palmeiras：Murilo恢复顺利，Piquerez和Paulinho仍在治疗",
+        "hi": "Palmeiras: Murilo में सुधार, Piquerez और Paulinho का इलाज जारी"
+      },
+      "texto": {
+        "es": "Murilo (muslo izquierdo) ya hace la transición física y es el que más chances tiene de llegar. Piquerez (muslo derecho) y Paulinho (pantorrilla derecha) siguen en tratamiento y no juegan hoy: los tres están en duda para la final.",
+        "en": "Murilo (left thigh) is already in his physical transition and has the best chance of making it. Piquerez (right thigh) and Paulinho (right calf) are still in treatment and miss today's match: all three are doubts for the final.",
+        "pt": "Murilo (coxa esquerda) já faz transição física e é quem tem mais chances de chegar. Piquerez (coxa direita) e Paulinho (panturrilha direita) seguem em tratamento e não jogam hoje: os três são dúvida para a final.",
+        "zh": "Murilo（左大腿）已进入体能过渡阶段，赶上决赛的希望最大。Piquerez（右大腿）和Paulinho（右小腿）仍在治疗，缺席今天的比赛：三人能否出战决赛均成疑。",
+        "hi": "Murilo (बाईं जांघ) फ़िज़िकल ट्रांज़िशन में हैं और फ़ाइनल तक फ़िट होने की उनकी संभावना सबसे ज़्यादा है। Piquerez (दाईं जांघ) और Paulinho (दाईं पिंडली) का इलाज जारी है और वे आज नहीं खेलेंगे: तीनों फ़ाइनल के लिए संदिग्ध हैं।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Unos 35 mil pinchas, rumbo a Montevideo",
+        "en": "Around 35,000 Pincha fans head for Montevideo",
+        "pt": "Cerca de 35 mil torcedores rumo a Montevidéu",
+        "zh": "约3.5万名Pincha球迷奔赴蒙得维的亚",
+        "hi": "करीब 35 हज़ार Pincha प्रशंसक मोंटेवीडियो की ओर"
+      },
+      "texto": {
+        "es": "Viajan 120 micros: 60 del club, que salen el viernes 27 por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club.",
+        "en": "120 coaches are going: 60 laid on by the club, leaving the UNO on the afternoon of Friday 27th, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario.",
+        "pt": "Viajam 120 ônibus: 60 do clube, que saem na tarde de sexta-feira, 27, do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario.",
+        "zh": "共有120辆大巴出发：俱乐部组织60辆，27日周五下午从el UNO出发，另有60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。",
+        "hi": "120 बसें जा रही हैं: 60 क्लब की, जो शुक्रवार 27 तारीख़ की दोपहर el UNO से निकलेंगी, और 60 समर्थक समूहों व शाखाओं की। शुक्रवार और शनिवार की नावें बिक चुकी हैं, और क्लब के बुलावे पर 2009 के चैंपियन भी Centenario में होंगे।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "La hoja de ruta hasta el Centenario",
+        "en": "The road map to the Centenario",
+        "pt": "O roteiro até o Centenario",
+        "zh": "前往Centenario的行程",
+        "hi": "Centenario तक का कार्यक्रम"
+      },
+      "texto": {
+        "es": "El plantel se entrena en City Bell hasta el miércoles 25 (el domingo es libre) y esa tarde viaja a Montevideo, donde parará en el Hilton; el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "en": "The squad train in City Bell until Wednesday 25th (Sunday is a day off) and travel to Montevideo that afternoon, staying at the Hilton; on Thursday and Friday they will train at Montevideo City Torque's training ground.",
+        "pt": "O elenco treina em City Bell até quarta-feira, 25 (domingo é folga), e nessa tarde viaja a Montevidéu, onde ficará no Hilton; na quinta e na sexta treinará no CT do Montevideo City Torque.",
+        "zh": "球队在City Bell训练至25日周三（周日休息），当天下午前往蒙得维的亚，下榻Hilton酒店；周四和周五将在Montevideo City Torque训练基地训练。",
+        "hi": "टीम बुधवार 25 तारीख़ तक City Bell में अभ्यास करेगी (रविवार छुट्टी है) और उसी दोपहर Montevideo रवाना होगी, जहाँ Hilton में ठहरेगी; गुरुवार और शुक्रवार को Montevideo City Torque के ट्रेनिंग ग्राउंड पर अभ्यास होगा।"
+      }
+    },
+    {
+      "titulo": {
+        "es": "Un pincha, en bicicleta rumbo a Montevideo",
+        "en": "A Pincha fan cycling to Montevideo",
+        "pt": "Um torcedor do Pincha, de bicicleta rumo a Montevidéu",
+        "zh": "一位Pincha球迷骑车前往蒙得维的亚",
+        "hi": "एक Pincha फ़ैन साइकिल से Montevideo की ओर"
+      },
+      "texto": {
+        "es": "Facu Mensegues salió de La Plata el viernes a las 4.30 para pedalear hasta la final. Todavía no tiene entrada y pide que los hinchas que viajen por tierra le toquen bocina cuando lo crucen.",
+        "en": "Facu Mensegues left La Plata on Friday at 04:30 to ride all the way to the final. He doesn't have a ticket yet and asks fans travelling by road to honk when they pass him.",
+        "pt": "Facu Mensegues saiu de La Plata na sexta às 4h30 para pedalar até a final. Ainda não tem ingresso e pede que os torcedores que forem por terra buzinem quando passarem por ele.",
+        "zh": "Facu Mensegues于周五凌晨4:30从拉普拉塔出发，计划一路骑到决赛现场。他目前还没有门票，并请走陆路的球迷经过时为他按喇叭。",
+        "hi": "Facu Mensegues शुक्रवार सुबह 4:30 बजे La Plata से फ़ाइनल तक साइकिल चलाकर जाने के लिए निकले। उनके पास अभी टिकट नहीं है और उन्होंने सड़क से जाने वाले फ़ैन्स से कहा है कि पास से गुज़रते हुए हॉर्न बजाएँ।"
+      }
+    }
+  ],
+  "foto": {
+    "id": "2026-10-23_maracanazo-y-a-la-final_1",
+    "alt": {
+      "es": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo.",
+      "en": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo.",
+      "pt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo.",
+      "zh": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。",
+      "hi": "Flamengo के ख़िलाफ़ सेमीफ़ाइनल से पहले Maracanã में Estudiantes के शुरुआती खिलाड़ी फ़ोटो के लिए खड़े।"
+    }
+  },
+  "linea": []
+}

@@ -1,6 +1,6 @@
 {
   "_info": "Memoria de bajas entre corridas: suspensiones, lesiones y altas del plantel y del rival que viene. No se publica: lo usan la cobertura (alertas) y el build (que las Siete no contradigan esto). Ver ACTUALIZAR.md › Verificación.",
-  "actualizado": "2026-11-20T18:07:00-03:00",
+  "actualizado": "2026-11-21T00:07:00-03:00",
   "bajas": [
     {
       "jugador": "Baltasar Rodríguez",
@@ -49,7 +49,8 @@
       "fuentes": [
         "https://www.lance.com.br/palmeiras/escalacao-palmeiras-encerra-preparacao-e-abel-busca-alternativas-sem-convocados.html",
         "https://abcdoabc.com.br/palmeiras-conta-com-piquerez-para-fina/",
-        "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/"
+        "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
+        "https://portaldopalestra.com.br/provavel-escalacao-palmeiras-contra-flamengo-brasileirao-36a-rodada/"
       ]
     },
     {
@@ -64,7 +65,8 @@
       "hasta": "Sin confirmar para la final",
       "fuentes": [
         "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
-        "https://www.infocielo.com/deportes/palmeiras-en-alerta-tres-figuras-entre-algodones-a-dias-de-la-final-ante-estudiantes"
+        "https://www.infocielo.com/deportes/palmeiras-en-alerta-tres-figuras-entre-algodones-a-dias-de-la-final-ante-estudiantes",
+        "https://portaldopalestra.com.br/provavel-escalacao-palmeiras-contra-flamengo-brasileirao-36a-rodada/"
       ]
     },
     {
@@ -79,7 +81,8 @@
       "hasta": "Sin confirmar para la final",
       "fuentes": [
         "https://portaldopalestra.com.br/paulinho-lesao-panturrilha-sem-prazo-finais-palmeiras-libertadores/",
-        "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/"
+        "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
+        "https://portaldopalestra.com.br/provavel-escalacao-palmeiras-contra-flamengo-brasileirao-36a-rodada/"
       ]
     }
   ]
