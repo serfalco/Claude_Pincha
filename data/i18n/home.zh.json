@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "距决赛还有一周，帕尔梅拉斯轮换主力，Rojo和González Pirez期待“我们人生中最重要的比赛”",
+    "titular": "距决赛还有一周，La Plata 街头贴满荣耀海报，帕尔梅拉斯（Palmeiras）无缘巴甲冠军",
     "foto": {
       "alt": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。"
     },
-    "resumen": "帕尔梅拉斯今天对阵Flamengo将轮换阵容，为决赛保存实力，Murilo、Piquerez和Paulinho仍存疑。在拉普拉塔，球队在City Bell训练，Medina仍在等待Correa，中卫们正度过最漫长的一周。",
+    "resumen": "城市街头贴满了印有 Zubeldía、Bilardo、Pachamé 和 Sabella 名言的海报，Medina 表示球队情绪高涨时往往踢得好。在圣保罗，Palmeiras 派出多名主力 1比1 战平，Flamengo 夺得巴甲冠军。",
     "siete": [
       {
         "titulo": "Correa进入康复最后阶段",
@@ -15,27 +15,42 @@
         "texto": "对阵Flamengo被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，首选方案是沿用马拉卡纳之战的三中卫加两名边翼卫，左路由Tobio Burgos出任；Diario Hoy则提到在Supercopa Argentina首发的Fabricio Pérez是另一选择。"
       },
       {
-        "titulo": "帕尔梅拉斯派替补迎战Flamengo",
-        "texto": "今天16:30（阿根廷时间）帕尔梅拉斯在圣保罗主场以替补阵容迎战Flamengo（巴甲）；Flamengo只需战平即可夺冠。Murilo（已进入恢复过渡期）、Piquerez和Paulinho缺阵，决赛出战仍存疑；24日周二客场挑战Chapecoense。"
+        "titulo": "Palmeiras 战平，Flamengo 夺得巴甲冠军",
+        "texto": "圣保罗一战双方 1比1：Jhon Arias 头球破门，Samuel Lino 扳平。Abel 并未全部轮换：Gustavo Gómez、Andreas Pereira、Arias、Flaco López 和 Vitor Roque 均出场；Murilo、Piquerez 和 Paulinho 能否赶上决赛仍存疑。24日周二客场对阵 Chapecoense。"
       },
       {
         "titulo": "约3.5万名Pincha球迷奔赴蒙得维的亚",
         "texto": "共有120辆大巴出发：俱乐部组织60辆，27日周五下午从el UNO出发，另有60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。"
       },
       {
-        "titulo": "前往Centenario的行程",
-        "texto": "今天9:30在City Bell的Country训练；周日休息，球队在此训练至25日周三，当天飞赴蒙得维的亚（入住Hilton）。周四和周五将在Montevideo City Torque训练基地训练。"
+        "titulo": "前往 Centenario 的日程",
+        "texto": "球队今天上午在 City Bell 训练，周日休息。全队将在 Country 驻扎到25日周三，随后前往蒙得维的亚（入住 Hilton）；周四和周五在 Montevideo City Torque 训练基地训练。"
       },
       {
-        "titulo": "Rojo与González Pirez：“我们人生中最重要的比赛”",
-        "texto": "两名中卫在距蒙得维的亚之战一周时接受El Día采访。Rojo透露，他的回归源于对阵Corinthians的系列赛之后，当时停赛导致后防人手不足。"
+        "titulo": "Medina：“情绪一定会在”",
+        "texto": "在南美足联发布的采访中，主帅表示球队非常感性，情绪高涨时通常踢得很好。他补充道：“我非常相信这支球队。”"
       },
       {
-        "titulo": "决赛也决定阿根廷与巴西之争",
-        "texto": "两国各有25座Copa Libertadores冠军：若Pincha夺得队史第五冠，阿根廷将在历史榜上重新领先。"
+        "titulo": "La Plata 贴满荣耀",
+        "texto": "街头一早贴满了传奇人物名言海报：“通往荣耀的路不是玫瑰铺成的”（Zubeldía）、“闭上眼睛，相信”（Sabella）、“去追求荣耀”（Bilardo）和“永不放弃”（Pachamé）。"
       }
     ],
     "linea": [
+      {
+        "texto": "帕尔梅拉斯 1比1 战平 Flamengo，后者夺得巴甲冠军。"
+      },
+      {
+        "texto": "“闭上眼睛，相信”：街头海报为决赛预热。"
+      },
+      {
+        "texto": "La Plata 的街墙一早贴满了 Pincha 传奇人物的海报。"
+      },
+      {
+        "texto": "Medina 展望决赛：“情绪高涨的时候，我们通常踢得很好。”"
+      },
+      {
+        "texto": "南美足联用 Flaco López 和 José Sosa 为决赛预热。"
+      },
       {
         "texto": "距决赛一周，Rojo与González Pirez：“我们面前是人生中最重要的比赛”。"
       },
@@ -44,9 +59,6 @@
       },
       {
         "texto": "Palmeiras对Flamengo或将轮换主力：Murilo处于过渡阶段，Piquerez和Paulinho仍在治疗。"
-      },
-      {
-        "texto": "Palmeiras对Flamengo今天16:30在圣保罗开战：Abel已放弃巴甲争冠。"
       },
       {
         "texto": "南美足联邀请Pincha的小球迷画出队徽或球衣，登上其社交媒体。"
@@ -59,18 +71,6 @@
       },
       {
         "texto": "Paulinho仍无复出时间表，帕尔梅拉斯决赛出战成疑。"
-      },
-      {
-        "texto": "帕尔梅拉斯确定以替补阵容对阵Flamengo，心思放在决赛上。"
-      },
-      {
-        "texto": "Pincha队徽已亮相Estadio Centenario。"
-      },
-      {
-        "texto": "Verón将Nico Paz与梅西和马拉多纳相比。"
-      },
-      {
-        "texto": "在City Bell烤肉，为蒙得维的亚之行鼓舞士气。"
       },
       {
         "texto": "帕尔梅拉斯告急：决赛前三名主力带伤。"

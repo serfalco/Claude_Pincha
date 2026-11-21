@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "A uma semana da final, Palmeiras poupa titulares e Rojo e González Pirez projetam \"a partida das nossas vidas\"",
+    "titular": "A uma semana da final, La Plata amanhece coberta de glória e o Palmeiras fica sem o Brasileirão",
     "foto": {
       "alt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo."
     },
-    "resumen": "O Palmeiras vai rodar o elenco hoje contra o Flamengo para se preservar para a final, com Murilo, Piquerez e Paulinho ainda em dúvida. Em La Plata, o elenco treina em City Bell, Medina espera por Correa e os zagueiros já vivem a semana mais longa.",
+    "resumen": "As ruas da cidade se encheram de cartazes com frases de Zubeldía, Bilardo, Pachamé e Sabella, e Medina avisou que, com a emoção à flor da pele, o time joga bem. Em São Paulo, o Palmeiras empatou por 1 a 1 com vários titulares e o Flamengo foi campeão brasileiro.",
     "siete": [
       {
         "titulo": "Correa na reta final da recuperação",
@@ -15,8 +15,8 @@
         "texto": "Baltasar Rodríguez, expulso contra o Flamengo, está fora da final. Segundo o El Día, a principal opção é repetir os três zagueiros e dois alas do Maracanã, com Tobio Burgos pela esquerda; o Diario Hoy cita Fabricio Pérez, titular na Supercopa Argentina, como alternativa."
       },
       {
-        "titulo": "Palmeiras com reservas contra o Flamengo",
-        "texto": "Hoje, às 16h30 (horário argentino), recebe o Flamengo em São Paulo pelo Brasileirão com um time alternativo; ao Flamengo basta um empate para ser campeão. Murilo (já em transição), Piquerez e Paulinho não jogam e seguem em dúvida para a final; na terça, dia 24, visita a Chapecoense."
+        "titulo": "Palmeiras empata e o Flamengo é campeão brasileiro",
+        "texto": "Foi 1 a 1 em São Paulo: Jhon Arias abriu de cabeça e Samuel Lino empatou. Abel não poupou todos: jogaram Gustavo Gómez, Andreas Pereira, Arias, Flaco López e Vitor Roque, enquanto Murilo, Piquerez e Paulinho seguem em dúvida para a final; na terça, 24, visita a Chapecoense."
       },
       {
         "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
@@ -24,18 +24,33 @@
       },
       {
         "titulo": "O roteiro até o Centenario",
-        "texto": "Hoje treina às 9h30 no Country de City Bell; o domingo é de folga e o elenco segue ali até a quarta, dia 25, quando viaja a Montevidéu (fica no Hilton). Na quinta e na sexta treinará no CT do Montevideo City Torque."
+        "texto": "O elenco treinou nesta manhã em City Bell e tem folga no domingo. Segue no Country até a quarta, 25, quando viaja a Montevidéu (fica no Hilton); na quinta e na sexta treinará no CT do Montevideo City Torque."
       },
       {
-        "titulo": "Rojo e González Pirez: \"A partida das nossas vidas\"",
-        "texto": "Os dois zagueiros falaram ao El Día a uma semana de Montevidéu. Rojo contou que sua volta surgiu depois do confronto com o Corinthians, quando as suspensões deixaram a defesa desfalcada."
+        "titulo": "Medina: \"A emoção vai estar lá\"",
+        "texto": "Em entrevista divulgada pela Conmebol, o Cacique disse que seu time é muito emocional e que, quando está com a emoção à flor da pele, geralmente joga bem. \"Acredito muito neste time\", acrescentou."
       },
       {
-        "titulo": "A final também decide Argentina x Brasil",
-        "texto": "Os dois países somam 25 Copas Libertadores cada: se o Pincha conquistar a quinta, a Argentina volta a ficar na frente no histórico."
+        "titulo": "La Plata coberta de glória",
+        "texto": "As ruas amanheceram cheias de cartazes com frases de ídolos: \"À glória não se chega por um caminho de rosas\" (Zubeldía), \"Fechar os olhos e acreditar\" (Sabella), \"Busquem a glória\" (Bilardo) e \"Nunca baixar os braços\" (Pachamé)."
       }
     ],
     "linea": [
+      {
+        "texto": "Palmeiras empatou por 1 a 1 com o Flamengo, que é campeão do Brasileirão."
+      },
+      {
+        "texto": "\"Fechar os olhos e acreditar\": a campanha de cartazes que esquenta a final nas ruas."
+      },
+      {
+        "texto": "Os muros de La Plata amanheceram cobertos de glórias do Pincha."
+      },
+      {
+        "texto": "Medina projeta a final: \"Com a emoção à flor da pele, geralmente jogamos bem\"."
+      },
+      {
+        "texto": "A Conmebol esquenta a final com Flaco López e José Sosa."
+      },
       {
         "texto": "Rojo e González Pirez, a uma semana da final: \"Temos pela frente a partida das nossas vidas\"."
       },
@@ -44,9 +59,6 @@
       },
       {
         "texto": "Palmeiras deve poupar titulares contra o Flamengo: Murilo em transição, Piquerez e Paulinho em tratamento."
-      },
-      {
-        "texto": "Palmeiras x Flamengo, hoje às 16h30 em São Paulo: Abel já abriu mão do Brasileirão."
       },
       {
         "texto": "A Conmebol convida os torcedores mais novos do Pincha a desenhar o escudo ou a camisa para suas redes."
@@ -59,18 +71,6 @@
       },
       {
         "texto": "Paulinho segue sem prazo de volta e é dúvida no Palmeiras para a final."
-      },
-      {
-        "texto": "Palmeiras define time alternativo para o Flamengo, de olho na final."
-      },
-      {
-        "texto": "O escudo do Pincha já está no Estádio Centenario."
-      },
-      {
-        "texto": "Verón comparou Nico Paz a Messi e Maradona."
-      },
-      {
-        "texto": "Um churrasco em City Bell para alimentar o sonho antes de Montevidéu."
       },
       {
         "texto": "Palmeiras em alerta: três jogadores importantes entregues ao departamento médico."

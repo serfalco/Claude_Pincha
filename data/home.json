@@ -1,13 +1,13 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-21T08:07:00-03:00",
+  "actualizado": "2026-11-21T18:07:00-03:00",
   "hoy": {
-    "titular": "A una semana de la final, Palmeiras guarda a sus titulares y Rojo y González Pirez palpitan \"el partido de nuestras vidas\"",
+    "titular": "A una semana de la final, La Plata amanece empapelada de gloria y Palmeiras se queda sin el Brasileirão",
     "foto": {
       "id": "2026-10-23_maracanazo-y-a-la-final_1",
       "alt": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo."
     },
-    "resumen": "Palmeiras rotará hoy ante Flamengo para cuidarse para la final, con Murilo, Piquerez y Paulinho todavía en duda. En La Plata, el plantel se entrena en City Bell, Medina espera por Correa y los centrales ya viven la semana más larga.",
+    "resumen": "Las calles de la ciudad se llenaron de afiches con frases de Zubeldía, Bilardo, Pachamé y Sabella, y Medina avisó que con la emoción a flor de piel el equipo juega bien. En San Pablo, Palmeiras empató 1-1 con varios titulares y Flamengo fue campeón de Brasil.",
     "siete": [
       {
         "titulo": "Correa, en la recta final de su recuperación",
@@ -18,8 +18,8 @@
         "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según El Día, la opción principal es repetir los tres centrales y dos carrileros del Maracaná, con Tobio Burgos por la izquierda; Diario Hoy menciona a Fabricio Pérez, titular en la Supercopa, como alternativa."
       },
       {
-        "titulo": "Palmeiras, con suplentes ante Flamengo",
-        "texto": "Hoy a las 16.30 (hora argentina) recibe a Flamengo en San Pablo por el Brasileirão con un equipo alternativo; a Flamengo le alcanza un empate para ser campeón. Murilo (ya en transición), Piquerez y Paulinho no juegan y siguen en duda para la final; el martes 24 visita a Chapecoense."
+        "titulo": "Palmeiras empató y Flamengo es campeón de Brasil",
+        "texto": "Fue 1-1 en San Pablo: abrió Jhon Arias de cabeza y empató Samuel Lino. Abel no guardó a todos: jugaron Gustavo Gómez, Andreas Pereira, Arias, el Flaco López y Vitor Roque, mientras Murilo, Piquerez y Paulinho siguen en duda para la final; el martes 24 visita a Chapecoense."
       },
       {
         "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
@@ -27,19 +27,49 @@
       },
       {
         "titulo": "La hoja de ruta hasta el Centenario",
-        "texto": "Hoy se entrena a las 9.30 en el Country de City Bell; el domingo es libre y el plantel sigue ahí hasta el miércoles 25, cuando viaja a Montevideo (para en el Hilton). El jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "texto": "El plantel se entrenó esta mañana en City Bell y mañana domingo tiene libre. Sigue en el Country hasta el miércoles 25, cuando viaja a Montevideo (para en el Hilton); el jueves y el viernes practicará en el predio de Montevideo City Torque.",
         "vence": "2026-11-25T23:59:00-03:00"
       },
       {
-        "titulo": "Rojo y González Pirez: \"El partido de nuestras vidas\"",
-        "texto": "Los dos centrales hablaron con El Día a una semana de Montevideo. Rojo contó que su vuelta se gestó después de la serie con Corinthians, cuando las suspensiones dejaron corta la defensa."
+        "titulo": "Medina: \"La emoción va a estar\"",
+        "texto": "En una entrevista que difundió la Conmebol, el Cacique dijo que su equipo es muy emocional y que, cuando tiene la emoción a flor de piel, por lo general juega bien. \"Creo mucho en este equipo\", agregó."
       },
       {
-        "titulo": "La final también define Argentina-Brasil",
-        "texto": "Los dos países suman 25 Copas Libertadores cada uno: si gana el Pincha, que va por su quinta, Argentina vuelve a quedar arriba en el historial."
+        "titulo": "La Plata, empapelada de gloria",
+        "texto": "Las calles amanecieron llenas de afiches con frases de ídolos: \"A la gloria no se llega por un camino de rosas\" (Zubeldía), \"Cerrar los ojos y creer\" (Sabella), \"Busquen la gloria\" (Bilardo) y \"No bajar nunca los brazos\" (Pachamé)."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-21T18:25:00-03:00",
+        "fuente": "Bola na Rede",
+        "url": "https://bolanarede.pt/especial-bola-na-rede/atualidade/flamengo-de-leonardo-jardim-empata-contra-abel-ferreira-e-vence-o-brasileirao/",
+        "texto": "Palmeiras empató 1-1 con Flamengo, que es campeón del Brasileirão."
+      },
+      {
+        "hora": "2026-11-21T16:07:00-03:00",
+        "fuente": "Infocielo",
+        "url": "https://www.infocielo.com/deportes/cerrar-los-ojos-y-creer-la-campana-que-empezo-a-palpitar-la-final-de-estudiantes-por-las-calles-de-la-ciudad",
+        "texto": "\"Cerrar los ojos y creer\": la campaña de afiches que palpita la final en las calles."
+      },
+      {
+        "hora": "2026-11-21T13:49:00-03:00",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/las-paredes-la-plata-empapeladas-glorias-estudiantes-una-semana-la-final-la-copa-libertadores-n137807",
+        "texto": "Las paredes de La Plata amanecieron empapeladas con glorias del Pincha."
+      },
+      {
+        "hora": "2026-11-21T12:22:00-03:00",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/video-el-cacique-medina-palpita-la-gran-final-tenemos-la-emocion-a-flor-de-piel-deportes_1795274280",
+        "texto": "Medina palpita la final: \"Con la emoción a flor de piel, por lo general jugamos bien\"."
+      },
+      {
+        "hora": "2026-11-21T10:32:00-03:00",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/el-flaco-lopez-y-jose-sosa-calientan-el-ambiente-una-semana-la-final-estudiantes-y-palmeiras-n137800",
+        "texto": "La Conmebol calienta la final con el Flaco López y José Sosa."
+      },
       {
         "hora": "2026-11-21T00:57:00-03:00",
         "fuente": "El Día",
@@ -57,12 +87,6 @@
         "fuente": "Portal do Palestra",
         "url": "https://portaldopalestra.com.br/provavel-escalacao-palmeiras-contra-flamengo-brasileirao-36a-rodada/",
         "texto": "Palmeiras guardaría titulares ante Flamengo: Murilo en transición, Piquerez y Paulinho en tratamiento."
-      },
-      {
-        "hora": "2026-11-20T20:00:00-03:00",
-        "fuente": "Gazeta Esportiva",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-tudo-sobre-36-rodada-brasileirao-21-11-2026/",
-        "texto": "Palmeiras-Flamengo, hoy a las 16.30 en San Pablo: Abel ya soltó la pelea por el Brasileirão."
       },
       {
         "hora": "2026-11-20T19:49:00-03:00",
@@ -87,30 +111,6 @@
         "fuente": "Portal do Palestra",
         "url": "https://portaldopalestra.com.br/paulinho-lesao-panturrilha-sem-prazo-finais-palmeiras-libertadores/",
         "texto": "Paulinho sigue sin fecha de regreso y es duda en Palmeiras para la final."
-      },
-      {
-        "hora": "2026-11-20T10:48:00-03:00",
-        "fuente": "Bolavip Brasil",
-        "url": "https://br.bolavip.com/palmeiras/com-foco-na-libertadores-palmeiras-define-escalacao-alternativa-contra-flamengo-veja-o-time",
-        "texto": "Palmeiras define un equipo alternativo para Flamengo, con la cabeza en la final."
-      },
-      {
-        "hora": "2026-11-20T10:12:00-03:00",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/el-escudo-estudiantes-ya-luce-el-estadio-centenario-y-crece-la-ilusion-la-copa-libertadores-n137747",
-        "texto": "El escudo del Pincha ya luce en el Estadio Centenario."
-      },
-      {
-        "hora": "2026-11-20T09:55:00-03:00",
-        "fuente": "Punto Capital",
-        "url": "https://www.puntocapitalnoticias.com/veron-comparo-a-nico-paz-con-messi-y-maradona-y-destaco-su-talento-tiene-las-cualidades-para-intentarlo/",
-        "texto": "Verón comparó a Nico Paz con Messi y Maradona."
-      },
-      {
-        "hora": "2026-11-20T09:20:00-03:00",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/un-asado-alimentar-la-ilusion-estudiantes-se-prepara-la-final-la-copa-libertadores-palmeiras-n137743",
-        "texto": "Un asado en City Bell para alimentar la ilusión antes de Montevideo."
       },
       {
         "hora": "2026-11-20T09:02:00-03:00",
@@ -367,6 +367,14 @@
     }
   },
   "fuentes": [
+    "https://eleditorplatense.com/deportes/las-calles-son-de-estudiantes-abrir-los-ojos-y-creer-n5d93378f-1a81-4d12-80a0-9fff0da05b08",
+    "https://vivelaplata.com.ar/la-plata-amanecio-empapelada-con-frases-historicas-de-los-idolos-de-estudiantes/",
+    "https://www.vavel.com/br/futebol/2026/11/21/1280026-palmeiras-x-flamengo-ao-vivo-brasileirao-serie-a.html",
+    "https://www.0221.com.ar/estudiantes/el-flaco-lopez-y-jose-sosa-calientan-el-ambiente-una-semana-la-final-estudiantes-y-palmeiras-n137800",
+    "https://www.eldia.com/deportes/video-el-cacique-medina-palpita-la-gran-final-tenemos-la-emocion-a-flor-de-piel-deportes_1795274280",
+    "https://www.0221.com.ar/estudiantes/las-paredes-la-plata-empapeladas-glorias-estudiantes-una-semana-la-final-la-copa-libertadores-n137807",
+    "https://www.infocielo.com/deportes/cerrar-los-ojos-y-creer-la-campana-que-empezo-a-palpitar-la-final-de-estudiantes-por-las-calles-de-la-ciudad",
+    "https://bolanarede.pt/especial-bola-na-rede/atualidade/flamengo-de-leonardo-jardim-empata-contra-abel-ferreira-e-vence-o-brasileirao/",
     "https://br.bolavip.com/palmeiras/com-foco-na-libertadores-palmeiras-define-escalacao-alternativa-contra-flamengo-veja-o-time",
     "https://www.0221.com.ar/estudiantes/la-conmebol-lanzo-una-convocatoria-especial-los-pequenos-hinchas-estudiantes-n137784",
     "https://diariohoy.net/el-clasico/estudiantes-de-la-patria-la-mision-del-pincha-que-va-mas-alla-de-buscar-su-quinta-libertadores-290439",

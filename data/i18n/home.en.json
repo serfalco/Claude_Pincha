@@ -1,10 +1,10 @@
 {
   "hoy": {
-    "titular": "A week from the final, Palmeiras rest their starters and Rojo and González Pirez look ahead to \"the match of our lives\"",
+    "titular": "A week from the final, La Plata wakes up plastered with glory and Palmeiras miss out on the Brasileirão",
     "foto": {
       "alt": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo."
     },
-    "resumen": "Palmeiras will rotate against Flamengo today to protect themselves for the final, with Murilo, Piquerez and Paulinho still doubts. In La Plata, the squad train in City Bell, Medina waits on Correa and the centre-backs are living the longest week.",
+    "resumen": "The city's streets filled with posters bearing quotes from Zubeldía, Bilardo, Pachamé and Sabella, and Medina said the team play well when emotions run high. In São Paulo, Palmeiras drew 1-1 with several regulars and Flamengo were crowned champions of Brazil.",
     "siete": [
       {
         "titulo": "Correa in the final stretch of his recovery",
@@ -15,8 +15,8 @@
         "texto": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to El Día, the main option is to repeat the three centre-backs and two wing-backs used at the Maracanã, with Tobio Burgos on the left; Diario Hoy names Fabricio Pérez, who started in the Supercopa Argentina, as an alternative."
       },
       {
-        "titulo": "Palmeiras field second string against Flamengo",
-        "texto": "Today at 16:30 (Argentine time) they host Flamengo in São Paulo in the Brasileirão with an alternative side; a draw is enough for Flamengo to win the title. Murilo (already in his physical transition), Piquerez and Paulinho miss out and remain doubts for the final; on Tuesday 24th they visit Chapecoense."
+        "titulo": "Palmeiras draw and Flamengo are champions of Brazil",
+        "texto": "It finished 1-1 in São Paulo: Jhon Arias headed the opener and Samuel Lino equalised. Abel did not rest everyone: Gustavo Gómez, Andreas Pereira, Arias, Flaco López and Vitor Roque all played, while Murilo, Piquerez and Paulinho remain doubts for the final; on Tuesday 24th they visit Chapecoense."
       },
       {
         "titulo": "Around 35,000 Pincha fans head for Montevideo",
@@ -24,18 +24,33 @@
       },
       {
         "titulo": "The road map to the Centenario",
-        "texto": "Today they train at 09:30 at the City Bell Country Club; Sunday is a day off and the squad stay there until Wednesday 25th, when they travel to Montevideo (staying at the Hilton). On Thursday and Friday they will train at Montevideo City Torque's training ground."
+        "texto": "The squad trained this morning in City Bell and have Sunday off. They stay at the Country Club until Wednesday 25th, when they travel to Montevideo (staying at the Hilton); on Thursday and Friday they will train at Montevideo City Torque's training ground."
       },
       {
-        "titulo": "Rojo and González Pirez: \"The match of our lives\"",
-        "texto": "The two centre-backs spoke to El Día a week out from Montevideo. Rojo explained that his return came about after the Corinthians tie, when suspensions left the defence short."
+        "titulo": "Medina: \"The emotion will be there\"",
+        "texto": "In an interview released by CONMEBOL, the Cacique said his side are very emotional and that, when emotions run high, they usually play well. \"I believe a lot in this team\", he added."
       },
       {
-        "titulo": "The final also settles Argentina v Brazil",
-        "texto": "The two countries have 25 Copa Libertadores titles each: if the Pincha win their fifth, Argentina go back in front in the all-time standings."
+        "titulo": "La Plata plastered with glory",
+        "texto": "The streets woke up covered in posters with quotes from club legends: \"You don't reach glory along a bed of roses\" (Zubeldía), \"Close your eyes and believe\" (Sabella), \"Go for glory\" (Bilardo) and \"Never give up\" (Pachamé)."
       }
     ],
     "linea": [
+      {
+        "texto": "Palmeiras drew 1-1 with Flamengo, who are crowned Brasileirão champions."
+      },
+      {
+        "texto": "\"Close your eyes and believe\": the poster campaign building up to the final on the streets."
+      },
+      {
+        "texto": "La Plata's walls woke up plastered with Pincha legends."
+      },
+      {
+        "texto": "Medina looks ahead to the final: \"When our emotions are running high, we usually play well\"."
+      },
+      {
+        "texto": "CONMEBOL build up the final with Flaco López and José Sosa."
+      },
       {
         "texto": "Rojo and González Pirez, a week from the final: \"We have the match of our lives ahead of us\"."
       },
@@ -44,9 +59,6 @@
       },
       {
         "texto": "Palmeiras set to rest starters against Flamengo: Murilo in transition, Piquerez and Paulinho in treatment."
-      },
-      {
-        "texto": "Palmeiras v Flamengo, today at 16:30 in São Paulo: Abel has already let the Brasileirão go."
       },
       {
         "texto": "CONMEBOL invites the youngest Pincha fans to draw the crest or the shirt for its social media."
@@ -59,18 +71,6 @@
       },
       {
         "texto": "Paulinho still has no return date and is a doubt for Palmeiras in the final."
-      },
-      {
-        "texto": "Palmeiras pick an alternative side for Flamengo, with their minds on the final."
-      },
-      {
-        "texto": "The Pincha crest is already on display at the Estadio Centenario."
-      },
-      {
-        "texto": "Verón compared Nico Paz to Messi and Maradona."
-      },
-      {
-        "texto": "An asado in City Bell to fuel the dream before Montevideo."
       },
       {
         "texto": "Palmeiras on alert: three key players nursing knocks days before the final."

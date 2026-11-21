@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-21",
   "titular": {
-    "es": "A una semana de la final, Palmeiras guarda a sus titulares y Rojo y González Pirez palpitan \"el partido de nuestras vidas\"",
-    "en": "A week from the final, Palmeiras rest their starters and Rojo and González Pirez look ahead to \"the match of our lives\"",
-    "pt": "A uma semana da final, Palmeiras poupa titulares e Rojo e González Pirez projetam \"a partida das nossas vidas\"",
-    "zh": "距决赛还有一周，帕尔梅拉斯轮换主力，Rojo和González Pirez期待“我们人生中最重要的比赛”",
-    "hi": "फ़ाइनल से एक हफ़्ता पहले Palmeiras ने स्टार्टर्स को आराम दिया, Rojo और González Pirez बोले — \"हमारी ज़िंदगी का मैच\""
+    "es": "A una semana de la final, La Plata amanece empapelada de gloria y Palmeiras se queda sin el Brasileirão",
+    "en": "A week from the final, La Plata wakes up plastered with glory and Palmeiras miss out on the Brasileirão",
+    "pt": "A uma semana da final, La Plata amanhece coberta de glória e o Palmeiras fica sem o Brasileirão",
+    "zh": "距决赛还有一周，La Plata 街头贴满荣耀海报，帕尔梅拉斯（Palmeiras）无缘巴甲冠军",
+    "hi": "फ़ाइनल से एक हफ़्ता पहले La Plata गौरव के पोस्टरों से सजा, Palmeiras ब्राज़ीलियाई लीग से चूका"
   },
   "resumen": {
-    "es": "Palmeiras rotará hoy ante Flamengo para cuidarse para la final, con Murilo, Piquerez y Paulinho todavía en duda. En La Plata, el plantel se entrena en City Bell, Medina espera por Correa y los centrales ya viven la semana más larga.",
-    "en": "Palmeiras will rotate against Flamengo today to protect themselves for the final, with Murilo, Piquerez and Paulinho still doubts. In La Plata, the squad train in City Bell, Medina waits on Correa and the centre-backs are living the longest week.",
-    "pt": "O Palmeiras vai rodar o elenco hoje contra o Flamengo para se preservar para a final, com Murilo, Piquerez e Paulinho ainda em dúvida. Em La Plata, o elenco treina em City Bell, Medina espera por Correa e os zagueiros já vivem a semana mais longa.",
-    "zh": "帕尔梅拉斯今天对阵Flamengo将轮换阵容，为决赛保存实力，Murilo、Piquerez和Paulinho仍存疑。在拉普拉塔，球队在City Bell训练，Medina仍在等待Correa，中卫们正度过最漫长的一周。",
-    "hi": "Palmeiras आज Flamengo के ख़िलाफ़ रोटेशन करेगा ताकि फ़ाइनल के लिए खिलाड़ी बचे रहें; Murilo, Piquerez और Paulinho अब भी संदिग्ध हैं। La Plata में टीम City Bell में ट्रेनिंग कर रही है, Medina को Correa का इंतज़ार है और सेंटर-बैक सबसे लंबा हफ़्ता जी रहे हैं।"
+    "es": "Las calles de la ciudad se llenaron de afiches con frases de Zubeldía, Bilardo, Pachamé y Sabella, y Medina avisó que con la emoción a flor de piel el equipo juega bien. En San Pablo, Palmeiras empató 1-1 con varios titulares y Flamengo fue campeón de Brasil.",
+    "en": "The city's streets filled with posters bearing quotes from Zubeldía, Bilardo, Pachamé and Sabella, and Medina said the team play well when emotions run high. In São Paulo, Palmeiras drew 1-1 with several regulars and Flamengo were crowned champions of Brazil.",
+    "pt": "As ruas da cidade se encheram de cartazes com frases de Zubeldía, Bilardo, Pachamé e Sabella, e Medina avisou que, com a emoção à flor da pele, o time joga bem. Em São Paulo, o Palmeiras empatou por 1 a 1 com vários titulares e o Flamengo foi campeão brasileiro.",
+    "zh": "城市街头贴满了印有 Zubeldía、Bilardo、Pachamé 和 Sabella 名言的海报，Medina 表示球队情绪高涨时往往踢得好。在圣保罗，Palmeiras 派出多名主力 1比1 战平，Flamengo 夺得巴甲冠军。",
+    "hi": "शहर की सड़कें Zubeldía, Bilardo, Pachamé और Sabella के कथनों वाले पोस्टरों से भर गईं, और Medina ने कहा कि भावनाएँ चरम पर हों तो टीम अच्छा खेलती है। साओ पाउलो में Palmeiras ने कई नियमित खिलाड़ियों के साथ 1-1 ड्रॉ खेला और Flamengo ब्राज़ील का चैंपियन बना।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -72,18 +72,18 @@
     },
     {
       "titulo": {
-        "es": "Palmeiras, con suplentes ante Flamengo",
-        "en": "Palmeiras field second string against Flamengo",
-        "pt": "Palmeiras com reservas contra o Flamengo",
-        "zh": "帕尔梅拉斯派替补迎战Flamengo",
-        "hi": "Flamengo के ख़िलाफ़ Palmeiras की बेंच टीम"
+        "es": "Palmeiras empató y Flamengo es campeón de Brasil",
+        "en": "Palmeiras draw and Flamengo are champions of Brazil",
+        "pt": "Palmeiras empata e o Flamengo é campeão brasileiro",
+        "zh": "Palmeiras 战平，Flamengo 夺得巴甲冠军",
+        "hi": "Palmeiras का ड्रॉ, Flamengo ब्राज़ील का चैंपियन"
       },
       "texto": {
-        "es": "Hoy a las 16.30 (hora argentina) recibe a Flamengo en San Pablo por el Brasileirão con un equipo alternativo; a Flamengo le alcanza un empate para ser campeón. Murilo (ya en transición), Piquerez y Paulinho no juegan y siguen en duda para la final; el martes 24 visita a Chapecoense.",
-        "en": "Today at 16:30 (Argentine time) they host Flamengo in São Paulo in the Brasileirão with an alternative side; a draw is enough for Flamengo to win the title. Murilo (already in his physical transition), Piquerez and Paulinho miss out and remain doubts for the final; on Tuesday 24th they visit Chapecoense.",
-        "pt": "Hoje, às 16h30 (horário argentino), recebe o Flamengo em São Paulo pelo Brasileirão com um time alternativo; ao Flamengo basta um empate para ser campeão. Murilo (já em transição), Piquerez e Paulinho não jogam e seguem em dúvida para a final; na terça, dia 24, visita a Chapecoense.",
-        "zh": "今天16:30（阿根廷时间）帕尔梅拉斯在圣保罗主场以替补阵容迎战Flamengo（巴甲）；Flamengo只需战平即可夺冠。Murilo（已进入恢复过渡期）、Piquerez和Paulinho缺阵，决赛出战仍存疑；24日周二客场挑战Chapecoense。",
-        "hi": "आज 16:30 बजे (अर्जेंटीना समय) Palmeiras, São Paulo में Brasileirão में वैकल्पिक टीम के साथ Flamengo की मेज़बानी करेगा; Flamengo को ख़िताब के लिए ड्रॉ ही काफ़ी है। Murilo (रिकवरी के अंतिम चरण में), Piquerez और Paulinho नहीं खेलेंगे और फ़ाइनल के लिए संदिग्ध हैं; मंगलवार 24 को टीम Chapecoense के मैदान पर खेलेगी।"
+        "es": "Fue 1-1 en San Pablo: abrió Jhon Arias de cabeza y empató Samuel Lino. Abel no guardó a todos: jugaron Gustavo Gómez, Andreas Pereira, Arias, el Flaco López y Vitor Roque, mientras Murilo, Piquerez y Paulinho siguen en duda para la final; el martes 24 visita a Chapecoense.",
+        "en": "It finished 1-1 in São Paulo: Jhon Arias headed the opener and Samuel Lino equalised. Abel did not rest everyone: Gustavo Gómez, Andreas Pereira, Arias, Flaco López and Vitor Roque all played, while Murilo, Piquerez and Paulinho remain doubts for the final; on Tuesday 24th they visit Chapecoense.",
+        "pt": "Foi 1 a 1 em São Paulo: Jhon Arias abriu de cabeça e Samuel Lino empatou. Abel não poupou todos: jogaram Gustavo Gómez, Andreas Pereira, Arias, Flaco López e Vitor Roque, enquanto Murilo, Piquerez e Paulinho seguem em dúvida para a final; na terça, 24, visita a Chapecoense.",
+        "zh": "圣保罗一战双方 1比1：Jhon Arias 头球破门，Samuel Lino 扳平。Abel 并未全部轮换：Gustavo Gómez、Andreas Pereira、Arias、Flaco López 和 Vitor Roque 均出场；Murilo、Piquerez 和 Paulinho 能否赶上决赛仍存疑。24日周二客场对阵 Chapecoense。",
+        "hi": "साओ पाउलो में मैच 1-1 रहा: Jhon Arias ने हेडर से गोल किया और Samuel Lino ने बराबरी की। Abel ने सबको आराम नहीं दिया: Gustavo Gómez, Andreas Pereira, Arias, Flaco López और Vitor Roque खेले, जबकि Murilo, Piquerez और Paulinho फ़ाइनल के लिए अब भी संदिग्ध हैं; मंगलवार 24 को टीम Chapecoense के मैदान पर खेलेगी।"
       }
     },
     {
@@ -107,47 +107,47 @@
         "es": "La hoja de ruta hasta el Centenario",
         "en": "The road map to the Centenario",
         "pt": "O roteiro até o Centenario",
-        "zh": "前往Centenario的行程",
+        "zh": "前往 Centenario 的日程",
         "hi": "Centenario तक का कार्यक्रम"
       },
       "texto": {
-        "es": "Hoy se entrena a las 9.30 en el Country de City Bell; el domingo es libre y el plantel sigue ahí hasta el miércoles 25, cuando viaja a Montevideo (para en el Hilton). El jueves y el viernes practicará en el predio de Montevideo City Torque.",
-        "en": "Today they train at 09:30 at the City Bell Country Club; Sunday is a day off and the squad stay there until Wednesday 25th, when they travel to Montevideo (staying at the Hilton). On Thursday and Friday they will train at Montevideo City Torque's training ground.",
-        "pt": "Hoje treina às 9h30 no Country de City Bell; o domingo é de folga e o elenco segue ali até a quarta, dia 25, quando viaja a Montevidéu (fica no Hilton). Na quinta e na sexta treinará no CT do Montevideo City Torque.",
-        "zh": "今天9:30在City Bell的Country训练；周日休息，球队在此训练至25日周三，当天飞赴蒙得维的亚（入住Hilton）。周四和周五将在Montevideo City Torque训练基地训练。",
-        "hi": "आज सुबह 9:30 बजे City Bell के Country में ट्रेनिंग है; रविवार को छुट्टी है और टीम बुधवार 25 तक वहीं रहेगी, फिर Montevideo रवाना होगी (Hilton में ठहरेगी)। गुरुवार और शुक्रवार को Montevideo City Torque के ट्रेनिंग ग्राउंड पर अभ्यास होगा।"
+        "es": "El plantel se entrenó esta mañana en City Bell y mañana domingo tiene libre. Sigue en el Country hasta el miércoles 25, cuando viaja a Montevideo (para en el Hilton); el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "en": "The squad trained this morning in City Bell and have Sunday off. They stay at the Country Club until Wednesday 25th, when they travel to Montevideo (staying at the Hilton); on Thursday and Friday they will train at Montevideo City Torque's training ground.",
+        "pt": "O elenco treinou nesta manhã em City Bell e tem folga no domingo. Segue no Country até a quarta, 25, quando viaja a Montevidéu (fica no Hilton); na quinta e na sexta treinará no CT do Montevideo City Torque.",
+        "zh": "球队今天上午在 City Bell 训练，周日休息。全队将在 Country 驻扎到25日周三，随后前往蒙得维的亚（入住 Hilton）；周四和周五在 Montevideo City Torque 训练基地训练。",
+        "hi": "टीम ने आज सुबह City Bell में अभ्यास किया और रविवार को छुट्टी है। खिलाड़ी बुधवार 25 तक Country में रहेंगे, फिर मोंटेवीडियो जाएँगे (Hilton में ठहराव); गुरुवार और शुक्रवार को Montevideo City Torque के मैदान पर अभ्यास होगा।"
       }
     },
     {
       "titulo": {
-        "es": "Rojo y González Pirez: \"El partido de nuestras vidas\"",
-        "en": "Rojo and González Pirez: \"The match of our lives\"",
-        "pt": "Rojo e González Pirez: \"A partida das nossas vidas\"",
-        "zh": "Rojo与González Pirez：“我们人生中最重要的比赛”",
-        "hi": "Rojo और González Pirez: \"हमारी ज़िंदगी का मैच\""
+        "es": "Medina: \"La emoción va a estar\"",
+        "en": "Medina: \"The emotion will be there\"",
+        "pt": "Medina: \"A emoção vai estar lá\"",
+        "zh": "Medina：“情绪一定会在”",
+        "hi": "Medina: \"भावनाएँ ज़रूर होंगी\""
       },
       "texto": {
-        "es": "Los dos centrales hablaron con El Día a una semana de Montevideo. Rojo contó que su vuelta se gestó después de la serie con Corinthians, cuando las suspensiones dejaron corta la defensa.",
-        "en": "The two centre-backs spoke to El Día a week out from Montevideo. Rojo explained that his return came about after the Corinthians tie, when suspensions left the defence short.",
-        "pt": "Os dois zagueiros falaram ao El Día a uma semana de Montevidéu. Rojo contou que sua volta surgiu depois do confronto com o Corinthians, quando as suspensões deixaram a defesa desfalcada.",
-        "zh": "两名中卫在距蒙得维的亚之战一周时接受El Día采访。Rojo透露，他的回归源于对阵Corinthians的系列赛之后，当时停赛导致后防人手不足。",
-        "hi": "दोनों सेंटर-बैक ने Montevideo से एक हफ़्ता पहले El Día से बात की। Rojo ने बताया कि उनकी वापसी Corinthians के ख़िलाफ़ मुक़ाबले के बाद तय हुई, जब निलंबनों से डिफ़ेंस में कमी हो गई थी।"
+        "es": "En una entrevista que difundió la Conmebol, el Cacique dijo que su equipo es muy emocional y que, cuando tiene la emoción a flor de piel, por lo general juega bien. \"Creo mucho en este equipo\", agregó.",
+        "en": "In an interview released by CONMEBOL, the Cacique said his side are very emotional and that, when emotions run high, they usually play well. \"I believe a lot in this team\", he added.",
+        "pt": "Em entrevista divulgada pela Conmebol, o Cacique disse que seu time é muito emocional e que, quando está com a emoção à flor da pele, geralmente joga bem. \"Acredito muito neste time\", acrescentou.",
+        "zh": "在南美足联发布的采访中，主帅表示球队非常感性，情绪高涨时通常踢得很好。他补充道：“我非常相信这支球队。”",
+        "hi": "Conmebol द्वारा जारी इंटरव्यू में कोच ने कहा कि उनकी टीम बहुत भावुक है और जब भावनाएँ चरम पर होती हैं, तो वह आम तौर पर अच्छा खेलती है। उन्होंने जोड़ा: \"मुझे इस टीम पर बहुत भरोसा है।\""
       }
     },
     {
       "titulo": {
-        "es": "La final también define Argentina-Brasil",
-        "en": "The final also settles Argentina v Brazil",
-        "pt": "A final também decide Argentina x Brasil",
-        "zh": "决赛也决定阿根廷与巴西之争",
-        "hi": "फ़ाइनल से अर्जेंटीना बनाम ब्राज़ील का भी फ़ैसला"
+        "es": "La Plata, empapelada de gloria",
+        "en": "La Plata plastered with glory",
+        "pt": "La Plata coberta de glória",
+        "zh": "La Plata 贴满荣耀",
+        "hi": "गौरव से सजा La Plata"
       },
       "texto": {
-        "es": "Los dos países suman 25 Copas Libertadores cada uno: si gana el Pincha, que va por su quinta, Argentina vuelve a quedar arriba en el historial.",
-        "en": "The two countries have 25 Copa Libertadores titles each: if the Pincha win their fifth, Argentina go back in front in the all-time standings.",
-        "pt": "Os dois países somam 25 Copas Libertadores cada: se o Pincha conquistar a quinta, a Argentina volta a ficar na frente no histórico.",
-        "zh": "两国各有25座Copa Libertadores冠军：若Pincha夺得队史第五冠，阿根廷将在历史榜上重新领先。",
-        "hi": "दोनों देशों के पास 25-25 Copa Libertadores ख़िताब हैं: अगर Pincha अपना पाँचवाँ ख़िताब जीतता है, तो अर्जेंटीना इतिहास में फिर आगे हो जाएगा।"
+        "es": "Las calles amanecieron llenas de afiches con frases de ídolos: \"A la gloria no se llega por un camino de rosas\" (Zubeldía), \"Cerrar los ojos y creer\" (Sabella), \"Busquen la gloria\" (Bilardo) y \"No bajar nunca los brazos\" (Pachamé).",
+        "en": "The streets woke up covered in posters with quotes from club legends: \"You don't reach glory along a bed of roses\" (Zubeldía), \"Close your eyes and believe\" (Sabella), \"Go for glory\" (Bilardo) and \"Never give up\" (Pachamé).",
+        "pt": "As ruas amanheceram cheias de cartazes com frases de ídolos: \"À glória não se chega por um caminho de rosas\" (Zubeldía), \"Fechar os olhos e acreditar\" (Sabella), \"Busquem a glória\" (Bilardo) e \"Nunca baixar os braços\" (Pachamé).",
+        "zh": "街头一早贴满了传奇人物名言海报：“通往荣耀的路不是玫瑰铺成的”（Zubeldía）、“闭上眼睛，相信”（Sabella）、“去追求荣耀”（Bilardo）和“永不放弃”（Pachamé）。",
+        "hi": "सड़कें सुबह दिग्गजों के कथनों वाले पोस्टरों से भरी मिलीं: \"गौरव तक गुलाबों के रास्ते से नहीं पहुँचा जाता\" (Zubeldía), \"आँखें बंद करो और यक़ीन करो\" (Sabella), \"गौरव की तलाश करो\" (Bilardo) और \"कभी हार मत मानो\" (Pachamé)।"
       }
     }
   ],
@@ -162,6 +162,66 @@
     }
   },
   "linea": [
+    {
+      "hora": "2026-11-21T18:25:00-03:00",
+      "fuente": "Bola na Rede",
+      "url": "https://bolanarede.pt/especial-bola-na-rede/atualidade/flamengo-de-leonardo-jardim-empata-contra-abel-ferreira-e-vence-o-brasileirao/",
+      "texto": {
+        "es": "Palmeiras empató 1-1 con Flamengo, que es campeón del Brasileirão.",
+        "en": "Palmeiras drew 1-1 with Flamengo, who are crowned Brasileirão champions.",
+        "pt": "Palmeiras empatou por 1 a 1 com o Flamengo, que é campeão do Brasileirão.",
+        "zh": "帕尔梅拉斯 1比1 战平 Flamengo，后者夺得巴甲冠军。",
+        "hi": "Palmeiras ने Flamengo से 1-1 ड्रॉ खेला, Flamengo ब्राज़ीलियाई लीग का चैंपियन बना।"
+      }
+    },
+    {
+      "hora": "2026-11-21T16:07:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://www.infocielo.com/deportes/cerrar-los-ojos-y-creer-la-campana-que-empezo-a-palpitar-la-final-de-estudiantes-por-las-calles-de-la-ciudad",
+      "texto": {
+        "es": "\"Cerrar los ojos y creer\": la campaña de afiches que palpita la final en las calles.",
+        "en": "\"Close your eyes and believe\": the poster campaign building up to the final on the streets.",
+        "pt": "\"Fechar os olhos e acreditar\": a campanha de cartazes que esquenta a final nas ruas.",
+        "zh": "“闭上眼睛，相信”：街头海报为决赛预热。",
+        "hi": "\"आँखें बंद करो और यक़ीन करो\": सड़कों पर फ़ाइनल का माहौल बनाते पोस्टर।"
+      }
+    },
+    {
+      "hora": "2026-11-21T13:49:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/las-paredes-la-plata-empapeladas-glorias-estudiantes-una-semana-la-final-la-copa-libertadores-n137807",
+      "texto": {
+        "es": "Las paredes de La Plata amanecieron empapeladas con glorias del Pincha.",
+        "en": "La Plata's walls woke up plastered with Pincha legends.",
+        "pt": "Os muros de La Plata amanheceram cobertos de glórias do Pincha.",
+        "zh": "La Plata 的街墙一早贴满了 Pincha 传奇人物的海报。",
+        "hi": "La Plata की दीवारें सुबह Pincha के दिग्गजों के पोस्टरों से ढकी मिलीं।"
+      }
+    },
+    {
+      "hora": "2026-11-21T12:22:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/video-el-cacique-medina-palpita-la-gran-final-tenemos-la-emocion-a-flor-de-piel-deportes_1795274280",
+      "texto": {
+        "es": "Medina palpita la final: \"Con la emoción a flor de piel, por lo general jugamos bien\".",
+        "en": "Medina looks ahead to the final: \"When our emotions are running high, we usually play well\".",
+        "pt": "Medina projeta a final: \"Com a emoção à flor da pele, geralmente jogamos bem\".",
+        "zh": "Medina 展望决赛：“情绪高涨的时候，我们通常踢得很好。”",
+        "hi": "Medina ने फ़ाइनल पर कहा: \"जब भावनाएँ चरम पर होती हैं, तो हम आम तौर पर अच्छा खेलते हैं।\""
+      }
+    },
+    {
+      "hora": "2026-11-21T10:32:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/el-flaco-lopez-y-jose-sosa-calientan-el-ambiente-una-semana-la-final-estudiantes-y-palmeiras-n137800",
+      "texto": {
+        "es": "La Conmebol calienta la final con el Flaco López y José Sosa.",
+        "en": "CONMEBOL build up the final with Flaco López and José Sosa.",
+        "pt": "A Conmebol esquenta a final com Flaco López e José Sosa.",
+        "zh": "南美足联用 Flaco López 和 José Sosa 为决赛预热。",
+        "hi": "Conmebol ने Flaco López और José Sosa के साथ फ़ाइनल का माहौल गरमाया।"
+      }
+    },
     {
       "hora": "2026-11-21T00:57:00-03:00",
       "fuente": "El Día",
