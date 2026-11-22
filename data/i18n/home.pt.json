@@ -1,34 +1,34 @@
 {
   "hoy": {
-    "titular": "Com vaga na Copa Sudamericana 2027 garantida, o Pincha descansa e conta os dias para Montevidéu",
+    "titular": "A seis dias de Montevidéu, o Pincha volta amanhã a City Bell para a última semana",
     "foto": {
-      "alt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo."
+      "alt": "A comissão técnica do Estudiantes conversa durante um treino em City Bell."
     },
-    "resumen": "O Boca venceu o Atlético-MG na final da Copa Sudamericana e deixou para o Estudiantes uma vaga na edição de 2027. O elenco tem folga neste domingo e Medina ainda procura o substituto de Baltasar Rodríguez para a final de sábado.",
+    "resumen": "Depois da folga de domingo, o elenco volta a treinar na segunda-feira em City Bell e viaja a Montevidéu na quarta. Medina se mostrou confiante em entrevista à Conmebol, e no Palmeiras Abel Ferreira fez autocrítica após perder o Brasileirão.",
     "siete": [
       {
-        "titulo": "Correa na reta final da recuperação",
-        "texto": "Segue em dúvida pela lesão no bíceps femoral direito. Até sexta-feira, segundo o El Día, estava na etapa final da recuperação: a ideia é que seja titular e, se não chegar em condições, pode entrar no segundo tempo, abrindo espaço para Cetré."
+        "titulo": "Medina confiante a seis dias da final",
+        "texto": "Em entrevista publicada pela Conmebol, o Cacique destacou o caráter emocional do seu time e se mostrou confiante para sábado no Centenario."
       },
       {
-        "titulo": "Sem Baltasar, Medina busca o último titular",
-        "texto": "Baltasar Rodríguez, expulso contra o Flamengo, não poderá jogar a final. Segundo o Diario Hoy, Fabricio Pérez é a principal opção para a vaga, com Eric Meza e Tomás Palacios como alternativas; o El Día propõe repetir a linha de cinco do Maracanã, com Tobio Burgos pela esquerda."
+        "titulo": "Abel, autocrítico, já pensa no Pincha",
+        "texto": "Depois do 1 a 1 com o Flamengo, que o tirou da briga pelo Brasileirão, Abel Ferreira listou os erros do Verdão e avisou que seu time \"vai lutar para ser campeão\" da América. Murilo, Piquerez e Paulinho seguem como dúvida, e na terça, 24, o time visita a Chapecoense."
       },
       {
-        "titulo": "Copa Sudamericana 2027 garantida",
-        "texto": "O Boca venceu o Atlético-MG por 2 a 0 em Barranquilla, com gol do ex-Pincha Santiago Ascacíbar, e ao ser campeão da Copa Sudamericana liberou uma vaga da tabela anual: o Estudiantes já tem a Copa Sudamericana 2027. Se vencer a final em Montevidéu, disputa a Copa Libertadores no ano que vem."
+        "titulo": "Sul-Americana 2027 garantida, e a Recopa em jogo",
+        "texto": "Com o título do Boca na Sul-Americana, o Estudiantes já tem vaga na Copa Sudamericana 2027. Se vencer a final em Montevidéu, no ano que vem joga a Copa Libertadores e também a Recopa Sudamericana contra o Boca."
       },
       {
-        "titulo": "Palmeiras só pensa na final",
-        "texto": "Com o 1 a 1 contra o Flamengo, o Verdão ficou sem chances no Brasileirão e o Flamengo foi campeão. Abel não poupou todos (jogaram Gustavo Gómez, Andreas Pereira, Arias, Flaco López e Vitor Roque); Murilo, Piquerez e Paulinho seguem em dúvida, e na terça-feira, 24, o time visita a Chapecoense."
+        "titulo": "O roteiro até o Centenario",
+        "texto": "Depois da folga de domingo, o elenco volta a treinar amanhã, segunda-feira, em City Bell. Na quarta, 25, viaja a Montevidéu (fica no Hilton) e na quinta e na sexta treina no CT do Montevideo City Torque."
+      },
+      {
+        "titulo": "Sem Baltasar, Medina procura o último titular",
+        "texto": "Baltasar Rodríguez, expulso contra o Flamengo, não poderá jogar a final. Segundo o Diario Hoy, Fabricio Pérez é a grande opção para o lugar dele, com Eric Meza e Tomás Palacios como alternativas; o El Día propõe repetir a linha de cinco do Maracanã."
       },
       {
         "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
         "texto": "Viajam 120 ônibus: 60 do clube, que saem na tarde de sexta-feira, 27, do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario."
-      },
-      {
-        "titulo": "O roteiro até o Centenario",
-        "texto": "Hoje, domingo, o elenco tem folga. Segue treinando em City Bell até quarta-feira, 25, quando viaja a Montevidéu (fica no Hilton); na quinta e na sexta treinará no CT do Montevideo City Torque."
       },
       {
         "titulo": "Sosa e seus cinco técnicos",
@@ -36,6 +36,15 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Folga, volta a City Bell na segunda e viagem a Montevidéu: a última semana do Pincha."
+      },
+      {
+        "texto": "Abel Ferreira projeta a final: \"Nosso time vai lutar para ser campeão\"."
+      },
+      {
+        "texto": "Medina em entrevista à Conmebol: a emoção do time e a confiança para a final."
+      },
       {
         "texto": "De Bilardo a Medina: os cinco técnicos que Sosa teve no Estudiantes."
       },
@@ -55,9 +64,6 @@
         "texto": "Medina projeta a final: \"Com a emoção à flor da pele, geralmente jogamos bem\"."
       },
       {
-        "texto": "A Conmebol esquenta a final com Flaco López e José Sosa."
-      },
-      {
         "texto": "Rojo e González Pirez, a uma semana da final: \"Temos pela frente a partida das nossas vidas\"."
       },
       {
@@ -65,15 +71,6 @@
       },
       {
         "texto": "Palmeiras deve poupar titulares contra o Flamengo: Murilo em transição, Piquerez e Paulinho em tratamento."
-      },
-      {
-        "texto": "A Conmebol convida os torcedores mais novos do Pincha a desenhar o escudo ou a camisa para suas redes."
-      },
-      {
-        "texto": "Um torcedor saiu de bicicleta de La Plata rumo à final em Montevidéu."
-      },
-      {
-        "texto": "O elenco comemorou a Supercopa com churrasco e bom clima antes da final."
       }
     ]
   },

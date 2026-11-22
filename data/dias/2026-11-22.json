@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-22",
   "titular": {
-    "es": "Con la Sudamericana 2027 en el bolsillo, el Pincha descansa y cuenta los días para Montevideo",
-    "en": "With a Copa Sudamericana 2027 place in the bag, the Pincha rest and count down the days to Montevideo",
-    "pt": "Com vaga na Copa Sudamericana 2027 garantida, o Pincha descansa e conta os dias para Montevidéu",
-    "zh": "已锁定2027年Copa Sudamericana席位，Pincha休整并倒数前往蒙得维的亚",
-    "hi": "2027 Copa Sudamericana की जगह पक्की, Pincha आराम कर रहा है और मोंटेवीडियो के लिए दिन गिन रहा है"
+    "es": "A seis días de Montevideo, el Pincha vuelve mañana a City Bell para la última semana",
+    "en": "Six days from Montevideo, the Pincha return to City Bell tomorrow for the final week",
+    "pt": "A seis dias de Montevidéu, o Pincha volta amanhã a City Bell para a última semana",
+    "zh": "距蒙得维的亚之战还有六天，Pincha明天回到City Bell，开启最后一周备战",
+    "hi": "मोंटेवीडियो से छह दिन पहले, Pincha कल आख़िरी हफ़्ते के लिए City Bell लौटेगा"
   },
   "resumen": {
-    "es": "Boca le ganó la final de la Sudamericana a Atlético Mineiro y le dejó a Estudiantes un lugar en la edición 2027. El plantel tiene libre este domingo y Medina todavía busca al reemplazante de Baltasar Rodríguez para la final del sábado.",
-    "en": "Boca beat Atlético Mineiro in the Copa Sudamericana final and handed Estudiantes a place in the 2027 edition. The squad have Sunday off and Medina is still looking for Baltasar Rodríguez's replacement for Saturday's final.",
-    "pt": "O Boca venceu o Atlético-MG na final da Copa Sudamericana e deixou para o Estudiantes uma vaga na edição de 2027. O elenco tem folga neste domingo e Medina ainda procura o substituto de Baltasar Rodríguez para a final de sábado.",
-    "zh": "Boca在Copa Sudamericana决赛中击败Atlético Mineiro，为Estudiantes腾出了2027年赛事的一个名额。球队本周日休息，Medina仍在为周六的决赛寻找Baltasar Rodríguez的替代者。",
-    "hi": "Boca ने Copa Sudamericana फ़ाइनल में Atlético Mineiro को हराया और Estudiantes के लिए 2027 संस्करण में जगह खाली कर दी। टीम को इस रविवार छुट्टी है और Medina अब भी शनिवार के फ़ाइनल के लिए Baltasar Rodríguez का विकल्प तलाश रहे हैं।"
+    "es": "Después del domingo libre, el plantel vuelve a entrenarse el lunes en City Bell y el miércoles viaja a Montevideo. Medina se mostró confiado en una entrevista con la Conmebol, y en Palmeiras Abel Ferreira hizo autocrítica tras perder el Brasileirão.",
+    "en": "After Sunday off, the squad return to training on Monday in City Bell and travel to Montevideo on Wednesday. Medina sounded confident in an interview with CONMEBOL, while at Palmeiras Abel Ferreira was self-critical after losing the Brasileirão.",
+    "pt": "Depois da folga de domingo, o elenco volta a treinar na segunda-feira em City Bell e viaja a Montevidéu na quarta. Medina se mostrou confiante em entrevista à Conmebol, e no Palmeiras Abel Ferreira fez autocrítica após perder o Brasileirão.",
+    "zh": "周日休息后，球队周一在City Bell恢复训练，周三启程前往蒙得维的亚。Medina在接受南美足联采访时表现得信心十足；帕尔梅拉斯（Palmeiras）方面，Abel Ferreira在痛失巴甲冠军后进行了自我批评。",
+    "hi": "रविवार की छुट्टी के बाद टीम सोमवार को City Bell में फिर ट्रेनिंग शुरू करेगी और बुधवार को मोंटेवीडियो रवाना होगी। CONMEBOL को दिए इंटरव्यू में Medina आत्मविश्वास से भरे दिखे, जबकि Palmeiras में Abel Ferreira ने ब्राज़ीलियन लीग गंवाने के बाद आत्मआलोचना की।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -39,20 +39,71 @@
   },
   "siete": [
     {
-      "tema": "correa-lesion",
+      "tema": "medina-conmebol",
       "titulo": {
-        "es": "Correa, en la recta final de su recuperación",
-        "en": "Correa in the final stretch of his recovery",
-        "pt": "Correa na reta final da recuperação",
-        "zh": "Correa进入康复最后阶段",
-        "hi": "Correa रिकवरी के आख़िरी चरण में"
+        "es": "Medina, confiado a seis días de la final",
+        "en": "Medina confident six days before the final",
+        "pt": "Medina confiante a seis dias da final",
+        "zh": "决赛前六天，Medina信心十足",
+        "hi": "फ़ाइनल से छह दिन पहले Medina आत्मविश्वास में"
       },
       "texto": {
-        "es": "Sigue en duda por el desgarro en el bíceps femoral derecho. Según El Día, el viernes estaba en la etapa final de la recuperación: la idea es que sea titular y, si no llega en condiciones, podría entrar en el segundo tiempo y Cetré ganaría lugar.",
-        "en": "He remains a doubt with the tear in his right hamstring. As of Friday, according to El Día, he was in the final stage of his recovery: the plan is for him to start and, if he is not fully fit, he could come on in the second half, which would open the door for Cetré.",
-        "pt": "Segue em dúvida pela lesão no bíceps femoral direito. Até sexta-feira, segundo o El Día, estava na etapa final da recuperação: a ideia é que seja titular e, se não chegar em condições, pode entrar no segundo tempo, abrindo espaço para Cetré.",
-        "zh": "他右腿股二头肌撕裂，出战仍存疑问。据El Día报道，截至周五他已处于康复的最后阶段：计划让他首发；如果状态未达标，可能在下半场替补登场，Cetré则有望获得位置。",
-        "hi": "दाहिनी हैमस्ट्रिंग में खिंचाव के कारण उनका खेलना अब भी संदिग्ध है। El Día के अनुसार शुक्रवार तक वे रिकवरी के अंतिम चरण में थे: योजना उन्हें शुरुआत से उतारने की है; अगर वे पूरी तरह फ़िट नहीं हुए तो दूसरे हाफ़ में आ सकते हैं और Cetré को मौका मिल सकता है।"
+        "es": "En una entrevista que publicó la Conmebol, el Cacique destacó el carácter emocional de su equipo y se mostró confiado para el sábado en el Centenario.",
+        "en": "In an interview published by CONMEBOL, the Cacique highlighted his team's emotional character and sounded confident for Saturday at the Centenario.",
+        "pt": "Em entrevista publicada pela Conmebol, o Cacique destacou o caráter emocional do seu time e se mostrou confiante para sábado no Centenario.",
+        "zh": "在南美足联发布的采访中，Cacique强调了球队的情感特质，并对周六在Centenario球场的决赛充满信心。",
+        "hi": "CONMEBOL के प्रकाशित इंटरव्यू में Cacique ने अपनी टीम के भावनात्मक जज़्बे पर ज़ोर दिया और शनिवार को Centenario में होने वाले मुक़ाबले को लेकर भरोसा जताया।"
+      }
+    },
+    {
+      "tema": "palmeiras-previa-final",
+      "titulo": {
+        "es": "Abel, autocrítico, ya piensa en el Pincha",
+        "en": "A self-critical Abel already thinking about the Pincha",
+        "pt": "Abel, autocrítico, já pensa no Pincha",
+        "zh": "Abel自我反省，已开始研究Pincha",
+        "hi": "आत्मआलोचक Abel अब Pincha के बारे में सोच रहे हैं"
+      },
+      "texto": {
+        "es": "Tras el 1-1 con Flamengo, que lo dejó sin el Brasileirão, Abel Ferreira enumeró los errores del Verdão y avisó que su equipo \"luchará por ser campeón\" de América. Murilo, Piquerez y Paulinho siguen en duda, y el martes 24 visita a Chapecoense.",
+        "en": "After the 1-1 with Flamengo cost them the Brasileirão, Abel Ferreira listed the Verdão's mistakes and warned that his team \"will fight to be champions\" of South America. Murilo, Piquerez and Paulinho remain doubts, and on Tuesday 24th they visit Chapecoense.",
+        "pt": "Depois do 1 a 1 com o Flamengo, que o tirou da briga pelo Brasileirão, Abel Ferreira listou os erros do Verdão e avisou que seu time \"vai lutar para ser campeão\" da América. Murilo, Piquerez e Paulinho seguem como dúvida, e na terça, 24, o time visita a Chapecoense.",
+        "zh": "与Flamengo 1比1战平、无缘巴甲冠军后，Abel Ferreira列举了Palmeiras的问题，并表示球队“将为夺得冠军而战”。Murilo、Piquerez和Paulinho仍出战成疑，24日周二球队将客场挑战Chapecoense。",
+        "hi": "Flamengo से 1-1 ड्रॉ के बाद ब्राज़ीलियन लीग हाथ से निकलने पर Abel Ferreira ने Palmeiras की ग़लतियाँ गिनाईं और कहा कि उनकी टीम \"चैंपियन बनने के लिए लड़ेगी\"। Murilo, Piquerez और Paulinho अब भी संदिग्ध हैं, और मंगलवार 24 को टीम Chapecoense के मैदान पर खेलेगी।"
+      }
+    },
+    {
+      "tema": "sudamericana-2027",
+      "titulo": {
+        "es": "Sudamericana 2027 asegurada, y la Recopa en juego",
+        "en": "Copa Sudamericana 2027 secured, with the Recopa up for grabs",
+        "pt": "Sul-Americana 2027 garantida, e a Recopa em jogo",
+        "zh": "2027年Copa Sudamericana资格已到手，Recopa也在争夺之中",
+        "hi": "Copa Sudamericana 2027 पक्की, Recopa भी दांव पर"
+      },
+      "texto": {
+        "es": "Con el título de Boca en la Sudamericana, Estudiantes ya tiene lugar en la Copa Sudamericana 2027. Si gana la final en Montevideo, el año que viene juega la Libertadores y además la Recopa Sudamericana contra Boca.",
+        "en": "With Boca's Copa Sudamericana title, Estudiantes already have a place in the Copa Sudamericana 2027. If they win the final in Montevideo, next year they play the Copa Libertadores and also the Recopa Sudamericana against Boca.",
+        "pt": "Com o título do Boca na Sul-Americana, o Estudiantes já tem vaga na Copa Sudamericana 2027. Se vencer a final em Montevidéu, no ano que vem joga a Copa Libertadores e também a Recopa Sudamericana contra o Boca.",
+        "zh": "随着Boca夺得Copa Sudamericana冠军，Estudiantes已锁定2027年Copa Sudamericana席位。若在蒙得维的亚赢下决赛，明年将参加Copa Libertadores，并与Boca争夺Recopa Sudamericana。",
+        "hi": "Boca के Copa Sudamericana जीतने से Estudiantes को Copa Sudamericana 2027 में जगह मिल चुकी है। अगर मोंटेवीडियो में फ़ाइनल जीतता है, तो अगले साल Copa Libertadores खेलेगा और Boca के ख़िलाफ़ Recopa Sudamericana भी।"
+      }
+    },
+    {
+      "tema": "hoja-de-ruta",
+      "titulo": {
+        "es": "La hoja de ruta hasta el Centenario",
+        "en": "The road map to the Centenario",
+        "pt": "O roteiro até o Centenario",
+        "zh": "通往Centenario的日程",
+        "hi": "Centenario तक का रोडमैप"
+      },
+      "texto": {
+        "es": "Después del domingo libre, el plantel vuelve a entrenarse mañana lunes en City Bell. El miércoles 25 viaja a Montevideo (para en el Hilton) y el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "en": "After Sunday off, the squad return to training tomorrow, Monday, in City Bell. On Wednesday 25th they travel to Montevideo (staying at the Hilton) and on Thursday and Friday they will train at Montevideo City Torque's training ground.",
+        "pt": "Depois da folga de domingo, o elenco volta a treinar amanhã, segunda-feira, em City Bell. Na quarta, 25, viaja a Montevidéu (fica no Hilton) e na quinta e na sexta treina no CT do Montevideo City Torque.",
+        "zh": "周日休息后，球队明天周一在City Bell恢复训练。25日周三前往蒙得维的亚（下榻Hilton酒店），周四和周五在Montevideo City Torque的训练基地训练。",
+        "hi": "रविवार की छुट्टी के बाद टीम कल सोमवार को City Bell में फिर ट्रेनिंग करेगी। बुधवार 25 को मोंटेवीडियो रवाना होगी (Hilton में ठहरेगी) और गुरुवार व शुक्रवार को Montevideo City Torque के ट्रेनिंग ग्राउंड पर अभ्यास करेगी।"
       }
     },
     {
@@ -60,48 +111,16 @@
       "titulo": {
         "es": "Sin Baltasar, Medina busca el último titular",
         "en": "Without Baltasar, Medina searches for his last starter",
-        "pt": "Sem Baltasar, Medina busca o último titular",
-        "zh": "Baltasar缺阵，Medina寻找最后一名首发",
+        "pt": "Sem Baltasar, Medina procura o último titular",
+        "zh": "缺少Baltasar，Medina寻找最后一名首发",
         "hi": "Baltasar के बिना, Medina आख़िरी स्टार्टर की तलाश में"
       },
       "texto": {
-        "es": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según Diario Hoy, Fabricio Pérez es la gran opción para su lugar, con Eric Meza y Tomás Palacios como alternativas; El Día plantea repetir la línea de cinco del Maracaná, con Tobio Burgos por la izquierda.",
-        "en": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to Diario Hoy, Fabricio Pérez is the leading option to replace him, with Eric Meza and Tomás Palacios as alternatives; El Día suggests repeating the back five used at the Maracanã, with Tobio Burgos on the left.",
-        "pt": "Baltasar Rodríguez, expulso contra o Flamengo, não poderá jogar a final. Segundo o Diario Hoy, Fabricio Pérez é a principal opção para a vaga, com Eric Meza e Tomás Palacios como alternativas; o El Día propõe repetir a linha de cinco do Maracanã, com Tobio Burgos pela esquerda.",
-        "zh": "在对阵Flamengo时被罚下的Baltasar Rodríguez将无缘决赛。据Diario Hoy报道，Fabricio Pérez是顶替他的首选，Eric Meza和Tomás Palacios为备选；El Día则认为可能沿用马拉卡纳的五后卫阵型，由Tobio Burgos打左路。",
-        "hi": "Flamengo के ख़िलाफ़ बाहर भेजे गए Baltasar Rodríguez फ़ाइनल नहीं खेल पाएंगे। Diario Hoy के अनुसार उनकी जगह के लिए Fabricio Pérez सबसे बड़ा विकल्प हैं, Eric Meza और Tomás Palacios भी दावेदार हैं; El Día के मुताबिक़ माराकाना वाली पाँच डिफ़ेंडरों की लाइन दोहराई जा सकती है, बाईं ओर Tobio Burgos के साथ।"
-      }
-    },
-    {
-      "titulo": {
-        "es": "Sudamericana 2027, asegurada",
-        "en": "Copa Sudamericana 2027 place secured",
-        "pt": "Copa Sudamericana 2027 garantida",
-        "zh": "2027年Copa Sudamericana席位已锁定",
-        "hi": "2027 Copa Sudamericana की जगह पक्की"
-      },
-      "texto": {
-        "es": "Boca le ganó 2-0 a Atlético Mineiro en Barranquilla, con un gol del ex Pincha Santiago Ascacíbar, y al ser campeón de la Sudamericana liberó un lugar de la tabla anual: Estudiantes ya tiene la Copa Sudamericana 2027. Si gana la final en Montevideo, el año que viene juega la Libertadores.",
-        "en": "Boca beat Atlético Mineiro 2-0 in Barranquilla, with a goal from former Pincha Santiago Ascacíbar, and by winning the Copa Sudamericana they freed up a place in the season-long table: Estudiantes are now in the Copa Sudamericana 2027. If they win the final in Montevideo, they will play the Copa Libertadores next year.",
-        "pt": "O Boca venceu o Atlético-MG por 2 a 0 em Barranquilla, com gol do ex-Pincha Santiago Ascacíbar, e ao ser campeão da Copa Sudamericana liberou uma vaga da tabela anual: o Estudiantes já tem a Copa Sudamericana 2027. Se vencer a final em Montevidéu, disputa a Copa Libertadores no ano que vem.",
-        "zh": "Boca在巴兰基亚以2-0击败Atlético Mineiro，前Pincha球员Santiago Ascacíbar破门。Boca夺得Copa Sudamericana冠军后腾出年度积分榜的一个名额：Estudiantes已确定参加2027年Copa Sudamericana。若在蒙得维的亚赢得决赛，明年将参加Copa Libertadores。",
-        "hi": "Boca ने बारान्किया में Atlético Mineiro को 2-0 से हराया, एक गोल पूर्व Pincha खिलाड़ी Santiago Ascacíbar ने किया। Copa Sudamericana जीतकर Boca ने सालाना तालिका की एक जगह खाली की: Estudiantes को 2027 Copa Sudamericana मिल गई है। अगर वह मोंटेवीडियो में फ़ाइनल जीतता है तो अगले साल Copa Libertadores खेलेगा।"
-      }
-    },
-    {
-      "titulo": {
-        "es": "Palmeiras ya solo piensa en la final",
-        "en": "Palmeiras now focused solely on the final",
-        "pt": "Palmeiras só pensa na final",
-        "zh": "帕尔梅拉斯（Palmeiras）只剩决赛目标",
-        "hi": "Palmeiras का ध्यान अब सिर्फ़ फ़ाइनल पर"
-      },
-      "texto": {
-        "es": "Con el 1-1 ante Flamengo, el Verdão se quedó sin chances en el Brasileirão y Flamengo fue campeón. Abel no guardó a todos (jugaron Gustavo Gómez, Andreas Pereira, Arias, el Flaco López y Vitor Roque); Murilo, Piquerez y Paulinho siguen en duda, y el martes 24 visita a Chapecoense.",
-        "en": "After the 1-1 draw with Flamengo, the Verdão are out of the Brasileirão race and Flamengo are champions. Abel did not rest everyone (Gustavo Gómez, Andreas Pereira, Arias, Flaco López and Vitor Roque all played); Murilo, Piquerez and Paulinho remain doubts, and on Tuesday 24th they visit Chapecoense.",
-        "pt": "Com o 1 a 1 contra o Flamengo, o Verdão ficou sem chances no Brasileirão e o Flamengo foi campeão. Abel não poupou todos (jogaram Gustavo Gómez, Andreas Pereira, Arias, Flaco López e Vitor Roque); Murilo, Piquerez e Paulinho seguem em dúvida, e na terça-feira, 24, o time visita a Chapecoense.",
-        "zh": "与Flamengo 1-1战平后，Palmeiras在巴甲已无夺冠可能，Flamengo夺冠。Abel并未全部轮换（Gustavo Gómez、Andreas Pereira、Arias、Flaco López和Vitor Roque均出场）；Murilo、Piquerez和Paulinho仍存疑，24日周二客场挑战Chapecoense。",
-        "hi": "Flamengo से 1-1 ड्रॉ के बाद Palmeiras ब्राज़ीलियन लीग की दौड़ से बाहर हो गया और Flamengo चैंपियन बना। Abel ने सभी को आराम नहीं दिया (Gustavo Gómez, Andreas Pereira, Arias, Flaco López और Vitor Roque खेले); Murilo, Piquerez और Paulinho अब भी संदिग्ध हैं, और मंगलवार 24 को टीम Chapecoense के मैदान पर खेलेगी।"
+        "es": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según Diario Hoy, Fabricio Pérez es la gran opción para su lugar, con Eric Meza y Tomás Palacios como alternativas; El Día plantea repetir la línea de cinco del Maracaná.",
+        "en": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to Diario Hoy, Fabricio Pérez is the leading option to replace him, with Eric Meza and Tomás Palacios as alternatives; El Día suggests repeating the back five used at the Maracanã.",
+        "pt": "Baltasar Rodríguez, expulso contra o Flamengo, não poderá jogar a final. Segundo o Diario Hoy, Fabricio Pérez é a grande opção para o lugar dele, com Eric Meza e Tomás Palacios como alternativas; o El Día propõe repetir a linha de cinco do Maracanã.",
+        "zh": "在对阵Flamengo时被罚下的Baltasar Rodríguez将无缘决赛。据Diario Hoy报道，Fabricio Pérez是顶替他的首选，Eric Meza和Tomás Palacios为备选；El Día则建议沿用在马拉卡纳使用的五后卫体系。",
+        "hi": "Flamengo के ख़िलाफ़ बाहर भेजे गए Baltasar Rodríguez फ़ाइनल नहीं खेल पाएँगे। Diario Hoy के मुताबिक़ उनकी जगह Fabricio Pérez सबसे बड़ा विकल्प हैं, Eric Meza और Tomás Palacios भी दावेदार हैं; El Día मारकाना वाली पाँच डिफ़ेंडरों की लाइन दोहराने की बात करता है।"
       }
     },
     {
@@ -122,23 +141,7 @@
       }
     },
     {
-      "tema": "hoja-de-ruta",
-      "titulo": {
-        "es": "La hoja de ruta hasta el Centenario",
-        "en": "The road map to the Centenario",
-        "pt": "O roteiro até o Centenario",
-        "zh": "通往Centenario的日程",
-        "hi": "Centenario तक का कार्यक्रम"
-      },
-      "texto": {
-        "es": "Hoy domingo el plantel tiene libre. Sigue entrenándose en City Bell hasta el miércoles 25, cuando viaja a Montevideo (para en el Hilton); el jueves y el viernes practicará en el predio de Montevideo City Torque.",
-        "en": "The squad have today, Sunday, off. They keep training in City Bell until Wednesday 25th, when they travel to Montevideo (staying at the Hilton); on Thursday and Friday they will train at Montevideo City Torque's training ground.",
-        "pt": "Hoje, domingo, o elenco tem folga. Segue treinando em City Bell até quarta-feira, 25, quando viaja a Montevidéu (fica no Hilton); na quinta e na sexta treinará no CT do Montevideo City Torque.",
-        "zh": "今天周日球队休息。球队将继续在City Bell训练至25日周三，随后飞赴蒙得维的亚（入住Hilton酒店）；周四和周五将在Montevideo City Torque的训练基地训练。",
-        "hi": "आज रविवार को टीम को छुट्टी है। बुधवार 25 तक टीम City Bell में ट्रेनिंग करेगी, फिर मोंटेवीडियो रवाना होगी (Hilton में ठहरेगी); गुरुवार और शुक्रवार को Montevideo City Torque के ट्रेनिंग ग्राउंड पर अभ्यास करेगी।"
-      }
-    },
-    {
+      "tema": "sosa-cinco-tecnicos",
       "titulo": {
         "es": "Sosa, el de los cinco técnicos",
         "en": "Sosa and his five managers",
@@ -156,16 +159,52 @@
     }
   ],
   "foto": {
-    "id": "2026-10-23_maracanazo-y-a-la-final_1",
+    "id": "2026-10-21_medina-los-lleva-a-todos_1",
     "alt": {
-      "es": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo.",
-      "en": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo.",
-      "pt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo.",
-      "zh": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。",
-      "hi": "Flamengo के ख़िलाफ़ सेमीफ़ाइनल से पहले Maracanã में Estudiantes के शुरुआती खिलाड़ी फ़ोटो के लिए खड़े।"
+      "es": "El cuerpo técnico de Estudiantes conversa durante un entrenamiento en City Bell.",
+      "en": "Estudiantes' coaching staff talk during a training session in City Bell.",
+      "pt": "A comissão técnica do Estudiantes conversa durante um treino em City Bell.",
+      "zh": "Estudiantes教练组在City Bell训练时交谈。",
+      "hi": "City Bell में ट्रेनिंग के दौरान बातचीत करता Estudiantes का कोचिंग स्टाफ़।"
     }
   },
   "linea": [
+    {
+      "hora": "2026-11-22T15:02:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/estudiantes-la-antesala-la-final-la-copa-libertadores-dia-libre-entrenamientos-y-viaje-montevideo-n137844",
+      "texto": {
+        "es": "Día libre, vuelta a City Bell el lunes y viaje a Montevideo: la última semana del Pincha.",
+        "en": "A day off, back to City Bell on Monday and the trip to Montevideo: the Pincha's final week.",
+        "pt": "Folga, volta a City Bell na segunda e viagem a Montevidéu: a última semana do Pincha.",
+        "zh": "休息一天、周一回到City Bell、再赴蒙得维的亚：Pincha的最后一周。",
+        "hi": "छुट्टी, सोमवार को City Bell वापसी और फिर मोंटेवीडियो: Pincha का आख़िरी हफ़्ता।"
+      }
+    },
+    {
+      "hora": "2026-11-22T13:10:00-03:00",
+      "fuente": "Olé",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUFxZkpCS2JBTW1NRkdYX1E5bmpBU2p6MmxJVm96SWNkaG9BdXVIaUdoZ2tBLTJ6OV9iakdmaVFvUWRqcERRVzExWFRZbXBhZmVfeWZXc0xTT1BUbl9aUE9YX0tHaEpmYnBDZm1Pd0d1dFhQaVJJVE8tdUNRa1RmbVpEUzFHemlqNXpCWE9fV18wYjBzUjV6YkxhQUFMYXFiTVlrdkI4cmktMlFVSDJ4TnAtQnZVMHUyUUE?oc=5",
+      "texto": {
+        "es": "Abel Ferreira palpitó la final: \"Nuestro equipo luchará por ser campeón\".",
+        "en": "Abel Ferreira looks ahead to the final: \"Our team will fight to be champions\".",
+        "pt": "Abel Ferreira projeta a final: \"Nosso time vai lutar para ser campeão\".",
+        "zh": "Abel Ferreira展望决赛：“我们的球队将为夺冠而战”。",
+        "hi": "Abel Ferreira ने फ़ाइनल पर कहा: \"हमारी टीम चैंपियन बनने के लिए लड़ेगी\"।"
+      }
+    },
+    {
+      "hora": "2026-11-22T11:58:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/alexander-medina-hablo-la-emocion-estudiantes-y-dejo-un-mensaje-la-final-la-copa-libertadores-n137839",
+      "texto": {
+        "es": "Medina, en una entrevista con la Conmebol: la emoción del equipo y su confianza para la final.",
+        "en": "Medina in an interview with CONMEBOL: the team's emotion and his confidence for the final.",
+        "pt": "Medina em entrevista à Conmebol: a emoção do time e a confiança para a final.",
+        "zh": "Medina接受南美足联采访：谈球队的情感与对决赛的信心。",
+        "hi": "CONMEBOL से इंटरव्यू में Medina: टीम का जज़्बा और फ़ाइनल के लिए भरोसा।"
+      }
+    },
     {
       "hora": "2026-11-22T00:00:00-03:00",
       "fuente": "Diario Hoy",

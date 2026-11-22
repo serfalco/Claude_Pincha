@@ -1,34 +1,34 @@
 {
   "hoy": {
-    "titular": "With a Copa Sudamericana 2027 place in the bag, the Pincha rest and count down the days to Montevideo",
+    "titular": "Six days from Montevideo, the Pincha return to City Bell tomorrow for the final week",
     "foto": {
-      "alt": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo."
+      "alt": "Estudiantes' coaching staff talk during a training session in City Bell."
     },
-    "resumen": "Boca beat Atlético Mineiro in the Copa Sudamericana final and handed Estudiantes a place in the 2027 edition. The squad have Sunday off and Medina is still looking for Baltasar Rodríguez's replacement for Saturday's final.",
+    "resumen": "After Sunday off, the squad return to training on Monday in City Bell and travel to Montevideo on Wednesday. Medina sounded confident in an interview with CONMEBOL, while at Palmeiras Abel Ferreira was self-critical after losing the Brasileirão.",
     "siete": [
       {
-        "titulo": "Correa in the final stretch of his recovery",
-        "texto": "He remains a doubt with the tear in his right hamstring. As of Friday, according to El Día, he was in the final stage of his recovery: the plan is for him to start and, if he is not fully fit, he could come on in the second half, which would open the door for Cetré."
+        "titulo": "Medina confident six days before the final",
+        "texto": "In an interview published by CONMEBOL, the Cacique highlighted his team's emotional character and sounded confident for Saturday at the Centenario."
+      },
+      {
+        "titulo": "A self-critical Abel already thinking about the Pincha",
+        "texto": "After the 1-1 with Flamengo cost them the Brasileirão, Abel Ferreira listed the Verdão's mistakes and warned that his team \"will fight to be champions\" of South America. Murilo, Piquerez and Paulinho remain doubts, and on Tuesday 24th they visit Chapecoense."
+      },
+      {
+        "titulo": "Copa Sudamericana 2027 secured, with the Recopa up for grabs",
+        "texto": "With Boca's Copa Sudamericana title, Estudiantes already have a place in the Copa Sudamericana 2027. If they win the final in Montevideo, next year they play the Copa Libertadores and also the Recopa Sudamericana against Boca."
+      },
+      {
+        "titulo": "The road map to the Centenario",
+        "texto": "After Sunday off, the squad return to training tomorrow, Monday, in City Bell. On Wednesday 25th they travel to Montevideo (staying at the Hilton) and on Thursday and Friday they will train at Montevideo City Torque's training ground."
       },
       {
         "titulo": "Without Baltasar, Medina searches for his last starter",
-        "texto": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to Diario Hoy, Fabricio Pérez is the leading option to replace him, with Eric Meza and Tomás Palacios as alternatives; El Día suggests repeating the back five used at the Maracanã, with Tobio Burgos on the left."
-      },
-      {
-        "titulo": "Copa Sudamericana 2027 place secured",
-        "texto": "Boca beat Atlético Mineiro 2-0 in Barranquilla, with a goal from former Pincha Santiago Ascacíbar, and by winning the Copa Sudamericana they freed up a place in the season-long table: Estudiantes are now in the Copa Sudamericana 2027. If they win the final in Montevideo, they will play the Copa Libertadores next year."
-      },
-      {
-        "titulo": "Palmeiras now focused solely on the final",
-        "texto": "After the 1-1 draw with Flamengo, the Verdão are out of the Brasileirão race and Flamengo are champions. Abel did not rest everyone (Gustavo Gómez, Andreas Pereira, Arias, Flaco López and Vitor Roque all played); Murilo, Piquerez and Paulinho remain doubts, and on Tuesday 24th they visit Chapecoense."
+        "texto": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to Diario Hoy, Fabricio Pérez is the leading option to replace him, with Eric Meza and Tomás Palacios as alternatives; El Día suggests repeating the back five used at the Maracanã."
       },
       {
         "titulo": "Around 35,000 Pincha fans head for Montevideo",
         "texto": "120 coaches are going: 60 laid on by the club, leaving the UNO on the afternoon of Friday 27th, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario."
-      },
-      {
-        "titulo": "The road map to the Centenario",
-        "texto": "The squad have today, Sunday, off. They keep training in City Bell until Wednesday 25th, when they travel to Montevideo (staying at the Hilton); on Thursday and Friday they will train at Montevideo City Torque's training ground."
       },
       {
         "titulo": "Sosa and his five managers",
@@ -36,6 +36,15 @@
       }
     ],
     "linea": [
+      {
+        "texto": "A day off, back to City Bell on Monday and the trip to Montevideo: the Pincha's final week."
+      },
+      {
+        "texto": "Abel Ferreira looks ahead to the final: \"Our team will fight to be champions\"."
+      },
+      {
+        "texto": "Medina in an interview with CONMEBOL: the team's emotion and his confidence for the final."
+      },
       {
         "texto": "From Bilardo to Medina: the five managers Sosa has had at Estudiantes."
       },
@@ -55,9 +64,6 @@
         "texto": "Medina looks ahead to the final: \"When our emotions are running high, we usually play well\"."
       },
       {
-        "texto": "CONMEBOL build up the final with Flaco López and José Sosa."
-      },
-      {
         "texto": "Rojo and González Pirez, a week from the final: \"We have the match of our lives ahead of us\"."
       },
       {
@@ -65,15 +71,6 @@
       },
       {
         "texto": "Palmeiras set to rest starters against Flamengo: Murilo in transition, Piquerez and Paulinho in treatment."
-      },
-      {
-        "texto": "CONMEBOL invites the youngest Pincha fans to draw the crest or the shirt for its social media."
-      },
-      {
-        "texto": "A fan set off from La Plata by bike for the final in Montevideo."
-      },
-      {
-        "texto": "The squad celebrated the Supercopa with an asado and a good atmosphere ahead of the final."
       }
     ]
   },
