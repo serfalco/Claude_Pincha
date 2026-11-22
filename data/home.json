@@ -1,6 +1,6 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-22T00:07:00-03:00",
+  "actualizado": "2026-11-22T08:07:00-03:00",
   "hoy": {
     "titular": "Con la Sudamericana 2027 en el bolsillo, el Pincha descansa y cuenta los días para Montevideo",
     "foto": {
@@ -35,11 +35,17 @@
         "vence": "2026-11-25T23:59:00-03:00"
       },
       {
-        "titulo": "La Plata, empapelada de gloria",
-        "texto": "Las calles amanecieron llenas de afiches con frases de ídolos: \"A la gloria no se llega por un camino de rosas\" (Zubeldía), \"Cerrar los ojos y creer\" (Sabella), \"Busquen la gloria\" (Bilardo) y \"No bajar nunca los brazos\" (Pachamé)."
+        "titulo": "Sosa, el de los cinco técnicos",
+        "texto": "Bilardo, Simeone, Sabella, Domínguez y Medina: José Sosa los tuvo a todos en el Pincha. El jugador más ganador de la historia del club, campeón con Simeone, Domínguez y Medina, va por otra Copa el sábado."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-22T00:00:00-03:00",
+        "fuente": "Diario Hoy",
+        "url": "https://diariohoy.net/el-clasico/de-bilardo-a-medina-la-particular-historia-de-sosa-con-cinco-entrenadores-en-estudiantes-290498",
+        "texto": "De Bilardo a Medina: los cinco entrenadores que tuvo Sosa en Estudiantes."
+      },
       {
         "hora": "2026-11-21T21:29:00-03:00",
         "fuente": "Infocielo",
@@ -111,12 +117,6 @@
         "fuente": "Olé",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2VQQWhtRVVYSFM2OGpVT3RXTnpmWUExVmt1Ul9OMWFwY3NNUldFZkxWV2k4UjFCRmphY09aME51Q21ZOVRDVGcxWFpUUlZUZnU1TlhRMk8tMXZaQklGazlpT2o1YTRXUU1EZTdqWWtqRTBCa0M1dlJRTjRCNzVjT3JkcWh2aG1YbVhwbWlDLWlRTkIzWDVWM21TZVpUREF3ZXBnQmFzWFo4RHVWS1l2ZkpONmQyRGVWWS1OWVFYT1g2dTdJZ0oyLXUyZ2ZqVGJmTDYxM0NIYWHSAd4BQVVfeXFMT0U4NXlkaEFyYk5IU3dnbUJhRTRzbU44TUxWWGlOb040emNnU1FncmVVLTROblNlQkRyMDQyMDJodVZOckdnTEZxZ0N0Mlh2WXJaOS0wcFBzV1ZJb2RLS0syUk5XMUQxTFBUY2pwYlBuNjF3aUVGQTNBa0ktaG5QTHJyT25Ld3FkUEpNVllwbU1ON2VjbVZFdF8yU2Z1RUM3WFRPOXpIX3ZKVzVrdEQ5LVpIM3dkal9LTk9uTzFnbHJsV0VtdGJqMGtweFlYeGtsaWdmSzlwRzdSSWFvMzFn?oc=5",
         "texto": "El plantel festejó la Supercopa con un asado y buen clima antes de la final."
-      },
-      {
-        "hora": "2026-11-20T00:00:00-03:00",
-        "fuente": "Diario Hoy",
-        "url": "https://diariohoy.net/el-clasico/a-ocho-dias-de-la-final-estudiantes-aun-no-definio-al-ultimo-titular-290412",
-        "texto": "A ocho días de la final, Medina todavía no definió al reemplazante de Baltasar."
       }
     ]
   },

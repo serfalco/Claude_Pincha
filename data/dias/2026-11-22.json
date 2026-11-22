@@ -136,18 +136,18 @@
     },
     {
       "titulo": {
-        "es": "La Plata, empapelada de gloria",
-        "en": "La Plata plastered with glory",
-        "pt": "La Plata coberta de glória",
-        "zh": "La Plata 贴满荣耀",
-        "hi": "गौरव से सजा La Plata"
+        "es": "Sosa, el de los cinco técnicos",
+        "en": "Sosa and his five managers",
+        "pt": "Sosa e seus cinco técnicos",
+        "zh": "Sosa与他的五位主帅",
+        "hi": "Sosa और उनके पाँच कोच"
       },
       "texto": {
-        "es": "Las calles amanecieron llenas de afiches con frases de ídolos: \"A la gloria no se llega por un camino de rosas\" (Zubeldía), \"Cerrar los ojos y creer\" (Sabella), \"Busquen la gloria\" (Bilardo) y \"No bajar nunca los brazos\" (Pachamé).",
-        "en": "The streets woke up covered in posters with quotes from club legends: \"You don't reach glory along a bed of roses\" (Zubeldía), \"Close your eyes and believe\" (Sabella), \"Go for glory\" (Bilardo) and \"Never give up\" (Pachamé).",
-        "pt": "As ruas amanheceram cheias de cartazes com frases de ídolos: \"À glória não se chega por um caminho de rosas\" (Zubeldía), \"Fechar os olhos e acreditar\" (Sabella), \"Busquem a glória\" (Bilardo) e \"Nunca baixar os braços\" (Pachamé).",
-        "zh": "街头一早贴满了传奇人物名言海报：“通往荣耀的路不是玫瑰铺成的”（Zubeldía）、“闭上眼睛，相信”（Sabella）、“去追求荣耀”（Bilardo）和“永不放弃”（Pachamé）。",
-        "hi": "सड़कें सुबह दिग्गजों के कथनों वाले पोस्टरों से भरी मिलीं: \"गौरव तक गुलाबों के रास्ते से नहीं पहुँचा जाता\" (Zubeldía), \"आँखें बंद करो और यक़ीन करो\" (Sabella), \"गौरव की तलाश करो\" (Bilardo) और \"कभी हार मत मानो\" (Pachamé)।"
+        "es": "Bilardo, Simeone, Sabella, Domínguez y Medina: José Sosa los tuvo a todos en el Pincha. El jugador más ganador de la historia del club, campeón con Simeone, Domínguez y Medina, va por otra Copa el sábado.",
+        "en": "Bilardo, Simeone, Sabella, Domínguez and Medina: José Sosa has played under all of them at the Pincha. The most decorated player in the club's history, a champion with Simeone, Domínguez and Medina, goes for another cup on Saturday.",
+        "pt": "Bilardo, Simeone, Sabella, Domínguez e Medina: José Sosa trabalhou com todos eles no Pincha. O jogador mais vitorioso da história do clube, campeão com Simeone, Domínguez e Medina, vai atrás de mais uma taça no sábado.",
+        "zh": "Bilardo、Simeone、Sabella、Domínguez和Medina：José Sosa在Pincha效力期间跟随过这五位主帅。这位俱乐部史上荣誉最多的球员曾随Simeone、Domínguez和Medina夺冠，周六将冲击又一座奖杯。",
+        "hi": "Bilardo, Simeone, Sabella, Domínguez और Medina: José Sosa Pincha में इन सभी के साथ खेल चुके हैं। क्लब के इतिहास के सबसे ज़्यादा ख़िताब जीतने वाले खिलाड़ी, जो Simeone, Domínguez और Medina के साथ चैंपियन बने, शनिवार को एक और कप के लिए उतरेंगे।"
       }
     }
   ],
@@ -161,5 +161,18 @@
       "hi": "Flamengo के ख़िलाफ़ सेमीफ़ाइनल से पहले Maracanã में Estudiantes के शुरुआती खिलाड़ी फ़ोटो के लिए खड़े।"
     }
   },
-  "linea": []
+  "linea": [
+    {
+      "hora": "2026-11-22T00:00:00-03:00",
+      "fuente": "Diario Hoy",
+      "url": "https://diariohoy.net/el-clasico/de-bilardo-a-medina-la-particular-historia-de-sosa-con-cinco-entrenadores-en-estudiantes-290498",
+      "texto": {
+        "es": "De Bilardo a Medina: los cinco entrenadores que tuvo Sosa en Estudiantes.",
+        "en": "From Bilardo to Medina: the five managers Sosa has had at Estudiantes.",
+        "pt": "De Bilardo a Medina: os cinco técnicos que Sosa teve no Estudiantes.",
+        "zh": "从Bilardo到Medina：Sosa在Estudiantes经历的五位主帅。",
+        "hi": "Bilardo से Medina तक: Estudiantes में Sosa के पाँच कोच।"
+      }
+    }
+  ]
 }

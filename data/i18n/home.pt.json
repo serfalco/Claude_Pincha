@@ -31,11 +31,14 @@
         "texto": "Hoje, domingo, o elenco tem folga. Segue treinando em City Bell até quarta-feira, 25, quando viaja a Montevidéu (fica no Hilton); na quinta e na sexta treinará no CT do Montevideo City Torque."
       },
       {
-        "titulo": "La Plata coberta de glória",
-        "texto": "As ruas amanheceram cheias de cartazes com frases de ídolos: \"À glória não se chega por um caminho de rosas\" (Zubeldía), \"Fechar os olhos e acreditar\" (Sabella), \"Busquem a glória\" (Bilardo) e \"Nunca baixar os braços\" (Pachamé)."
+        "titulo": "Sosa e seus cinco técnicos",
+        "texto": "Bilardo, Simeone, Sabella, Domínguez e Medina: José Sosa trabalhou com todos eles no Pincha. O jogador mais vitorioso da história do clube, campeão com Simeone, Domínguez e Medina, vai atrás de mais uma taça no sábado."
       }
     ],
     "linea": [
+      {
+        "texto": "De Bilardo a Medina: os cinco técnicos que Sosa teve no Estudiantes."
+      },
       {
         "texto": "Com gol de Ascacíbar, o Boca foi campeão da Copa Sudamericana e colocou o Pincha na edição de 2027."
       },
@@ -71,9 +74,6 @@
       },
       {
         "texto": "O elenco comemorou a Supercopa com churrasco e bom clima antes da final."
-      },
-      {
-        "texto": "A oito dias da final, Medina ainda não definiu o substituto de Baltasar."
       }
     ]
   },
