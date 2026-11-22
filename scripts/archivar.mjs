@@ -43,7 +43,7 @@ for (const [dia, nuevos] of grupos) {
     ...(dia === hoy
       ? {
           titular: textos((d) => d.hoy.titular), resumen: textos((d) => d.hoy.resumen), ultimo: base.ultimo,
-          ...(base.hoy.siete?.length ? { siete: base.hoy.siete.map((_, i) => ({ titulo: textos((d) => d.hoy.siete[i].titulo), texto: textos((d) => d.hoy.siete[i].texto) })) } : previo.siete ? { siete: previo.siete } : {}),
+          ...(base.hoy.siete?.length ? { siete: base.hoy.siete.map((_, i) => ({ ...(base.hoy.siete[i].tema ? { tema: base.hoy.siete[i].tema } : {}), ...(base.hoy.siete[i].novedad ? { novedad: base.hoy.siete[i].novedad } : {}), titulo: textos((d) => d.hoy.siete[i].titulo), texto: textos((d) => d.hoy.siete[i].texto) })) } : previo.siete ? { siete: previo.siete } : {}),
           // La foto de Hoy de ese día (la de la última corrida): queda en el historial.
           ...(base.hoy.foto?.id ? { foto: { id: base.hoy.foto.id, alt: textos((d) => d.hoy.foto?.alt ?? base.hoy.foto.alt) } } : previo.foto ? { foto: previo.foto } : {}),
         }

@@ -49,6 +49,7 @@
   },
   "siete": [
     {
+      "tema": "correa-lesion",
       "titulo": {
         "es": "Correa, en duda para la final",
         "en": "Correa a doubt for the final",
@@ -65,6 +66,7 @@
       }
     },
     {
+      "tema": "micros-montevideo",
       "titulo": {
         "es": "Micros a Montevideo: agotados",
         "en": "Coaches to Montevideo: sold out",
@@ -97,6 +99,7 @@
       }
     },
     {
+      "tema": "vuelta-entrenamientos",
       "titulo": {
         "es": "El plantel vuelve el lunes",
         "en": "Squad back on Monday",
@@ -113,6 +116,7 @@
       }
     },
     {
+      "tema": "adios-mary",
       "titulo": {
         "es": "Adiós a Mary, hincha histórica",
         "en": "Farewell to Mary, a lifelong fan",
@@ -129,6 +133,7 @@
       }
     },
     {
+      "tema": "palmeiras-calendario",
       "titulo": {
         "es": "Palmeiras llega con más partidos",
         "en": "Palmeiras have a busier schedule",

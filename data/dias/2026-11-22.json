@@ -39,6 +39,7 @@
   },
   "siete": [
     {
+      "tema": "correa-lesion",
       "titulo": {
         "es": "Correa, en la recta final de su recuperación",
         "en": "Correa in the final stretch of his recovery",
@@ -55,6 +56,7 @@
       }
     },
     {
+      "tema": "equipo-sin-baltasar",
       "titulo": {
         "es": "Sin Baltasar, Medina busca el último titular",
         "en": "Without Baltasar, Medina searches for his last starter",
@@ -103,6 +105,7 @@
       }
     },
     {
+      "tema": "hinchas-montevideo",
       "titulo": {
         "es": "Unos 35 mil pinchas, rumbo a Montevideo",
         "en": "Around 35,000 Pincha fans head for Montevideo",
@@ -119,6 +122,7 @@
       }
     },
     {
+      "tema": "hoja-de-ruta",
       "titulo": {
         "es": "La hoja de ruta hasta el Centenario",
         "en": "The road map to the Centenario",

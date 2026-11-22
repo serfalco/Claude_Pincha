@@ -10,31 +10,38 @@
     "resumen": "Boca le ganó la final de la Sudamericana a Atlético Mineiro y le dejó a Estudiantes un lugar en la edición 2027. El plantel tiene libre este domingo y Medina todavía busca al reemplazante de Baltasar Rodríguez para la final del sábado.",
     "siete": [
       {
+        "tema": "correa-lesion",
         "titulo": "Correa, en la recta final de su recuperación",
         "texto": "Sigue en duda por el desgarro en el bíceps femoral derecho. Según El Día, el viernes estaba en la etapa final de la recuperación: la idea es que sea titular y, si no llega en condiciones, podría entrar en el segundo tiempo y Cetré ganaría lugar."
       },
       {
+        "tema": "equipo-sin-baltasar",
         "titulo": "Sin Baltasar, Medina busca el último titular",
         "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según Diario Hoy, Fabricio Pérez es la gran opción para su lugar, con Eric Meza y Tomás Palacios como alternativas; El Día plantea repetir la línea de cinco del Maracaná, con Tobio Burgos por la izquierda."
       },
       {
+        "tema": "sudamericana-2027",
         "titulo": "Sudamericana 2027, asegurada",
         "texto": "Boca le ganó 2-0 a Atlético Mineiro en Barranquilla, con un gol del ex Pincha Santiago Ascacíbar, y al ser campeón de la Sudamericana liberó un lugar de la tabla anual: Estudiantes ya tiene la Copa Sudamericana 2027. Si gana la final en Montevideo, el año que viene juega la Libertadores."
       },
       {
+        "tema": "palmeiras-previa-final",
         "titulo": "Palmeiras ya solo piensa en la final",
         "texto": "Con el 1-1 ante Flamengo, el Verdão se quedó sin chances en el Brasileirão y Flamengo fue campeón. Abel no guardó a todos (jugaron Gustavo Gómez, Andreas Pereira, Arias, el Flaco López y Vitor Roque); Murilo, Piquerez y Paulinho siguen en duda, y el martes 24 visita a Chapecoense."
       },
       {
+        "tema": "hinchas-montevideo",
         "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
         "texto": "Viajan 120 micros: 60 del club, que salen el viernes 27 por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club."
       },
       {
+        "tema": "hoja-de-ruta",
         "titulo": "La hoja de ruta hasta el Centenario",
         "texto": "Hoy domingo el plantel tiene libre. Sigue entrenándose en City Bell hasta el miércoles 25, cuando viaja a Montevideo (para en el Hilton); el jueves y el viernes practicará en el predio de Montevideo City Torque.",
         "vence": "2026-11-25T23:59:00-03:00"
       },
       {
+        "tema": "sosa-cinco-tecnicos",
         "titulo": "Sosa, el de los cinco técnicos",
         "texto": "Bilardo, Simeone, Sabella, Domínguez y Medina: José Sosa los tuvo a todos en el Pincha. El jugador más ganador de la historia del club, campeón con Simeone, Domínguez y Medina, va por otra Copa el sábado."
       }

@@ -67,10 +67,19 @@ export const validarHome = (data) => {
 };
 
 // Reglas que miran los días anteriores (data/dias/): que la portada no quede igual día tras día.
-// - Foto de Hoy: puede repetirse, pero como máximo 3 días seguidos; al 4.º hay que cambiarla.
+// - Foto de Hoy: como máximo 2 días seguidos (al 3.º, otra) y no volver a una usada en los últimos 14 días.
+// - Siete noticias, rotación: cada una lleva `tema` (slug estable, el mismo mientras sea la misma historia).
+//   Edad = días seguidos que lleva el tema (hoy cuenta como 1). Una noticia baja un puesto por día:
+//   puesto ≥ edad (día 1: cualquier puesto; día 2: del 2 al 7; … día 7: solo el 7) y al 8.º día sale,
+//   aunque siga vigente. Lo que tiene `vence` (venta, ventana de socios) puede ir arriba, pero el tope de 7 días vale igual.
+//   Puede volver con al menos 2 días afuera (arranca de nuevo en edad 1), o antes solo con `novedad`
+//   (frase con el hecho nuevo confirmado: "Correa recibió el alta"), que reinicia la edad; la misma novedad no se repite.
 // - Otros deportes e inferiores (básquet, vóley, Reserva…) en las Siete: como máximo 1 por día, solo si no hay
 //   noticias del fútbol profesional, y nunca la misma dos días (ni el día siguiente ni otro).
-export const MAX_DIAS_FOTO = 3;
+export const MAX_DIAS_FOTO = 2;
+export const FOTO_SIN_REPETIR_DIAS = 14;
+export const MAX_DIAS_NOTICIA = 7;
+export const DESCANSO_NOTICIA = 2;
 export const OTRO_DEPORTE = /b[aá]squet|basket|v[oó]ley|hockey|rugby|handball|h[aá]ndbol|f[uú]tsal|futsal|nataci[oó]n|tenis|atletismo|patin|inferiores|reserva|juveniles|cuarta|quinta divisi|sexta|s[eé]ptima|novena|sub-?1\d|sub-?20|femenino|amateur/i;
 export const validarHistorial = (data, dias) => {
   const errores = [];
@@ -82,7 +91,36 @@ export const validarHistorial = (data, dias) => {
     let seguidos = 0;
     for (const d of previos) { if (d.foto?.id === id) seguidos++; else break; }
     if (seguidos >= MAX_DIAS_FOTO) errores.push(`hoy.foto: "${id}" ya estuvo ${seguidos} días seguidos (máximo ${MAX_DIAS_FOTO}); elegir otra del banco`);
+    else if (seguidos === 0) {
+      const limite = new Date(Date.parse(`${hoyF}T12:00:00Z`) - FOTO_SIN_REPETIR_DIAS * 864e5).toISOString().slice(0, 10);
+      const antes = previos.find((d) => d.fecha >= limite && d.foto?.id === id);
+      if (antes) errores.push(`hoy.foto: "${id}" ya se usó el ${antes.fecha}; no repetir una foto de los últimos ${FOTO_SIN_REPETIR_DIAS} días`);
+    }
   }
+  // Rotación de las Siete (días seguidos = archivos de días consecutivos en data/dias/).
+  const diaAntes = (f, n) => new Date(Date.parse(`${f}T12:00:00Z`) - n * 864e5).toISOString().slice(0, 10);
+  const porFecha = new Map(previos.map((d) => [d.fecha, d]));
+  const temaEn = (f, tema) => (porFecha.get(f)?.siete ?? []).find((n) => n.tema === tema);
+  const vistos = new Set();
+  (data.hoy?.siete ?? []).forEach((n, i) => {
+    const puesto = i + 1;
+    if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(n.tema ?? '')) { errores.push(`hoy.siete[${i}] "${n.titulo}": falta "tema" (slug estable, ej. "correa-lesion")`); return; }
+    if (vistos.has(n.tema)) errores.push(`hoy.siete: el tema "${n.tema}" está dos veces`);
+    vistos.add(n.tema);
+    let edad = 1;
+    if (n.novedad) {
+      const usada = previos.find((d) => (d.siete ?? []).some((x) => x.tema === n.tema && x.novedad === n.novedad));
+      if (usada) errores.push(`hoy.siete[${i}] "${n.titulo}": la novedad "${n.novedad}" ya se usó el ${usada.fecha}; si no hay un hecho nuevo, no reinicia`);
+      if (!esTexto(n.novedad)) errores.push(`hoy.siete[${i}].novedad vacía`);
+    } else {
+      for (let k = 1; temaEn(diaAntes(hoyF, k), n.tema) && !temaEn(diaAntes(hoyF, k), n.tema).novedad; k++) edad++;
+      if (temaEn(diaAntes(hoyF, edad), n.tema)?.novedad) edad++; // el día de la novedad cuenta como día 1
+      if (edad === 1 && [...Array(DESCANSO_NOTICIA - 1)].some((_, j) => temaEn(diaAntes(hoyF, j + 2), n.tema)))
+        errores.push(`hoy.siete[${i}] "${n.titulo}": el tema "${n.tema}" salió hace poco; puede volver con ${DESCANSO_NOTICIA} días afuera o con "novedad" (un hecho nuevo confirmado)`);
+    }
+    if (edad > MAX_DIAS_NOTICIA) errores.push(`hoy.siete[${i}] "${n.titulo}": el tema "${n.tema}" lleva ${edad - 1} días seguidos (máximo ${MAX_DIAS_NOTICIA}); sacarla, aunque siga vigente (vuelve con ${DESCANSO_NOTICIA} días afuera o con "novedad")`);
+    else if (!n.vence && puesto < edad) errores.push(`hoy.siete[${i}] "${n.titulo}": es su día ${edad} y está en el puesto ${puesto}; va del puesto ${edad} para abajo (baja un puesto por día)`);
+  });
   const otros = (data.hoy?.siete ?? []).filter((n) => OTRO_DEPORTE.test(n.titulo));
   if (otros.length > 1) errores.push(`hoy.siete: ${otros.length} noticias de otros deportes o inferiores (${otros.map((n) => n.titulo).join(' / ')}); máximo 1 y solo si no hay del fútbol profesional`);
   const norm = (x) => x.toLowerCase().normalize('NFD').replace(/[^a-z0-9]/g, '');

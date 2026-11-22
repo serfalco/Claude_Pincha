@@ -81,6 +81,7 @@
       }
     },
     {
+      "tema": "correa-lesion",
       "titulo": {
         "es": "Correa, en duda para la final",
         "en": "Correa a doubt for the final",
@@ -97,6 +98,7 @@
       }
     },
     {
+      "tema": "equipo-sin-baltasar",
       "titulo": {
         "es": "Sin Baltasar, Medina piensa en una línea de cinco",
         "en": "Without Baltasar, Medina weighs a back five",
@@ -113,6 +115,7 @@
       }
     },
     {
+      "tema": "arbitro-final",
       "titulo": {
         "es": "Valenzuela, el árbitro de la final",
         "en": "Valenzuela to referee the final",
@@ -129,6 +132,7 @@
       }
     },
     {
+      "tema": "hinchas-montevideo",
       "titulo": {
         "es": "Unos 35 mil pinchas, rumbo a Montevideo",
         "en": "Around 35,000 Pincha fans head for Montevideo",
