@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-10-23_maracanazo-y-a-la-final_1",
+    "alt": {
+      "es": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo.",
+      "en": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo.",
+      "pt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo.",
+      "zh": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。",
+      "hi": "Flamengo के ख़िलाफ़ सेमीफ़ाइनल से पहले Maracanã में Estudiantes के शुरुआती खिलाड़ी फ़ोटो के लिए खड़े।"
+    }
+  },
   "siete": [
     {
       "titulo": {
@@ -151,17 +161,19 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-10-23_maracanazo-y-a-la-final_1",
-    "alt": {
-      "es": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo.",
-      "en": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo.",
-      "pt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo.",
-      "zh": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。",
-      "hi": "Flamengo के ख़िलाफ़ सेमीफ़ाइनल से पहले Maracanã में Estudiantes के शुरुआती खिलाड़ी फ़ोटो के लिए खड़े।"
-    }
-  },
   "linea": [
+    {
+      "hora": "2026-11-21T21:29:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb2NySGxUTFhWUGVaWHl1MkFiZ2N6aDNWZGhSSnJLUGpoUlhrdkZBc1A4WkZydjQ0elNRcGNtb0VnNjhHSk5VVzlvUTktcmhNaDlyc1FHZHJWUFhLT1ZoWUF5ekk0bm94WHpSMFl6TWtySlRaOE14OXRSR2hzdW9uUTNNNEpJUmtyR3BlSlNnTXM2cDV4TFVpTTBVYVpiOU1RbjhJdUFrQXZkS09CUEpud3lKaE1xNjBLaDZyVVJCMFl0YWJxSnVMQjZ6Qmk0NWlKRllabkJBQ2QxOTE5WHlJTQ?oc=5",
+      "texto": {
+        "es": "Con un gol de Ascacíbar, Boca fue campeón de la Sudamericana y metió al Pincha en la edición 2027.",
+        "en": "With a goal from Ascacíbar, Boca won the Copa Sudamericana and put the Pincha into the 2027 edition.",
+        "pt": "Com gol de Ascacíbar, o Boca foi campeão da Copa Sudamericana e colocou o Pincha na edição de 2027.",
+        "zh": "Ascacíbar建功，Boca夺得Copa Sudamericana冠军，把Pincha送进2027年赛事。",
+        "hi": "Ascacíbar के गोल से Boca ने Copa Sudamericana जीती और Pincha को 2027 संस्करण में पहुँचा दिया।"
+      }
+    },
     {
       "hora": "2026-11-21T18:25:00-03:00",
       "fuente": "Bola na Rede",

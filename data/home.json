@@ -1,25 +1,29 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-21T18:07:00-03:00",
+  "actualizado": "2026-11-22T00:07:00-03:00",
   "hoy": {
-    "titular": "A una semana de la final, La Plata amanece empapelada de gloria y Palmeiras se queda sin el Brasileirão",
+    "titular": "Con la Sudamericana 2027 en el bolsillo, el Pincha descansa y cuenta los días para Montevideo",
     "foto": {
       "id": "2026-10-23_maracanazo-y-a-la-final_1",
       "alt": "Los titulares de Estudiantes posan en el Maracaná antes de la semifinal con Flamengo."
     },
-    "resumen": "Las calles de la ciudad se llenaron de afiches con frases de Zubeldía, Bilardo, Pachamé y Sabella, y Medina avisó que con la emoción a flor de piel el equipo juega bien. En San Pablo, Palmeiras empató 1-1 con varios titulares y Flamengo fue campeón de Brasil.",
+    "resumen": "Boca le ganó la final de la Sudamericana a Atlético Mineiro y le dejó a Estudiantes un lugar en la edición 2027. El plantel tiene libre este domingo y Medina todavía busca al reemplazante de Baltasar Rodríguez para la final del sábado.",
     "siete": [
       {
         "titulo": "Correa, en la recta final de su recuperación",
-        "texto": "Sigue en duda por el desgarro en el bíceps femoral derecho, pero según El Día está en la etapa final de la recuperación. La idea es que sea titular; si no llega en condiciones, podría entrar en el segundo tiempo y Cetré ganaría lugar."
+        "texto": "Sigue en duda por el desgarro en el bíceps femoral derecho. Según El Día, el viernes estaba en la etapa final de la recuperación: la idea es que sea titular y, si no llega en condiciones, podría entrar en el segundo tiempo y Cetré ganaría lugar."
       },
       {
-        "titulo": "Sin Baltasar, Medina repetiría la línea de cinco",
-        "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según El Día, la opción principal es repetir los tres centrales y dos carrileros del Maracaná, con Tobio Burgos por la izquierda; Diario Hoy menciona a Fabricio Pérez, titular en la Supercopa, como alternativa."
+        "titulo": "Sin Baltasar, Medina busca el último titular",
+        "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según Diario Hoy, Fabricio Pérez es la gran opción para su lugar, con Eric Meza y Tomás Palacios como alternativas; El Día plantea repetir la línea de cinco del Maracaná, con Tobio Burgos por la izquierda."
       },
       {
-        "titulo": "Palmeiras empató y Flamengo es campeón de Brasil",
-        "texto": "Fue 1-1 en San Pablo: abrió Jhon Arias de cabeza y empató Samuel Lino. Abel no guardó a todos: jugaron Gustavo Gómez, Andreas Pereira, Arias, el Flaco López y Vitor Roque, mientras Murilo, Piquerez y Paulinho siguen en duda para la final; el martes 24 visita a Chapecoense."
+        "titulo": "Sudamericana 2027, asegurada",
+        "texto": "Boca le ganó 2-0 a Atlético Mineiro en Barranquilla, con un gol del ex Pincha Santiago Ascacíbar, y al ser campeón de la Sudamericana liberó un lugar de la tabla anual: Estudiantes ya tiene la Copa Sudamericana 2027. Si gana la final en Montevideo, el año que viene juega la Libertadores."
+      },
+      {
+        "titulo": "Palmeiras ya solo piensa en la final",
+        "texto": "Con el 1-1 ante Flamengo, el Verdão se quedó sin chances en el Brasileirão y Flamengo fue campeón. Abel no guardó a todos (jugaron Gustavo Gómez, Andreas Pereira, Arias, el Flaco López y Vitor Roque); Murilo, Piquerez y Paulinho siguen en duda, y el martes 24 visita a Chapecoense."
       },
       {
         "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
@@ -27,12 +31,8 @@
       },
       {
         "titulo": "La hoja de ruta hasta el Centenario",
-        "texto": "El plantel se entrenó esta mañana en City Bell y mañana domingo tiene libre. Sigue en el Country hasta el miércoles 25, cuando viaja a Montevideo (para en el Hilton); el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "texto": "Hoy domingo el plantel tiene libre. Sigue entrenándose en City Bell hasta el miércoles 25, cuando viaja a Montevideo (para en el Hilton); el jueves y el viernes practicará en el predio de Montevideo City Torque.",
         "vence": "2026-11-25T23:59:00-03:00"
-      },
-      {
-        "titulo": "Medina: \"La emoción va a estar\"",
-        "texto": "En una entrevista que difundió la Conmebol, el Cacique dijo que su equipo es muy emocional y que, cuando tiene la emoción a flor de piel, por lo general juega bien. \"Creo mucho en este equipo\", agregó."
       },
       {
         "titulo": "La Plata, empapelada de gloria",
@@ -40,6 +40,12 @@
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-21T21:29:00-03:00",
+        "fuente": "Infocielo",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb2NySGxUTFhWUGVaWHl1MkFiZ2N6aDNWZGhSSnJLUGpoUlhrdkZBc1A4WkZydjQ0elNRcGNtb0VnNjhHSk5VVzlvUTktcmhNaDlyc1FHZHJWUFhLT1ZoWUF5ekk0bm94WHpSMFl6TWtySlRaOE14OXRSR2hzdW9uUTNNNEpJUmtyR3BlSlNnTXM2cDV4TFVpTTBVYVpiOU1RbjhJdUFrQXZkS09CUEpud3lKaE1xNjBLaDZyVVJCMFl0YWJxSnVMQjZ6Qmk0NWlKRllabkJBQ2QxOTE5WHlJTQ?oc=5",
+        "texto": "Con un gol de Ascacíbar, Boca fue campeón de la Sudamericana y metió al Pincha en la edición 2027."
+      },
       {
         "hora": "2026-11-21T18:25:00-03:00",
         "fuente": "Bola na Rede",
@@ -107,22 +113,10 @@
         "texto": "El plantel festejó la Supercopa con un asado y buen clima antes de la final."
       },
       {
-        "hora": "2026-11-20T12:40:00-03:00",
-        "fuente": "Portal do Palestra",
-        "url": "https://portaldopalestra.com.br/paulinho-lesao-panturrilha-sem-prazo-finais-palmeiras-libertadores/",
-        "texto": "Paulinho sigue sin fecha de regreso y es duda en Palmeiras para la final."
-      },
-      {
-        "hora": "2026-11-20T09:02:00-03:00",
-        "fuente": "Infocielo",
-        "url": "https://www.infocielo.com/deportes/palmeiras-en-alerta-tres-figuras-entre-algodones-a-dias-de-la-final-ante-estudiantes",
-        "texto": "Palmeiras en alerta: tres figuras entre algodones a días de la final."
-      },
-      {
-        "hora": "2026-11-20T08:36:00-03:00",
-        "fuente": "Tribuna de Jundiaí",
-        "url": "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
-        "texto": "Palmeiras espera recuperar a Piquerez, Murilo y Paulinho para la final."
+        "hora": "2026-11-20T00:00:00-03:00",
+        "fuente": "Diario Hoy",
+        "url": "https://diariohoy.net/el-clasico/a-ocho-dias-de-la-final-estudiantes-aun-no-definio-al-ultimo-titular-290412",
+        "texto": "A ocho días de la final, Medina todavía no definió al reemplazante de Baltasar."
       }
     ]
   },

@@ -1,22 +1,26 @@
 {
   "hoy": {
-    "titular": "A uma semana da final, La Plata amanhece coberta de glória e o Palmeiras fica sem o Brasileirão",
+    "titular": "Com vaga na Copa Sudamericana 2027 garantida, o Pincha descansa e conta os dias para Montevidéu",
     "foto": {
       "alt": "Os titulares do Estudiantes posam no Maracanã antes da semifinal contra o Flamengo."
     },
-    "resumen": "As ruas da cidade se encheram de cartazes com frases de Zubeldía, Bilardo, Pachamé e Sabella, e Medina avisou que, com a emoção à flor da pele, o time joga bem. Em São Paulo, o Palmeiras empatou por 1 a 1 com vários titulares e o Flamengo foi campeão brasileiro.",
+    "resumen": "O Boca venceu o Atlético-MG na final da Copa Sudamericana e deixou para o Estudiantes uma vaga na edição de 2027. O elenco tem folga neste domingo e Medina ainda procura o substituto de Baltasar Rodríguez para a final de sábado.",
     "siete": [
       {
         "titulo": "Correa na reta final da recuperação",
-        "texto": "Segue em dúvida pela lesão no bíceps femoral direito, mas segundo o El Día está na fase final da recuperação. A ideia é que seja titular; se não chegar em condições, pode entrar no segundo tempo e Cetré ganharia espaço."
+        "texto": "Segue em dúvida pela lesão no bíceps femoral direito. Até sexta-feira, segundo o El Día, estava na etapa final da recuperação: a ideia é que seja titular e, se não chegar em condições, pode entrar no segundo tempo, abrindo espaço para Cetré."
       },
       {
-        "titulo": "Sem Baltasar, Medina deve repetir a linha de cinco",
-        "texto": "Baltasar Rodríguez, expulso contra o Flamengo, está fora da final. Segundo o El Día, a principal opção é repetir os três zagueiros e dois alas do Maracanã, com Tobio Burgos pela esquerda; o Diario Hoy cita Fabricio Pérez, titular na Supercopa Argentina, como alternativa."
+        "titulo": "Sem Baltasar, Medina busca o último titular",
+        "texto": "Baltasar Rodríguez, expulso contra o Flamengo, não poderá jogar a final. Segundo o Diario Hoy, Fabricio Pérez é a principal opção para a vaga, com Eric Meza e Tomás Palacios como alternativas; o El Día propõe repetir a linha de cinco do Maracanã, com Tobio Burgos pela esquerda."
       },
       {
-        "titulo": "Palmeiras empata e o Flamengo é campeão brasileiro",
-        "texto": "Foi 1 a 1 em São Paulo: Jhon Arias abriu de cabeça e Samuel Lino empatou. Abel não poupou todos: jogaram Gustavo Gómez, Andreas Pereira, Arias, Flaco López e Vitor Roque, enquanto Murilo, Piquerez e Paulinho seguem em dúvida para a final; na terça, 24, visita a Chapecoense."
+        "titulo": "Copa Sudamericana 2027 garantida",
+        "texto": "O Boca venceu o Atlético-MG por 2 a 0 em Barranquilla, com gol do ex-Pincha Santiago Ascacíbar, e ao ser campeão da Copa Sudamericana liberou uma vaga da tabela anual: o Estudiantes já tem a Copa Sudamericana 2027. Se vencer a final em Montevidéu, disputa a Copa Libertadores no ano que vem."
+      },
+      {
+        "titulo": "Palmeiras só pensa na final",
+        "texto": "Com o 1 a 1 contra o Flamengo, o Verdão ficou sem chances no Brasileirão e o Flamengo foi campeão. Abel não poupou todos (jogaram Gustavo Gómez, Andreas Pereira, Arias, Flaco López e Vitor Roque); Murilo, Piquerez e Paulinho seguem em dúvida, e na terça-feira, 24, o time visita a Chapecoense."
       },
       {
         "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
@@ -24,11 +28,7 @@
       },
       {
         "titulo": "O roteiro até o Centenario",
-        "texto": "O elenco treinou nesta manhã em City Bell e tem folga no domingo. Segue no Country até a quarta, 25, quando viaja a Montevidéu (fica no Hilton); na quinta e na sexta treinará no CT do Montevideo City Torque."
-      },
-      {
-        "titulo": "Medina: \"A emoção vai estar lá\"",
-        "texto": "Em entrevista divulgada pela Conmebol, o Cacique disse que seu time é muito emocional e que, quando está com a emoção à flor da pele, geralmente joga bem. \"Acredito muito neste time\", acrescentou."
+        "texto": "Hoje, domingo, o elenco tem folga. Segue treinando em City Bell até quarta-feira, 25, quando viaja a Montevidéu (fica no Hilton); na quinta e na sexta treinará no CT do Montevideo City Torque."
       },
       {
         "titulo": "La Plata coberta de glória",
@@ -36,6 +36,9 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Com gol de Ascacíbar, o Boca foi campeão da Copa Sudamericana e colocou o Pincha na edição de 2027."
+      },
       {
         "texto": "Palmeiras empatou por 1 a 1 com o Flamengo, que é campeão do Brasileirão."
       },
@@ -70,13 +73,7 @@
         "texto": "O elenco comemorou a Supercopa com churrasco e bom clima antes da final."
       },
       {
-        "texto": "Paulinho segue sem prazo de volta e é dúvida no Palmeiras para a final."
-      },
-      {
-        "texto": "Palmeiras em alerta: três jogadores importantes entregues ao departamento médico."
-      },
-      {
-        "texto": "Palmeiras espera contar com Piquerez, Murilo e Paulinho na final."
+        "texto": "A oito dias da final, Medina ainda não definiu o substituto de Baltasar."
       }
     ]
   },

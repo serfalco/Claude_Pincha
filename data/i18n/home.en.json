@@ -1,22 +1,26 @@
 {
   "hoy": {
-    "titular": "A week from the final, La Plata wakes up plastered with glory and Palmeiras miss out on the Brasileirão",
+    "titular": "With a Copa Sudamericana 2027 place in the bag, the Pincha rest and count down the days to Montevideo",
     "foto": {
       "alt": "Estudiantes' starting XI pose at the Maracanã before the semi-final against Flamengo."
     },
-    "resumen": "The city's streets filled with posters bearing quotes from Zubeldía, Bilardo, Pachamé and Sabella, and Medina said the team play well when emotions run high. In São Paulo, Palmeiras drew 1-1 with several regulars and Flamengo were crowned champions of Brazil.",
+    "resumen": "Boca beat Atlético Mineiro in the Copa Sudamericana final and handed Estudiantes a place in the 2027 edition. The squad have Sunday off and Medina is still looking for Baltasar Rodríguez's replacement for Saturday's final.",
     "siete": [
       {
         "titulo": "Correa in the final stretch of his recovery",
-        "texto": "He remains a doubt with the tear in his right hamstring, but according to El Día he is in the final stage of his recovery. The plan is for him to start; if he is not fully fit, he could come on in the second half, which would open the door for Cetré."
+        "texto": "He remains a doubt with the tear in his right hamstring. As of Friday, according to El Día, he was in the final stage of his recovery: the plan is for him to start and, if he is not fully fit, he could come on in the second half, which would open the door for Cetré."
       },
       {
-        "titulo": "Without Baltasar, Medina likely to stick with a back five",
-        "texto": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to El Día, the main option is to repeat the three centre-backs and two wing-backs used at the Maracanã, with Tobio Burgos on the left; Diario Hoy names Fabricio Pérez, who started in the Supercopa Argentina, as an alternative."
+        "titulo": "Without Baltasar, Medina searches for his last starter",
+        "texto": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to Diario Hoy, Fabricio Pérez is the leading option to replace him, with Eric Meza and Tomás Palacios as alternatives; El Día suggests repeating the back five used at the Maracanã, with Tobio Burgos on the left."
       },
       {
-        "titulo": "Palmeiras draw and Flamengo are champions of Brazil",
-        "texto": "It finished 1-1 in São Paulo: Jhon Arias headed the opener and Samuel Lino equalised. Abel did not rest everyone: Gustavo Gómez, Andreas Pereira, Arias, Flaco López and Vitor Roque all played, while Murilo, Piquerez and Paulinho remain doubts for the final; on Tuesday 24th they visit Chapecoense."
+        "titulo": "Copa Sudamericana 2027 place secured",
+        "texto": "Boca beat Atlético Mineiro 2-0 in Barranquilla, with a goal from former Pincha Santiago Ascacíbar, and by winning the Copa Sudamericana they freed up a place in the season-long table: Estudiantes are now in the Copa Sudamericana 2027. If they win the final in Montevideo, they will play the Copa Libertadores next year."
+      },
+      {
+        "titulo": "Palmeiras now focused solely on the final",
+        "texto": "After the 1-1 draw with Flamengo, the Verdão are out of the Brasileirão race and Flamengo are champions. Abel did not rest everyone (Gustavo Gómez, Andreas Pereira, Arias, Flaco López and Vitor Roque all played); Murilo, Piquerez and Paulinho remain doubts, and on Tuesday 24th they visit Chapecoense."
       },
       {
         "titulo": "Around 35,000 Pincha fans head for Montevideo",
@@ -24,11 +28,7 @@
       },
       {
         "titulo": "The road map to the Centenario",
-        "texto": "The squad trained this morning in City Bell and have Sunday off. They stay at the Country Club until Wednesday 25th, when they travel to Montevideo (staying at the Hilton); on Thursday and Friday they will train at Montevideo City Torque's training ground."
-      },
-      {
-        "titulo": "Medina: \"The emotion will be there\"",
-        "texto": "In an interview released by CONMEBOL, the Cacique said his side are very emotional and that, when emotions run high, they usually play well. \"I believe a lot in this team\", he added."
+        "texto": "The squad have today, Sunday, off. They keep training in City Bell until Wednesday 25th, when they travel to Montevideo (staying at the Hilton); on Thursday and Friday they will train at Montevideo City Torque's training ground."
       },
       {
         "titulo": "La Plata plastered with glory",
@@ -36,6 +36,9 @@
       }
     ],
     "linea": [
+      {
+        "texto": "With a goal from Ascacíbar, Boca won the Copa Sudamericana and put the Pincha into the 2027 edition."
+      },
       {
         "texto": "Palmeiras drew 1-1 with Flamengo, who are crowned Brasileirão champions."
       },
@@ -70,13 +73,7 @@
         "texto": "The squad celebrated the Supercopa with an asado and a good atmosphere ahead of the final."
       },
       {
-        "texto": "Paulinho still has no return date and is a doubt for Palmeiras in the final."
-      },
-      {
-        "texto": "Palmeiras on alert: three key players nursing knocks days before the final."
-      },
-      {
-        "texto": "Palmeiras hope to have Piquerez, Murilo and Paulinho back for the final."
+        "texto": "Eight days before the final, Medina has yet to settle on Baltasar's replacement."
       }
     ]
   },

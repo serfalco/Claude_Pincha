@@ -1,34 +1,34 @@
 {
   "hoy": {
-    "titular": "距决赛还有一周，La Plata 街头贴满荣耀海报，帕尔梅拉斯（Palmeiras）无缘巴甲冠军",
+    "titular": "已锁定2027年Copa Sudamericana席位，Pincha休整并倒数前往蒙得维的亚",
     "foto": {
       "alt": "Estudiantes首发球员在与Flamengo的半决赛前于马拉卡纳球场合影。"
     },
-    "resumen": "城市街头贴满了印有 Zubeldía、Bilardo、Pachamé 和 Sabella 名言的海报，Medina 表示球队情绪高涨时往往踢得好。在圣保罗，Palmeiras 派出多名主力 1比1 战平，Flamengo 夺得巴甲冠军。",
+    "resumen": "Boca在Copa Sudamericana决赛中击败Atlético Mineiro，为Estudiantes腾出了2027年赛事的一个名额。球队本周日休息，Medina仍在为周六的决赛寻找Baltasar Rodríguez的替代者。",
     "siete": [
       {
         "titulo": "Correa进入康复最后阶段",
-        "texto": "他仍因右腿股二头肌拉伤而出战成疑，但据El Día报道，他已进入康复的最后阶段。教练组希望他首发；若状态不足，他可能在下半场替补登场，Cetré则有望获得位置。"
+        "texto": "他右腿股二头肌撕裂，出战仍存疑问。据El Día报道，截至周五他已处于康复的最后阶段：计划让他首发；如果状态未达标，可能在下半场替补登场，Cetré则有望获得位置。"
       },
       {
-        "titulo": "Baltasar停赛，Medina或沿用五后卫",
-        "texto": "对阵Flamengo被罚下的Baltasar Rodríguez将缺席决赛。据El Día报道，首选方案是沿用马拉卡纳之战的三中卫加两名边翼卫，左路由Tobio Burgos出任；Diario Hoy则提到在Supercopa Argentina首发的Fabricio Pérez是另一选择。"
+        "titulo": "Baltasar缺阵，Medina寻找最后一名首发",
+        "texto": "在对阵Flamengo时被罚下的Baltasar Rodríguez将无缘决赛。据Diario Hoy报道，Fabricio Pérez是顶替他的首选，Eric Meza和Tomás Palacios为备选；El Día则认为可能沿用马拉卡纳的五后卫阵型，由Tobio Burgos打左路。"
       },
       {
-        "titulo": "Palmeiras 战平，Flamengo 夺得巴甲冠军",
-        "texto": "圣保罗一战双方 1比1：Jhon Arias 头球破门，Samuel Lino 扳平。Abel 并未全部轮换：Gustavo Gómez、Andreas Pereira、Arias、Flaco López 和 Vitor Roque 均出场；Murilo、Piquerez 和 Paulinho 能否赶上决赛仍存疑。24日周二客场对阵 Chapecoense。"
+        "titulo": "2027年Copa Sudamericana席位已锁定",
+        "texto": "Boca在巴兰基亚以2-0击败Atlético Mineiro，前Pincha球员Santiago Ascacíbar破门。Boca夺得Copa Sudamericana冠军后腾出年度积分榜的一个名额：Estudiantes已确定参加2027年Copa Sudamericana。若在蒙得维的亚赢得决赛，明年将参加Copa Libertadores。"
+      },
+      {
+        "titulo": "帕尔梅拉斯（Palmeiras）只剩决赛目标",
+        "texto": "与Flamengo 1-1战平后，Palmeiras在巴甲已无夺冠可能，Flamengo夺冠。Abel并未全部轮换（Gustavo Gómez、Andreas Pereira、Arias、Flaco López和Vitor Roque均出场）；Murilo、Piquerez和Paulinho仍存疑，24日周二客场挑战Chapecoense。"
       },
       {
         "titulo": "约3.5万名Pincha球迷奔赴蒙得维的亚",
         "texto": "共有120辆大巴出发：俱乐部组织60辆，27日周五下午从el UNO出发，另有60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。"
       },
       {
-        "titulo": "前往 Centenario 的日程",
-        "texto": "球队今天上午在 City Bell 训练，周日休息。全队将在 Country 驻扎到25日周三，随后前往蒙得维的亚（入住 Hilton）；周四和周五在 Montevideo City Torque 训练基地训练。"
-      },
-      {
-        "titulo": "Medina：“情绪一定会在”",
-        "texto": "在南美足联发布的采访中，主帅表示球队非常感性，情绪高涨时通常踢得很好。他补充道：“我非常相信这支球队。”"
+        "titulo": "通往Centenario的日程",
+        "texto": "今天周日球队休息。球队将继续在City Bell训练至25日周三，随后飞赴蒙得维的亚（入住Hilton酒店）；周四和周五将在Montevideo City Torque的训练基地训练。"
       },
       {
         "titulo": "La Plata 贴满荣耀",
@@ -36,6 +36,9 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Ascacíbar建功，Boca夺得Copa Sudamericana冠军，把Pincha送进2027年赛事。"
+      },
       {
         "texto": "帕尔梅拉斯 1比1 战平 Flamengo，后者夺得巴甲冠军。"
       },
@@ -70,13 +73,7 @@
         "texto": "全队以烤肉聚会庆祝超级杯夺冠，决赛前气氛良好。"
       },
       {
-        "texto": "Paulinho仍无复出时间表，帕尔梅拉斯决赛出战成疑。"
-      },
-      {
-        "texto": "帕尔梅拉斯告急：决赛前三名主力带伤。"
-      },
-      {
-        "texto": "帕尔梅拉斯希望Piquerez、Murilo和Paulinho能赶上决赛。"
+        "texto": "距决赛还有八天，Medina仍未确定Baltasar的替代者。"
       }
     ]
   },
