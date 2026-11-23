@@ -1,18 +1,18 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-22T18:07:00-03:00",
+  "actualizado": "2026-11-23T00:07:00-03:00",
   "hoy": {
-    "titular": "A seis días de Montevideo, el Pincha vuelve mañana a City Bell para la última semana",
+    "titular": "A cinco días de Montevideo, el Pincha vuelve hoy al trabajo en City Bell",
     "foto": {
       "id": "2026-10-21_medina-los-lleva-a-todos_1",
       "alt": "El cuerpo técnico de Estudiantes conversa durante un entrenamiento en City Bell."
     },
-    "resumen": "Después del domingo libre, el plantel vuelve a entrenarse el lunes en City Bell y el miércoles viaja a Montevideo. Medina se mostró confiado en una entrevista con la Conmebol, y en Palmeiras Abel Ferreira hizo autocrítica tras perder el Brasileirão.",
+    "resumen": "Tras el domingo libre, el plantel retoma hoy los entrenamientos en City Bell y el miércoles viaja a Montevideo. La final del sábado reparte 25 millones de dólares para el campeón, ante un Palmeiras que vale cuatro veces más.",
     "siete": [
       {
-        "tema": "medina-conmebol",
-        "titulo": "Medina, confiado a seis días de la final",
-        "texto": "En una entrevista que publicó la Conmebol, el Cacique destacó el carácter emocional de su equipo y se mostró confiado para el sábado en el Centenario."
+        "tema": "premio-final",
+        "titulo": "La final vale 25 millones de dólares",
+        "texto": "El campeón de la Libertadores se lleva 25 millones de dólares de premio de la Conmebol. Del otro lado, según Ámbito, hay un plantel que vale cuatro veces más que el del Pincha."
       },
       {
         "tema": "palmeiras-previa-final",
@@ -25,9 +25,14 @@
         "texto": "Con el título de Boca en la Sudamericana, Estudiantes ya tiene lugar en la Copa Sudamericana 2027. Si gana la final en Montevideo, el año que viene juega la Libertadores y además la Recopa Sudamericana contra Boca."
       },
       {
+        "tema": "tiago-palacios-conmebol",
+        "titulo": "La Conmebol pone a Tiago Palacios en vidriera",
+        "texto": "A seis días de la final, la cuenta oficial de la Libertadores le dedicó una publicación a Tiago Palacios, una de las figuras del Pincha en la Copa, con la camiseta albirroja y el UNO de fondo."
+      },
+      {
         "tema": "hoja-de-ruta",
         "titulo": "La hoja de ruta hasta el Centenario",
-        "texto": "Después del domingo libre, el plantel vuelve a entrenarse mañana lunes en City Bell. El miércoles 25 viaja a Montevideo (para en el Hilton) y el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "texto": "Después del domingo libre, el plantel vuelve a entrenarse hoy lunes en City Bell. El miércoles 25 viaja a Montevideo (para en el Hilton) y el jueves y el viernes practicará en el predio de Montevideo City Torque.",
         "vence": "2026-11-25T23:59:00-03:00"
       },
       {
@@ -39,14 +44,21 @@
         "tema": "hinchas-montevideo",
         "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
         "texto": "Viajan 120 micros: 60 del club, que salen el viernes 27 por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club."
-      },
-      {
-        "tema": "sosa-cinco-tecnicos",
-        "titulo": "Sosa, el de los cinco técnicos",
-        "texto": "Bilardo, Simeone, Sabella, Domínguez y Medina: José Sosa los tuvo a todos en el Pincha. El jugador más ganador de la historia del club, campeón con Simeone, Domínguez y Medina, va por otra Copa el sábado."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-23T00:00:00-03:00",
+        "texto": "Ámbito: el Pincha va por 25 millones de dólares ante un Palmeiras que vale cuatro veces más.",
+        "fuente": "Ámbito",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWXlaOXByb2t5QUcweHItM1lZLVRib1NlSERTS3VnZ1d1QWYtcGt0WENVVkdzUjc3VVRydzkyOG5JaHFjRWtPd1ZmV1UxQy10YkFSZTJPYzk4d1p6TmNleWZMRFc4UTBULWFHTlJqbmd4RkRkX1BkNVJhTUVEU3ZDRzRYMW1nR3d3TG81VW5tdGtqQWxCYkJORXVPd1gzZnRpLWJnb1RRai1GT1RGRDB4Vjkta2FjWnhpd3J0QjNPb3ZxaDdqZWhHcHozSzNEakdwRUFmdUZR0gHbAUFVX3lxTFBqd0YtRHQyME00TmJIRkdfS3NxeUVmMGtHWVhiVUZrbWZEQllmLWR2XzZDWDZqQVpNS1dJRnBYcWJmMWdDTEJaRDktbE1qX0FXb2pWVGJsWDBZNXJzR3NKZTlXTVl2N282QTdXOWxveWNDZWhOS2RBT1lRUGN4TWoyQl9tSy02alotQko0emNuMTZ1dV9HeGdCcG9aZ3BSN0t1RE52djhBX2RhU3ZoQTZFN0R6b3NrUlFwTmJQTlpiSU4tRUtrYUlpQzYwZEpDZlN3Y3lhZVMxd09JYw?oc=5"
+      },
+      {
+        "hora": "2026-11-22T16:44:00-03:00",
+        "texto": "La Conmebol destacó a Tiago Palacios a seis días de la final.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/la-copa-libertadores-destaco-tiago-palacios-seis-dias-la-final-estudiantes-y-palmeiras-n137852"
+      },
       {
         "hora": "2026-11-22T15:02:00-03:00",
         "fuente": "0221",
@@ -58,6 +70,12 @@
         "fuente": "Olé",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUFxZkpCS2JBTW1NRkdYX1E5bmpBU2p6MmxJVm96SWNkaG9BdXVIaUdoZ2tBLTJ6OV9iakdmaVFvUWRqcERRVzExWFRZbXBhZmVfeWZXc0xTT1BUbl9aUE9YX0tHaEpmYnBDZm1Pd0d1dFhQaVJJVE8tdUNRa1RmbVpEUzFHemlqNXpCWE9fV18wYjBzUjV6YkxhQUFMYXFiTVlrdkI4cmktMlFVSDJ4TnAtQnZVMHUyUUE?oc=5",
         "texto": "Abel Ferreira palpitó la final: \"Nuestro equipo luchará por ser campeón\"."
+      },
+      {
+        "hora": "2026-11-22T12:03:00-03:00",
+        "texto": "El Pincha podría jugar la Recopa de Campeones en La Plata para arrancar el 2027.",
+        "fuente": "Punto Capital",
+        "url": "https://www.puntocapitalnoticias.com/estudiantes-podria-jugar-la-recopa-de-campeones-en-la-plata-y-arrancar-el-2027-con-una-nueva-ilusion/"
       },
       {
         "hora": "2026-11-22T11:58:00-03:00",
@@ -88,12 +106,6 @@
         "fuente": "Infocielo",
         "url": "https://www.infocielo.com/deportes/cerrar-los-ojos-y-creer-la-campana-que-empezo-a-palpitar-la-final-de-estudiantes-por-las-calles-de-la-ciudad",
         "texto": "\"Cerrar los ojos y creer\": la campaña de afiches que palpita la final en las calles."
-      },
-      {
-        "hora": "2026-11-21T13:49:00-03:00",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/las-paredes-la-plata-empapeladas-glorias-estudiantes-una-semana-la-final-la-copa-libertadores-n137807",
-        "texto": "Las paredes de La Plata amanecieron empapeladas con glorias del Pincha."
       },
       {
         "hora": "2026-11-21T12:22:00-03:00",

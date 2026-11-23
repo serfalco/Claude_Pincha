@@ -1,14 +1,14 @@
 {
   "hoy": {
-    "titular": "距蒙得维的亚之战还有六天，Pincha明天回到City Bell，开启最后一周备战",
+    "titular": "距蒙得维的亚之战还有五天，Pincha今天在City Bell恢复训练",
     "foto": {
       "alt": "Estudiantes教练组在City Bell训练时交谈。"
     },
-    "resumen": "周日休息后，球队周一在City Bell恢复训练，周三启程前往蒙得维的亚。Medina在接受南美足联采访时表现得信心十足；帕尔梅拉斯（Palmeiras）方面，Abel Ferreira在痛失巴甲冠军后进行了自我批评。",
+    "resumen": "周日休息后，球队今天在City Bell恢复训练，周三前往蒙得维的亚。周六决赛的冠军将获得2500万美元奖金，对手Palmeiras的阵容身价是Pincha的四倍。",
     "siete": [
       {
-        "titulo": "决赛前六天，Medina信心十足",
-        "texto": "在南美足联发布的采访中，Cacique强调了球队的情感特质，并对周六在Centenario球场的决赛充满信心。"
+        "titulo": "决赛价值2500万美元",
+        "texto": "Copa Libertadores冠军将获得南美足联2500万美元奖金。据Ámbito报道，对手的阵容身价是Pincha的四倍。"
       },
       {
         "titulo": "Abel自我反省，已开始研究Pincha",
@@ -19,8 +19,12 @@
         "texto": "随着Boca夺得Copa Sudamericana冠军，Estudiantes已锁定2027年Copa Sudamericana席位。若在蒙得维的亚赢下决赛，明年将参加Copa Libertadores，并与Boca争夺Recopa Sudamericana。"
       },
       {
+        "titulo": "南美足联为Tiago Palacios造势",
+        "texto": "决赛前六天，Copa Libertadores官方账号专门发文介绍Tiago Palacios——Pincha本届赛事的亮点球员之一，画面中他身穿红白球衣，背景是el UNO。"
+      },
+      {
         "titulo": "通往Centenario的日程",
-        "texto": "周日休息后，球队明天周一在City Bell恢复训练。25日周三前往蒙得维的亚（下榻Hilton酒店），周四和周五在Montevideo City Torque的训练基地训练。"
+        "texto": "周日休息后，球队今天周一在City Bell恢复训练。25日周三前往蒙得维的亚（下榻Hilton酒店），周四和周五在Montevideo City Torque的训练基地训练。"
       },
       {
         "titulo": "缺少Baltasar，Medina寻找最后一名首发",
@@ -29,18 +33,23 @@
       {
         "titulo": "约3.5万名Pincha球迷奔赴蒙得维的亚",
         "texto": "共有120辆大巴出发：俱乐部组织60辆，27日周五下午从el UNO出发，另有60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。"
-      },
-      {
-        "titulo": "Sosa与他的五位主帅",
-        "texto": "Bilardo、Simeone、Sabella、Domínguez和Medina：José Sosa在Pincha效力期间跟随过这五位主帅。这位俱乐部史上荣誉最多的球员曾随Simeone、Domínguez和Medina夺冠，周六将冲击又一座奖杯。"
       }
     ],
     "linea": [
+      {
+        "texto": "Ámbito：Pincha将为2500万美元而战，对手Palmeiras身价是其四倍。"
+      },
+      {
+        "texto": "决赛前六天，南美足联重点介绍了Tiago Palacios。"
+      },
       {
         "texto": "休息一天、周一回到City Bell、再赴蒙得维的亚：Pincha的最后一周。"
       },
       {
         "texto": "Abel Ferreira展望决赛：“我们的球队将为夺冠而战”。"
+      },
+      {
+        "texto": "Pincha有望在拉普拉塔参加Recopa de Campeones，开启2027年。"
       },
       {
         "texto": "Medina接受南美足联采访：谈球队的情感与对决赛的信心。"
@@ -56,9 +65,6 @@
       },
       {
         "texto": "“闭上眼睛，相信”：街头海报为决赛预热。"
-      },
-      {
-        "texto": "La Plata 的街墙一早贴满了 Pincha 传奇人物的海报。"
       },
       {
         "texto": "Medina 展望决赛：“情绪高涨的时候，我们通常踢得很好。”"

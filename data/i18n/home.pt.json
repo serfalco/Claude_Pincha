@@ -1,14 +1,14 @@
 {
   "hoy": {
-    "titular": "A seis dias de Montevidéu, o Pincha volta amanhã a City Bell para a última semana",
+    "titular": "A cinco dias de Montevidéu, o Pincha volta hoje ao trabalho em City Bell",
     "foto": {
       "alt": "A comissão técnica do Estudiantes conversa durante um treino em City Bell."
     },
-    "resumen": "Depois da folga de domingo, o elenco volta a treinar na segunda-feira em City Bell e viaja a Montevidéu na quarta. Medina se mostrou confiante em entrevista à Conmebol, e no Palmeiras Abel Ferreira fez autocrítica após perder o Brasileirão.",
+    "resumen": "Depois da folga de domingo, o elenco retoma hoje os treinos em City Bell e na quarta viaja a Montevidéu. A final de sábado vale 25 milhões de dólares para o campeão, diante de um Palmeiras que vale quatro vezes mais.",
     "siete": [
       {
-        "titulo": "Medina confiante a seis dias da final",
-        "texto": "Em entrevista publicada pela Conmebol, o Cacique destacou o caráter emocional do seu time e se mostrou confiante para sábado no Centenario."
+        "titulo": "A final vale 25 milhões de dólares",
+        "texto": "O campeão da Copa Libertadores leva 25 milhões de dólares em premiação da Conmebol. Do outro lado, segundo o Ámbito, há um elenco que vale quatro vezes mais que o do Pincha."
       },
       {
         "titulo": "Abel, autocrítico, já pensa no Pincha",
@@ -19,8 +19,12 @@
         "texto": "Com o título do Boca na Sul-Americana, o Estudiantes já tem vaga na Copa Sudamericana 2027. Se vencer a final em Montevidéu, no ano que vem joga a Copa Libertadores e também a Recopa Sudamericana contra o Boca."
       },
       {
+        "titulo": "A Conmebol coloca Tiago Palacios na vitrine",
+        "texto": "A seis dias da final, a conta oficial da Copa Libertadores dedicou uma publicação a Tiago Palacios, um dos destaques do Pincha na competição, com a camisa alvirrubra e o UNO ao fundo."
+      },
+      {
         "titulo": "O roteiro até o Centenario",
-        "texto": "Depois da folga de domingo, o elenco volta a treinar amanhã, segunda-feira, em City Bell. Na quarta, 25, viaja a Montevidéu (fica no Hilton) e na quinta e na sexta treina no CT do Montevideo City Torque."
+        "texto": "Depois da folga de domingo, o elenco volta a treinar hoje, segunda-feira, em City Bell. Na quarta, 25, viaja a Montevidéu (fica no Hilton) e na quinta e na sexta treina no CT do Montevideo City Torque."
       },
       {
         "titulo": "Sem Baltasar, Medina procura o último titular",
@@ -29,18 +33,23 @@
       {
         "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
         "texto": "Viajam 120 ônibus: 60 do clube, que saem na tarde de sexta-feira, 27, do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario."
-      },
-      {
-        "titulo": "Sosa e seus cinco técnicos",
-        "texto": "Bilardo, Simeone, Sabella, Domínguez e Medina: José Sosa trabalhou com todos eles no Pincha. O jogador mais vitorioso da história do clube, campeão com Simeone, Domínguez e Medina, vai atrás de mais uma taça no sábado."
       }
     ],
     "linea": [
+      {
+        "texto": "Ámbito: o Pincha busca 25 milhões de dólares diante de um Palmeiras que vale quatro vezes mais."
+      },
+      {
+        "texto": "A Conmebol destacou Tiago Palacios a seis dias da final."
+      },
       {
         "texto": "Folga, volta a City Bell na segunda e viagem a Montevidéu: a última semana do Pincha."
       },
       {
         "texto": "Abel Ferreira projeta a final: \"Nosso time vai lutar para ser campeão\"."
+      },
+      {
+        "texto": "O Pincha pode jogar a Recopa de Campeones em La Plata para começar 2027."
       },
       {
         "texto": "Medina em entrevista à Conmebol: a emoção do time e a confiança para a final."
@@ -56,9 +65,6 @@
       },
       {
         "texto": "\"Fechar os olhos e acreditar\": a campanha de cartazes que esquenta a final nas ruas."
-      },
-      {
-        "texto": "Os muros de La Plata amanheceram cobertos de glórias do Pincha."
       },
       {
         "texto": "Medina projeta a final: \"Com a emoção à flor da pele, geralmente jogamos bem\"."

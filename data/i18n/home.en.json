@@ -1,14 +1,14 @@
 {
   "hoy": {
-    "titular": "Six days from Montevideo, the Pincha return to City Bell tomorrow for the final week",
+    "titular": "Five days from Montevideo, the Pincha return to work in City Bell today",
     "foto": {
       "alt": "Estudiantes' coaching staff talk during a training session in City Bell."
     },
-    "resumen": "After Sunday off, the squad return to training on Monday in City Bell and travel to Montevideo on Wednesday. Medina sounded confident in an interview with CONMEBOL, while at Palmeiras Abel Ferreira was self-critical after losing the Brasileirão.",
+    "resumen": "After Sunday off, the squad resume training in City Bell today and travel to Montevideo on Wednesday. Saturday's final is worth US$25 million to the winners, against a Palmeiras squad valued at four times as much.",
     "siete": [
       {
-        "titulo": "Medina confident six days before the final",
-        "texto": "In an interview published by CONMEBOL, the Cacique highlighted his team's emotional character and sounded confident for Saturday at the Centenario."
+        "titulo": "The final is worth US$25 million",
+        "texto": "The Copa Libertadores winners take home US$25 million in CONMEBOL prize money. On the other side, according to Ámbito, stands a squad worth four times as much as the Pincha's."
       },
       {
         "titulo": "A self-critical Abel already thinking about the Pincha",
@@ -19,8 +19,12 @@
         "texto": "With Boca's Copa Sudamericana title, Estudiantes already have a place in the Copa Sudamericana 2027. If they win the final in Montevideo, next year they play the Copa Libertadores and also the Recopa Sudamericana against Boca."
       },
       {
+        "titulo": "CONMEBOL puts Tiago Palacios in the spotlight",
+        "texto": "Six days before the final, the official Copa Libertadores account dedicated a post to Tiago Palacios, one of the Pincha's standout players in the competition, in the red-and-white shirt with the UNO as the backdrop."
+      },
+      {
         "titulo": "The road map to the Centenario",
-        "texto": "After Sunday off, the squad return to training tomorrow, Monday, in City Bell. On Wednesday 25th they travel to Montevideo (staying at the Hilton) and on Thursday and Friday they will train at Montevideo City Torque's training ground."
+        "texto": "After Sunday off, the squad return to training today, Monday, in City Bell. On Wednesday 25th they travel to Montevideo (staying at the Hilton) and on Thursday and Friday they will train at Montevideo City Torque's training ground."
       },
       {
         "titulo": "Without Baltasar, Medina searches for his last starter",
@@ -29,18 +33,23 @@
       {
         "titulo": "Around 35,000 Pincha fans head for Montevideo",
         "texto": "120 coaches are going: 60 laid on by the club, leaving the UNO on the afternoon of Friday 27th, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario."
-      },
-      {
-        "titulo": "Sosa and his five managers",
-        "texto": "Bilardo, Simeone, Sabella, Domínguez and Medina: José Sosa has played under all of them at the Pincha. The most decorated player in the club's history, a champion with Simeone, Domínguez and Medina, goes for another cup on Saturday."
       }
     ],
     "linea": [
+      {
+        "texto": "Ámbito: the Pincha play for US$25 million against a Palmeiras worth four times as much."
+      },
+      {
+        "texto": "CONMEBOL spotlighted Tiago Palacios six days before the final."
+      },
       {
         "texto": "A day off, back to City Bell on Monday and the trip to Montevideo: the Pincha's final week."
       },
       {
         "texto": "Abel Ferreira looks ahead to the final: \"Our team will fight to be champions\"."
+      },
+      {
+        "texto": "The Pincha could play the Recopa de Campeones in La Plata to start 2027."
       },
       {
         "texto": "Medina in an interview with CONMEBOL: the team's emotion and his confidence for the final."
@@ -56,9 +65,6 @@
       },
       {
         "texto": "\"Close your eyes and believe\": the poster campaign building up to the final on the streets."
-      },
-      {
-        "texto": "La Plata's walls woke up plastered with Pincha legends."
       },
       {
         "texto": "Medina looks ahead to the final: \"When our emotions are running high, we usually play well\"."

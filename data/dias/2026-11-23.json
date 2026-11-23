@@ -1,0 +1,185 @@
+{
+  "fecha": "2026-11-23",
+  "titular": {
+    "es": "A cinco días de Montevideo, el Pincha vuelve hoy al trabajo en City Bell",
+    "en": "Five days from Montevideo, the Pincha return to work in City Bell today",
+    "pt": "A cinco dias de Montevidéu, o Pincha volta hoje ao trabalho em City Bell",
+    "zh": "距蒙得维的亚之战还有五天，Pincha今天在City Bell恢复训练",
+    "hi": "मोंटेवीडियो से पाँच दिन पहले, Pincha आज City Bell में फिर ट्रेनिंग शुरू करेगा"
+  },
+  "resumen": {
+    "es": "Tras el domingo libre, el plantel retoma hoy los entrenamientos en City Bell y el miércoles viaja a Montevideo. La final del sábado reparte 25 millones de dólares para el campeón, ante un Palmeiras que vale cuatro veces más.",
+    "en": "After Sunday off, the squad resume training in City Bell today and travel to Montevideo on Wednesday. Saturday's final is worth US$25 million to the winners, against a Palmeiras squad valued at four times as much.",
+    "pt": "Depois da folga de domingo, o elenco retoma hoje os treinos em City Bell e na quarta viaja a Montevidéu. A final de sábado vale 25 milhões de dólares para o campeão, diante de um Palmeiras que vale quatro vezes mais.",
+    "zh": "周日休息后，球队今天在City Bell恢复训练，周三前往蒙得维的亚。周六决赛的冠军将获得2500万美元奖金，对手Palmeiras的阵容身价是Pincha的四倍。",
+    "hi": "रविवार की छुट्टी के बाद टीम आज City Bell में ट्रेनिंग फिर शुरू करेगी और बुधवार को मोंटेवीडियो रवाना होगी। शनिवार के फ़ाइनल के विजेता को 2.5 करोड़ डॉलर मिलेंगे, और सामने Palmeiras की टीम चार गुना ज़्यादा क़ीमती है।"
+  },
+  "ultimo": {
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral",
+    "goles": [
+      {
+        "jugador": "Carrillo",
+        "min": "55"
+      },
+      {
+        "jugador": "Villalba",
+        "min": "68",
+        "ec": true
+      },
+      {
+        "jugador": "Alario",
+        "min": "96"
+      }
+    ]
+  },
+  "siete": [
+    {
+      "tema": "premio-final",
+      "titulo": {
+        "es": "La final vale 25 millones de dólares",
+        "en": "The final is worth US$25 million",
+        "pt": "A final vale 25 milhões de dólares",
+        "zh": "决赛价值2500万美元",
+        "hi": "फ़ाइनल की क़ीमत 2.5 करोड़ डॉलर"
+      },
+      "texto": {
+        "es": "El campeón de la Libertadores se lleva 25 millones de dólares de premio de la Conmebol. Del otro lado, según Ámbito, hay un plantel que vale cuatro veces más que el del Pincha.",
+        "en": "The Copa Libertadores winners take home US$25 million in CONMEBOL prize money. On the other side, according to Ámbito, stands a squad worth four times as much as the Pincha's.",
+        "pt": "O campeão da Copa Libertadores leva 25 milhões de dólares em premiação da Conmebol. Do outro lado, segundo o Ámbito, há um elenco que vale quatro vezes mais que o do Pincha.",
+        "zh": "Copa Libertadores冠军将获得南美足联2500万美元奖金。据Ámbito报道，对手的阵容身价是Pincha的四倍。",
+        "hi": "Copa Libertadores के चैंपियन को CONMEBOL से 2.5 करोड़ डॉलर की इनामी राशि मिलती है। Ámbito के मुताबिक़ सामने वाली टीम की क़ीमत Pincha से चार गुना ज़्यादा है।"
+      }
+    },
+    {
+      "tema": "palmeiras-previa-final",
+      "titulo": {
+        "es": "Abel, autocrítico, ya piensa en el Pincha",
+        "en": "A self-critical Abel already thinking about the Pincha",
+        "pt": "Abel, autocrítico, já pensa no Pincha",
+        "zh": "Abel自我反省，已开始研究Pincha",
+        "hi": "आत्मआलोचक Abel अब Pincha के बारे में सोच रहे हैं"
+      },
+      "texto": {
+        "es": "Tras el 1-1 con Flamengo, que lo dejó sin el Brasileirão, Abel Ferreira enumeró los errores del Verdão y avisó que su equipo \"luchará por ser campeón\" de América. Murilo, Piquerez y Paulinho siguen en duda, y el martes 24 visita a Chapecoense.",
+        "en": "After the 1-1 with Flamengo cost them the Brasileirão, Abel Ferreira listed the Verdão's mistakes and warned that his team \"will fight to be champions\" of South America. Murilo, Piquerez and Paulinho remain doubts, and on Tuesday 24th they visit Chapecoense.",
+        "pt": "Depois do 1 a 1 com o Flamengo, que o tirou da briga pelo Brasileirão, Abel Ferreira listou os erros do Verdão e avisou que seu time \"vai lutar para ser campeão\" da América. Murilo, Piquerez e Paulinho seguem como dúvida, e na terça, 24, o time visita a Chapecoense.",
+        "zh": "与Flamengo 1比1战平、无缘巴甲冠军后，Abel Ferreira列举了Palmeiras的问题，并表示球队“将为夺得冠军而战”。Murilo、Piquerez和Paulinho仍出战成疑，24日周二球队将客场挑战Chapecoense。",
+        "hi": "Flamengo से 1-1 ड्रॉ के बाद ब्राज़ीलियन लीग हाथ से निकलने पर Abel Ferreira ने Palmeiras की ग़लतियाँ गिनाईं और कहा कि उनकी टीम \"चैंपियन बनने के लिए लड़ेगी\"। Murilo, Piquerez और Paulinho अब भी संदिग्ध हैं, और मंगलवार 24 को टीम Chapecoense के मैदान पर खेलेगी।"
+      }
+    },
+    {
+      "tema": "sudamericana-2027",
+      "titulo": {
+        "es": "Sudamericana 2027 asegurada, y la Recopa en juego",
+        "en": "Copa Sudamericana 2027 secured, with the Recopa up for grabs",
+        "pt": "Sul-Americana 2027 garantida, e a Recopa em jogo",
+        "zh": "2027年Copa Sudamericana资格已到手，Recopa也在争夺之中",
+        "hi": "Copa Sudamericana 2027 पक्की, Recopa भी दांव पर"
+      },
+      "texto": {
+        "es": "Con el título de Boca en la Sudamericana, Estudiantes ya tiene lugar en la Copa Sudamericana 2027. Si gana la final en Montevideo, el año que viene juega la Libertadores y además la Recopa Sudamericana contra Boca.",
+        "en": "With Boca's Copa Sudamericana title, Estudiantes already have a place in the Copa Sudamericana 2027. If they win the final in Montevideo, next year they play the Copa Libertadores and also the Recopa Sudamericana against Boca.",
+        "pt": "Com o título do Boca na Sul-Americana, o Estudiantes já tem vaga na Copa Sudamericana 2027. Se vencer a final em Montevidéu, no ano que vem joga a Copa Libertadores e também a Recopa Sudamericana contra o Boca.",
+        "zh": "随着Boca夺得Copa Sudamericana冠军，Estudiantes已锁定2027年Copa Sudamericana席位。若在蒙得维的亚赢下决赛，明年将参加Copa Libertadores，并与Boca争夺Recopa Sudamericana。",
+        "hi": "Boca के Copa Sudamericana जीतने से Estudiantes को Copa Sudamericana 2027 में जगह मिल चुकी है। अगर मोंटेवीडियो में फ़ाइनल जीतता है, तो अगले साल Copa Libertadores खेलेगा और Boca के ख़िलाफ़ Recopa Sudamericana भी।"
+      }
+    },
+    {
+      "tema": "tiago-palacios-conmebol",
+      "titulo": {
+        "es": "La Conmebol pone a Tiago Palacios en vidriera",
+        "en": "CONMEBOL puts Tiago Palacios in the spotlight",
+        "pt": "A Conmebol coloca Tiago Palacios na vitrine",
+        "zh": "南美足联为Tiago Palacios造势",
+        "hi": "CONMEBOL ने Tiago Palacios को सुर्ख़ियों में रखा"
+      },
+      "texto": {
+        "es": "A seis días de la final, la cuenta oficial de la Libertadores le dedicó una publicación a Tiago Palacios, una de las figuras del Pincha en la Copa, con la camiseta albirroja y el UNO de fondo.",
+        "en": "Six days before the final, the official Copa Libertadores account dedicated a post to Tiago Palacios, one of the Pincha's standout players in the competition, in the red-and-white shirt with the UNO as the backdrop.",
+        "pt": "A seis dias da final, a conta oficial da Copa Libertadores dedicou uma publicação a Tiago Palacios, um dos destaques do Pincha na competição, com a camisa alvirrubra e o UNO ao fundo.",
+        "zh": "决赛前六天，Copa Libertadores官方账号专门发文介绍Tiago Palacios——Pincha本届赛事的亮点球员之一，画面中他身穿红白球衣，背景是el UNO。",
+        "hi": "फ़ाइनल से छह दिन पहले Copa Libertadores के आधिकारिक अकाउंट ने Tiago Palacios पर एक पोस्ट डाली, जो टूर्नामेंट में Pincha के अहम खिलाड़ियों में से हैं; तस्वीर में वे लाल-सफ़ेद जर्सी में हैं और पीछे el UNO है।"
+      }
+    },
+    {
+      "tema": "hoja-de-ruta",
+      "titulo": {
+        "es": "La hoja de ruta hasta el Centenario",
+        "en": "The road map to the Centenario",
+        "pt": "O roteiro até o Centenario",
+        "zh": "通往Centenario的日程",
+        "hi": "Centenario तक का रोडमैप"
+      },
+      "texto": {
+        "es": "Después del domingo libre, el plantel vuelve a entrenarse hoy lunes en City Bell. El miércoles 25 viaja a Montevideo (para en el Hilton) y el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "en": "After Sunday off, the squad return to training today, Monday, in City Bell. On Wednesday 25th they travel to Montevideo (staying at the Hilton) and on Thursday and Friday they will train at Montevideo City Torque's training ground.",
+        "pt": "Depois da folga de domingo, o elenco volta a treinar hoje, segunda-feira, em City Bell. Na quarta, 25, viaja a Montevidéu (fica no Hilton) e na quinta e na sexta treina no CT do Montevideo City Torque.",
+        "zh": "周日休息后，球队今天周一在City Bell恢复训练。25日周三前往蒙得维的亚（下榻Hilton酒店），周四和周五在Montevideo City Torque的训练基地训练。",
+        "hi": "रविवार की छुट्टी के बाद टीम आज सोमवार को City Bell में फिर ट्रेनिंग करेगी। बुधवार 25 को मोंटेवीडियो रवाना होगी (Hilton में ठहरेगी) और गुरुवार व शुक्रवार को Montevideo City Torque के ट्रेनिंग ग्राउंड पर अभ्यास करेगी।"
+      }
+    },
+    {
+      "tema": "equipo-sin-baltasar",
+      "titulo": {
+        "es": "Sin Baltasar, Medina busca el último titular",
+        "en": "Without Baltasar, Medina searches for his last starter",
+        "pt": "Sem Baltasar, Medina procura o último titular",
+        "zh": "缺少Baltasar，Medina寻找最后一名首发",
+        "hi": "Baltasar के बिना, Medina आख़िरी स्टार्टर की तलाश में"
+      },
+      "texto": {
+        "es": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según Diario Hoy, Fabricio Pérez es la gran opción para su lugar, con Eric Meza y Tomás Palacios como alternativas; El Día plantea repetir la línea de cinco del Maracaná.",
+        "en": "Baltasar Rodríguez, sent off against Flamengo, will miss the final. According to Diario Hoy, Fabricio Pérez is the leading option to replace him, with Eric Meza and Tomás Palacios as alternatives; El Día suggests repeating the back five used at the Maracanã.",
+        "pt": "Baltasar Rodríguez, expulso contra o Flamengo, não poderá jogar a final. Segundo o Diario Hoy, Fabricio Pérez é a grande opção para o lugar dele, com Eric Meza e Tomás Palacios como alternativas; o El Día propõe repetir a linha de cinco do Maracanã.",
+        "zh": "在对阵Flamengo时被罚下的Baltasar Rodríguez将无缘决赛。据Diario Hoy报道，Fabricio Pérez是顶替他的首选，Eric Meza和Tomás Palacios为备选；El Día则建议沿用在马拉卡纳使用的五后卫体系。",
+        "hi": "Flamengo के ख़िलाफ़ बाहर भेजे गए Baltasar Rodríguez फ़ाइनल नहीं खेल पाएँगे। Diario Hoy के मुताबिक़ उनकी जगह Fabricio Pérez सबसे बड़ा विकल्प हैं, Eric Meza और Tomás Palacios भी दावेदार हैं; El Día मारकाना वाली पाँच डिफ़ेंडरों की लाइन दोहराने की बात करता है।"
+      }
+    },
+    {
+      "tema": "hinchas-montevideo",
+      "titulo": {
+        "es": "Unos 35 mil pinchas, rumbo a Montevideo",
+        "en": "Around 35,000 Pincha fans head for Montevideo",
+        "pt": "Cerca de 35 mil torcedores rumo a Montevidéu",
+        "zh": "约3.5万名Pincha球迷奔赴蒙得维的亚",
+        "hi": "करीब 35 हज़ार Pincha प्रशंसक मोंटेवीडियो की ओर"
+      },
+      "texto": {
+        "es": "Viajan 120 micros: 60 del club, que salen el viernes 27 por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club.",
+        "en": "120 coaches are going: 60 laid on by the club, leaving the UNO on the afternoon of Friday 27th, and 60 from supporters' groups and branches. Friday and Saturday ferries are sold out, and 2009 champions invited by the club will also be at the Centenario.",
+        "pt": "Viajam 120 ônibus: 60 do clube, que saem na tarde de sexta-feira, 27, do UNO, e 60 de torcidas organizadas e filiais. Os barcos de sexta e sábado estão esgotados, e campeões de 2009 convidados pelo clube também estarão no Centenario.",
+        "zh": "共有120辆大巴出发：俱乐部组织60辆，27日周五下午从el UNO出发，另有60辆来自球迷团体和分会。周五和周六的渡轮已售罄，俱乐部邀请的2009年冠军成员也将现身Centenario。",
+        "hi": "120 बसें जा रही हैं: 60 क्लब की, जो शुक्रवार 27 तारीख़ की दोपहर el UNO से निकलेंगी, और 60 समर्थक समूहों व शाखाओं की। शुक्रवार और शनिवार की नावें बिक चुकी हैं, और क्लब के बुलावे पर 2009 के चैंपियन भी Centenario में होंगे।"
+      }
+    }
+  ],
+  "foto": {
+    "id": "2026-10-21_medina-los-lleva-a-todos_1",
+    "alt": {
+      "es": "El cuerpo técnico de Estudiantes conversa durante un entrenamiento en City Bell.",
+      "en": "Estudiantes' coaching staff talk during a training session in City Bell.",
+      "pt": "A comissão técnica do Estudiantes conversa durante um treino em City Bell.",
+      "zh": "Estudiantes教练组在City Bell训练时交谈。",
+      "hi": "City Bell में ट्रेनिंग के दौरान बातचीत करता Estudiantes का कोचिंग स्टाफ़।"
+    }
+  },
+  "linea": [
+    {
+      "hora": "2026-11-23T00:00:00-03:00",
+      "fuente": "Ámbito",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWXlaOXByb2t5QUcweHItM1lZLVRib1NlSERTS3VnZ1d1QWYtcGt0WENVVkdzUjc3VVRydzkyOG5JaHFjRWtPd1ZmV1UxQy10YkFSZTJPYzk4d1p6TmNleWZMRFc4UTBULWFHTlJqbmd4RkRkX1BkNVJhTUVEU3ZDRzRYMW1nR3d3TG81VW5tdGtqQWxCYkJORXVPd1gzZnRpLWJnb1RRai1GT1RGRDB4Vjkta2FjWnhpd3J0QjNPb3ZxaDdqZWhHcHozSzNEakdwRUFmdUZR0gHbAUFVX3lxTFBqd0YtRHQyME00TmJIRkdfS3NxeUVmMGtHWVhiVUZrbWZEQllmLWR2XzZDWDZqQVpNS1dJRnBYcWJmMWdDTEJaRDktbE1qX0FXb2pWVGJsWDBZNXJzR3NKZTlXTVl2N282QTdXOWxveWNDZWhOS2RBT1lRUGN4TWoyQl9tSy02alotQko0emNuMTZ1dV9HeGdCcG9aZ3BSN0t1RE52djhBX2RhU3ZoQTZFN0R6b3NrUlFwTmJQTlpiSU4tRUtrYUlpQzYwZEpDZlN3Y3lhZVMxd09JYw?oc=5",
+      "texto": {
+        "es": "Ámbito: el Pincha va por 25 millones de dólares ante un Palmeiras que vale cuatro veces más.",
+        "en": "Ámbito: the Pincha play for US$25 million against a Palmeiras worth four times as much.",
+        "pt": "Ámbito: o Pincha busca 25 milhões de dólares diante de um Palmeiras que vale quatro vezes mais.",
+        "zh": "Ámbito：Pincha将为2500万美元而战，对手Palmeiras身价是其四倍。",
+        "hi": "Ámbito: Pincha 2.5 करोड़ डॉलर के लिए उस Palmeiras से भिड़ेगा जिसकी क़ीमत चार गुना है।"
+      }
+    }
+  ]
+}
