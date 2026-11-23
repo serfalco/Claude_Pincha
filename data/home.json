@@ -1,6 +1,6 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-23T00:07:00-03:00",
+  "actualizado": "2026-11-23T08:07:00-03:00",
   "hoy": {
     "titular": "A cinco días de Montevideo, el Pincha vuelve hoy al trabajo en City Bell",
     "foto": {
@@ -16,8 +16,8 @@
       },
       {
         "tema": "palmeiras-previa-final",
-        "titulo": "Abel, autocrítico, ya piensa en el Pincha",
-        "texto": "Tras el 1-1 con Flamengo, que lo dejó sin el Brasileirão, Abel Ferreira enumeró los errores del Verdão y avisó que su equipo \"luchará por ser campeón\" de América. Murilo, Piquerez y Paulinho siguen en duda, y el martes 24 visita a Chapecoense."
+        "titulo": "Palmeiras recupera a Murilo y Piquerez",
+        "texto": "Según Gazeta Esportiva y Nosso Palestra, Murilo y Piquerez ya están disponibles (fueron al banco ante Flamengo); Paulinho sigue con el departamento médico. El martes 24 a las 18, en Chapecó, Abel pondría suplentes ante Chapecoense, y el miércoles el Verdão viaja a Montevideo."
       },
       {
         "tema": "sudamericana-2027",
@@ -32,13 +32,13 @@
       {
         "tema": "hoja-de-ruta",
         "titulo": "La hoja de ruta hasta el Centenario",
-        "texto": "Después del domingo libre, el plantel vuelve a entrenarse hoy lunes en City Bell. El miércoles 25 viaja a Montevideo (para en el Hilton) y el jueves y el viernes practicará en el predio de Montevideo City Torque.",
+        "texto": "Lunes y martes, práctica a las 9.30 en City Bell; el miércoles 25 entrena a las 10 y por la tarde viaja a Montevideo (para en el Hilton). Jueves y viernes, en el predio de Montevideo City Torque, con conferencia el viernes.",
         "vence": "2026-11-25T23:59:00-03:00"
       },
       {
         "tema": "equipo-sin-baltasar",
-        "titulo": "Sin Baltasar, Medina busca el último titular",
-        "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no podrá jugar la final. Según Diario Hoy, Fabricio Pérez es la gran opción para su lugar, con Eric Meza y Tomás Palacios como alternativas; El Día plantea repetir la línea de cinco del Maracaná."
+        "titulo": "Sin Baltasar, el martes se define el reemplazo",
+        "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no juega la final. Según Diario Hoy, Medina define el martes entre Fabricio Pérez y Monsalve para su lugar, y por la izquierda pelean Tobio Burgos y Tomás Palacios."
       },
       {
         "tema": "hinchas-montevideo",
@@ -48,10 +48,28 @@
     ],
     "linea": [
       {
+        "hora": "2026-11-23T07:00:00-03:00",
+        "texto": "Palmeiras: suplentes ante Chapecoense el martes y viaje a Montevideo el miércoles.",
+        "fuente": "Gazeta Esportiva",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-final-libertadores-viagem-uruguai/"
+      },
+      {
+        "hora": "2026-11-23T02:47:00-03:00",
+        "texto": "El Pincha arranca en City Bell la semana de la final.",
+        "fuente": "El Día",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1NUeXJqSHFTZE9DanRvZ25SaF84VDJtQmZnR2ZUXy12Z0JyU1B0cHFkQjFJalc4S0tsYkhrTVNKVnpnRjBKZWIzR3N1SDY0ZkY0dV9QdzBHTzVpRWtsUUc2WHpkRlpPY09DVWJTQVVKZ3FwUHpMUmVydHRfMkVyR3NXVjRDNHo2T1BGMmZTeUJYc0xJdjB1TktUVzJTQQ?oc=5"
+      },
+      {
         "hora": "2026-11-23T00:00:00-03:00",
         "texto": "Ámbito: el Pincha va por 25 millones de dólares ante un Palmeiras que vale cuatro veces más.",
         "fuente": "Ámbito",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWXlaOXByb2t5QUcweHItM1lZLVRib1NlSERTS3VnZ1d1QWYtcGt0WENVVkdzUjc3VVRydzkyOG5JaHFjRWtPd1ZmV1UxQy10YkFSZTJPYzk4d1p6TmNleWZMRFc4UTBULWFHTlJqbmd4RkRkX1BkNVJhTUVEU3ZDRzRYMW1nR3d3TG81VW5tdGtqQWxCYkJORXVPd1gzZnRpLWJnb1RRai1GT1RGRDB4Vjkta2FjWnhpd3J0QjNPb3ZxaDdqZWhHcHozSzNEakdwRUFmdUZR0gHbAUFVX3lxTFBqd0YtRHQyME00TmJIRkdfS3NxeUVmMGtHWVhiVUZrbWZEQllmLWR2XzZDWDZqQVpNS1dJRnBYcWJmMWdDTEJaRDktbE1qX0FXb2pWVGJsWDBZNXJzR3NKZTlXTVl2N282QTdXOWxveWNDZWhOS2RBT1lRUGN4TWoyQl9tSy02alotQko0emNuMTZ1dV9HeGdCcG9aZ3BSN0t1RE52djhBX2RhU3ZoQTZFN0R6b3NrUlFwTmJQTlpiSU4tRUtrYUlpQzYwZEpDZlN3Y3lhZVMxd09JYw?oc=5"
+      },
+      {
+        "hora": "2026-11-23T00:00:00-03:00",
+        "texto": "La agenda de Medina para la semana: prácticas, viaje y la duda por Baltasar.",
+        "fuente": "Diario Hoy",
+        "url": "https://diariohoy.net/el-clasico/estudiantes-afino-el-lapiz-y-el-cacique-armo-la-agenda-para-la-semana-de-la-final-290519"
       },
       {
         "hora": "2026-11-22T16:44:00-03:00",
@@ -112,24 +130,6 @@
         "fuente": "El Día",
         "url": "https://www.eldia.com/deportes/video-el-cacique-medina-palpita-la-gran-final-tenemos-la-emocion-a-flor-de-piel-deportes_1795274280",
         "texto": "Medina palpita la final: \"Con la emoción a flor de piel, por lo general jugamos bien\"."
-      },
-      {
-        "hora": "2026-11-21T00:57:00-03:00",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/a-corazon-abierto-tenemos-por-delante-el-partido-de-nuestras-vidas-deportes_1795233469",
-        "texto": "Rojo y González Pirez, a una semana de la final: \"Tenemos por delante el partido de nuestras vidas\"."
-      },
-      {
-        "hora": "2026-11-21T00:00:00-03:00",
-        "fuente": "Diario Hoy",
-        "url": "https://diariohoy.net/el-clasico/estudiantes-de-la-patria-la-mision-del-pincha-que-va-mas-alla-de-buscar-su-quinta-libertadores-290439",
-        "texto": "Estudiantes de la Patria: la final también desempata el historial entre Argentina y Brasil."
-      },
-      {
-        "hora": "2026-11-20T20:07:00-03:00",
-        "fuente": "Portal do Palestra",
-        "url": "https://portaldopalestra.com.br/provavel-escalacao-palmeiras-contra-flamengo-brasileirao-36a-rodada/",
-        "texto": "Palmeiras guardaría titulares ante Flamengo: Murilo en transición, Piquerez y Paulinho en tratamiento."
       }
     ]
   },
@@ -374,6 +374,9 @@
     }
   },
   "fuentes": [
+    "https://diariohoy.net/el-clasico/estudiantes-afino-el-lapiz-y-el-cacique-armo-la-agenda-para-la-semana-de-la-final-290519",
+    "https://nossopalestra.com.br/noticias/palmeiras-chapecoense-libertadores-copa-do-brasil",
+    "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-final-libertadores-viagem-uruguai/",
     "https://www.0221.com.ar/estudiantes/alexander-medina-hablo-la-emocion-estudiantes-y-dejo-un-mensaje-la-final-la-copa-libertadores-n137839",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUFxZkpCS2JBTW1NRkdYX1E5bmpBU2p6MmxJVm96SWNkaG9BdXVIaUdoZ2tBLTJ6OV9iakdmaVFvUWRqcERRVzExWFRZbXBhZmVfeWZXc0xTT1BUbl9aUE9YX0tHaEpmYnBDZm1Pd0d1dFhQaVJJVE8tdUNRa1RmbVpEUzFHemlqNXpCWE9fV18wYjBzUjV6YkxhQUFMYXFiTVlrdkI4cmktMlFVSDJ4TnAtQnZVMHUyUUE?oc=5",
     "https://www.0221.com.ar/estudiantes/estudiantes-la-antesala-la-final-la-copa-libertadores-dia-libre-entrenamientos-y-viaje-montevideo-n137844",

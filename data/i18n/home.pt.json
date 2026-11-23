@@ -11,8 +11,8 @@
         "texto": "O campeão da Copa Libertadores leva 25 milhões de dólares em premiação da Conmebol. Do outro lado, segundo o Ámbito, há um elenco que vale quatro vezes mais que o do Pincha."
       },
       {
-        "titulo": "Abel, autocrítico, já pensa no Pincha",
-        "texto": "Depois do 1 a 1 com o Flamengo, que o tirou da briga pelo Brasileirão, Abel Ferreira listou os erros do Verdão e avisou que seu time \"vai lutar para ser campeão\" da América. Murilo, Piquerez e Paulinho seguem como dúvida, e na terça, 24, o time visita a Chapecoense."
+        "titulo": "Palmeiras recupera Murilo e Piquerez",
+        "texto": "Segundo a Gazeta Esportiva e o Nosso Palestra, Murilo e Piquerez já estão disponíveis (ficaram no banco contra o Flamengo); Paulinho segue no departamento médico. Na terça, 24, às 18h, em Chapecó, Abel deve escalar reservas contra a Chapecoense, e na quarta o Verdão viaja a Montevidéu."
       },
       {
         "titulo": "Sul-Americana 2027 garantida, e a Recopa em jogo",
@@ -24,11 +24,11 @@
       },
       {
         "titulo": "O roteiro até o Centenario",
-        "texto": "Depois da folga de domingo, o elenco volta a treinar hoje, segunda-feira, em City Bell. Na quarta, 25, viaja a Montevidéu (fica no Hilton) e na quinta e na sexta treina no CT do Montevideo City Torque."
+        "texto": "Segunda e terça, treino às 9h30 em City Bell; na quarta, 25, treina às 10h e à tarde viaja a Montevidéu (fica no Hilton). Quinta e sexta, no CT do Montevideo City Torque, com entrevista coletiva na sexta."
       },
       {
-        "titulo": "Sem Baltasar, Medina procura o último titular",
-        "texto": "Baltasar Rodríguez, expulso contra o Flamengo, não poderá jogar a final. Segundo o Diario Hoy, Fabricio Pérez é a grande opção para o lugar dele, com Eric Meza e Tomás Palacios como alternativas; o El Día propõe repetir a linha de cinco do Maracanã."
+        "titulo": "Sem Baltasar, o substituto sai na terça",
+        "texto": "Baltasar Rodríguez, expulso contra o Flamengo, não joga a final. Segundo o Diario Hoy, Medina define na terça entre Fabricio Pérez e Monsalve para o lugar dele, e pela esquerda disputam Tobio Burgos e Tomás Palacios."
       },
       {
         "titulo": "Cerca de 35 mil torcedores rumo a Montevidéu",
@@ -37,7 +37,16 @@
     ],
     "linea": [
       {
+        "texto": "Palmeiras: reservas contra a Chapecoense na terça e viagem a Montevidéu na quarta."
+      },
+      {
+        "texto": "O Pincha começa em City Bell a semana da final."
+      },
+      {
         "texto": "Ámbito: o Pincha busca 25 milhões de dólares diante de um Palmeiras que vale quatro vezes mais."
+      },
+      {
+        "texto": "A agenda de Medina para a semana: treinos, viagem e a dúvida por Baltasar."
       },
       {
         "texto": "A Conmebol destacou Tiago Palacios a seis dias da final."
@@ -68,15 +77,6 @@
       },
       {
         "texto": "Medina projeta a final: \"Com a emoção à flor da pele, geralmente jogamos bem\"."
-      },
-      {
-        "texto": "Rojo e González Pirez, a uma semana da final: \"Temos pela frente a partida das nossas vidas\"."
-      },
-      {
-        "texto": "Estudiantes de la Patria: a final também desempata o histórico entre Argentina e Brasil."
-      },
-      {
-        "texto": "Palmeiras deve poupar titulares contra o Flamengo: Murilo em transição, Piquerez e Paulinho em tratamento."
       }
     ]
   },

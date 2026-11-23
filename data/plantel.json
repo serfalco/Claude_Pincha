@@ -1,6 +1,6 @@
 {
   "_info": "Memoria de bajas entre corridas: suspensiones, lesiones y altas del plantel y del rival que viene. No se publica: lo usan la cobertura (alertas) y el build (que las Siete no contradigan esto). Ver ACTUALIZAR.md › Verificación.",
-  "actualizado": "2026-11-21T00:07:00-03:00",
+  "actualizado": "2026-11-23T08:07:00-03:00",
   "bajas": [
     {
       "jugador": "Baltasar Rodríguez",
@@ -42,11 +42,13 @@
         "Piquerez"
       ],
       "equipo": "Palmeiras",
-      "estado": "en duda",
+      "estado": "disponible",
       "motivo": "lesión",
-      "detalle": "Lesión en el muslo derecho (Uruguay-Argentina, 13/11); tratamiento intensivo, sin fecha oficial de regreso. Según Tribuna de Jundiaí (20/11), es difícil que llegue a la final.",
-      "hasta": "Sin confirmar para la final",
+      "detalle": "Recuperado: fue al banco ante Flamengo (21/11) y está disponible para la final, según Gazeta Esportiva y Nosso Palestra (23/11).",
+      "hasta": "Disponible",
       "fuentes": [
+        "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-final-libertadores-viagem-uruguai/",
+        "https://nossopalestra.com.br/noticias/palmeiras-chapecoense-libertadores-copa-do-brasil",
         "https://www.lance.com.br/palmeiras/escalacao-palmeiras-encerra-preparacao-e-abel-busca-alternativas-sem-convocados.html",
         "https://abcdoabc.com.br/palmeiras-conta-com-piquerez-para-fina/",
         "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
@@ -59,11 +61,13 @@
         "Murilo"
       ],
       "equipo": "Palmeiras",
-      "estado": "en duda",
+      "estado": "disponible",
       "motivo": "lesión",
-      "detalle": "Lesión en el muslo izquierdo ante Vasco (8/11). El 19/11 empezó la transición física con trabajo con pelota; evolución positiva, sin fecha de regreso.",
-      "hasta": "Sin confirmar para la final",
+      "detalle": "Recuperado: fue al banco ante Flamengo (21/11) y está disponible para la final, según Gazeta Esportiva y Nosso Palestra (23/11).",
+      "hasta": "Disponible",
       "fuentes": [
+        "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-final-libertadores-viagem-uruguai/",
+        "https://nossopalestra.com.br/noticias/palmeiras-chapecoense-libertadores-copa-do-brasil",
         "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
         "https://www.infocielo.com/deportes/palmeiras-en-alerta-tres-figuras-entre-algodones-a-dias-de-la-final-ante-estudiantes",
         "https://portaldopalestra.com.br/provavel-escalacao-palmeiras-contra-flamengo-brasileirao-36a-rodada/"
@@ -77,9 +81,11 @@
       "equipo": "Palmeiras",
       "estado": "en duda",
       "motivo": "lesión",
-      "detalle": "Fuera desde el 21/10 (pierna derecha, zona operada); inflamaciones persistentes según el club (18/11). Sin fecha de regreso ni transición al campo; el caso más complicado.",
+      "detalle": "Fuera desde el 21/10 (pierna derecha, zona operada); inflamaciones persistentes según el club (18/11). Sin fecha de regreso ni transición al campo; el caso más complicado. El 23/11 sigue en el departamento médico (lesión en la pantorrilla), según Gazeta Esportiva y Nosso Palestra.",
       "hasta": "Sin confirmar para la final",
       "fuentes": [
+        "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-final-libertadores-viagem-uruguai/",
+        "https://nossopalestra.com.br/noticias/palmeiras-chapecoense-libertadores-copa-do-brasil",
         "https://portaldopalestra.com.br/paulinho-lesao-panturrilha-sem-prazo-finais-palmeiras-libertadores/",
         "https://tribunadejundiai.com.br/mais/esportes/palmeiras-espera-contar-com-piquerez-murilo-e-paulinho-na-final-da-libertadores/",
         "https://portaldopalestra.com.br/provavel-escalacao-palmeiras-contra-flamengo-brasileirao-36a-rodada/"
