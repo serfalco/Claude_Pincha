@@ -1,19 +1,19 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-26T08:07:00-03:00",
+  "actualizado": "2026-11-26T18:07:00-03:00",
   "hoy": {
-    "titular": "A dos días de la final: el Pincha, recibido por sus hinchas en Montevideo",
+    "titular": "A dos días de la final: el Pincha entrena en Montevideo y Andújar y Boselli llevarán la Copa",
     "foto": {
       "id": "2026-08-17_los-que-viajaron-a-chile_1",
       "alt": "Alexander Medina, sonriente, durante un entrenamiento de Estudiantes."
     },
-    "resumen": "El plantel llegó al hotel de Montevideo entre una multitud de hinchas y hoy entrena a puertas cerradas. Palmeiras también ya está en Uruguay, con 28 jugadores, para la final del sábado en el Centenario.",
+    "resumen": "El plantel entrena en el predio del Montevideo City Torque y el viernes hace la última práctica. Mariano Andújar y Mauro Boselli, campeones de 2009, entrarán la Copa al Centenario antes de la final del sábado ante Palmeiras.",
     "siete": [
       {
         "tema": "viaje-montevideo",
         "novedad": "Los hinchas recibieron al plantel en el hotel de Montevideo",
         "titulo": "Montevideo recibió al Pincha",
-        "texto": "Después de la despedida multitudinaria en City Bell, el plantel aterrizó en Carrasco y llegó al hotel de concentración entre cientos de hinchas que lo esperaban. Hoy jueves entrena a puertas cerradas y el viernes abre 15 minutos a la prensa, con conferencia."
+        "texto": "Después de la llegada al hotel entre cientos de hinchas, el plantel entrena en el predio del Montevideo City Torque, en Ciudad de la Costa: hoy jueves desde las 17 y el viernes desde las 10, en la última práctica antes de la final."
       },
       {
         "tema": "micros-oficiales",
@@ -22,10 +22,15 @@
         "vence": "2026-11-27T23:59:00-03:00"
       },
       {
+        "tema": "andujar-boselli-copa",
+        "titulo": "Andújar y Boselli entrarán con la Copa",
+        "texto": "Dos campeones de 2009 llevarán el trofeo al campo del Centenario minutos antes del arranque: Mariano Andújar, el arquero récord de aquella Copa, y Mauro Boselli, su goleador con 8 goles."
+      },
+      {
         "tema": "palmeiras-previa-final",
         "novedad": "Palmeiras llegó a Montevideo con 28 jugadores",
         "titulo": "Palmeiras ya está en Uruguay, con 28 jugadores",
-        "texto": "El Verdão aterrizó en Montevideo con 28 futbolistas tras perder 3-0 con suplentes ante Chapecoense. Según Lance, en la lista está Paulinho, que arrastra una lesión desde octubre y sigue en duda. Hoy hace su primer entrenamiento en Montevideo."
+        "texto": "Abel Ferreira elogió al Pincha: \"Es un equipo extremadamente competitivo, con jugadores muy experimentados\". Más picante, el defensor argentino Alexander Barboza aseguró que ganará la final \"en su otra casa, Uruguay\". Paulinho, con una lesión desde octubre, sigue en duda."
       },
       {
         "tema": "convocados-final",
@@ -38,17 +43,43 @@
         "texto": "Según 0221, Fabricio Pérez es el principal candidato para el lugar de Baltasar Rodríguez, con Cetré como alternativa; en City Bell, Medina también probó a Gastón Benedetti con línea de cinco. El equipo se define el viernes, en la última práctica."
       },
       {
-        "tema": "veron-hincha",
-        "titulo": "Verón, un hincha más en el Centenario",
-        "texto": "El presidente no viaja con la delegación: va por su cuenta y verá la final desde la platea, entre los hinchas, como hizo en las finales de Santiago del Estero y San Nicolás."
-      },
-      {
         "tema": "hinchas-bicicleta",
-        "titulo": "A Montevideo, en bicicleta",
-        "texto": "Facundo Mensegues y Brian Froidevaux, dos hinchas de La Plata, llegaron a Montevideo pedaleando después de más de 600 kilómetros. Uno de los dos todavía no tiene entrada para la final."
+        "titulo": "El plantel recibió a los hinchas ciclistas",
+        "texto": "Facundo Mensegues y Brian Froidevaux llegaron a Montevideo pedaleando más de 600 kilómetros desde La Plata, y los jugadores los recibieron en la concentración.",
+        "novedad": "El plantel recibió a los hinchas que llegaron en bicicleta"
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-26T17:46:00-03:00",
+        "texto": "Video: los jugadores recibieron a los hinchas que llegaron a Montevideo en bicicleta.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/video-el-plantel-estudiantes-recibio-los-hinchas-que-llegaron-montevideo-pedaleando-n138094"
+      },
+      {
+        "hora": "2026-11-26T16:38:00-03:00",
+        "texto": "Abel Ferreira: \"Estudiantes es un equipo extremadamente competitivo\".",
+        "fuente": "La Gaceta",
+        "url": "https://www.lagaceta.com.ar/nota/1164409/deportes/abel-ferreira-elogio-estudiantes-antes-final-copa-libertadores-equipo-extremadamente-competitivo.html"
+      },
+      {
+        "hora": "2026-11-26T15:17:00-03:00",
+        "texto": "Andújar y Boselli, campeones de 2009, entrarán con la Copa antes de la final.",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/andujar-y-boselli-ingresaran-con-la-copa-libertadores-en-la-previa-de-la-final-entre-estudiantes-y-palmeiras-deportes_1795717039"
+      },
+      {
+        "hora": "2026-11-26T11:03:00-03:00",
+        "texto": "Barboza, de Palmeiras, ya se ve campeón \"en su otra casa, Uruguay\".",
+        "fuente": "Olé",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFUxSUM2RjBrZWtobkxhenJMSXEySjI0QkwyLVotQkJQVGUyN002aDFvTDNRSE5ORTUyUF92cDZ2Tm9sWDE5RHZYZ0x6NktEYTFaVktYUzJyZEwwdVN4MTA4Nll6dTkzbHhVVXc0enp6Yi1lQnZHdVMwZFR3X0dRdnMyMlJmU2ctcnRJZzV3YUstb1o1Zngzenk5YXV0cFRfSzVXQS1Bemo5ZEJCdktEd3FGV2FmZw?oc=5"
+      },
+      {
+        "hora": "2026-11-26T09:58:00-03:00",
+        "texto": "El cronograma de Estudiantes y Palmeiras en Montevideo hasta la final.",
+        "fuente": "Doble Amarilla",
+        "url": "https://www.dobleamarilla.com.ar/america/estudiantes-y-palmeiras-llegaron-a-montevideo-y-se-preparan-para-la-final-de-la-copa-libertadores--el-cronograma-para-los-proximos-dias_a6b08202c413cc92b98a70fac"
+      },
       {
         "hora": "2026-11-26T07:53:00-03:00",
         "texto": "El Pincha ya está instalado en Montevideo para los últimos entrenamientos antes de la final.",
@@ -102,36 +133,6 @@
         "texto": "Verón verá la final desde la platea, como un hincha más.",
         "fuente": "0221",
         "url": "https://www.0221.com.ar/estudiantes/juan-sebastian-veron-sera-un-hincha-mas-montevideo-como-vivira-la-final-la-copa-libertadores-n138045"
-      },
-      {
-        "hora": "2026-11-25T19:15:00-03:00",
-        "texto": "Medina probó a Benedetti con línea de cinco para tapar el hueco de Baltasar.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/alexander-medina-probo-un-jugador-sorpresa-reemplazar-baltasar-rodriguez-palmeiras-n138037"
-      },
-      {
-        "hora": "2026-11-25T17:36:00-03:00",
-        "texto": "Con las Copas ploteadas, el colectivo del Pincha partió al aeropuerto.",
-        "fuente": "Infocielo",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTl9ybWtnSHpxUDFIQTJYVEVETktpM0MzTVJXQ1dTdkJqbW5hcFVHQ0VsbUNVaU5JRUFSQldfZUxHYl9VMjZpeU1RWkVhS2hNMmw3RTVYQ1RRbWZEQ2xmV2tDZTdxWEFCN2dId09YLU1FTUlxNC0zcVplVVhpQUJGWG8xbkE2aFZJYV9scEtnanJRRldjdjdodWoyc1QxVGJNMG82cTg1T3hCWDF6MWxMbGpPdnpVcU9ueEdWYjhDQS1VQW45YjBkVWJmTHlwMzF1Ym0xd0lYNW55dw?oc=5"
-      },
-      {
-        "hora": "2026-11-25T16:37:00-03:00",
-        "texto": "Los hinchas que viajaron en bicicleta ya llegaron a Montevideo.",
-        "fuente": "El Día",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHJRd21LVFY2UXh4NEVEVE5qNzlNbEJRVlI3MEFRSTVFUnpnUnkxNmZRRldNM1h2TUpTc0xFbGxOZ3FCMENlVldoVkFWSEhWTVl1elZ2M2NWRjQwTlFKSUJlMmxvVGRfVko4eUtlSWRadTVsWDNjWFJ5QUQtSEktdjhEOUpNU29xWG5qM1VNWklsQ2NzNERUN0RJemxWaTJUVlRhaEZVWHU3bEFMVEhRZ1VNb3JvRnRnX2p4TldqZFlManBjUHRaYTZFbFI?oc=5"
-      },
-      {
-        "hora": "2026-11-25T00:00:00-03:00",
-        "texto": "Palmeiras llegó a Montevideo con 28 jugadores, Paulinho incluido.",
-        "fuente": "Lance",
-        "url": "https://www.lance.com.br/palmeiras/palmeiras-desembarca-no-uruguai-com-28-atletas-e-presenca-de-paulinho-veja-relacionados.html"
-      },
-      {
-        "hora": "2026-11-23T08:54:00-03:00",
-        "texto": "Micros a Montevideo: horarios de salida y documentación obligatoria.",
-        "fuente": "Club",
-        "url": "https://estudiantesdelaplata.com/micros-a-montevideo-informacion-importante/"
       }
     ]
   },
@@ -376,6 +377,13 @@
     }
   },
   "fuentes": [
+    "https://www.0221.com.ar/estudiantes/video-el-plantel-estudiantes-recibio-los-hinchas-que-llegaron-montevideo-pedaleando-n138094",
+    "https://www.lagaceta.com.ar/nota/1164409/deportes/abel-ferreira-elogio-estudiantes-antes-final-copa-libertadores-equipo-extremadamente-competitivo.html",
+    "https://www.eldia.com/deportes/andujar-y-boselli-ingresaran-con-la-copa-libertadores-en-la-previa-de-la-final-entre-estudiantes-y-palmeiras-deportes_1795717039",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFUxSUM2RjBrZWtobkxhenJMSXEySjI0QkwyLVotQkJQVGUyN002aDFvTDNRSE5ORTUyUF92cDZ2Tm9sWDE5RHZYZ0x6NktEYTFaVktYUzJyZEwwdVN4MTA4Nll6dTkzbHhVVXc0enp6Yi1lQnZHdVMwZFR3X0dRdnMyMlJmU2ctcnRJZzV3YUstb1o1Zngzenk5YXV0cFRfSzVXQS1Bemo5ZEJCdktEd3FGV2FmZw?oc=5",
+    "https://www.dobleamarilla.com.ar/america/estudiantes-y-palmeiras-llegaron-a-montevideo-y-se-preparan-para-la-final-de-la-copa-libertadores--el-cronograma-para-los-proximos-dias_a6b08202c413cc92b98a70fac",
+    "https://www.eldia.com/deportes/la-guardia-del-leon-asi-es-por-dentro-el-predio-donde-medina-prepara-a-sus-soldados-para-la-final-deportes_1795697548",
+    "https://www.infocielo.com/deportes/mauro-boselli-se-suma-a-mariano-andujar-los-campeones-de-2009-que-entraran-con-la-copa-libertadores-al-centenario",
     "https://ptd.verdao.net/final-da-libertadores-palmeiras-chega-hoje-em-montevideu-primeiro-treino-sera-na-quinta/",
     "https://portaldopalestra.com.br/programacao-palmeiras-viagem-montevideu-final-libertadores-2026-treino-albion/",
     "https://diariohoy.net/el-clasico/estudiantes-afino-el-lapiz-y-el-cacique-armo-la-agenda-para-la-semana-de-la-final-290519",

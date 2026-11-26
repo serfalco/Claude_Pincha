@@ -1,22 +1,26 @@
 {
   "hoy": {
-    "titular": "距决赛还有两天：Pincha在蒙得维的亚受到球迷热烈欢迎",
+    "titular": "决赛倒计时两天：Pincha在蒙得维的亚训练，Andújar和Boselli将捧杯入场",
     "foto": {
       "alt": "Alexander Medina在Estudiantes训练中露出笑容。"
     },
-    "resumen": "球队在大批球迷簇拥下抵达蒙得维的亚的酒店，今天进行闭门训练。帕尔梅拉斯（Palmeiras）也已带着28名球员抵达乌拉圭，备战周六在Centenario进行的决赛。",
+    "resumen": "球队在Montevideo City Torque的训练基地备战，周五进行最后一练。2009年冠军成员Mariano Andújar和Mauro Boselli将在周六对阵帕尔梅拉斯（Palmeiras）的决赛前把奖杯带入Centenario球场。",
     "siete": [
       {
         "titulo": "蒙得维的亚迎来Pincha",
-        "texto": "在City Bell的盛大送行之后，球队降落Carrasco机场，并在数百名等候球迷的簇拥下抵达集训酒店。周四闭门训练，周五向媒体开放15分钟并举行新闻发布会。"
+        "texto": "在数百名球迷簇拥下抵达酒店后，球队在Ciudad de la Costa的Montevideo City Torque训练基地备战：今天周四17时开练，周五10时进行决赛前最后一次训练。"
       },
       {
         "titulo": "俱乐部大巴周五早上7点从el UNO出发",
         "texto": "据俱乐部消息，官方大巴于27日周五早上7点出发（5点30分开始登记），球迷团体的大巴中午12点出发，以便加快过境：出行人数超过6,500人。须携带实体身份证（DNI）或有效护照；Mi Argentina的电子身份证无效。"
       },
       {
+        "titulo": "Andújar与Boselli将捧杯入场",
+        "texto": "两位2009年冠军成员将在开球前几分钟把奖杯带上Centenario球场：当年创纪录的门将Mariano Andújar，以及以8球成为最佳射手的Mauro Boselli。"
+      },
+      {
         "titulo": "Palmeiras已抵达乌拉圭，带队28人",
-        "texto": "Palmeiras派替补阵容0比3负于Chapecoense后，带着28名球员抵达蒙得维的亚。据Lance报道，自10月起受伤的Paulinho也在名单中，能否出战仍存疑。今天Palmeiras将在蒙得维的亚进行首次训练。"
+        "texto": "Abel Ferreira称赞Pincha：“这是一支极具竞争力的球队，球员经验非常丰富。”更具挑衅意味的是，阿根廷后卫Alexander Barboza表示将“在第二个家乌拉圭”赢下决赛。自10月起伤停的Paulinho仍然存疑。"
       },
       {
         "titulo": "Medina带27人出征，Correa在列",
@@ -27,15 +31,26 @@
         "texto": "据0221报道，Fabricio Pérez是顶替Baltasar Rodríguez的头号人选，Cetré为备选；在City Bell，Medina还演练了让Gastón Benedetti出场的五后卫阵型。首发阵容将在周五最后一堂训练课上确定。"
       },
       {
-        "titulo": "Verón将作为普通球迷现身Centenario",
-        "texto": "主席Verón不随代表团出行：他将自行前往，在看台上与球迷一起观看决赛，就像他在圣地亚哥-德尔埃斯特罗和圣尼古拉斯的决赛中那样。"
-      },
-      {
-        "titulo": "骑自行车去蒙得维的亚",
-        "texto": "两名来自拉普拉塔的球迷Facundo Mensegues和Brian Froidevaux骑行600多公里抵达蒙得维的亚。其中一人还没有决赛门票。"
+        "titulo": "球队迎接骑行而来的球迷",
+        "texto": "Facundo Mensegues和Brian Froidevaux从La Plata骑行600多公里抵达蒙得维的亚，球员们在驻地迎接了他们。"
       }
     ],
     "linea": [
+      {
+        "texto": "视频：球员们迎接骑自行车到蒙得维的亚的球迷。"
+      },
+      {
+        "texto": "Abel Ferreira：“Estudiantes是一支极具竞争力的球队。”"
+      },
+      {
+        "texto": "2009年冠军Andújar和Boselli将在决赛前捧杯入场。"
+      },
+      {
+        "texto": "Palmeiras的Barboza已自视冠军：“在第二个家乌拉圭”。"
+      },
+      {
+        "texto": "Estudiantes和Palmeiras在蒙得维的亚直到决赛的日程。"
+      },
       {
         "texto": "Pincha已在蒙得维的亚安顿下来，进行决赛前的最后训练。"
       },
@@ -62,21 +77,6 @@
       },
       {
         "texto": "Verón将在看台上以普通球迷身份观看决赛。"
-      },
-      {
-        "texto": "Medina演练Benedetti出场的五后卫阵型以填补Baltasar的空缺。"
-      },
-      {
-        "texto": "印有历届奖杯图案的Pincha大巴驶向机场。"
-      },
-      {
-        "texto": "骑车出发的球迷已抵达蒙得维的亚。"
-      },
-      {
-        "texto": "Palmeiras带着28名球员抵达蒙得维的亚，Paulinho在列。"
-      },
-      {
-        "texto": "前往蒙得维的亚的大巴：出发时间与必备证件。"
       }
     ]
   },

@@ -1,22 +1,26 @@
 {
   "hoy": {
-    "titular": "A dois dias da final: o Pincha é recebido pela torcida em Montevidéu",
+    "titular": "A dois dias da final: o Pincha treina em Montevidéu e Andújar e Boselli levarão a Taça",
     "foto": {
       "alt": "Alexander Medina sorri durante um treino do Estudiantes."
     },
-    "resumen": "O elenco chegou ao hotel em Montevidéu em meio a uma multidão de torcedores e hoje treina com portões fechados. O Palmeiras também já está no Uruguai, com 28 jogadores, para a final de sábado no Centenário.",
+    "resumen": "O elenco treina no CT do Montevideo City Torque e faz o último treino na sexta. Mariano Andújar e Mauro Boselli, campeões em 2009, levarão a Taça ao Centenário antes da final de sábado contra o Palmeiras.",
     "siete": [
       {
         "titulo": "Montevidéu recebe o Pincha",
-        "texto": "Depois da despedida multitudinária em City Bell, o elenco pousou em Carrasco e chegou ao hotel de concentração entre centenas de torcedores. Nesta quinta treina com portões fechados e na sexta abre 15 minutos para a imprensa, com entrevista coletiva."
+        "texto": "Depois da chegada ao hotel entre centenas de torcedores, o elenco treina no CT do Montevideo City Torque, em Ciudad de la Costa: hoje, quinta, a partir das 17h, e na sexta a partir das 10h, no último treino antes da final."
       },
       {
         "titulo": "Ônibus do clube saem na sexta às 7h do UNO",
         "texto": "Segundo o clube, os ônibus oficiais saem na sexta, dia 27, às 7h (credenciamento a partir das 5h30), e os das torcidas organizadas ao meio-dia, para agilizar a fronteira: viajam mais de 6.500 pessoas. É preciso RG físico (DNI) ou passaporte válido; o DNI digital do Mi Argentina não vale."
       },
       {
+        "titulo": "Andújar e Boselli entrarão com a Taça",
+        "texto": "Dois campeões de 2009 levarão o troféu ao gramado do Centenário minutos antes do início: Mariano Andújar, o goleiro recordista daquela Copa, e Mauro Boselli, artilheiro com 8 gols."
+      },
+      {
         "titulo": "Palmeiras já está no Uruguai, com 28 jogadores",
-        "texto": "O Verdão desembarcou em Montevidéu com 28 atletas depois de perder por 3 a 0 para a Chapecoense com reservas. Segundo o Lance, Paulinho, lesionado desde outubro, está na lista e segue como dúvida. Hoje faz o primeiro treino em Montevidéu."
+        "texto": "Abel Ferreira elogiou o Pincha: \"É uma equipe extremamente competitiva, com jogadores muito experientes\". Mais provocador, o zagueiro argentino Alexander Barboza garantiu que vai ganhar a final \"na sua outra casa, o Uruguai\". Paulinho, lesionado desde outubro, segue em dúvida."
       },
       {
         "titulo": "Medina viajou com 27 relacionados, incluindo Correa",
@@ -27,15 +31,26 @@
         "texto": "Segundo o 0221, Fabricio Pérez é o principal candidato à vaga de Baltasar Rodríguez, com Cetré como alternativa; em City Bell, Medina também testou Gastón Benedetti numa linha de cinco. O time será definido na sexta, no último treino."
       },
       {
-        "titulo": "Verón, mais um torcedor no Centenario",
-        "texto": "O presidente não viaja com a delegação: vai por conta própria e verá a final da arquibancada, entre os torcedores, como fez nas finais de Santiago del Estero e San Nicolás."
-      },
-      {
-        "titulo": "Para Montevidéu, de bicicleta",
-        "texto": "Facundo Mensegues e Brian Froidevaux, dois torcedores de La Plata, chegaram a Montevidéu pedalando depois de mais de 600 quilômetros. Um deles ainda não tem ingresso para a final."
+        "titulo": "O elenco recebeu os torcedores ciclistas",
+        "texto": "Facundo Mensegues e Brian Froidevaux chegaram a Montevidéu pedalando mais de 600 quilômetros desde La Plata, e os jogadores os receberam na concentração."
       }
     ],
     "linea": [
+      {
+        "texto": "Vídeo: os jogadores receberam os torcedores que foram de bicicleta a Montevidéu."
+      },
+      {
+        "texto": "Abel Ferreira: \"O Estudiantes é uma equipe extremamente competitiva\"."
+      },
+      {
+        "texto": "Andújar e Boselli, campeões de 2009, entrarão com a Taça antes da final."
+      },
+      {
+        "texto": "Barboza, do Palmeiras, já se vê campeão \"na sua outra casa, o Uruguai\"."
+      },
+      {
+        "texto": "A programação de Estudiantes e Palmeiras em Montevidéu até a final."
+      },
       {
         "texto": "O Pincha já está instalado em Montevidéu para os últimos treinos antes da final."
       },
@@ -62,21 +77,6 @@
       },
       {
         "texto": "Verón verá a final da arquibancada, como mais um torcedor."
-      },
-      {
-        "texto": "Medina testou Benedetti numa linha de cinco para suprir a ausência de Baltasar."
-      },
-      {
-        "texto": "Com as taças estampadas, o ônibus do Pincha partiu para o aeroporto."
-      },
-      {
-        "texto": "Os torcedores que foram de bicicleta já chegaram a Montevidéu."
-      },
-      {
-        "texto": "O Palmeiras chegou a Montevidéu com 28 jogadores, incluindo Paulinho."
-      },
-      {
-        "texto": "Ônibus para Montevidéu: horários de saída e documentos obrigatórios."
       }
     ]
   },

@@ -1,22 +1,26 @@
 {
   "hoy": {
-    "titular": "Two days to the final: the Pincha welcomed by their fans in Montevideo",
+    "titular": "Two days to the final: the Pincha train in Montevideo and Andújar and Boselli will carry the Cup",
     "foto": {
       "alt": "Alexander Medina smiles during an Estudiantes training session."
     },
-    "resumen": "The squad reached their Montevideo hotel through a crowd of fans and train behind closed doors today. Palmeiras are also in Uruguay, with 28 players, for Saturday's final at the Centenario.",
+    "resumen": "The squad are training at Montevideo City Torque's complex and hold their last session on Friday. Mariano Andújar and Mauro Boselli, 2009 champions, will carry the Cup into the Centenario before Saturday's final against Palmeiras.",
     "siete": [
       {
         "titulo": "Montevideo welcomes the Pincha",
-        "texto": "After the huge send-off in City Bell, the squad landed at Carrasco and reached the team hotel through hundreds of waiting fans. Thursday's training is behind closed doors and on Friday the press get 15 minutes, plus a press conference."
+        "texto": "After arriving at the hotel through hundreds of fans, the squad are training at Montevideo City Torque's complex in Ciudad de la Costa: today, Thursday, from 5pm and on Friday from 10am, in the last session before the final."
       },
       {
         "titulo": "Club coaches leave the UNO on Friday at 7am",
         "texto": "According to the club, the official coaches leave on Friday 27th at 7am (check-in from 5.30am) and the supporters' groups' coaches at midday, to speed up the border crossing: more than 6,500 people are travelling. A physical ID card or valid passport is required; the Mi Argentina digital ID is not accepted."
       },
       {
+        "titulo": "Andújar and Boselli to walk out with the Cup",
+        "texto": "Two 2009 champions will carry the trophy onto the Centenario pitch minutes before kick-off: Mariano Andújar, that campaign's record-breaking goalkeeper, and Mauro Boselli, its top scorer with 8 goals."
+      },
+      {
         "titulo": "Palmeiras are in Uruguay with 28 players",
-        "texto": "The Verdão landed in Montevideo with 28 players after a 3-0 defeat by Chapecoense with a reserve side. According to Lance, the squad includes Paulinho, who has been injured since October and remains a doubt. Today they hold their first training session in Montevideo."
+        "texto": "Abel Ferreira praised the Pincha: \"They are an extremely competitive side, with very experienced players\". More provocatively, Argentine defender Alexander Barboza said he will win the final \"in his other home, Uruguay\". Paulinho, injured since October, remains a doubt."
       },
       {
         "titulo": "Medina travelled with a 27-man squad, Correa included",
@@ -27,15 +31,26 @@
         "texto": "According to 0221, Fabricio Pérez is the favourite to replace Baltasar Rodríguez, with Cetré as the alternative; in City Bell Medina also tried Gastón Benedetti in a back five. The line-up will be settled on Friday, in the last training session."
       },
       {
-        "titulo": "Verón, just another fan at the Centenario",
-        "texto": "The president is not travelling with the official party: he is making his own way there and will watch the final from the stands among the fans, as he did at the finals in Santiago del Estero and San Nicolás."
-      },
-      {
-        "titulo": "To Montevideo by bike",
-        "texto": "Facundo Mensegues and Brian Froidevaux, two fans from La Plata, reached Montevideo by bicycle after more than 600 kilometres. One of them still has no ticket for the final."
+        "titulo": "The squad welcomed the cycling fans",
+        "texto": "Facundo Mensegues and Brian Froidevaux reached Montevideo after pedalling more than 600 kilometres from La Plata, and the players welcomed them at the team base."
       }
     ],
     "linea": [
+      {
+        "texto": "Video: the players welcomed the fans who cycled to Montevideo."
+      },
+      {
+        "texto": "Abel Ferreira: \"Estudiantes are an extremely competitive side\"."
+      },
+      {
+        "texto": "Andújar and Boselli, 2009 champions, will walk out with the Cup before the final."
+      },
+      {
+        "texto": "Palmeiras' Barboza already sees himself as champion \"in his other home, Uruguay\"."
+      },
+      {
+        "texto": "Estudiantes' and Palmeiras' schedule in Montevideo up to the final."
+      },
       {
         "texto": "The Pincha are settled in Montevideo for the final training sessions before the final."
       },
@@ -62,21 +77,6 @@
       },
       {
         "texto": "Verón will watch the final from the stands, just another fan."
-      },
-      {
-        "texto": "Medina tried Benedetti in a back five to fill Baltasar's gap."
-      },
-      {
-        "texto": "With the trophies on its livery, the Pincha team bus left for the airport."
-      },
-      {
-        "texto": "The fans who cycled there have already reached Montevideo."
-      },
-      {
-        "texto": "Palmeiras reached Montevideo with 28 players, Paulinho included."
-      },
-      {
-        "texto": "Coaches to Montevideo: departure times and required documents."
       }
     ]
   },
