@@ -1064,8 +1064,14 @@
       "tomada": null,
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-IMG-9908-1024x547.jpg",
-      "alt": "",
-      "usos": []
+      "alt": "Alexander Medina, sonriente, durante un entrenamiento de Estudiantes.",
+      "usos": [
+        "hoy"
+      ],
+      "foco": [
+        0.53,
+        0.3
+      ]
     },
     {
       "id": "2026-08-18_se-resuelve-el-paso-a-cuartos_1",
@@ -2189,9 +2195,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/10/Copia-de-IMG-0471-1024x551.jpg",
       "alt": "El cuerpo técnico de Estudiantes conversa durante un entrenamiento en City Bell.",
-      "usos": [
-        "hoy"
-      ]
+      "usos": []
     },
     {
       "id": "2026-10-23_maracanazo-y-a-la-final_1",

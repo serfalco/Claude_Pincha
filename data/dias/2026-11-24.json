@@ -1,0 +1,41 @@
+{
+  "fecha": "2026-11-24",
+  "linea": [
+    {
+      "hora": "2026-11-24T21:02:00-03:00",
+      "fuente": "Perfil",
+      "url": "https://www.perfil.com/deportes/river-quiere-a-una-figura-del-futbol-argentino-negocia-a-fondo-por-tomas-palacios-joya-de-estudiantes-awK9V2T6Xnib",
+      "texto": {
+        "es": "River negocia por Tomás Palacios, según Perfil.",
+        "en": "River are negotiating for Tomás Palacios, according to Perfil.",
+        "pt": "O River negocia por Tomás Palacios, segundo o Perfil.",
+        "zh": "据Perfil报道，River正在洽谈引进Tomás Palacios。",
+        "hi": "Perfil के मुताबिक़ River, Tomás Palacios के लिए बातचीत कर रहा है।"
+      }
+    },
+    {
+      "hora": "2026-11-24T20:18:00-03:00",
+      "fuente": "Olé",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWlHYXZodnVSWl9fa2JTMDR0U2NUYUhaQV9ua01mRVZHRlh2OG9jWndpeFV6OGhlNnVNOWp1MlptOWtvQXYwNkJtbElJaVllVVpFUWxHRm14RVJnMWdOakVwOGJpYzBnc3E3QlBoNlV1Y2FZRVFFOXpPM09RMFo4Sm5hbG5fZGxJTWxPeUMyLXZxSW5TdGcxSG5sUlNHa1VB?oc=5",
+      "texto": {
+        "es": "Chapecoense le hizo tres a un Palmeiras con suplentes.",
+        "en": "Chapecoense put three past a second-string Palmeiras.",
+        "pt": "A Chapecoense fez três num Palmeiras reserva.",
+        "zh": "Chapecoense以3球击败派出替补的帕尔梅拉斯。",
+        "hi": "Chapecoense ने रिज़र्व खिलाड़ियों वाले Palmeiras पर तीन गोल दागे।"
+      }
+    },
+    {
+      "hora": "2026-11-24T19:15:00-03:00",
+      "fuente": "El Día",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSjIxYThWXzJRbDVfenE5SmZlelVmQXRWZDMxa0JOTWFqY2c5Z3FpNG9LY2FlWjJ1YVIwejNJdFJ2VVVLc2VtajlLeEd2MTQwNjBnWi0tbEgtTkJZTTIxYm9GVFBYd3JKXzFPdEVyUTk5NkxuNGxiUjdpbUtkRjM3cGFjZmpGV1V2djRMZVZQblEwc1UwbGs5clJKQzVzQ09JRHlDXy1RS1g5dG8zUTEzVURqYm5BSDM4SHZWZEU2aXROOFhBNWQtQlBjbjdLYkZaZ3Z6aFlfd3JaNmxnUlplOElyUUtKQW83Q2pz?oc=5",
+      "texto": {
+        "es": "La guía de recomendaciones para los hinchas que viajan a Uruguay.",
+        "en": "A guide with advice for fans travelling to Uruguay.",
+        "pt": "O guia de recomendações para os torcedores que viajam ao Uruguai.",
+        "zh": "赴乌拉圭球迷出行指南。",
+        "hi": "उरुग्वे जा रहे फ़ैन्स के लिए सुझावों की गाइड।"
+      }
+    }
+  ]
+}

@@ -1,135 +1,137 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-23T08:07:00-03:00",
+  "actualizado": "2026-11-25T22:07:00-03:00",
   "hoy": {
-    "titular": "A cinco días de Montevideo, el Pincha vuelve hoy al trabajo en City Bell",
+    "titular": "El Pincha ya está en Montevideo: despedida multitudinaria y 27 convocados para la final",
     "foto": {
-      "id": "2026-10-21_medina-los-lleva-a-todos_1",
-      "alt": "El cuerpo técnico de Estudiantes conversa durante un entrenamiento en City Bell."
+      "id": "2026-08-17_los-que-viajaron-a-chile_1",
+      "alt": "Alexander Medina, sonriente, durante un entrenamiento de Estudiantes."
     },
-    "resumen": "Tras el domingo libre, el plantel retoma hoy los entrenamientos en City Bell y el miércoles viaja a Montevideo. La final del sábado reparte 25 millones de dólares para el campeón, ante un Palmeiras que vale cuatro veces más.",
+    "resumen": "Miles de hinchas despidieron al plantel en City Bell y el Pincha ya está en Uruguay, con Correa entre los 27 convocados. Palmeiras, que perdió 3-0 con suplentes, también viajó para la final del sábado en el Centenario.",
     "siete": [
       {
-        "tema": "premio-final",
-        "titulo": "La final vale 25 millones de dólares",
-        "texto": "El campeón de la Libertadores se lleva 25 millones de dólares de premio de la Conmebol. Del otro lado, según Ámbito, hay un plantel que vale cuatro veces más que el del Pincha."
+        "tema": "viaje-montevideo",
+        "titulo": "El Pincha ya está en Montevideo",
+        "texto": "Miles de hinchas despidieron al plantel en el Country de City Bell y el colectivo salió rumbo al aeropuerto; el vuelo chárter aterrizó en Carrasco a la noche. El jueves entrena a puertas cerradas y el viernes abre 15 minutos a la prensa, con conferencia."
       },
       {
-        "tema": "palmeiras-previa-final",
-        "titulo": "Palmeiras recupera a Murilo y Piquerez",
-        "texto": "Según Gazeta Esportiva y Nosso Palestra, Murilo y Piquerez ya están disponibles (fueron al banco ante Flamengo); Paulinho sigue con el departamento médico. El martes 24 a las 18, en Chapecó, Abel pondría suplentes ante Chapecoense, y el miércoles el Verdão viaja a Montevideo."
+        "tema": "micros-oficiales",
+        "titulo": "Micros del club: salen el viernes a las 7 desde el UNO",
+        "texto": "Según el club, los micros oficiales salen el viernes 27 a las 7 (acreditación desde las 5.30) y los de agrupaciones, a las 12, para agilizar la frontera: viajan más de 6.500 personas. Hace falta DNI físico o pasaporte vigente; el DNI digital de Mi Argentina no sirve.",
+        "vence": "2026-11-27T23:59:00-03:00"
       },
       {
-        "tema": "sudamericana-2027",
-        "titulo": "Sudamericana 2027 asegurada, y la Recopa en juego",
-        "texto": "Con el título de Boca en la Sudamericana, Estudiantes ya tiene lugar en la Copa Sudamericana 2027. Si gana la final en Montevideo, el año que viene juega la Libertadores y además la Recopa Sudamericana contra Boca."
-      },
-      {
-        "tema": "tiago-palacios-conmebol",
-        "titulo": "La Conmebol pone a Tiago Palacios en vidriera",
-        "texto": "A seis días de la final, la cuenta oficial de la Libertadores le dedicó una publicación a Tiago Palacios, una de las figuras del Pincha en la Copa, con la camiseta albirroja y el UNO de fondo."
-      },
-      {
-        "tema": "hoja-de-ruta",
-        "titulo": "La hoja de ruta hasta el Centenario",
-        "texto": "Lunes y martes, práctica a las 9.30 en City Bell; el miércoles 25 entrena a las 10 y por la tarde viaja a Montevideo (para en el Hilton). Jueves y viernes, en el predio de Montevideo City Torque, con conferencia el viernes.",
-        "vence": "2026-11-25T23:59:00-03:00"
+        "tema": "convocados-final",
+        "titulo": "Medina viajó con 27 convocados, Correa incluido",
+        "texto": "La lista para la final tiene 27 jugadores y está Joaquín Correa, que entrena con la pelota y podría sumar minutos. También viajaron Baltasar Rodríguez, suspendido, y los juveniles Pierani, Pereyra y Van der Tuin."
       },
       {
         "tema": "equipo-sin-baltasar",
-        "titulo": "Sin Baltasar, el martes se define el reemplazo",
-        "texto": "Baltasar Rodríguez, expulsado ante Flamengo, no juega la final. Según Diario Hoy, Medina define el martes entre Fabricio Pérez y Monsalve para su lugar, y por la izquierda pelean Tobio Burgos y Tomás Palacios."
+        "novedad": "Medina probó a Benedetti con línea de cinco",
+        "titulo": "Sin Baltasar: Fabricio Pérez, Cetré o línea de cinco",
+        "texto": "Según 0221, Fabricio Pérez es el principal candidato para el lugar de Baltasar Rodríguez, con Cetré como alternativa; en City Bell, Medina también probó a Gastón Benedetti con línea de cinco. El equipo se define el viernes, en la última práctica."
       },
       {
-        "tema": "hinchas-montevideo",
-        "titulo": "Unos 35 mil pinchas, rumbo a Montevideo",
-        "texto": "Viajan 120 micros: 60 del club, que salen el viernes 27 por la tarde desde el UNO, y 60 de agrupaciones y filiales. Los barcos del viernes y el sábado están agotados, y también estarán en el Centenario campeones de 2009 invitados por el club."
+        "tema": "palmeiras-previa-final",
+        "novedad": "Palmeiras perdió 3-0 con Chapecoense y viajó a Montevideo",
+        "titulo": "Palmeiras perdió 3-0 con suplentes y ya viajó",
+        "texto": "Con un equipo alternativo, Palmeiras cayó 3-0 ante Chapecoense por el Brasileirão: suma cuatro partidos sin ganar (tres derrotas y un empate). El miércoles viajó a Montevideo, despedido por una multitud de hinchas."
+      },
+      {
+        "tema": "veron-hincha",
+        "titulo": "Verón, un hincha más en el Centenario",
+        "texto": "El presidente no viaja con la delegación: va por su cuenta y verá la final desde la platea, entre los hinchas, como hizo en las finales de Santiago del Estero y San Nicolás."
+      },
+      {
+        "tema": "hinchas-bicicleta",
+        "titulo": "A Montevideo, en bicicleta",
+        "texto": "Facundo Mensegues y Brian Froidevaux, dos hinchas de La Plata, llegaron a Montevideo pedaleando después de más de 600 kilómetros. Uno de los dos todavía no tiene entrada para la final."
       }
     ],
     "linea": [
       {
-        "hora": "2026-11-23T07:00:00-03:00",
-        "texto": "Palmeiras: suplentes ante Chapecoense el martes y viaje a Montevideo el miércoles.",
-        "fuente": "Gazeta Esportiva",
-        "url": "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-final-libertadores-viagem-uruguai/"
+        "hora": "2026-11-25T21:30:00-03:00",
+        "texto": "El Pincha llegó a Uruguay con 27 convocados y Correa trabajando para llegar.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/espana/agencias/2026/11/26/estudiantes-llega-a-uruguay-con-joaquin-correa-trabajando-para-poder-jugar-la-final/"
       },
       {
-        "hora": "2026-11-23T02:47:00-03:00",
-        "texto": "El Pincha arranca en City Bell la semana de la final.",
+        "hora": "2026-11-25T20:39:00-03:00",
+        "texto": "La lista de convocados para la final de la Libertadores.",
         "fuente": "El Día",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1NUeXJqSHFTZE9DanRvZ25SaF84VDJtQmZnR2ZUXy12Z0JyU1B0cHFkQjFJalc4S0tsYkhrTVNKVnpnRjBKZWIzR3N1SDY0ZkY0dV9QdzBHTzVpRWtsUUc2WHpkRlpPY09DVWJTQVVKZ3FwUHpMUmVydHRfMkVyR3NXVjRDNHo2T1BGMmZTeUJYc0xJdjB1TktUVzJTQQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX0x5aVhqZXhoUVlnajVQbzBkM1h3cXFLUVh6eHpLZWpuckZkN1pxVkFvRjFlX1FJbjkyOE9GUUZtMHh5Q3pDN25CWHlnT0J5WlF0NnRxOVdpckhfdmJsZVp5R0lqMkJ5S0Ftc1JuUktJV0F0cUkxeDN1bENfVUxjQkpDMER5LWJCRTh0N3VtMFRLbmFyM1NoaUFOVElDWTVCc3hQT2R1ekw3cDN4WTZoMDF6T1JWb2Z5aTRJN1RmU0VtaGNrRmNyNnozRUxzckQySFE?oc=5"
       },
       {
-        "hora": "2026-11-23T00:00:00-03:00",
-        "texto": "Ámbito: el Pincha va por 25 millones de dólares ante un Palmeiras que vale cuatro veces más.",
-        "fuente": "Ámbito",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWXlaOXByb2t5QUcweHItM1lZLVRib1NlSERTS3VnZ1d1QWYtcGt0WENVVkdzUjc3VVRydzkyOG5JaHFjRWtPd1ZmV1UxQy10YkFSZTJPYzk4d1p6TmNleWZMRFc4UTBULWFHTlJqbmd4RkRkX1BkNVJhTUVEU3ZDRzRYMW1nR3d3TG81VW5tdGtqQWxCYkJORXVPd1gzZnRpLWJnb1RRai1GT1RGRDB4Vjkta2FjWnhpd3J0QjNPb3ZxaDdqZWhHcHozSzNEakdwRUFmdUZR0gHbAUFVX3lxTFBqd0YtRHQyME00TmJIRkdfS3NxeUVmMGtHWVhiVUZrbWZEQllmLWR2XzZDWDZqQVpNS1dJRnBYcWJmMWdDTEJaRDktbE1qX0FXb2pWVGJsWDBZNXJzR3NKZTlXTVl2N282QTdXOWxveWNDZWhOS2RBT1lRUGN4TWoyQl9tSy02alotQko0emNuMTZ1dV9HeGdCcG9aZ3BSN0t1RE52djhBX2RhU3ZoQTZFN0R6b3NrUlFwTmJQTlpiSU4tRUtrYUlpQzYwZEpDZlN3Y3lhZVMxd09JYw?oc=5"
-      },
-      {
-        "hora": "2026-11-23T00:00:00-03:00",
-        "texto": "La agenda de Medina para la semana: prácticas, viaje y la duda por Baltasar.",
-        "fuente": "Diario Hoy",
-        "url": "https://diariohoy.net/el-clasico/estudiantes-afino-el-lapiz-y-el-cacique-armo-la-agenda-para-la-semana-de-la-final-290519"
-      },
-      {
-        "hora": "2026-11-22T16:44:00-03:00",
-        "texto": "La Conmebol destacó a Tiago Palacios a seis días de la final.",
+        "hora": "2026-11-25T20:27:00-03:00",
+        "texto": "Verón verá la final desde la platea, como un hincha más.",
         "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/la-copa-libertadores-destaco-tiago-palacios-seis-dias-la-final-estudiantes-y-palmeiras-n137852"
+        "url": "https://www.0221.com.ar/estudiantes/juan-sebastian-veron-sera-un-hincha-mas-montevideo-como-vivira-la-final-la-copa-libertadores-n138045"
       },
       {
-        "hora": "2026-11-22T15:02:00-03:00",
+        "hora": "2026-11-25T20:24:00-03:00",
+        "texto": "El video de la Conmebol que reúne a las leyendas del Pincha antes de la final.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/el-emotivo-video-de-la-conmebol-que-reune-a-las-leyendas-de-estudiantes-antes-de-la-final-de-la-nid25112026/"
+      },
+      {
+        "hora": "2026-11-25T19:15:00-03:00",
+        "texto": "Medina probó a Benedetti con línea de cinco para tapar el hueco de Baltasar.",
         "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/estudiantes-la-antesala-la-final-la-copa-libertadores-dia-libre-entrenamientos-y-viaje-montevideo-n137844",
-        "texto": "Día libre, vuelta a City Bell el lunes y viaje a Montevideo: la última semana del Pincha."
+        "url": "https://www.0221.com.ar/estudiantes/alexander-medina-probo-un-jugador-sorpresa-reemplazar-baltasar-rodriguez-palmeiras-n138037"
       },
       {
-        "hora": "2026-11-22T13:10:00-03:00",
+        "hora": "2026-11-25T17:48:00-03:00",
+        "texto": "Una multitud despidió al plantel en City Bell antes del viaje.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/una-multitud-hinchas-estudiantes-despidio-al-plantel-antes-del-viaje-montevideo-n138030"
+      },
+      {
+        "hora": "2026-11-25T17:36:00-03:00",
+        "texto": "Con las Copas ploteadas, el colectivo del Pincha partió al aeropuerto.",
+        "fuente": "Infocielo",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTl9ybWtnSHpxUDFIQTJYVEVETktpM0MzTVJXQ1dTdkJqbW5hcFVHQ0VsbUNVaU5JRUFSQldfZUxHYl9VMjZpeU1RWkVhS2hNMmw3RTVYQ1RRbWZEQ2xmV2tDZTdxWEFCN2dId09YLU1FTUlxNC0zcVplVVhpQUJGWG8xbkE2aFZJYV9scEtnanJRRldjdjdodWoyc1QxVGJNMG82cTg1T3hCWDF6MWxMbGpPdnpVcU9ueEdWYjhDQS1VQW45YjBkVWJmTHlwMzF1Ym0xd0lYNW55dw?oc=5"
+      },
+      {
+        "hora": "2026-11-25T17:10:00-03:00",
+        "texto": "Palmeiras viajó a Uruguay acompañado por una multitud de hinchas.",
+        "fuente": "TN",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWVZ2NmpKcGRDdDZQSl9GbnFGQ3RNRnhMMEJ2d1k4T2NwNF9QRDg2NEJ2RVZwaXc2UnNwdmVtczFkeG9Mb01MWXloYmdSY2hpUWtKVzRxYld0Wnk4b1ZWS3NwWDU1c1hRb2tHcUxtbVB4ZkRSTEpUaTNTTHkyek1OTDZjNXJPdy01M0ZZaXJLUXBybWI4MXRRMlVXcXBMTnNxMVpYaGNuNjhQTnVHOTJuWVcycFRVYzItNEg4ODVBU1RDRVEzZ1VMR1lvZ1VaRWRGaGlvdUdRWlVzamZrbWVLSGxjcUV6NmwtT0dqWVJ2S29iWkkxUFBQQ1d4bTY1dGZu0gGUAkFVX3lxTE1vRVJVdTFMVU1DVG05SnBUWEllUTRPZ2QzSGNpbXRldjZiOWlSNkp6enR5cmlPNDkwY1hrRHBxTTM3MHNLS2dneFRKbTRzU242WDBYbmZHY2N6TWdIRGtnMHJEUE12MVViSEdCeEdqSXJJUllqRzc3ME9tZ3NOUFp5eHFaUWxqVEpWY290N09Uc1BrblJTYmZJNE9lMUtwZzJzVmhLRVlrM2dXNHprZk9sc3J0Zk9VNS1aSy10NkdNZkN5UmtWS3ZLR0QyTHlPRFBZdEF0Q0ZiSHUxdk1RRVJSSEdudHh3Y0xLNmVvM09WR2dObE10SHdhSGNvUHllSVpkektqdGtJS3MtWVBNYTdyMk45WQ?oc=5"
+      },
+      {
+        "hora": "2026-11-25T16:37:00-03:00",
+        "texto": "Los hinchas que viajaron en bicicleta ya llegaron a Montevideo.",
+        "fuente": "El Día",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHJRd21LVFY2UXh4NEVEVE5qNzlNbEJRVlI3MEFRSTVFUnpnUnkxNmZRRldNM1h2TUpTc0xFbGxOZ3FCMENlVldoVkFWSEhWTVl1elZ2M2NWRjQwTlFKSUJlMmxvVGRfVko4eUtlSWRadTVsWDNjWFJ5QUQtSEktdjhEOUpNU29xWG5qM1VNWklsQ2NzNERUN0RJemxWaTJUVlRhaEZVWHU3bEFMVEhRZ1VNb3JvRnRnX2p4TldqZFlManBjUHRaYTZFbFI?oc=5"
+      },
+      {
+        "hora": "2026-11-25T09:11:00-03:00",
+        "texto": "Gendarmería controlará más de 120 micros de hinchas en Gualeguaychú.",
+        "fuente": "R2820",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTUxaem9uMmoyWTBZU0tIaEFVdlZyX1hfaThfWGdJS21FbVFkRWlRbm52V3JmSFRFdGlRdnRULXJMeGZPM2VEQ1VoazdMS0JQMnRBSFFKLWRiblY5WnJDUjhvdEFZQVdvT0RfSTByVDRKWV9MclFjZTQ2Z2xGbU0xSkE5d0dBOTBrbkhzc0plZzd2d2JsMFF6Yk9WTlY4NXI4WTFpVWZsWlN5endIY1ZQTmhHdUs0WEJLMmdkQm9WbnVaRU1scmNiRHV1SFhjaEVDaWNUaGZwb1ljLTlMWGZXZl9SQlQwQ3dpQ1BBRdIB8gFBVV95cUxPNzVfNXJWeFYwakwydHNkR01QN3J4NF9rUmJCcmdIVUhoYnJKTUtzdEdUR240NlZaTHloMmhnN1RZSDYzME9uRVNPcEtnaHhNM0lDblh0UXRfMUc0cTJnVXhTTzdUcmRfUmFsdG8zUDI5bmxQaEpweHNQUkNOWlJ5SG9mT2t5N0xMaURlSG40dVFzY0Q2NEVlTmx2Q3NXYUpKSlJrVHNZMDFpeThhNHZyMWVDRnFVa3hoZWhVS3Q2UGI5U0RnV0NLazNGWGdzcG9rZGF5elNqYzhRQi1FUmFicFhoMGM2dXZnTWNNQ1ByUDROdw?oc=5"
+      },
+      {
+        "hora": "2026-11-24T21:02:00-03:00",
+        "texto": "River negocia por Tomás Palacios, según Perfil.",
+        "fuente": "Perfil",
+        "url": "https://www.perfil.com/deportes/river-quiere-a-una-figura-del-futbol-argentino-negocia-a-fondo-por-tomas-palacios-joya-de-estudiantes-awK9V2T6Xnib"
+      },
+      {
+        "hora": "2026-11-24T20:18:00-03:00",
+        "texto": "Chapecoense le hizo tres a un Palmeiras con suplentes.",
         "fuente": "Olé",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUFxZkpCS2JBTW1NRkdYX1E5bmpBU2p6MmxJVm96SWNkaG9BdXVIaUdoZ2tBLTJ6OV9iakdmaVFvUWRqcERRVzExWFRZbXBhZmVfeWZXc0xTT1BUbl9aUE9YX0tHaEpmYnBDZm1Pd0d1dFhQaVJJVE8tdUNRa1RmbVpEUzFHemlqNXpCWE9fV18wYjBzUjV6YkxhQUFMYXFiTVlrdkI4cmktMlFVSDJ4TnAtQnZVMHUyUUE?oc=5",
-        "texto": "Abel Ferreira palpitó la final: \"Nuestro equipo luchará por ser campeón\"."
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWlHYXZodnVSWl9fa2JTMDR0U2NUYUhaQV9ua01mRVZHRlh2OG9jWndpeFV6OGhlNnVNOWp1MlptOWtvQXYwNkJtbElJaVllVVpFUWxHRm14RVJnMWdOakVwOGJpYzBnc3E3QlBoNlV1Y2FZRVFFOXpPM09RMFo4Sm5hbG5fZGxJTWxPeUMyLXZxSW5TdGcxSG5sUlNHa1VB?oc=5"
       },
       {
-        "hora": "2026-11-22T12:03:00-03:00",
-        "texto": "El Pincha podría jugar la Recopa de Campeones en La Plata para arrancar el 2027.",
-        "fuente": "Punto Capital",
-        "url": "https://www.puntocapitalnoticias.com/estudiantes-podria-jugar-la-recopa-de-campeones-en-la-plata-y-arrancar-el-2027-con-una-nueva-ilusion/"
-      },
-      {
-        "hora": "2026-11-22T11:58:00-03:00",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/alexander-medina-hablo-la-emocion-estudiantes-y-dejo-un-mensaje-la-final-la-copa-libertadores-n137839",
-        "texto": "Medina, en una entrevista con la Conmebol: la emoción del equipo y su confianza para la final."
-      },
-      {
-        "hora": "2026-11-22T00:00:00-03:00",
-        "fuente": "Diario Hoy",
-        "url": "https://diariohoy.net/el-clasico/de-bilardo-a-medina-la-particular-historia-de-sosa-con-cinco-entrenadores-en-estudiantes-290498",
-        "texto": "De Bilardo a Medina: los cinco entrenadores que tuvo Sosa en Estudiantes."
-      },
-      {
-        "hora": "2026-11-21T21:29:00-03:00",
-        "fuente": "Infocielo",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb2NySGxUTFhWUGVaWHl1MkFiZ2N6aDNWZGhSSnJLUGpoUlhrdkZBc1A4WkZydjQ0elNRcGNtb0VnNjhHSk5VVzlvUTktcmhNaDlyc1FHZHJWUFhLT1ZoWUF5ekk0bm94WHpSMFl6TWtySlRaOE14OXRSR2hzdW9uUTNNNEpJUmtyR3BlSlNnTXM2cDV4TFVpTTBVYVpiOU1RbjhJdUFrQXZkS09CUEpud3lKaE1xNjBLaDZyVVJCMFl0YWJxSnVMQjZ6Qmk0NWlKRllabkJBQ2QxOTE5WHlJTQ?oc=5",
-        "texto": "Con un gol de Ascacíbar, Boca fue campeón de la Sudamericana y metió al Pincha en la edición 2027."
-      },
-      {
-        "hora": "2026-11-21T18:25:00-03:00",
-        "fuente": "Bola na Rede",
-        "url": "https://bolanarede.pt/especial-bola-na-rede/atualidade/flamengo-de-leonardo-jardim-empata-contra-abel-ferreira-e-vence-o-brasileirao/",
-        "texto": "Palmeiras empató 1-1 con Flamengo, que es campeón del Brasileirão."
-      },
-      {
-        "hora": "2026-11-21T16:07:00-03:00",
-        "fuente": "Infocielo",
-        "url": "https://www.infocielo.com/deportes/cerrar-los-ojos-y-creer-la-campana-que-empezo-a-palpitar-la-final-de-estudiantes-por-las-calles-de-la-ciudad",
-        "texto": "\"Cerrar los ojos y creer\": la campaña de afiches que palpita la final en las calles."
-      },
-      {
-        "hora": "2026-11-21T12:22:00-03:00",
+        "hora": "2026-11-24T19:15:00-03:00",
+        "texto": "La guía de recomendaciones para los hinchas que viajan a Uruguay.",
         "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/video-el-cacique-medina-palpita-la-gran-final-tenemos-la-emocion-a-flor-de-piel-deportes_1795274280",
-        "texto": "Medina palpita la final: \"Con la emoción a flor de piel, por lo general jugamos bien\"."
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSjIxYThWXzJRbDVfenE5SmZlelVmQXRWZDMxa0JOTWFqY2c5Z3FpNG9LY2FlWjJ1YVIwejNJdFJ2VVVLc2VtajlLeEd2MTQwNjBnWi0tbEgtTkJZTTIxYm9GVFBYd3JKXzFPdEVyUTk5NkxuNGxiUjdpbUtkRjM3cGFjZmpGV1V2djRMZVZQblEwc1UwbGs5clJKQzVzQ09JRHlDXy1RS1g5dG8zUTEzVURqYm5BSDM4SHZWZEU2aXROOFhBNWQtQlBjbjdLYkZaZ3Z6aFlfd3JaNmxnUlplOElyUUtKQW83Q2pz?oc=5"
+      },
+      {
+        "hora": "2026-11-23T08:54:00-03:00",
+        "texto": "Micros a Montevideo: horarios de salida y documentación obligatoria.",
+        "fuente": "Club",
+        "url": "https://estudiantesdelaplata.com/micros-a-montevideo-informacion-importante/"
       }
     ]
   },

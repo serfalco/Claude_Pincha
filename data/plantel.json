@@ -1,6 +1,6 @@
 {
   "_info": "Memoria de bajas entre corridas: suspensiones, lesiones y altas del plantel y del rival que viene. No se publica: lo usan la cobertura (alertas) y el build (que las Siete no contradigan esto). Ver ACTUALIZAR.md › Verificación.",
-  "actualizado": "2026-11-23T08:07:00-03:00",
+  "actualizado": "2026-11-25T22:07:00-03:00",
   "bajas": [
     {
       "jugador": "Baltasar Rodríguez",
@@ -27,13 +27,15 @@
       "equipo": "Estudiantes",
       "estado": "en duda",
       "motivo": "lesión",
-      "detalle": "Desgarro grado 2 en el bíceps femoral de la pierna derecha; según El Día (20/11) está en la etapa final de la recuperación: la idea es que sea titular, o que entre en el segundo tiempo si no llega. Sin alta confirmada.",
+      "detalle": "Desgarro grado 2 en el bíceps femoral derecho. Entrenó a la par del grupo el 23 y 24/11 (0221) y viajó a Montevideo entre los 27 convocados; trabaja con la pelota y podría sumar minutos (EFE/Infobae, 25/11). Sin alta médica confirmada.",
       "hasta": "Sin alta médica confirmada",
       "fuentes": [
         "https://www.0221.com.ar/estudiantes/joaquin-correa-trabaja-contrarreloj-estudiantes-la-ilusion-llegar-la-final-la-copa-libertadores-n137490",
         "https://www.eldia.com/deportes/correa-acelera-su-puesta-a-punto-para-la-gran-final-deportes_1794733130",
         "https://www.0221.com.ar/estudiantes/la-agenda-definitiva-estudiantes-la-final-la-copa-libertadores-n137680",
-        "https://www.eldia.com/deportes/estudiantes-medina-analiza-variantes-y-aguarda-por-correa-deportes_1795154679"
+        "https://www.eldia.com/deportes/estudiantes-medina-analiza-variantes-y-aguarda-por-correa-deportes_1795154679",
+        "https://www.0221.com.ar/estudiantes/con-joaquin-correa-la-par-y-la-ilusion-intacta-estudiantes-ultima-detalles-la-copa-libertadores-n137942",
+        "https://www.infobae.com/espana/agencias/2026/11/26/estudiantes-llega-a-uruguay-con-joaquin-correa-trabajando-para-poder-jugar-la-final/"
       ]
     },
     {

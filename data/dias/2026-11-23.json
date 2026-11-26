@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-10-21_medina-los-lleva-a-todos_1",
+    "alt": {
+      "es": "El cuerpo técnico de Estudiantes conversa durante un entrenamiento en City Bell.",
+      "en": "Estudiantes' coaching staff talk during a training session in City Bell.",
+      "pt": "A comissão técnica do Estudiantes conversa durante um treino em City Bell.",
+      "zh": "Estudiantes教练组在City Bell训练时交谈。",
+      "hi": "City Bell में ट्रेनिंग के दौरान बातचीत करता Estudiantes का कोचिंग स्टाफ़।"
+    }
+  },
   "siete": [
     {
       "tema": "premio-final",
@@ -158,17 +168,19 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-10-21_medina-los-lleva-a-todos_1",
-    "alt": {
-      "es": "El cuerpo técnico de Estudiantes conversa durante un entrenamiento en City Bell.",
-      "en": "Estudiantes' coaching staff talk during a training session in City Bell.",
-      "pt": "A comissão técnica do Estudiantes conversa durante um treino em City Bell.",
-      "zh": "Estudiantes教练组在City Bell训练时交谈。",
-      "hi": "City Bell में ट्रेनिंग के दौरान बातचीत करता Estudiantes का कोचिंग स्टाफ़।"
-    }
-  },
   "linea": [
+    {
+      "hora": "2026-11-23T08:54:00-03:00",
+      "fuente": "Club",
+      "url": "https://estudiantesdelaplata.com/micros-a-montevideo-informacion-importante/",
+      "texto": {
+        "es": "Micros a Montevideo: horarios de salida y documentación obligatoria.",
+        "en": "Coaches to Montevideo: departure times and required documents.",
+        "pt": "Ônibus para Montevidéu: horários de saída e documentos obrigatórios.",
+        "zh": "前往蒙得维的亚的大巴：出发时间与必备证件。",
+        "hi": "मोंटेवीडियो की बसें: रवाना होने का समय और ज़रूरी दस्तावेज़।"
+      }
+    },
     {
       "hora": "2026-11-23T07:00:00-03:00",
       "fuente": "Gazeta Esportiva",

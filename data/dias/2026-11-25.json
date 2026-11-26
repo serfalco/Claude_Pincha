@@ -1,0 +1,295 @@
+{
+  "fecha": "2026-11-25",
+  "titular": {
+    "es": "El Pincha ya está en Montevideo: despedida multitudinaria y 27 convocados para la final",
+    "en": "The Pincha are in Montevideo: a huge send-off and a 27-man squad for the final",
+    "pt": "O Pincha já está em Montevidéu: despedida com multidão e 27 relacionados para a final",
+    "zh": "Pincha已抵达蒙得维的亚：球迷盛大送行，27人出征决赛",
+    "hi": "Pincha मोंटेवीडियो में: शानदार विदाई और फ़ाइनल के लिए 27 खिलाड़ी"
+  },
+  "resumen": {
+    "es": "Miles de hinchas despidieron al plantel en City Bell y el Pincha ya está en Uruguay, con Correa entre los 27 convocados. Palmeiras, que perdió 3-0 con suplentes, también viajó para la final del sábado en el Centenario.",
+    "en": "Thousands of fans saw the squad off in City Bell and the Pincha are now in Uruguay, with Correa among the 27 players called up. Palmeiras, beaten 3-0 with a second-string side, have also travelled for Saturday's final at the Centenario.",
+    "pt": "Milhares de torcedores se despediram do elenco em City Bell e o Pincha já está no Uruguai, com Correa entre os 27 relacionados. O Palmeiras, que perdeu por 3 a 0 com reservas, também viajou para a final de sábado no Centenario.",
+    "zh": "数千名球迷在City Bell为球队送行，Pincha已抵达乌拉圭，Correa入选27人大名单。以替补0比3落败的帕尔梅拉斯（Palmeiras）也已启程，备战周六在Centenario进行的决赛。",
+    "hi": "City Bell में हज़ारों फ़ैन्स ने टीम को विदा किया और Pincha अब उरुग्वे में है, 27 खिलाड़ियों में Correa भी शामिल हैं। रिज़र्व टीम के साथ 3-0 से हारा Palmeiras भी शनिवार को Centenario में होने वाले फ़ाइनल के लिए रवाना हो गया।"
+  },
+  "ultimo": {
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral",
+    "goles": [
+      {
+        "jugador": "Carrillo",
+        "min": "55"
+      },
+      {
+        "jugador": "Villalba",
+        "min": "68",
+        "ec": true
+      },
+      {
+        "jugador": "Alario",
+        "min": "96"
+      }
+    ]
+  },
+  "siete": [
+    {
+      "tema": "viaje-montevideo",
+      "titulo": {
+        "es": "El Pincha ya está en Montevideo",
+        "en": "The Pincha are already in Montevideo",
+        "pt": "O Pincha já está em Montevidéu",
+        "zh": "Pincha已抵达蒙得维的亚",
+        "hi": "Pincha मोंटेवीडियो पहुँच गया"
+      },
+      "texto": {
+        "es": "Miles de hinchas despidieron al plantel en el Country de City Bell y el colectivo salió rumbo al aeropuerto; el vuelo chárter aterrizó en Carrasco a la noche. El jueves entrena a puertas cerradas y el viernes abre 15 minutos a la prensa, con conferencia.",
+        "en": "Thousands of fans saw the squad off at the City Bell Country Club before the team bus left for the airport; the charter flight landed at Carrasco in the evening. Thursday's training is behind closed doors and on Friday the press get 15 minutes, plus a press conference.",
+        "pt": "Milhares de torcedores se despediram do elenco no Country de City Bell e o ônibus partiu para o aeroporto; o voo fretado pousou em Carrasco à noite. Na quinta o treino é fechado e na sexta a imprensa acompanha 15 minutos, com entrevista coletiva.",
+        "zh": "数千名球迷在City Bell的俱乐部训练基地为球队送行，大巴随后驶往机场；包机于晚间降落在卡拉斯科机场。周四闭门训练，周五向媒体开放15分钟，并举行新闻发布会。",
+        "hi": "हज़ारों फ़ैन्स ने City Bell के Country Club में टीम को विदा किया और बस एयरपोर्ट के लिए रवाना हुई; चार्टर फ़्लाइट रात को Carrasco में उतरी। गुरुवार को बंद दरवाज़ों के पीछे अभ्यास होगा और शुक्रवार को मीडिया के लिए 15 मिनट खुले रहेंगे, साथ में प्रेस कॉन्फ़्रेंस।"
+      }
+    },
+    {
+      "tema": "micros-oficiales",
+      "titulo": {
+        "es": "Micros del club: salen el viernes a las 7 desde el UNO",
+        "en": "Club coaches leave the UNO on Friday at 7am",
+        "pt": "Ônibus do clube saem na sexta às 7h do UNO",
+        "zh": "俱乐部大巴周五早上7点从el UNO出发",
+        "hi": "क्लब की बसें शुक्रवार सुबह 7 बजे el UNO से"
+      },
+      "texto": {
+        "es": "Según el club, los micros oficiales salen el viernes 27 a las 7 (acreditación desde las 5.30) y los de agrupaciones, a las 12, para agilizar la frontera: viajan más de 6.500 personas. Hace falta DNI físico o pasaporte vigente; el DNI digital de Mi Argentina no sirve.",
+        "en": "According to the club, the official coaches leave on Friday 27th at 7am (check-in from 5.30am) and the supporters' groups' coaches at midday, to speed up the border crossing: more than 6,500 people are travelling. A physical ID card or valid passport is required; the Mi Argentina digital ID is not accepted.",
+        "pt": "Segundo o clube, os ônibus oficiais saem na sexta, dia 27, às 7h (credenciamento a partir das 5h30), e os das torcidas organizadas ao meio-dia, para agilizar a fronteira: viajam mais de 6.500 pessoas. É preciso RG físico (DNI) ou passaporte válido; o DNI digital do Mi Argentina não vale.",
+        "zh": "据俱乐部消息，官方大巴于27日周五早上7点出发（5点30分开始登记），球迷团体的大巴中午12点出发，以便加快过境：出行人数超过6,500人。须携带实体身份证（DNI）或有效护照；Mi Argentina的电子身份证无效。",
+        "hi": "क्लब के मुताबिक़ आधिकारिक बसें शुक्रवार 27 को सुबह 7 बजे (5.30 से रजिस्ट्रेशन) और फ़ैन समूहों की बसें दोपहर 12 बजे निकलेंगी, ताकि सीमा पर जाँच जल्दी हो: 6,500 से ज़्यादा लोग जा रहे हैं। फ़िज़िकल DNI या वैध पासपोर्ट ज़रूरी है; Mi Argentina का डिजिटल DNI मान्य नहीं।"
+      }
+    },
+    {
+      "tema": "convocados-final",
+      "titulo": {
+        "es": "Medina viajó con 27 convocados, Correa incluido",
+        "en": "Medina travelled with a 27-man squad, Correa included",
+        "pt": "Medina viajou com 27 relacionados, incluindo Correa",
+        "zh": "Medina带27人出征，Correa在列",
+        "hi": "Medina 27 खिलाड़ियों के साथ गए, Correa भी शामिल"
+      },
+      "texto": {
+        "es": "La lista para la final tiene 27 jugadores y está Joaquín Correa, que entrena con la pelota y podría sumar minutos. También viajaron Baltasar Rodríguez, suspendido, y los juveniles Pierani, Pereyra y Van der Tuin.",
+        "en": "The squad list for the final has 27 players and includes Joaquín Correa, who is training with the ball and could get some minutes. The suspended Baltasar Rodríguez and youngsters Pierani, Pereyra and Van der Tuin also travelled.",
+        "pt": "A lista para a final tem 27 jogadores e inclui Joaquín Correa, que treina com bola e pode ganhar minutos. Também viajaram Baltasar Rodríguez, suspenso, e os jovens Pierani, Pereyra e Van der Tuin.",
+        "zh": "决赛名单共27人，Joaquín Correa入选，他已恢复带球训练，有望获得出场时间。停赛的Baltasar Rodríguez以及年轻球员Pierani、Pereyra和Van der Tuin也随队出行。",
+        "hi": "फ़ाइनल की सूची में 27 खिलाड़ी हैं, जिनमें Joaquín Correa भी हैं, जो गेंद के साथ अभ्यास कर रहे हैं और कुछ मिनट खेल सकते हैं। निलंबित Baltasar Rodríguez और युवा खिलाड़ी Pierani, Pereyra और Van der Tuin भी साथ गए।"
+      }
+    },
+    {
+      "tema": "equipo-sin-baltasar",
+      "novedad": "Medina probó a Benedetti con línea de cinco",
+      "titulo": {
+        "es": "Sin Baltasar: Fabricio Pérez, Cetré o línea de cinco",
+        "en": "Without Baltasar: Fabricio Pérez, Cetré or a back five",
+        "pt": "Sem Baltasar: Fabricio Pérez, Cetré ou linha de cinco",
+        "zh": "没有Baltasar：Fabricio Pérez、Cetré还是五后卫",
+        "hi": "Baltasar के बिना: Fabricio Pérez, Cetré या पाँच डिफ़ेंडर"
+      },
+      "texto": {
+        "es": "Según 0221, Fabricio Pérez es el principal candidato para el lugar de Baltasar Rodríguez, con Cetré como alternativa; en City Bell, Medina también probó a Gastón Benedetti con línea de cinco. El equipo se define el viernes, en la última práctica.",
+        "en": "According to 0221, Fabricio Pérez is the favourite to replace Baltasar Rodríguez, with Cetré as the alternative; in City Bell Medina also tried Gastón Benedetti in a back five. The line-up will be settled on Friday, in the last training session.",
+        "pt": "Segundo o 0221, Fabricio Pérez é o principal candidato à vaga de Baltasar Rodríguez, com Cetré como alternativa; em City Bell, Medina também testou Gastón Benedetti numa linha de cinco. O time será definido na sexta, no último treino.",
+        "zh": "据0221报道，Fabricio Pérez是顶替Baltasar Rodríguez的头号人选，Cetré为备选；在City Bell，Medina还演练了让Gastón Benedetti出场的五后卫阵型。首发阵容将在周五最后一堂训练课上确定。",
+        "hi": "0221 के मुताबिक़ Baltasar Rodríguez की जगह के लिए Fabricio Pérez सबसे आगे हैं और Cetré विकल्प हैं; City Bell में Medina ने Gastón Benedetti के साथ पाँच डिफ़ेंडरों वाली लाइन भी आज़माई। टीम शुक्रवार के आख़िरी अभ्यास में तय होगी।"
+      }
+    },
+    {
+      "tema": "palmeiras-previa-final",
+      "novedad": "Palmeiras perdió 3-0 con Chapecoense y viajó a Montevideo",
+      "titulo": {
+        "es": "Palmeiras perdió 3-0 con suplentes y ya viajó",
+        "en": "Palmeiras lost 3-0 with a second-string side and have already travelled",
+        "pt": "Palmeiras perdeu por 3 a 0 com reservas e já viajou",
+        "zh": "帕尔梅拉斯（Palmeiras）替补0比3落败，已启程",
+        "hi": "Palmeiras रिज़र्व टीम के साथ 3-0 से हारा और रवाना हो गया"
+      },
+      "texto": {
+        "es": "Con un equipo alternativo, Palmeiras cayó 3-0 ante Chapecoense por el Brasileirão: suma cuatro partidos sin ganar (tres derrotas y un empate). El miércoles viajó a Montevideo, despedido por una multitud de hinchas.",
+        "en": "With an alternative line-up, Palmeiras lost 3-0 to Chapecoense in the Brasileirão: that is four games without a win (three defeats and a draw). On Wednesday they travelled to Montevideo, seen off by a huge crowd of fans.",
+        "pt": "Com um time alternativo, o Palmeiras perdeu por 3 a 0 para a Chapecoense pelo Brasileirão: são quatro jogos sem vencer (três derrotas e um empate). Na quarta viajou para Montevidéu, com festa de uma multidão de torcedores.",
+        "zh": "帕尔梅拉斯以替补阵容在巴甲中0比3负于Chapecoense，已连续四场不胜（三负一平）。周三球队在大批球迷的欢送下飞往蒙得维的亚。",
+        "hi": "वैकल्पिक टीम के साथ Palmeiras ब्राज़ीलियाई लीग में Chapecoense से 3-0 से हार गया: लगातार चार मैचों से जीत नहीं (तीन हार और एक ड्रॉ)। बुधवार को बड़ी संख्या में फ़ैन्स की विदाई के बीच टीम मोंटेवीडियो रवाना हुई।"
+      }
+    },
+    {
+      "tema": "veron-hincha",
+      "titulo": {
+        "es": "Verón, un hincha más en el Centenario",
+        "en": "Verón, just another fan at the Centenario",
+        "pt": "Verón, mais um torcedor no Centenario",
+        "zh": "Verón将作为普通球迷现身Centenario",
+        "hi": "Verón, Centenario में एक आम फ़ैन"
+      },
+      "texto": {
+        "es": "El presidente no viaja con la delegación: va por su cuenta y verá la final desde la platea, entre los hinchas, como hizo en las finales de Santiago del Estero y San Nicolás.",
+        "en": "The president is not travelling with the official party: he is making his own way there and will watch the final from the stands among the fans, as he did at the finals in Santiago del Estero and San Nicolás.",
+        "pt": "O presidente não viaja com a delegação: vai por conta própria e verá a final da arquibancada, entre os torcedores, como fez nas finais de Santiago del Estero e San Nicolás.",
+        "zh": "主席Verón不随代表团出行：他将自行前往，在看台上与球迷一起观看决赛，就像他在圣地亚哥-德尔埃斯特罗和圣尼古拉斯的决赛中那样。",
+        "hi": "अध्यक्ष Verón टीम के साथ नहीं जा रहे: वे अपने तौर पर जाएँगे और स्टैंड में फ़ैन्स के बीच बैठकर फ़ाइनल देखेंगे, जैसा उन्होंने Santiago del Estero और San Nicolás के फ़ाइनल में किया था।"
+      }
+    },
+    {
+      "tema": "hinchas-bicicleta",
+      "titulo": {
+        "es": "A Montevideo, en bicicleta",
+        "en": "To Montevideo by bike",
+        "pt": "Para Montevidéu, de bicicleta",
+        "zh": "骑自行车去蒙得维的亚",
+        "hi": "साइकिल से मोंटेवीडियो"
+      },
+      "texto": {
+        "es": "Facundo Mensegues y Brian Froidevaux, dos hinchas de La Plata, llegaron a Montevideo pedaleando después de más de 600 kilómetros. Uno de los dos todavía no tiene entrada para la final.",
+        "en": "Facundo Mensegues and Brian Froidevaux, two fans from La Plata, reached Montevideo by bicycle after more than 600 kilometres. One of them still has no ticket for the final.",
+        "pt": "Facundo Mensegues e Brian Froidevaux, dois torcedores de La Plata, chegaram a Montevidéu pedalando depois de mais de 600 quilômetros. Um deles ainda não tem ingresso para a final.",
+        "zh": "两名来自拉普拉塔的球迷Facundo Mensegues和Brian Froidevaux骑行600多公里抵达蒙得维的亚。其中一人还没有决赛门票。",
+        "hi": "La Plata के दो फ़ैन्स Facundo Mensegues और Brian Froidevaux 600 किलोमीटर से ज़्यादा साइकिल चलाकर मोंटेवीडियो पहुँचे। दोनों में से एक के पास अभी फ़ाइनल का टिकट नहीं है।"
+      }
+    }
+  ],
+  "foto": {
+    "id": "2026-08-17_los-que-viajaron-a-chile_1",
+    "alt": {
+      "es": "Alexander Medina, sonriente, durante un entrenamiento de Estudiantes.",
+      "en": "Alexander Medina smiles during an Estudiantes training session.",
+      "pt": "Alexander Medina sorri durante um treino do Estudiantes.",
+      "zh": "Alexander Medina在Estudiantes训练中露出笑容。",
+      "hi": "Estudiantes के अभ्यास के दौरान मुस्कुराते Alexander Medina।"
+    }
+  },
+  "linea": [
+    {
+      "hora": "2026-11-25T21:30:00-03:00",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/espana/agencias/2026/11/26/estudiantes-llega-a-uruguay-con-joaquin-correa-trabajando-para-poder-jugar-la-final/",
+      "texto": {
+        "es": "El Pincha llegó a Uruguay con 27 convocados y Correa trabajando para llegar.",
+        "en": "The Pincha arrived in Uruguay with 27 players and Correa working to be fit.",
+        "pt": "O Pincha chegou ao Uruguai com 27 relacionados e Correa trabalhando para jogar.",
+        "zh": "Pincha带着27名球员抵达乌拉圭，Correa正努力赶上决赛。",
+        "hi": "Pincha 27 खिलाड़ियों के साथ उरुग्वे पहुँचा, Correa फ़िट होने की कोशिश में।"
+      }
+    },
+    {
+      "hora": "2026-11-25T20:39:00-03:00",
+      "fuente": "El Día",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX0x5aVhqZXhoUVlnajVQbzBkM1h3cXFLUVh6eHpLZWpuckZkN1pxVkFvRjFlX1FJbjkyOE9GUUZtMHh5Q3pDN25CWHlnT0J5WlF0NnRxOVdpckhfdmJsZVp5R0lqMkJ5S0Ftc1JuUktJV0F0cUkxeDN1bENfVUxjQkpDMER5LWJCRTh0N3VtMFRLbmFyM1NoaUFOVElDWTVCc3hQT2R1ekw3cDN4WTZoMDF6T1JWb2Z5aTRJN1RmU0VtaGNrRmNyNnozRUxzckQySFE?oc=5",
+      "texto": {
+        "es": "La lista de convocados para la final de la Libertadores.",
+        "en": "The squad list for the Copa Libertadores final.",
+        "pt": "A lista de relacionados para a final da Copa Libertadores.",
+        "zh": "Copa Libertadores决赛大名单出炉。",
+        "hi": "Copa Libertadores फ़ाइनल के लिए टीम की सूची।"
+      }
+    },
+    {
+      "hora": "2026-11-25T20:27:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/juan-sebastian-veron-sera-un-hincha-mas-montevideo-como-vivira-la-final-la-copa-libertadores-n138045",
+      "texto": {
+        "es": "Verón verá la final desde la platea, como un hincha más.",
+        "en": "Verón will watch the final from the stands, just another fan.",
+        "pt": "Verón verá a final da arquibancada, como mais um torcedor.",
+        "zh": "Verón将在看台上以普通球迷身份观看决赛。",
+        "hi": "Verón एक आम फ़ैन की तरह स्टैंड से फ़ाइनल देखेंगे।"
+      }
+    },
+    {
+      "hora": "2026-11-25T20:24:00-03:00",
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/el-emotivo-video-de-la-conmebol-que-reune-a-las-leyendas-de-estudiantes-antes-de-la-final-de-la-nid25112026/",
+      "texto": {
+        "es": "El video de la Conmebol que reúne a las leyendas del Pincha antes de la final.",
+        "en": "The CONMEBOL video bringing together Pincha legends before the final.",
+        "pt": "O vídeo da Conmebol que reúne as lendas do Pincha antes da final.",
+        "zh": "南美足联发布视频，汇集Pincha传奇人物迎接决赛。",
+        "hi": "फ़ाइनल से पहले Pincha के दिग्गजों को साथ लाता CONMEBOL का वीडियो।"
+      }
+    },
+    {
+      "hora": "2026-11-25T19:15:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/alexander-medina-probo-un-jugador-sorpresa-reemplazar-baltasar-rodriguez-palmeiras-n138037",
+      "texto": {
+        "es": "Medina probó a Benedetti con línea de cinco para tapar el hueco de Baltasar.",
+        "en": "Medina tried Benedetti in a back five to fill Baltasar's gap.",
+        "pt": "Medina testou Benedetti numa linha de cinco para suprir a ausência de Baltasar.",
+        "zh": "Medina演练Benedetti出场的五后卫阵型以填补Baltasar的空缺。",
+        "hi": "Baltasar की कमी भरने के लिए Medina ने Benedetti के साथ पाँच डिफ़ेंडर आज़माए।"
+      }
+    },
+    {
+      "hora": "2026-11-25T17:48:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/una-multitud-hinchas-estudiantes-despidio-al-plantel-antes-del-viaje-montevideo-n138030",
+      "texto": {
+        "es": "Una multitud despidió al plantel en City Bell antes del viaje.",
+        "en": "A huge crowd saw the squad off in City Bell before the trip.",
+        "pt": "Uma multidão se despediu do elenco em City Bell antes da viagem.",
+        "zh": "大批球迷在City Bell为球队出征送行。",
+        "hi": "यात्रा से पहले City Bell में भारी भीड़ ने टीम को विदा किया।"
+      }
+    },
+    {
+      "hora": "2026-11-25T17:36:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTl9ybWtnSHpxUDFIQTJYVEVETktpM0MzTVJXQ1dTdkJqbW5hcFVHQ0VsbUNVaU5JRUFSQldfZUxHYl9VMjZpeU1RWkVhS2hNMmw3RTVYQ1RRbWZEQ2xmV2tDZTdxWEFCN2dId09YLU1FTUlxNC0zcVplVVhpQUJGWG8xbkE2aFZJYV9scEtnanJRRldjdjdodWoyc1QxVGJNMG82cTg1T3hCWDF6MWxMbGpPdnpVcU9ueEdWYjhDQS1VQW45YjBkVWJmTHlwMzF1Ym0xd0lYNW55dw?oc=5",
+      "texto": {
+        "es": "Con las Copas ploteadas, el colectivo del Pincha partió al aeropuerto.",
+        "en": "With the trophies on its livery, the Pincha team bus left for the airport.",
+        "pt": "Com as taças estampadas, o ônibus do Pincha partiu para o aeroporto.",
+        "zh": "印有历届奖杯图案的Pincha大巴驶向机场。",
+        "hi": "ट्रॉफ़ियों की तस्वीरों से सजी Pincha की बस एयरपोर्ट के लिए निकली।"
+      }
+    },
+    {
+      "hora": "2026-11-25T17:10:00-03:00",
+      "fuente": "TN",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWVZ2NmpKcGRDdDZQSl9GbnFGQ3RNRnhMMEJ2d1k4T2NwNF9QRDg2NEJ2RVZwaXc2UnNwdmVtczFkeG9Mb01MWXloYmdSY2hpUWtKVzRxYld0Wnk4b1ZWS3NwWDU1c1hRb2tHcUxtbVB4ZkRSTEpUaTNTTHkyek1OTDZjNXJPdy01M0ZZaXJLUXBybWI4MXRRMlVXcXBMTnNxMVpYaGNuNjhQTnVHOTJuWVcycFRVYzItNEg4ODVBU1RDRVEzZ1VMR1lvZ1VaRWRGaGlvdUdRWlVzamZrbWVLSGxjcUV6NmwtT0dqWVJ2S29iWkkxUFBQQ1d4bTY1dGZu0gGUAkFVX3lxTE1vRVJVdTFMVU1DVG05SnBUWEllUTRPZ2QzSGNpbXRldjZiOWlSNkp6enR5cmlPNDkwY1hrRHBxTTM3MHNLS2dneFRKbTRzU242WDBYbmZHY2N6TWdIRGtnMHJEUE12MVViSEdCeEdqSXJJUllqRzc3ME9tZ3NOUFp5eHFaUWxqVEpWY290N09Uc1BrblJTYmZJNE9lMUtwZzJzVmhLRVlrM2dXNHprZk9sc3J0Zk9VNS1aSy10NkdNZkN5UmtWS3ZLR0QyTHlPRFBZdEF0Q0ZiSHUxdk1RRVJSSEdudHh3Y0xLNmVvM09WR2dObE10SHdhSGNvUHllSVpkektqdGtJS3MtWVBNYTdyMk45WQ?oc=5",
+      "texto": {
+        "es": "Palmeiras viajó a Uruguay acompañado por una multitud de hinchas.",
+        "en": "Palmeiras travelled to Uruguay accompanied by a crowd of fans.",
+        "pt": "O Palmeiras viajou ao Uruguai acompanhado por uma multidão de torcedores.",
+        "zh": "帕尔梅拉斯在大批球迷陪伴下飞往乌拉圭。",
+        "hi": "Palmeiras बड़ी संख्या में फ़ैन्स के साथ उरुग्वे रवाना हुआ।"
+      }
+    },
+    {
+      "hora": "2026-11-25T16:37:00-03:00",
+      "fuente": "El Día",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHJRd21LVFY2UXh4NEVEVE5qNzlNbEJRVlI3MEFRSTVFUnpnUnkxNmZRRldNM1h2TUpTc0xFbGxOZ3FCMENlVldoVkFWSEhWTVl1elZ2M2NWRjQwTlFKSUJlMmxvVGRfVko4eUtlSWRadTVsWDNjWFJ5QUQtSEktdjhEOUpNU29xWG5qM1VNWklsQ2NzNERUN0RJemxWaTJUVlRhaEZVWHU3bEFMVEhRZ1VNb3JvRnRnX2p4TldqZFlManBjUHRaYTZFbFI?oc=5",
+      "texto": {
+        "es": "Los hinchas que viajaron en bicicleta ya llegaron a Montevideo.",
+        "en": "The fans who cycled there have already reached Montevideo.",
+        "pt": "Os torcedores que foram de bicicleta já chegaram a Montevidéu.",
+        "zh": "骑车出发的球迷已抵达蒙得维的亚。",
+        "hi": "साइकिल से निकले फ़ैन्स मोंटेवीडियो पहुँच गए।"
+      }
+    },
+    {
+      "hora": "2026-11-25T09:11:00-03:00",
+      "fuente": "R2820",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTUxaem9uMmoyWTBZU0tIaEFVdlZyX1hfaThfWGdJS21FbVFkRWlRbm52V3JmSFRFdGlRdnRULXJMeGZPM2VEQ1VoazdMS0JQMnRBSFFKLWRiblY5WnJDUjhvdEFZQVdvT0RfSTByVDRKWV9MclFjZTQ2Z2xGbU0xSkE5d0dBOTBrbkhzc0plZzd2d2JsMFF6Yk9WTlY4NXI4WTFpVWZsWlN5endIY1ZQTmhHdUs0WEJLMmdkQm9WbnVaRU1scmNiRHV1SFhjaEVDaWNUaGZwb1ljLTlMWGZXZl9SQlQwQ3dpQ1BBRdIB8gFBVV95cUxPNzVfNXJWeFYwakwydHNkR01QN3J4NF9rUmJCcmdIVUhoYnJKTUtzdEdUR240NlZaTHloMmhnN1RZSDYzME9uRVNPcEtnaHhNM0lDblh0UXRfMUc0cTJnVXhTTzdUcmRfUmFsdG8zUDI5bmxQaEpweHNQUkNOWlJ5SG9mT2t5N0xMaURlSG40dVFzY0Q2NEVlTmx2Q3NXYUpKSlJrVHNZMDFpeThhNHZyMWVDRnFVa3hoZWhVS3Q2UGI5U0RnV0NLazNGWGdzcG9rZGF5elNqYzhRQi1FUmFicFhoMGM2dXZnTWNNQ1ByUDROdw?oc=5",
+      "texto": {
+        "es": "Gendarmería controlará más de 120 micros de hinchas en Gualeguaychú.",
+        "en": "The Gendarmería will check more than 120 fan coaches in Gualeguaychú.",
+        "pt": "A Gendarmería vai fiscalizar mais de 120 ônibus de torcedores em Gualeguaychú.",
+        "zh": "国家宪兵将在瓜莱瓜伊丘检查120多辆球迷大巴。",
+        "hi": "Gendarmería, Gualeguaychú में फ़ैन्स की 120 से ज़्यादा बसों की जाँच करेगी।"
+      }
+    }
+  ]
+}
