@@ -1,18 +1,22 @@
 {
   "hoy": {
-    "titular": "The Pincha are in Montevideo: a huge send-off and a 27-man squad for the final",
+    "titular": "Two days to the final: the Pincha welcomed by their fans in Montevideo",
     "foto": {
       "alt": "Alexander Medina smiles during an Estudiantes training session."
     },
-    "resumen": "Thousands of fans saw the squad off in City Bell and the Pincha are now in Uruguay, with Correa among the 27 players called up. Palmeiras, beaten 3-0 with a second-string side, have also travelled for Saturday's final at the Centenario.",
+    "resumen": "The squad reached their Montevideo hotel through a crowd of fans and train behind closed doors today. Palmeiras are also in Uruguay, with 28 players, for Saturday's final at the Centenario.",
     "siete": [
       {
-        "titulo": "The Pincha are already in Montevideo",
-        "texto": "Thousands of fans saw the squad off at the City Bell Country Club before the team bus left for the airport; the charter flight landed at Carrasco in the evening. Thursday's training is behind closed doors and on Friday the press get 15 minutes, plus a press conference."
+        "titulo": "Montevideo welcomes the Pincha",
+        "texto": "After the huge send-off in City Bell, the squad landed at Carrasco and reached the team hotel through hundreds of waiting fans. Thursday's training is behind closed doors and on Friday the press get 15 minutes, plus a press conference."
       },
       {
         "titulo": "Club coaches leave the UNO on Friday at 7am",
         "texto": "According to the club, the official coaches leave on Friday 27th at 7am (check-in from 5.30am) and the supporters' groups' coaches at midday, to speed up the border crossing: more than 6,500 people are travelling. A physical ID card or valid passport is required; the Mi Argentina digital ID is not accepted."
+      },
+      {
+        "titulo": "Palmeiras are in Uruguay with 28 players",
+        "texto": "The Verdão landed in Montevideo with 28 players after a 3-0 defeat by Chapecoense with a reserve side. According to Lance, the squad includes Paulinho, who has been injured since October and remains a doubt."
       },
       {
         "titulo": "Medina travelled with a 27-man squad, Correa included",
@@ -21,10 +25,6 @@
       {
         "titulo": "Without Baltasar: Fabricio Pérez, Cetré or a back five",
         "texto": "According to 0221, Fabricio Pérez is the favourite to replace Baltasar Rodríguez, with Cetré as the alternative; in City Bell Medina also tried Gastón Benedetti in a back five. The line-up will be settled on Friday, in the last training session."
-      },
-      {
-        "titulo": "Palmeiras lost 3-0 with a second-string side and have already travelled",
-        "texto": "With an alternative line-up, Palmeiras lost 3-0 to Chapecoense in the Brasileirão: that is four games without a win (three defeats and a draw). On Wednesday they travelled to Montevideo, seen off by a huge crowd of fans."
       },
       {
         "titulo": "Verón, just another fan at the Centenario",
@@ -36,6 +36,15 @@
       }
     ],
     "linea": [
+      {
+        "texto": "The Pincha landed in Uruguay for the final against Palmeiras."
+      },
+      {
+        "texto": "Scenes in Montevideo: the squad's arrival at the hotel among the fans."
+      },
+      {
+        "texto": "From the La Plata send-off to the welcome in Uruguay."
+      },
       {
         "texto": "The Pincha arrived in Uruguay with 27 players and Correa working to be fit."
       },
@@ -52,13 +61,7 @@
         "texto": "Medina tried Benedetti in a back five to fill Baltasar's gap."
       },
       {
-        "texto": "A huge crowd saw the squad off in City Bell before the trip."
-      },
-      {
         "texto": "With the trophies on its livery, the Pincha team bus left for the airport."
-      },
-      {
-        "texto": "Palmeiras travelled to Uruguay accompanied by a crowd of fans."
       },
       {
         "texto": "The fans who cycled there have already reached Montevideo."
@@ -67,10 +70,7 @@
         "texto": "The Gendarmería will check more than 120 fan coaches in Gualeguaychú."
       },
       {
-        "texto": "River are negotiating for Tomás Palacios, according to Perfil."
-      },
-      {
-        "texto": "Chapecoense put three past a second-string Palmeiras."
+        "texto": "Palmeiras reached Montevideo with 28 players, Paulinho included."
       },
       {
         "texto": "A guide with advice for fans travelling to Uruguay."

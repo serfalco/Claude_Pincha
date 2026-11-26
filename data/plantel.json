@@ -1,6 +1,6 @@
 {
   "_info": "Memoria de bajas entre corridas: suspensiones, lesiones y altas del plantel y del rival que viene. No se publica: lo usan la cobertura (alertas) y el build (que las Siete no contradigan esto). Ver ACTUALIZAR.md › Verificación.",
-  "actualizado": "2026-11-25T22:07:00-03:00",
+  "actualizado": "2026-11-26T00:07:00-03:00",
   "bajas": [
     {
       "jugador": "Baltasar Rodríguez",
@@ -83,9 +83,10 @@
       "equipo": "Palmeiras",
       "estado": "en duda",
       "motivo": "lesión",
-      "detalle": "Fuera desde el 21/10 (pierna derecha, zona operada); inflamaciones persistentes según el club (18/11). Sin fecha de regreso ni transición al campo; el caso más complicado. El 23/11 sigue en el departamento médico (lesión en la pantorrilla), según Gazeta Esportiva y Nosso Palestra.",
+      "detalle": "Fuera desde el 21/10 (pierna derecha, zona operada); inflamaciones persistentes según el club (18/11). Sin fecha de regreso ni transición al campo; el caso más complicado. El 23/11 sigue en el departamento médico (lesión en la pantorrilla), según Gazeta Esportiva y Nosso Palestra. Viajó a Montevideo entre los 28 relacionados, según Lance (25/11); sin confirmación de que pueda jugar.",
       "hasta": "Sin confirmar para la final",
       "fuentes": [
+        "https://www.lance.com.br/palmeiras/palmeiras-desembarca-no-uruguai-com-28-atletas-e-presenca-de-paulinho-veja-relacionados.html",
         "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-final-libertadores-viagem-uruguai/",
         "https://nossopalestra.com.br/noticias/palmeiras-chapecoense-libertadores-copa-do-brasil",
         "https://portaldopalestra.com.br/paulinho-lesao-panturrilha-sem-prazo-finais-palmeiras-libertadores/",

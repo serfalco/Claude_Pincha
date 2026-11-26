@@ -1,18 +1,22 @@
 {
   "hoy": {
-    "titular": "O Pincha já está em Montevidéu: despedida com multidão e 27 relacionados para a final",
+    "titular": "A dois dias da final: o Pincha é recebido pela torcida em Montevidéu",
     "foto": {
       "alt": "Alexander Medina sorri durante um treino do Estudiantes."
     },
-    "resumen": "Milhares de torcedores se despediram do elenco em City Bell e o Pincha já está no Uruguai, com Correa entre os 27 relacionados. O Palmeiras, que perdeu por 3 a 0 com reservas, também viajou para a final de sábado no Centenario.",
+    "resumen": "O elenco chegou ao hotel em Montevidéu em meio a uma multidão de torcedores e hoje treina com portões fechados. O Palmeiras também já está no Uruguai, com 28 jogadores, para a final de sábado no Centenário.",
     "siete": [
       {
-        "titulo": "O Pincha já está em Montevidéu",
-        "texto": "Milhares de torcedores se despediram do elenco no Country de City Bell e o ônibus partiu para o aeroporto; o voo fretado pousou em Carrasco à noite. Na quinta o treino é fechado e na sexta a imprensa acompanha 15 minutos, com entrevista coletiva."
+        "titulo": "Montevidéu recebe o Pincha",
+        "texto": "Depois da despedida multitudinária em City Bell, o elenco pousou em Carrasco e chegou ao hotel de concentração entre centenas de torcedores. Nesta quinta treina com portões fechados e na sexta abre 15 minutos para a imprensa, com entrevista coletiva."
       },
       {
         "titulo": "Ônibus do clube saem na sexta às 7h do UNO",
         "texto": "Segundo o clube, os ônibus oficiais saem na sexta, dia 27, às 7h (credenciamento a partir das 5h30), e os das torcidas organizadas ao meio-dia, para agilizar a fronteira: viajam mais de 6.500 pessoas. É preciso RG físico (DNI) ou passaporte válido; o DNI digital do Mi Argentina não vale."
+      },
+      {
+        "titulo": "Palmeiras já está no Uruguai, com 28 jogadores",
+        "texto": "O Verdão desembarcou em Montevidéu com 28 atletas depois de perder por 3 a 0 para a Chapecoense com reservas. Segundo o Lance, Paulinho, lesionado desde outubro, está na lista e segue como dúvida."
       },
       {
         "titulo": "Medina viajou com 27 relacionados, incluindo Correa",
@@ -21,10 +25,6 @@
       {
         "titulo": "Sem Baltasar: Fabricio Pérez, Cetré ou linha de cinco",
         "texto": "Segundo o 0221, Fabricio Pérez é o principal candidato à vaga de Baltasar Rodríguez, com Cetré como alternativa; em City Bell, Medina também testou Gastón Benedetti numa linha de cinco. O time será definido na sexta, no último treino."
-      },
-      {
-        "titulo": "Palmeiras perdeu por 3 a 0 com reservas e já viajou",
-        "texto": "Com um time alternativo, o Palmeiras perdeu por 3 a 0 para a Chapecoense pelo Brasileirão: são quatro jogos sem vencer (três derrotas e um empate). Na quarta viajou para Montevidéu, com festa de uma multidão de torcedores."
       },
       {
         "titulo": "Verón, mais um torcedor no Centenario",
@@ -36,6 +36,15 @@
       }
     ],
     "linea": [
+      {
+        "texto": "O Pincha desembarcou no Uruguai para a final contra o Palmeiras."
+      },
+      {
+        "texto": "Loucura em Montevidéu: a chegada do elenco ao hotel entre os torcedores."
+      },
+      {
+        "texto": "Da despedida em La Plata à recepção no Uruguai."
+      },
       {
         "texto": "O Pincha chegou ao Uruguai com 27 relacionados e Correa trabalhando para jogar."
       },
@@ -52,13 +61,7 @@
         "texto": "Medina testou Benedetti numa linha de cinco para suprir a ausência de Baltasar."
       },
       {
-        "texto": "Uma multidão se despediu do elenco em City Bell antes da viagem."
-      },
-      {
         "texto": "Com as taças estampadas, o ônibus do Pincha partiu para o aeroporto."
-      },
-      {
-        "texto": "O Palmeiras viajou ao Uruguai acompanhado por uma multidão de torcedores."
       },
       {
         "texto": "Os torcedores que foram de bicicleta já chegaram a Montevidéu."
@@ -67,10 +70,7 @@
         "texto": "A Gendarmería vai fiscalizar mais de 120 ônibus de torcedores em Gualeguaychú."
       },
       {
-        "texto": "O River negocia por Tomás Palacios, segundo o Perfil."
-      },
-      {
-        "texto": "A Chapecoense fez três num Palmeiras reserva."
+        "texto": "O Palmeiras chegou a Montevidéu com 28 jogadores, incluindo Paulinho."
       },
       {
         "texto": "O guia de recomendações para os torcedores que viajam ao Uruguai."

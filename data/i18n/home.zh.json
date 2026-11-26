@@ -1,18 +1,22 @@
 {
   "hoy": {
-    "titular": "Pincha已抵达蒙得维的亚：球迷盛大送行，27人出征决赛",
+    "titular": "距决赛还有两天：Pincha在蒙得维的亚受到球迷热烈欢迎",
     "foto": {
       "alt": "Alexander Medina在Estudiantes训练中露出笑容。"
     },
-    "resumen": "数千名球迷在City Bell为球队送行，Pincha已抵达乌拉圭，Correa入选27人大名单。以替补0比3落败的帕尔梅拉斯（Palmeiras）也已启程，备战周六在Centenario进行的决赛。",
+    "resumen": "球队在大批球迷簇拥下抵达蒙得维的亚的酒店，今天进行闭门训练。帕尔梅拉斯（Palmeiras）也已带着28名球员抵达乌拉圭，备战周六在Centenario进行的决赛。",
     "siete": [
       {
-        "titulo": "Pincha已抵达蒙得维的亚",
-        "texto": "数千名球迷在City Bell的俱乐部训练基地为球队送行，大巴随后驶往机场；包机于晚间降落在卡拉斯科机场。周四闭门训练，周五向媒体开放15分钟，并举行新闻发布会。"
+        "titulo": "蒙得维的亚迎来Pincha",
+        "texto": "在City Bell的盛大送行之后，球队降落Carrasco机场，并在数百名等候球迷的簇拥下抵达集训酒店。周四闭门训练，周五向媒体开放15分钟并举行新闻发布会。"
       },
       {
         "titulo": "俱乐部大巴周五早上7点从el UNO出发",
         "texto": "据俱乐部消息，官方大巴于27日周五早上7点出发（5点30分开始登记），球迷团体的大巴中午12点出发，以便加快过境：出行人数超过6,500人。须携带实体身份证（DNI）或有效护照；Mi Argentina的电子身份证无效。"
+      },
+      {
+        "titulo": "Palmeiras已抵达乌拉圭，带队28人",
+        "texto": "Palmeiras派替补阵容0比3负于Chapecoense后，带着28名球员抵达蒙得维的亚。据Lance报道，自10月起受伤的Paulinho也在名单中，能否出战仍存疑。"
       },
       {
         "titulo": "Medina带27人出征，Correa在列",
@@ -21,10 +25,6 @@
       {
         "titulo": "没有Baltasar：Fabricio Pérez、Cetré还是五后卫",
         "texto": "据0221报道，Fabricio Pérez是顶替Baltasar Rodríguez的头号人选，Cetré为备选；在City Bell，Medina还演练了让Gastón Benedetti出场的五后卫阵型。首发阵容将在周五最后一堂训练课上确定。"
-      },
-      {
-        "titulo": "帕尔梅拉斯（Palmeiras）替补0比3落败，已启程",
-        "texto": "帕尔梅拉斯以替补阵容在巴甲中0比3负于Chapecoense，已连续四场不胜（三负一平）。周三球队在大批球迷的欢送下飞往蒙得维的亚。"
       },
       {
         "titulo": "Verón将作为普通球迷现身Centenario",
@@ -36,6 +36,15 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Pincha抵达乌拉圭，备战对阵Palmeiras的决赛。"
+      },
+      {
+        "texto": "蒙得维的亚沸腾：球队在球迷簇拥下抵达酒店。"
+      },
+      {
+        "texto": "从拉普拉塔的送行到乌拉圭的欢迎。"
+      },
       {
         "texto": "Pincha带着27名球员抵达乌拉圭，Correa正努力赶上决赛。"
       },
@@ -52,13 +61,7 @@
         "texto": "Medina演练Benedetti出场的五后卫阵型以填补Baltasar的空缺。"
       },
       {
-        "texto": "大批球迷在City Bell为球队出征送行。"
-      },
-      {
         "texto": "印有历届奖杯图案的Pincha大巴驶向机场。"
-      },
-      {
-        "texto": "帕尔梅拉斯在大批球迷陪伴下飞往乌拉圭。"
       },
       {
         "texto": "骑车出发的球迷已抵达蒙得维的亚。"
@@ -67,10 +70,7 @@
         "texto": "国家宪兵将在瓜莱瓜伊丘检查120多辆球迷大巴。"
       },
       {
-        "texto": "据Perfil报道，River正在洽谈引进Tomás Palacios。"
-      },
-      {
-        "texto": "Chapecoense以3球击败派出替补的帕尔梅拉斯。"
+        "texto": "Palmeiras带着28名球员抵达蒙得维的亚，Paulinho在列。"
       },
       {
         "texto": "赴乌拉圭球迷出行指南。"

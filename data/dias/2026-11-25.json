@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-08-17_los-que-viajaron-a-chile_1",
+    "alt": {
+      "es": "Alexander Medina, sonriente, durante un entrenamiento de Estudiantes.",
+      "en": "Alexander Medina smiles during an Estudiantes training session.",
+      "pt": "Alexander Medina sorri durante um treino do Estudiantes.",
+      "zh": "Alexander Medina在Estudiantes训练中露出笑容。",
+      "hi": "Estudiantes के अभ्यास के दौरान मुस्कुराते Alexander Medina।"
+    }
+  },
   "siete": [
     {
       "tema": "viaje-montevideo",
@@ -160,17 +170,43 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-08-17_los-que-viajaron-a-chile_1",
-    "alt": {
-      "es": "Alexander Medina, sonriente, durante un entrenamiento de Estudiantes.",
-      "en": "Alexander Medina smiles during an Estudiantes training session.",
-      "pt": "Alexander Medina sorri durante um treino do Estudiantes.",
-      "zh": "Alexander Medina在Estudiantes训练中露出笑容。",
-      "hi": "Estudiantes के अभ्यास के दौरान मुस्कुराते Alexander Medina।"
-    }
-  },
   "linea": [
+    {
+      "hora": "2026-11-25T23:27:00-03:00",
+      "fuente": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOajZqMm9WczQyZHZlNmNDeVR0dy10aDRiZWdLUG5acm82OTJ2RlZuUFNFYTNYRFJzUmVjUmdYc1hmSGJNYjZpbWRjVWxOVnQtWEVZbzJ2UW1uUDZzV3JudlFsZjB5TFR1MmVfWlFwbHpWdy1Zdko1Z3lrdXQwNGxEcWdJc1lEaURhb2daNTFXVzNPOU5FYTh2dGxxYWUybDZFRzM4UW5oOFM2RVluU25na0MtcVcwdVFUNklSLUg0UDBJcWxFNHhFdUtCcw?oc=5",
+      "texto": {
+        "es": "El Pincha aterrizó en Uruguay para la final ante Palmeiras.",
+        "en": "The Pincha landed in Uruguay for the final against Palmeiras.",
+        "pt": "O Pincha desembarcou no Uruguai para a final contra o Palmeiras.",
+        "zh": "Pincha抵达乌拉圭，备战对阵Palmeiras的决赛。",
+        "hi": "Pincha, Palmeiras के ख़िलाफ़ फ़ाइनल के लिए उरुग्वे पहुँचा।"
+      }
+    },
+    {
+      "hora": "2026-11-25T22:46:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/locura-total-montevideo-asi-fue-la-llegada-estudiantes-al-hotel-los-hinchas-n138048",
+      "texto": {
+        "es": "Locura en Montevideo: así llegó el plantel al hotel entre los hinchas.",
+        "en": "Scenes in Montevideo: the squad's arrival at the hotel among the fans.",
+        "pt": "Loucura em Montevidéu: a chegada do elenco ao hotel entre os torcedores.",
+        "zh": "蒙得维的亚沸腾：球队在球迷簇拥下抵达酒店。",
+        "hi": "मोंटेवीडियो में जुनून: प्रशंसकों के बीच टीम होटल पहुँची।"
+      }
+    },
+    {
+      "hora": "2026-11-25T22:22:00-03:00",
+      "fuente": "Clarín",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYkswaXFUWC1vblc0bGVsdXM1R3p4YTkwcmtSSkY1SEpZM0Jib2ltM29wencxNjFxalMxRno0eXlxc3laam91M2d5N2ZxY1dlSEZKTjlWVGpVTlktWFZCSk44UlVteUpaOHVzcWEwVEI1a1lXa1hWNFVINmcyTnVHRHZJamlNbjNyREJTV3gtOVc2TVRDeEVPLWpJMjRhanZ0ZjBON29fOWJJRkd2bGlSWFpGOWJ1M1pCN1VaZWFPbnNLcGo5MzNtQ1pIc25qOTFOMzJCNVZUYTM1Tm9vV0JrTzdlN244N0dLOTFuXzEyY2ZoT2c?oc=5",
+      "texto": {
+        "es": "De la despedida en La Plata al recibimiento en Uruguay.",
+        "en": "From the La Plata send-off to the welcome in Uruguay.",
+        "pt": "Da despedida em La Plata à recepção no Uruguai.",
+        "zh": "从拉普拉塔的送行到乌拉圭的欢迎。",
+        "hi": "ला प्लाटा की विदाई से उरुग्वे के स्वागत तक।"
+      }
+    },
     {
       "hora": "2026-11-25T21:30:00-03:00",
       "fuente": "Infobae",
@@ -289,6 +325,18 @@
         "pt": "A Gendarmería vai fiscalizar mais de 120 ônibus de torcedores em Gualeguaychú.",
         "zh": "国家宪兵将在瓜莱瓜伊丘检查120多辆球迷大巴。",
         "hi": "Gendarmería, Gualeguaychú में फ़ैन्स की 120 से ज़्यादा बसों की जाँच करेगी।"
+      }
+    },
+    {
+      "hora": "2026-11-25T00:00:00-03:00",
+      "fuente": "Lance",
+      "url": "https://www.lance.com.br/palmeiras/palmeiras-desembarca-no-uruguai-com-28-atletas-e-presenca-de-paulinho-veja-relacionados.html",
+      "texto": {
+        "es": "Palmeiras llegó a Montevideo con 28 jugadores, Paulinho incluido.",
+        "en": "Palmeiras reached Montevideo with 28 players, Paulinho included.",
+        "pt": "O Palmeiras chegou a Montevidéu com 28 jogadores, incluindo Paulinho.",
+        "zh": "Palmeiras带着28名球员抵达蒙得维的亚，Paulinho在列。",
+        "hi": "Palmeiras 28 खिलाड़ियों के साथ मोंटेवीडियो पहुँचा, Paulinho भी शामिल।"
       }
     }
   ]

@@ -1,18 +1,19 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-25T22:07:00-03:00",
+  "actualizado": "2026-11-26T00:07:00-03:00",
   "hoy": {
-    "titular": "El Pincha ya está en Montevideo: despedida multitudinaria y 27 convocados para la final",
+    "titular": "A dos días de la final: el Pincha, recibido por sus hinchas en Montevideo",
     "foto": {
       "id": "2026-08-17_los-que-viajaron-a-chile_1",
       "alt": "Alexander Medina, sonriente, durante un entrenamiento de Estudiantes."
     },
-    "resumen": "Miles de hinchas despidieron al plantel en City Bell y el Pincha ya está en Uruguay, con Correa entre los 27 convocados. Palmeiras, que perdió 3-0 con suplentes, también viajó para la final del sábado en el Centenario.",
+    "resumen": "El plantel llegó al hotel de Montevideo entre una multitud de hinchas y hoy entrena a puertas cerradas. Palmeiras también ya está en Uruguay, con 28 jugadores, para la final del sábado en el Centenario.",
     "siete": [
       {
         "tema": "viaje-montevideo",
-        "titulo": "El Pincha ya está en Montevideo",
-        "texto": "Miles de hinchas despidieron al plantel en el Country de City Bell y el colectivo salió rumbo al aeropuerto; el vuelo chárter aterrizó en Carrasco a la noche. El jueves entrena a puertas cerradas y el viernes abre 15 minutos a la prensa, con conferencia."
+        "novedad": "Los hinchas recibieron al plantel en el hotel de Montevideo",
+        "titulo": "Montevideo recibió al Pincha",
+        "texto": "Después de la despedida multitudinaria en City Bell, el plantel aterrizó en Carrasco y llegó al hotel de concentración entre cientos de hinchas que lo esperaban. Hoy jueves entrena a puertas cerradas y el viernes abre 15 minutos a la prensa, con conferencia."
       },
       {
         "tema": "micros-oficiales",
@@ -21,21 +22,20 @@
         "vence": "2026-11-27T23:59:00-03:00"
       },
       {
+        "tema": "palmeiras-previa-final",
+        "novedad": "Palmeiras llegó a Montevideo con 28 jugadores",
+        "titulo": "Palmeiras ya está en Uruguay, con 28 jugadores",
+        "texto": "El Verdão aterrizó en Montevideo con 28 futbolistas tras perder 3-0 con suplentes ante Chapecoense. Según Lance, en la lista está Paulinho, que arrastra una lesión desde octubre y sigue en duda."
+      },
+      {
         "tema": "convocados-final",
         "titulo": "Medina viajó con 27 convocados, Correa incluido",
         "texto": "La lista para la final tiene 27 jugadores y está Joaquín Correa, que entrena con la pelota y podría sumar minutos. También viajaron Baltasar Rodríguez, suspendido, y los juveniles Pierani, Pereyra y Van der Tuin."
       },
       {
         "tema": "equipo-sin-baltasar",
-        "novedad": "Medina probó a Benedetti con línea de cinco",
         "titulo": "Sin Baltasar: Fabricio Pérez, Cetré o línea de cinco",
         "texto": "Según 0221, Fabricio Pérez es el principal candidato para el lugar de Baltasar Rodríguez, con Cetré como alternativa; en City Bell, Medina también probó a Gastón Benedetti con línea de cinco. El equipo se define el viernes, en la última práctica."
-      },
-      {
-        "tema": "palmeiras-previa-final",
-        "novedad": "Palmeiras perdió 3-0 con Chapecoense y viajó a Montevideo",
-        "titulo": "Palmeiras perdió 3-0 con suplentes y ya viajó",
-        "texto": "Con un equipo alternativo, Palmeiras cayó 3-0 ante Chapecoense por el Brasileirão: suma cuatro partidos sin ganar (tres derrotas y un empate). El miércoles viajó a Montevideo, despedido por una multitud de hinchas."
       },
       {
         "tema": "veron-hincha",
@@ -49,6 +49,24 @@
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-25T23:27:00-03:00",
+        "texto": "El Pincha aterrizó en Uruguay para la final ante Palmeiras.",
+        "fuente": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOajZqMm9WczQyZHZlNmNDeVR0dy10aDRiZWdLUG5acm82OTJ2RlZuUFNFYTNYRFJzUmVjUmdYc1hmSGJNYjZpbWRjVWxOVnQtWEVZbzJ2UW1uUDZzV3JudlFsZjB5TFR1MmVfWlFwbHpWdy1Zdko1Z3lrdXQwNGxEcWdJc1lEaURhb2daNTFXVzNPOU5FYTh2dGxxYWUybDZFRzM4UW5oOFM2RVluU25na0MtcVcwdVFUNklSLUg0UDBJcWxFNHhFdUtCcw?oc=5"
+      },
+      {
+        "hora": "2026-11-25T22:46:00-03:00",
+        "texto": "Locura en Montevideo: así llegó el plantel al hotel entre los hinchas.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/locura-total-montevideo-asi-fue-la-llegada-estudiantes-al-hotel-los-hinchas-n138048"
+      },
+      {
+        "hora": "2026-11-25T22:22:00-03:00",
+        "texto": "De la despedida en La Plata al recibimiento en Uruguay.",
+        "fuente": "Clarín",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYkswaXFUWC1vblc0bGVsdXM1R3p4YTkwcmtSSkY1SEpZM0Jib2ltM29wencxNjFxalMxRno0eXlxc3laam91M2d5N2ZxY1dlSEZKTjlWVGpVTlktWFZCSk44UlVteUpaOHVzcWEwVEI1a1lXa1hWNFVINmcyTnVHRHZJamlNbjNyREJTV3gtOVc2TVRDeEVPLWpJMjRhanZ0ZjBON29fOWJJRkd2bGlSWFpGOWJ1M1pCN1VaZWFPbnNLcGo5MzNtQ1pIc25qOTFOMzJCNVZUYTM1Tm9vV0JrTzdlN244N0dLOTFuXzEyY2ZoT2c?oc=5"
+      },
       {
         "hora": "2026-11-25T21:30:00-03:00",
         "texto": "El Pincha llegó a Uruguay con 27 convocados y Correa trabajando para llegar.",
@@ -80,22 +98,10 @@
         "url": "https://www.0221.com.ar/estudiantes/alexander-medina-probo-un-jugador-sorpresa-reemplazar-baltasar-rodriguez-palmeiras-n138037"
       },
       {
-        "hora": "2026-11-25T17:48:00-03:00",
-        "texto": "Una multitud despidió al plantel en City Bell antes del viaje.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/una-multitud-hinchas-estudiantes-despidio-al-plantel-antes-del-viaje-montevideo-n138030"
-      },
-      {
         "hora": "2026-11-25T17:36:00-03:00",
         "texto": "Con las Copas ploteadas, el colectivo del Pincha partió al aeropuerto.",
         "fuente": "Infocielo",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTl9ybWtnSHpxUDFIQTJYVEVETktpM0MzTVJXQ1dTdkJqbW5hcFVHQ0VsbUNVaU5JRUFSQldfZUxHYl9VMjZpeU1RWkVhS2hNMmw3RTVYQ1RRbWZEQ2xmV2tDZTdxWEFCN2dId09YLU1FTUlxNC0zcVplVVhpQUJGWG8xbkE2aFZJYV9scEtnanJRRldjdjdodWoyc1QxVGJNMG82cTg1T3hCWDF6MWxMbGpPdnpVcU9ueEdWYjhDQS1VQW45YjBkVWJmTHlwMzF1Ym0xd0lYNW55dw?oc=5"
-      },
-      {
-        "hora": "2026-11-25T17:10:00-03:00",
-        "texto": "Palmeiras viajó a Uruguay acompañado por una multitud de hinchas.",
-        "fuente": "TN",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWVZ2NmpKcGRDdDZQSl9GbnFGQ3RNRnhMMEJ2d1k4T2NwNF9QRDg2NEJ2RVZwaXc2UnNwdmVtczFkeG9Mb01MWXloYmdSY2hpUWtKVzRxYld0Wnk4b1ZWS3NwWDU1c1hRb2tHcUxtbVB4ZkRSTEpUaTNTTHkyek1OTDZjNXJPdy01M0ZZaXJLUXBybWI4MXRRMlVXcXBMTnNxMVpYaGNuNjhQTnVHOTJuWVcycFRVYzItNEg4ODVBU1RDRVEzZ1VMR1lvZ1VaRWRGaGlvdUdRWlVzamZrbWVLSGxjcUV6NmwtT0dqWVJ2S29iWkkxUFBQQ1d4bTY1dGZu0gGUAkFVX3lxTE1vRVJVdTFMVU1DVG05SnBUWEllUTRPZ2QzSGNpbXRldjZiOWlSNkp6enR5cmlPNDkwY1hrRHBxTTM3MHNLS2dneFRKbTRzU242WDBYbmZHY2N6TWdIRGtnMHJEUE12MVViSEdCeEdqSXJJUllqRzc3ME9tZ3NOUFp5eHFaUWxqVEpWY290N09Uc1BrblJTYmZJNE9lMUtwZzJzVmhLRVlrM2dXNHprZk9sc3J0Zk9VNS1aSy10NkdNZkN5UmtWS3ZLR0QyTHlPRFBZdEF0Q0ZiSHUxdk1RRVJSSEdudHh3Y0xLNmVvM09WR2dObE10SHdhSGNvUHllSVpkektqdGtJS3MtWVBNYTdyMk45WQ?oc=5"
       },
       {
         "hora": "2026-11-25T16:37:00-03:00",
@@ -110,16 +116,10 @@
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTUxaem9uMmoyWTBZU0tIaEFVdlZyX1hfaThfWGdJS21FbVFkRWlRbm52V3JmSFRFdGlRdnRULXJMeGZPM2VEQ1VoazdMS0JQMnRBSFFKLWRiblY5WnJDUjhvdEFZQVdvT0RfSTByVDRKWV9MclFjZTQ2Z2xGbU0xSkE5d0dBOTBrbkhzc0plZzd2d2JsMFF6Yk9WTlY4NXI4WTFpVWZsWlN5endIY1ZQTmhHdUs0WEJLMmdkQm9WbnVaRU1scmNiRHV1SFhjaEVDaWNUaGZwb1ljLTlMWGZXZl9SQlQwQ3dpQ1BBRdIB8gFBVV95cUxPNzVfNXJWeFYwakwydHNkR01QN3J4NF9rUmJCcmdIVUhoYnJKTUtzdEdUR240NlZaTHloMmhnN1RZSDYzME9uRVNPcEtnaHhNM0lDblh0UXRfMUc0cTJnVXhTTzdUcmRfUmFsdG8zUDI5bmxQaEpweHNQUkNOWlJ5SG9mT2t5N0xMaURlSG40dVFzY0Q2NEVlTmx2Q3NXYUpKSlJrVHNZMDFpeThhNHZyMWVDRnFVa3hoZWhVS3Q2UGI5U0RnV0NLazNGWGdzcG9rZGF5elNqYzhRQi1FUmFicFhoMGM2dXZnTWNNQ1ByUDROdw?oc=5"
       },
       {
-        "hora": "2026-11-24T21:02:00-03:00",
-        "texto": "River negocia por Tomás Palacios, según Perfil.",
-        "fuente": "Perfil",
-        "url": "https://www.perfil.com/deportes/river-quiere-a-una-figura-del-futbol-argentino-negocia-a-fondo-por-tomas-palacios-joya-de-estudiantes-awK9V2T6Xnib"
-      },
-      {
-        "hora": "2026-11-24T20:18:00-03:00",
-        "texto": "Chapecoense le hizo tres a un Palmeiras con suplentes.",
-        "fuente": "Olé",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWlHYXZodnVSWl9fa2JTMDR0U2NUYUhaQV9ua01mRVZHRlh2OG9jWndpeFV6OGhlNnVNOWp1MlptOWtvQXYwNkJtbElJaVllVVpFUWxHRm14RVJnMWdOakVwOGJpYzBnc3E3QlBoNlV1Y2FZRVFFOXpPM09RMFo4Sm5hbG5fZGxJTWxPeUMyLXZxSW5TdGcxSG5sUlNHa1VB?oc=5"
+        "hora": "2026-11-25T00:00:00-03:00",
+        "texto": "Palmeiras llegó a Montevideo con 28 jugadores, Paulinho incluido.",
+        "fuente": "Lance",
+        "url": "https://www.lance.com.br/palmeiras/palmeiras-desembarca-no-uruguai-com-28-atletas-e-presenca-de-paulinho-veja-relacionados.html"
       },
       {
         "hora": "2026-11-24T19:15:00-03:00",
