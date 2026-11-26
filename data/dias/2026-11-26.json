@@ -84,11 +84,11 @@
         "hi": "Palmeiras 28 खिलाड़ियों के साथ उरुग्वे पहुँचा"
       },
       "texto": {
-        "es": "El Verdão aterrizó en Montevideo con 28 futbolistas tras perder 3-0 con suplentes ante Chapecoense. Según Lance, en la lista está Paulinho, que arrastra una lesión desde octubre y sigue en duda.",
-        "en": "The Verdão landed in Montevideo with 28 players after a 3-0 defeat by Chapecoense with a reserve side. According to Lance, the squad includes Paulinho, who has been injured since October and remains a doubt.",
-        "pt": "O Verdão desembarcou em Montevidéu com 28 atletas depois de perder por 3 a 0 para a Chapecoense com reservas. Segundo o Lance, Paulinho, lesionado desde outubro, está na lista e segue como dúvida.",
-        "zh": "Palmeiras派替补阵容0比3负于Chapecoense后，带着28名球员抵达蒙得维的亚。据Lance报道，自10月起受伤的Paulinho也在名单中，能否出战仍存疑。",
-        "hi": "रिज़र्व टीम के साथ Chapecoense से 3-0 से हारने के बाद Palmeiras 28 खिलाड़ियों के साथ मोंटेवीडियो पहुँचा। Lance के अनुसार, अक्टूबर से चोटिल Paulinho सूची में हैं और उनका खेलना अब भी संदिग्ध है।"
+        "es": "El Verdão aterrizó en Montevideo con 28 futbolistas tras perder 3-0 con suplentes ante Chapecoense. Según Lance, en la lista está Paulinho, que arrastra una lesión desde octubre y sigue en duda. Hoy hace su primer entrenamiento en Montevideo.",
+        "en": "The Verdão landed in Montevideo with 28 players after a 3-0 defeat by Chapecoense with a reserve side. According to Lance, the squad includes Paulinho, who has been injured since October and remains a doubt. Today they hold their first training session in Montevideo.",
+        "pt": "O Verdão desembarcou em Montevidéu com 28 atletas depois de perder por 3 a 0 para a Chapecoense com reservas. Segundo o Lance, Paulinho, lesionado desde outubro, está na lista e segue como dúvida. Hoje faz o primeiro treino em Montevidéu.",
+        "zh": "Palmeiras派替补阵容0比3负于Chapecoense后，带着28名球员抵达蒙得维的亚。据Lance报道，自10月起受伤的Paulinho也在名单中，能否出战仍存疑。今天Palmeiras将在蒙得维的亚进行首次训练。",
+        "hi": "रिज़र्व टीम के साथ Chapecoense से 3-0 से हारने के बाद Palmeiras 28 खिलाड़ियों के साथ मोंटेवीडियो पहुँचा। Lance के अनुसार, अक्टूबर से चोटिल Paulinho सूची में हैं और उनका खेलना अब भी संदिग्ध है। आज Palmeiras मोंटेवीडियो में अपना पहला अभ्यास सत्र करेगा।"
       }
     },
     {
@@ -170,5 +170,42 @@
       "hi": "Estudiantes के अभ्यास के दौरान मुस्कुराते Alexander Medina।"
     }
   },
-  "linea": []
+  "linea": [
+    {
+      "hora": "2026-11-26T07:53:00-03:00",
+      "fuente": "Punto Capital",
+      "url": "https://www.puntocapitalnoticias.com/el-pincha-ya-esta-en-montevideo-y-se-prepara-para-la-final-de-la-libertadores/",
+      "texto": {
+        "es": "El Pincha ya está instalado en Montevideo para los últimos entrenamientos antes de la final.",
+        "en": "The Pincha are settled in Montevideo for the final training sessions before the final.",
+        "pt": "O Pincha já está instalado em Montevidéu para os últimos treinos antes da final.",
+        "zh": "Pincha已在蒙得维的亚安顿下来，进行决赛前的最后训练。",
+        "hi": "Pincha फ़ाइनल से पहले के आख़िरी अभ्यास सत्रों के लिए मोंटेवीडियो में डेरा डाल चुका है।"
+      }
+    },
+    {
+      "hora": "2026-11-26T07:27:00-03:00",
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-copa-montevideo-con-mas-seguridad-que-el-papa-y-federico-delia-como-bandera-es-un-club-nid26112026/",
+      "texto": {
+        "es": "Un Pincha muy custodiado en Montevideo, con Federico D'Elía como bandera: \"Es un club mágico\".",
+        "en": "A heavily guarded Pincha in Montevideo, with Federico D'Elía as flag-bearer: \"It's a magical club\".",
+        "pt": "Um Pincha muito protegido em Montevidéu, com Federico D'Elía como bandeira: \"É um clube mágico\".",
+        "zh": "Pincha在蒙得维的亚受到严密安保，Federico D'Elía化身旗手：“这是一家神奇的俱乐部”。",
+        "hi": "मोंटेवीडियो में कड़ी सुरक्षा में Pincha, Federico D'Elía बने ध्वजवाहक: \"यह एक जादुई क्लब है\"।"
+      }
+    },
+    {
+      "hora": "2026-11-26T03:45:00-03:00",
+      "fuente": "El Día",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2Itbnl5Q2tVSVl2M2VEVWJUS1BIelBOOThYTE5vaGNVWHp6b090WURfSDBxNlA0S052UWQ4WEt5NG5LY0NDWFVoTXpJMURtUkgtbGVqU1pOd3VWcHdKaHV5TzdOcDk0b0hTWEZKcFNPSDI5Z0c5X2tjc01OcGpONmdOWFNMbFNXYUx5NjhTMXBjUlRYdV8wV1pVTndlLUllOVNjY1U4eWhweElt?oc=5",
+      "texto": {
+        "es": "Video: la emoción de la despedida y la llegada del Pincha a Uruguay.",
+        "en": "Video: the emotional send-off and the Pincha's arrival in Uruguay.",
+        "pt": "Vídeo: a emoção da despedida e a chegada do Pincha ao Uruguai.",
+        "zh": "视频：Pincha告别时的感人场面与抵达乌拉圭。",
+        "hi": "वीडियो: भावुक विदाई और Pincha का उरुग्वे पहुँचना।"
+      }
+    }
+  ]
 }

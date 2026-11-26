@@ -1,6 +1,6 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-26T00:07:00-03:00",
+  "actualizado": "2026-11-26T08:07:00-03:00",
   "hoy": {
     "titular": "A dos días de la final: el Pincha, recibido por sus hinchas en Montevideo",
     "foto": {
@@ -25,7 +25,7 @@
         "tema": "palmeiras-previa-final",
         "novedad": "Palmeiras llegó a Montevideo con 28 jugadores",
         "titulo": "Palmeiras ya está en Uruguay, con 28 jugadores",
-        "texto": "El Verdão aterrizó en Montevideo con 28 futbolistas tras perder 3-0 con suplentes ante Chapecoense. Según Lance, en la lista está Paulinho, que arrastra una lesión desde octubre y sigue en duda."
+        "texto": "El Verdão aterrizó en Montevideo con 28 futbolistas tras perder 3-0 con suplentes ante Chapecoense. Según Lance, en la lista está Paulinho, que arrastra una lesión desde octubre y sigue en duda. Hoy hace su primer entrenamiento en Montevideo."
       },
       {
         "tema": "convocados-final",
@@ -49,6 +49,24 @@
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-26T07:53:00-03:00",
+        "texto": "El Pincha ya está instalado en Montevideo para los últimos entrenamientos antes de la final.",
+        "fuente": "Punto Capital",
+        "url": "https://www.puntocapitalnoticias.com/el-pincha-ya-esta-en-montevideo-y-se-prepara-para-la-final-de-la-libertadores/"
+      },
+      {
+        "hora": "2026-11-26T07:27:00-03:00",
+        "texto": "Un Pincha muy custodiado en Montevideo, con Federico D'Elía como bandera: \"Es un club mágico\".",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-copa-montevideo-con-mas-seguridad-que-el-papa-y-federico-delia-como-bandera-es-un-club-nid26112026/"
+      },
+      {
+        "hora": "2026-11-26T03:45:00-03:00",
+        "texto": "Video: la emoción de la despedida y la llegada del Pincha a Uruguay.",
+        "fuente": "El Día",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2Itbnl5Q2tVSVl2M2VEVWJUS1BIelBOOThYTE5vaGNVWHp6b090WURfSDBxNlA0S052UWQ4WEt5NG5LY0NDWFVoTXpJMURtUkgtbGVqU1pOd3VWcHdKaHV5TzdOcDk0b0hTWEZKcFNPSDI5Z0c5X2tjc01OcGpONmdOWFNMbFNXYUx5NjhTMXBjUlRYdV8wV1pVTndlLUllOVNjY1U4eWhweElt?oc=5"
+      },
       {
         "hora": "2026-11-25T23:27:00-03:00",
         "texto": "El Pincha aterrizó en Uruguay para la final ante Palmeiras.",
@@ -86,12 +104,6 @@
         "url": "https://www.0221.com.ar/estudiantes/juan-sebastian-veron-sera-un-hincha-mas-montevideo-como-vivira-la-final-la-copa-libertadores-n138045"
       },
       {
-        "hora": "2026-11-25T20:24:00-03:00",
-        "texto": "El video de la Conmebol que reúne a las leyendas del Pincha antes de la final.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/el-emotivo-video-de-la-conmebol-que-reune-a-las-leyendas-de-estudiantes-antes-de-la-final-de-la-nid25112026/"
-      },
-      {
         "hora": "2026-11-25T19:15:00-03:00",
         "texto": "Medina probó a Benedetti con línea de cinco para tapar el hueco de Baltasar.",
         "fuente": "0221",
@@ -110,22 +122,10 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHJRd21LVFY2UXh4NEVEVE5qNzlNbEJRVlI3MEFRSTVFUnpnUnkxNmZRRldNM1h2TUpTc0xFbGxOZ3FCMENlVldoVkFWSEhWTVl1elZ2M2NWRjQwTlFKSUJlMmxvVGRfVko4eUtlSWRadTVsWDNjWFJ5QUQtSEktdjhEOUpNU29xWG5qM1VNWklsQ2NzNERUN0RJemxWaTJUVlRhaEZVWHU3bEFMVEhRZ1VNb3JvRnRnX2p4TldqZFlManBjUHRaYTZFbFI?oc=5"
       },
       {
-        "hora": "2026-11-25T09:11:00-03:00",
-        "texto": "Gendarmería controlará más de 120 micros de hinchas en Gualeguaychú.",
-        "fuente": "R2820",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTUxaem9uMmoyWTBZU0tIaEFVdlZyX1hfaThfWGdJS21FbVFkRWlRbm52V3JmSFRFdGlRdnRULXJMeGZPM2VEQ1VoazdMS0JQMnRBSFFKLWRiblY5WnJDUjhvdEFZQVdvT0RfSTByVDRKWV9MclFjZTQ2Z2xGbU0xSkE5d0dBOTBrbkhzc0plZzd2d2JsMFF6Yk9WTlY4NXI4WTFpVWZsWlN5endIY1ZQTmhHdUs0WEJLMmdkQm9WbnVaRU1scmNiRHV1SFhjaEVDaWNUaGZwb1ljLTlMWGZXZl9SQlQwQ3dpQ1BBRdIB8gFBVV95cUxPNzVfNXJWeFYwakwydHNkR01QN3J4NF9rUmJCcmdIVUhoYnJKTUtzdEdUR240NlZaTHloMmhnN1RZSDYzME9uRVNPcEtnaHhNM0lDblh0UXRfMUc0cTJnVXhTTzdUcmRfUmFsdG8zUDI5bmxQaEpweHNQUkNOWlJ5SG9mT2t5N0xMaURlSG40dVFzY0Q2NEVlTmx2Q3NXYUpKSlJrVHNZMDFpeThhNHZyMWVDRnFVa3hoZWhVS3Q2UGI5U0RnV0NLazNGWGdzcG9rZGF5elNqYzhRQi1FUmFicFhoMGM2dXZnTWNNQ1ByUDROdw?oc=5"
-      },
-      {
         "hora": "2026-11-25T00:00:00-03:00",
         "texto": "Palmeiras llegó a Montevideo con 28 jugadores, Paulinho incluido.",
         "fuente": "Lance",
         "url": "https://www.lance.com.br/palmeiras/palmeiras-desembarca-no-uruguai-com-28-atletas-e-presenca-de-paulinho-veja-relacionados.html"
-      },
-      {
-        "hora": "2026-11-24T19:15:00-03:00",
-        "texto": "La guía de recomendaciones para los hinchas que viajan a Uruguay.",
-        "fuente": "El Día",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSjIxYThWXzJRbDVfenE5SmZlelVmQXRWZDMxa0JOTWFqY2c5Z3FpNG9LY2FlWjJ1YVIwejNJdFJ2VVVLc2VtajlLeEd2MTQwNjBnWi0tbEgtTkJZTTIxYm9GVFBYd3JKXzFPdEVyUTk5NkxuNGxiUjdpbUtkRjM3cGFjZmpGV1V2djRMZVZQblEwc1UwbGs5clJKQzVzQ09JRHlDXy1RS1g5dG8zUTEzVURqYm5BSDM4SHZWZEU2aXROOFhBNWQtQlBjbjdLYkZaZ3Z6aFlfd3JaNmxnUlplOElyUUtKQW83Q2pz?oc=5"
       },
       {
         "hora": "2026-11-23T08:54:00-03:00",
@@ -376,6 +376,8 @@
     }
   },
   "fuentes": [
+    "https://ptd.verdao.net/final-da-libertadores-palmeiras-chega-hoje-em-montevideu-primeiro-treino-sera-na-quinta/",
+    "https://portaldopalestra.com.br/programacao-palmeiras-viagem-montevideu-final-libertadores-2026-treino-albion/",
     "https://diariohoy.net/el-clasico/estudiantes-afino-el-lapiz-y-el-cacique-armo-la-agenda-para-la-semana-de-la-final-290519",
     "https://nossopalestra.com.br/noticias/palmeiras-chapecoense-libertadores-copa-do-brasil",
     "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-final-libertadores-viagem-uruguai/",
