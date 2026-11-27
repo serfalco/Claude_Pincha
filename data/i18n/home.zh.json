@@ -1,41 +1,56 @@
 {
   "hoy": {
-    "titular": "决赛倒计时两天：Pincha在蒙得维的亚训练，Andújar和Boselli将捧杯入场",
+    "titular": "远征之日：球迷大巴驶向蒙得维的亚，Pincha进行决赛前最后一练",
     "foto": {
-      "alt": "Alexander Medina在Estudiantes训练中露出笑容。"
+      "alt": "Estudiantes球迷坐满了el UNO的看台。"
     },
-    "resumen": "球队在Montevideo City Torque的训练基地备战，周五进行最后一练。2009年冠军成员Mariano Andújar和Mauro Boselli将在周六对阵帕尔梅拉斯（Palmeiras）的决赛前把奖杯带入Centenario球场。",
+    "resumen": "官方大巴早上7点从el UNO出发，预计约3.5万名Pincha球迷将前往乌拉圭。球队今天在Montevideo City Torque训练基地进行最后一次训练，Medina将确定周六对阵帕尔梅拉斯（Palmeiras）决赛的阵容。",
     "siete": [
       {
-        "titulo": "蒙得维的亚迎来Pincha",
-        "texto": "在数百名球迷簇拥下抵达酒店后，球队在Ciudad de la Costa的Montevideo City Torque训练基地备战：今天周四17时开练，周五10时进行决赛前最后一次训练。"
+        "titulo": "俱乐部大巴今早7点从el UNO出发",
+        "texto": "官方大巴今天早上7点从el UNO出发（5点30分开始登记），球迷团体的大巴12点出发，以便加快过境速度。需携带实体身份证或有效护照：Mi Argentina电子身份证无效。"
       },
       {
-        "titulo": "俱乐部大巴周五早上7点从el UNO出发",
-        "texto": "据俱乐部消息，官方大巴于27日周五早上7点出发（5点30分开始登记），球迷团体的大巴中午12点出发，以便加快过境：出行人数超过6,500人。须携带实体身份证（DNI）或有效护照；Mi Argentina的电子身份证无效。"
+        "titulo": "Pincha大远征：预计3.5万人奔赴乌拉圭",
+        "texto": "超过170辆球迷大巴将途经Gualeguaychú前往边境大桥，还有球迷乘Buquebus渡轮过河，甚至有人从Ensenada乘三艘帆船出发。媒体估计约3.5万名Pincha球迷将在蒙得维的亚观看决赛。"
+      },
+      {
+        "titulo": "Piovi：“我们会主动进攻”",
+        "texto": "在蒙得维的亚的首堂训练课后，Ezequiel Piovi表示球队已经研究过Palmeiras，并放话：“周六我们会像一直以来那样主动进攻。”他认为这是自己职业生涯中最重要的一场比赛。"
+      },
+      {
+        "titulo": "最后一练，闭门进行",
+        "texto": "球队今天10点在Ciudad de la Costa的Montevideo City Torque训练基地进行决赛前最后一次训练。和整周一样，不对媒体和公众开放。"
       },
       {
         "titulo": "Andújar与Boselli将捧杯入场",
         "texto": "两位2009年冠军成员将在开球前几分钟把奖杯带上Centenario球场：当年创纪录的门将Mariano Andújar，以及以8球成为最佳射手的Mauro Boselli。"
       },
       {
+        "titulo": "Medina今天确定Baltasar的替代者",
+        "texto": "Fabricio Pérez是顶替停赛的Baltasar Rodríguez的头号人选，Cetré为备选；Medina还演练了让Gastón Benedetti出场的五后卫阵型。Correa随27人大名单出征，但仍未获得确认的伤愈许可。"
+      },
+      {
         "titulo": "Abel称赞Pincha，Barboza信心十足",
         "texto": "Abel Ferreira称赞Pincha：“这是一支极具竞争力的球队，球员经验非常丰富。”更具挑衅意味的是，阿根廷后卫Alexander Barboza表示将“在第二个家乌拉圭”赢下决赛。自10月起伤停的Paulinho仍然存疑。"
-      },
-      {
-        "titulo": "Medina带27人出征，Correa在列",
-        "texto": "决赛名单共27人，Joaquín Correa入选，他已恢复带球训练，有望获得出场时间。停赛的Baltasar Rodríguez以及年轻球员Pierani、Pereyra和Van der Tuin也随队出行。"
-      },
-      {
-        "titulo": "没有Baltasar：Fabricio Pérez、Cetré还是五后卫",
-        "texto": "据0221报道，Fabricio Pérez是顶替Baltasar Rodríguez的头号人选，Cetré为备选；在City Bell，Medina还演练了让Gastón Benedetti出场的五后卫阵型。首发阵容将在周五最后一堂训练课上确定。"
-      },
-      {
-        "titulo": "球队迎接骑行而来的球迷",
-        "texto": "Facundo Mensegues和Brian Froidevaux从La Plata骑行600多公里抵达蒙得维的亚，球员们在驻地迎接了他们。"
       }
     ],
     "linea": [
+      {
+        "texto": "预计3.5万名Pincha球迷前往蒙得维的亚：奔赴决赛的车队。"
+      },
+      {
+        "texto": "超过170辆载有Estudiantes球迷的大巴将途经Gualeguaychú。"
+      },
+      {
+        "texto": "从Ensenada乘三艘帆船：横渡拉普拉塔河去看决赛的球迷。"
+      },
+      {
+        "texto": "Estudiantes和Palmeiras在蒙得维的亚闭门备战。"
+      },
+      {
+        "texto": "Piovi在乌拉圭首练后表示：“我们会像一直以来那样主动进攻。”"
+      },
       {
         "texto": "视频：球员们迎接骑自行车到蒙得维的亚的球迷。"
       },
@@ -62,21 +77,6 @@
       },
       {
         "texto": "Pincha抵达乌拉圭，备战对阵Palmeiras的决赛。"
-      },
-      {
-        "texto": "蒙得维的亚沸腾：球队在球迷簇拥下抵达酒店。"
-      },
-      {
-        "texto": "从拉普拉塔的送行到乌拉圭的欢迎。"
-      },
-      {
-        "texto": "Pincha带着27名球员抵达乌拉圭，Correa正努力赶上决赛。"
-      },
-      {
-        "texto": "Copa Libertadores决赛大名单出炉。"
-      },
-      {
-        "texto": "Verón将在看台上以普通球迷身份观看决赛。"
       }
     ]
   },

@@ -148,7 +148,8 @@
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/05/DSC_9462_compressed-1024x683.jpg",
       "alt": "La hinchada de Estudiantes llena la tribuna del estadio UNO.",
       "usos": [
-        "banda"
+        "banda",
+        "hoy"
       ],
       "foco": [
         0.5,
@@ -1065,9 +1066,7 @@
       "credito": null,
       "original": "https://estudiantesdelaplata.com/wp-content/uploads/2026/08/Copia-de-IMG-9908-1024x547.jpg",
       "alt": "Alexander Medina, sonriente, durante un entrenamiento de Estudiantes.",
-      "usos": [
-        "hoy"
-      ],
+      "usos": [],
       "foco": [
         0.53,
         0.3

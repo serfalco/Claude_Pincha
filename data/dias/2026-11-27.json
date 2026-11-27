@@ -1,0 +1,172 @@
+{
+  "fecha": "2026-11-27",
+  "titular": {
+    "es": "Día de éxodo: salen los micros a Montevideo y el Pincha hace su última práctica antes de la final",
+    "en": "Exodus day: the coaches leave for Montevideo and the Pincha hold their last session before the final",
+    "pt": "Dia de êxodo: os ônibus partem para Montevidéu e o Pincha faz o último treino antes da final",
+    "zh": "远征之日：球迷大巴驶向蒙得维的亚，Pincha进行决赛前最后一练",
+    "hi": "पलायन का दिन: बसें मोंटेवीडियो के लिए रवाना, Pincha फ़ाइनल से पहले आख़िरी अभ्यास करेगा"
+  },
+  "resumen": {
+    "es": "Los micros oficiales salen a las 7 desde el UNO y se esperan unos 35 mil pinchas en Uruguay. El plantel hace hoy la última práctica en el predio del Montevideo City Torque y Medina define el equipo para la final del sábado ante Palmeiras.",
+    "en": "The official coaches leave the UNO at 7am and around 35,000 Pincha fans are expected in Uruguay. The squad hold their last session today at Montevideo City Torque's complex and Medina settles the line-up for Saturday's final against Palmeiras.",
+    "pt": "Os ônibus oficiais saem do UNO às 7h e cerca de 35 mil torcedores do Pincha são esperados no Uruguai. O elenco faz hoje o último treino no CT do Montevideo City Torque e Medina define o time para a final de sábado contra o Palmeiras.",
+    "zh": "官方大巴早上7点从el UNO出发，预计约3.5万名Pincha球迷将前往乌拉圭。球队今天在Montevideo City Torque训练基地进行最后一次训练，Medina将确定周六对阵帕尔梅拉斯（Palmeiras）决赛的阵容。",
+    "hi": "आधिकारिक बसें सुबह 7 बजे el UNO से निकलेंगी और उरुग्वे में लगभग 35,000 Pincha प्रशंसकों के पहुंचने की उम्मीद है। टीम आज Montevideo City Torque के परिसर में आख़िरी अभ्यास करेगी और Medina शनिवार को Palmeiras के ख़िलाफ़ फ़ाइनल के लिए टीम तय करेंगे।"
+  },
+  "ultimo": {
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral",
+    "goles": [
+      {
+        "jugador": "Carrillo",
+        "min": "55"
+      },
+      {
+        "jugador": "Villalba",
+        "min": "68",
+        "ec": true
+      },
+      {
+        "jugador": "Alario",
+        "min": "96"
+      }
+    ]
+  },
+  "siete": [
+    {
+      "tema": "micros-oficiales",
+      "titulo": {
+        "es": "Hoy salen los micros del club: a las 7 desde el UNO",
+        "en": "Club coaches leave the UNO today at 7am",
+        "pt": "Ônibus do clube saem hoje às 7h do UNO",
+        "zh": "俱乐部大巴今早7点从el UNO出发",
+        "hi": "क्लब की बसें आज सुबह 7 बजे el UNO से"
+      },
+      "texto": {
+        "es": "Los micros oficiales salen hoy a las 7 desde el UNO (acreditación desde las 5.30) y los de agrupaciones, a las 12, para agilizar el paso por la frontera. Hace falta DNI físico o pasaporte vigente: el DNI digital de Mi Argentina no sirve.",
+        "en": "The official coaches leave the UNO today at 7am (check-in from 5.30am) and the supporters' groups' coaches at midday, to speed up the border crossing. A physical ID card or valid passport is required: the Mi Argentina digital ID is not accepted.",
+        "pt": "Os ônibus oficiais saem hoje às 7h do UNO (credenciamento a partir das 5h30) e os das torcidas organizadas, às 12h, para agilizar a passagem pela fronteira. É preciso RG físico ou passaporte válido: o documento digital do Mi Argentina não vale.",
+        "zh": "官方大巴今天早上7点从el UNO出发（5点30分开始登记），球迷团体的大巴12点出发，以便加快过境速度。需携带实体身份证或有效护照：Mi Argentina电子身份证无效。",
+        "hi": "आधिकारिक बसें आज सुबह 7 बजे el UNO से निकलेंगी (पंजीकरण सुबह 5.30 से) और समर्थक समूहों की बसें दोपहर 12 बजे, ताकि सीमा पार करना आसान हो। भौतिक पहचान पत्र या वैध पासपोर्ट ज़रूरी है: Mi Argentina का डिजिटल पहचान पत्र मान्य नहीं है।"
+      }
+    },
+    {
+      "tema": "exodo-montevideo",
+      "titulo": {
+        "es": "Éxodo pincha: se esperan 35 mil en Uruguay",
+        "en": "Pincha exodus: 35,000 expected in Uruguay",
+        "pt": "Êxodo pincha: 35 mil esperados no Uruguai",
+        "zh": "Pincha大远征：预计3.5万人奔赴乌拉圭",
+        "hi": "Pincha का पलायन: उरुग्वे में 35,000 की उम्मीद"
+      },
+      "texto": {
+        "es": "Más de 170 micros de hinchas pasarán por Gualeguaychú rumbo al puente, otros cruzaron en Buquebus y hasta en tres veleros desde Ensenada. Los medios calculan unos 35 mil pinchas en Montevideo para la final.",
+        "en": "More than 170 fans' coaches will pass through Gualeguaychú on the way to the bridge, others crossed by Buquebus ferry and even on three sailing boats from Ensenada. The media estimate around 35,000 Pincha fans in Montevideo for the final.",
+        "pt": "Mais de 170 ônibus de torcedores vão passar por Gualeguaychú rumo à ponte, outros cruzaram de Buquebus e até em três veleiros saindo de Ensenada. A imprensa calcula cerca de 35 mil torcedores do Pincha em Montevidéu para a final.",
+        "zh": "超过170辆球迷大巴将途经Gualeguaychú前往边境大桥，还有球迷乘Buquebus渡轮过河，甚至有人从Ensenada乘三艘帆船出发。媒体估计约3.5万名Pincha球迷将在蒙得维的亚观看决赛。",
+        "hi": "प्रशंसकों की 170 से ज़्यादा बसें पुल की ओर जाते हुए Gualeguaychú से गुज़रेंगी, कुछ Buquebus फ़ेरी से और कुछ Ensenada से तीन पाल-नौकाओं में पहुंचे। मीडिया के अनुमान के मुताबिक़ फ़ाइनल के लिए मोंटेवीडियो में लगभग 35,000 Pincha प्रशंसक होंगे।"
+      }
+    },
+    {
+      "tema": "piovi-final",
+      "titulo": {
+        "es": "Piovi: \"Vamos a ir al frente\"",
+        "en": "Piovi: \"We will go on the attack\"",
+        "pt": "Piovi: \"Vamos para cima\"",
+        "zh": "Piovi：“我们会主动进攻”",
+        "hi": "Piovi: \"हम आक्रामक खेलेंगे\""
+      },
+      "texto": {
+        "es": "Tras la primera práctica en Montevideo, Ezequiel Piovi contó que el plantel ya analizó a Palmeiras y avisó: \"El sábado vamos a ir al frente como lo hicimos hasta ahora\". Para él, es el partido más importante de su carrera.",
+        "en": "After the first session in Montevideo, Ezequiel Piovi said the squad have already studied Palmeiras and warned: \"On Saturday we will go on the attack, as we have done so far\". For him, it is the biggest match of his career.",
+        "pt": "Depois do primeiro treino em Montevidéu, Ezequiel Piovi contou que o elenco já analisou o Palmeiras e avisou: \"No sábado vamos para cima, como fizemos até agora\". Para ele, é o jogo mais importante da carreira.",
+        "zh": "在蒙得维的亚的首堂训练课后，Ezequiel Piovi表示球队已经研究过Palmeiras，并放话：“周六我们会像一直以来那样主动进攻。”他认为这是自己职业生涯中最重要的一场比赛。",
+        "hi": "मोंटेवीडियो में पहले अभ्यास के बाद Ezequiel Piovi ने बताया कि टीम Palmeiras का विश्लेषण कर चुकी है और कहा: \"शनिवार को हम अब तक की तरह आक्रामक खेलेंगे\"। उनके लिए यह करियर का सबसे अहम मैच है।"
+      }
+    },
+    {
+      "tema": "viaje-montevideo",
+      "titulo": {
+        "es": "Última práctica, a puertas cerradas",
+        "en": "Last session, behind closed doors",
+        "pt": "Último treino, com portões fechados",
+        "zh": "最后一练，闭门进行",
+        "hi": "आख़िरी अभ्यास, बंद दरवाज़ों में"
+      },
+      "texto": {
+        "es": "El plantel entrena hoy desde las 10 en el predio del Montevideo City Torque, en Ciudad de la Costa, en la última práctica antes de la final. Como toda la semana, sin prensa ni público.",
+        "en": "The squad train today from 10am at Montevideo City Torque's complex in Ciudad de la Costa, in the last session before the final. As all week, with no press or public.",
+        "pt": "O elenco treina hoje a partir das 10h no CT do Montevideo City Torque, em Ciudad de la Costa, no último treino antes da final. Como em toda a semana, sem imprensa nem público.",
+        "zh": "球队今天10点在Ciudad de la Costa的Montevideo City Torque训练基地进行决赛前最后一次训练。和整周一样，不对媒体和公众开放。",
+        "hi": "टीम आज सुबह 10 बजे से Ciudad de la Costa में Montevideo City Torque के परिसर में फ़ाइनल से पहले का आख़िरी अभ्यास करेगी। पूरे हफ़्ते की तरह, न मीडिया न दर्शक।"
+      }
+    },
+    {
+      "tema": "andujar-boselli-copa",
+      "titulo": {
+        "es": "Andújar y Boselli entrarán con la Copa",
+        "en": "Andújar and Boselli to walk out with the Cup",
+        "pt": "Andújar e Boselli entrarão com a Taça",
+        "zh": "Andújar与Boselli将捧杯入场",
+        "hi": "Andújar और Boselli कप लेकर उतरेंगे"
+      },
+      "texto": {
+        "es": "Dos campeones de 2009 llevarán el trofeo al campo del Centenario minutos antes del arranque: Mariano Andújar, el arquero récord de aquella Copa, y Mauro Boselli, su goleador con 8 goles.",
+        "en": "Two 2009 champions will carry the trophy onto the Centenario pitch minutes before kick-off: Mariano Andújar, that campaign's record-breaking goalkeeper, and Mauro Boselli, its top scorer with 8 goals.",
+        "pt": "Dois campeões de 2009 levarão o troféu ao gramado do Centenário minutos antes do início: Mariano Andújar, o goleiro recordista daquela Copa, e Mauro Boselli, artilheiro com 8 gols.",
+        "zh": "两位2009年冠军成员将在开球前几分钟把奖杯带上Centenario球场：当年创纪录的门将Mariano Andújar，以及以8球成为最佳射手的Mauro Boselli。",
+        "hi": "2009 के दो चैंपियन किक-ऑफ़ से कुछ मिनट पहले ट्रॉफ़ी को Centenario के मैदान पर लाएंगे: उस अभियान के रिकॉर्डधारी गोलकीपर Mariano Andújar और 8 गोल के साथ टॉप स्कोरर रहे Mauro Boselli।"
+      }
+    },
+    {
+      "tema": "equipo-sin-baltasar",
+      "titulo": {
+        "es": "Medina define hoy al reemplazante de Baltasar",
+        "en": "Medina picks Baltasar's replacement today",
+        "pt": "Medina define hoje o substituto de Baltasar",
+        "zh": "Medina今天确定Baltasar的替代者",
+        "hi": "Medina आज Baltasar का विकल्प तय करेंगे"
+      },
+      "texto": {
+        "es": "Fabricio Pérez es el principal candidato para el lugar de Baltasar Rodríguez, suspendido, con Cetré como alternativa; Medina también probó línea de cinco con Gastón Benedetti. Correa viajó entre los 27 convocados, pero sigue sin alta confirmada.",
+        "en": "Fabricio Pérez is the front-runner to replace the suspended Baltasar Rodríguez, with Cetré as the alternative; Medina also tried a back five with Gastón Benedetti. Correa travelled among the 27 in the squad but still has no confirmed medical clearance.",
+        "pt": "Fabricio Pérez é o principal candidato à vaga de Baltasar Rodríguez, suspenso, com Cetré como alternativa; Medina também testou linha de cinco com Gastón Benedetti. Correa viajou entre os 27 relacionados, mas segue sem liberação médica confirmada.",
+        "zh": "Fabricio Pérez是顶替停赛的Baltasar Rodríguez的头号人选，Cetré为备选；Medina还演练了让Gastón Benedetti出场的五后卫阵型。Correa随27人大名单出征，但仍未获得确认的伤愈许可。",
+        "hi": "निलंबित Baltasar Rodríguez की जगह के लिए Fabricio Pérez सबसे आगे हैं और Cetré विकल्प हैं; Medina ने Gastón Benedetti के साथ पाँच डिफ़ेंडरों की लाइन भी आज़माई। Correa 27 खिलाड़ियों की टीम के साथ गए हैं, लेकिन उन्हें अब तक पक्की मेडिकल मंज़ूरी नहीं मिली है।"
+      }
+    },
+    {
+      "tema": "palmeiras-previa-final",
+      "titulo": {
+        "es": "Abel elogia al Pincha y Barboza se tiene fe",
+        "en": "Abel praises the Pincha, Barboza talks big",
+        "pt": "Abel elogia o Pincha e Barboza confia no título",
+        "zh": "Abel称赞Pincha，Barboza信心十足",
+        "hi": "Abel ने Pincha की तारीफ़ की, Barboza को जीत का भरोसा"
+      },
+      "texto": {
+        "es": "Abel Ferreira elogió al Pincha: \"Es un equipo extremadamente competitivo, con jugadores muy experimentados\". Más picante, el defensor argentino Alexander Barboza aseguró que ganará la final \"en su otra casa, Uruguay\". Paulinho, con una lesión desde octubre, sigue en duda.",
+        "en": "Abel Ferreira praised the Pincha: \"They are an extremely competitive side, with very experienced players\". More provocatively, Argentine defender Alexander Barboza said he will win the final \"in his other home, Uruguay\". Paulinho, injured since October, remains a doubt.",
+        "pt": "Abel Ferreira elogiou o Pincha: \"É uma equipe extremamente competitiva, com jogadores muito experientes\". Mais provocador, o zagueiro argentino Alexander Barboza garantiu que vai ganhar a final \"na sua outra casa, o Uruguai\". Paulinho, lesionado desde outubro, segue em dúvida.",
+        "zh": "Abel Ferreira称赞Pincha：“这是一支极具竞争力的球队，球员经验非常丰富。”更具挑衅意味的是，阿根廷后卫Alexander Barboza表示将“在第二个家乌拉圭”赢下决赛。自10月起伤停的Paulinho仍然存疑。",
+        "hi": "Abel Ferreira ने Pincha की तारीफ़ की: \"यह बेहद प्रतिस्पर्धी टीम है, बहुत अनुभवी खिलाड़ियों के साथ\"। ज़्यादा उकसाने वाले अंदाज़ में अर्जेंटीनी डिफ़ेंडर Alexander Barboza ने कहा कि वे फ़ाइनल \"अपने दूसरे घर, उरुग्वे में\" जीतेंगे। अक्टूबर से चोटिल Paulinho पर अब भी संदेह है।"
+      }
+    }
+  ],
+  "foto": {
+    "id": "2026-05-25_accesos-y-recomendaciones-ante-dim_1",
+    "alt": {
+      "es": "La hinchada de Estudiantes llena la tribuna del estadio UNO.",
+      "en": "Estudiantes fans fill the stand at the UNO.",
+      "pt": "A torcida do Estudiantes lota a arquibancada do UNO.",
+      "zh": "Estudiantes球迷坐满了el UNO的看台。",
+      "hi": "Estudiantes के प्रशंसकों से el UNO का स्टैंड भरा हुआ।"
+    }
+  },
+  "linea": []
+}

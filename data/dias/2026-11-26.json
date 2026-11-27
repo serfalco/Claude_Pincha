@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-08-17_los-que-viajaron-a-chile_1",
+    "alt": {
+      "es": "Alexander Medina, sonriente, durante un entrenamiento de Estudiantes.",
+      "en": "Alexander Medina smiles during an Estudiantes training session.",
+      "pt": "Alexander Medina sorri durante um treino do Estudiantes.",
+      "zh": "Alexander Medina在Estudiantes训练中露出笑容。",
+      "hi": "Estudiantes के अभ्यास के दौरान मुस्कुराते Alexander Medina।"
+    }
+  },
   "siete": [
     {
       "tema": "viaje-montevideo",
@@ -161,17 +171,67 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-08-17_los-que-viajaron-a-chile_1",
-    "alt": {
-      "es": "Alexander Medina, sonriente, durante un entrenamiento de Estudiantes.",
-      "en": "Alexander Medina smiles during an Estudiantes training session.",
-      "pt": "Alexander Medina sorri durante um treino do Estudiantes.",
-      "zh": "Alexander Medina在Estudiantes训练中露出笑容。",
-      "hi": "Estudiantes के अभ्यास के दौरान मुस्कुराते Alexander Medina।"
-    }
-  },
   "linea": [
+    {
+      "hora": "2026-11-26T23:10:00-03:00",
+      "fuente": "Olé",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQWdMX0tVTzlDdVVfUjN3TXNTZ3lTZElFa1FSWFd2TlZfQUktSDFGNnVlUy1jalNPTnhWWm9LMDBYSGx6ZmgtN1VPVzNnX2daUzZGMlgxM21SMFNXMU9WVk5FRl9RQnRlMl9oS3IzYVFISkRmTDZJMXhHWHR3bUVLaU5UamhxdklDVVVGWW43OExzOXVJUVNWYlZoRjZmZWdMdERuZWdzb1FKemRhOVRBOXctaFY3T1RoRDlIb0lkN3NNajFZSVpaQzlZbVdWQQ?oc=5",
+      "texto": {
+        "es": "Se esperan 35 mil hinchas del Pincha en Montevideo: la caravana rumbo a la final.",
+        "en": "35,000 Pincha fans expected in Montevideo: the caravan heading to the final.",
+        "pt": "35 mil torcedores do Pincha esperados em Montevidéu: a caravana rumo à final.",
+        "zh": "预计3.5万名Pincha球迷前往蒙得维的亚：奔赴决赛的车队。",
+        "hi": "मोंटेवीडियो में 35,000 Pincha प्रशंसकों की उम्मीद: फ़ाइनल की ओर काफ़िला।"
+      }
+    },
+    {
+      "hora": "2026-11-26T22:37:00-03:00",
+      "fuente": "Elonce",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUGZ4WHY4UmlVemdFMWtWYmVCVC1sdG4ta3JoblR2akstYkRRQm9JWE00WldsTVF4NXkwNjJ5VTZpeWxtZ2xkbGI1S1VXTHVFUlhIMUNLWXhWV21lTU1TQkpaVURfXzdwb3VtcDZpSHpOTkhnTnByMGszRUM1UTVudEJqSXpVVTRrUEZoMGk3MTcwTW9SbVhrX0NhaFlBemQycjNHRGY5bzVVZGcwR2ZFcFhGbUpYV251VDRrTW1Bc3U1ZHk4WDBDaXRFNUZvZXpLdTI0NlF1MGwwZHlFVThEdGdkMGZ5Z9IB3wFBVV95cUxORlVpbnZ4anVoaW5SdS1uNFNyclM1SUE2QU5tcUlCcVRyekN2aHVWUVJFZTBIQ3cxRVpWQkdoQ1hjR1ROYWl3YmcwcHdRSTJHTWt3VTFDeV9KVVRHZnJuYlpzV0dRZ3RvNmloOERwRUtwZXRpLWFnb1FKZ3k3YUY4ODJLSTZ6aGhUV1VhMC15VlpHODd4VHZSTy1lTk5qWk5SNzFzMzVKQWdMbnpFci1YT2RpSk1RTjdzOFdfYnduc1l4eEhGMVZEWVlCSDVld1FVdUFvS2hGcnNUMUZlWlhn?oc=5",
+      "texto": {
+        "es": "Más de 170 micros con hinchas de Estudiantes pasarán por Gualeguaychú.",
+        "en": "More than 170 coaches of Estudiantes fans will pass through Gualeguaychú.",
+        "pt": "Mais de 170 ônibus com torcedores do Estudiantes vão passar por Gualeguaychú.",
+        "zh": "超过170辆载有Estudiantes球迷的大巴将途经Gualeguaychú。",
+        "hi": "Estudiantes प्रशंसकों की 170 से ज़्यादा बसें Gualeguaychú से गुज़रेंगी।"
+      }
+    },
+    {
+      "hora": "2026-11-26T20:46:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/en-veleros-y-ensenada-hinchas-estudiantes-viajaron-uruguay-la-final-la-copa-libertadores-n138102",
+      "texto": {
+        "es": "En tres veleros y desde Ensenada: hinchas que cruzaron el Río de la Plata para la final.",
+        "en": "On three sailing boats from Ensenada: fans who crossed the River Plate for the final.",
+        "pt": "Em três veleiros saindo de Ensenada: torcedores que cruzaram o Rio da Prata para a final.",
+        "zh": "从Ensenada乘三艘帆船：横渡拉普拉塔河去看决赛的球迷。",
+        "hi": "Ensenada से तीन पाल-नौकाओं में: फ़ाइनल के लिए रियो दे ला प्लाटा पार करने वाले प्रशंसक।"
+      }
+    },
+    {
+      "hora": "2026-11-26T20:15:00-03:00",
+      "fuente": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVktacXlsNzVsejh4dlN1WGdEYUlvWFpPVS1kUThSd3BoNHhCcGxPdUQtUE03VVdCMkx6TzMtOTZBNDUwZnE0aURoWHd4S1RQYllWVWdfVDNlTHExSVJYYWtOUE5icEcyTFVfVEZwQzZRel93S29wSzFta3FPOTVEcjh5R2dVbGUtNG9TVVdrbFpHVS1LWmlMY3k5Z1B6YzhJMVJMeV9FX3lDRXBWc0VNRlJ6ZllYczZEbE9jX1h6RDktbUNjUmJZZU5fcU9FLVFNT1lB0gHuAUFVX3lxTE9STGdfWWdqTG03SnM3NVI5V0dLSU8wX2hIdE5MTEpnZnZBQUFRZmdUb3BPVXJXdWdadmE0U0NTMDFQTzllOGtLUWNldXlnNFk3bzJ2bHkxX2hVcUZrbkY2UTFnNGZpU0RlR2FLYlZCeEFrQ3Q1dkxPNndkaGUwRHVVRnN1dmo5QUtfRXQ0LUFfR3h0WUNkNlhKOHhnZWtRN2M5MEt2X1NjTE1ZVkN0ZGY3UFpDRXBQTVgzcXhkVi1mUTkydFh0dXo0RWhKV0Jkemhjam5MeEpZbXB5NzZMc3lkVnplUlc3N1BsT1JRN3c?oc=5",
+      "texto": {
+        "es": "Estudiantes y Palmeiras se preparan a puertas cerradas en Montevideo.",
+        "en": "Estudiantes and Palmeiras prepare behind closed doors in Montevideo.",
+        "pt": "Estudiantes e Palmeiras se preparam com portões fechados em Montevidéu.",
+        "zh": "Estudiantes和Palmeiras在蒙得维的亚闭门备战。",
+        "hi": "Estudiantes और Palmeiras मोंटेवीडियो में बंद दरवाज़ों में तैयारी कर रहे हैं।"
+      }
+    },
+    {
+      "hora": "2026-11-26T19:16:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko5Q1E1UnkxUFRfU1R2VjZnZG9LZkNfOGxnVkVhVUNRNlpMQVZ4bkhFM2ZlaFRCQnFxMUlfMThWbkdQdGR5RmxnS0plWVl6bEFkNXJDcUpKa2RDYnVwbTBqUjh0WS15QTJIbDdxQ1BnVkp2bTBBcVBlU1MzeUxBc0ZROFhsNHJjUVI4TDVhc2J5Yko0TTJsSUxlR3FnX0xyaHpCOXNPUDZ5RWhIUUhqX1BPSzR1T2Z0cUNYX1FxUnJNWWxHWDVpaFI3WXRhdGNmTFBZLW4yS21WVWJv?oc=5",
+      "texto": {
+        "es": "Piovi, tras la primera práctica en Uruguay: \"Vamos a ir al frente como hasta ahora\".",
+        "en": "Piovi, after the first session in Uruguay: \"We will go on the attack, as we have so far\".",
+        "pt": "Piovi, depois do primeiro treino no Uruguai: \"Vamos para cima, como até agora\".",
+        "zh": "Piovi在乌拉圭首练后表示：“我们会像一直以来那样主动进攻。”",
+        "hi": "उरुग्वे में पहले अभ्यास के बाद Piovi: \"हम अब तक की तरह आक्रामक खेलेंगे\"।"
+      }
+    },
     {
       "hora": "2026-11-26T17:46:00-03:00",
       "fuente": "0221",

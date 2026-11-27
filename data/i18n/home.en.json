@@ -1,41 +1,56 @@
 {
   "hoy": {
-    "titular": "Two days to the final: the Pincha train in Montevideo and Andújar and Boselli will carry the Cup",
+    "titular": "Exodus day: the coaches leave for Montevideo and the Pincha hold their last session before the final",
     "foto": {
-      "alt": "Alexander Medina smiles during an Estudiantes training session."
+      "alt": "Estudiantes fans fill the stand at the UNO."
     },
-    "resumen": "The squad are training at Montevideo City Torque's complex and hold their last session on Friday. Mariano Andújar and Mauro Boselli, 2009 champions, will carry the Cup into the Centenario before Saturday's final against Palmeiras.",
+    "resumen": "The official coaches leave the UNO at 7am and around 35,000 Pincha fans are expected in Uruguay. The squad hold their last session today at Montevideo City Torque's complex and Medina settles the line-up for Saturday's final against Palmeiras.",
     "siete": [
       {
-        "titulo": "Montevideo welcomes the Pincha",
-        "texto": "After arriving at the hotel through hundreds of fans, the squad are training at Montevideo City Torque's complex in Ciudad de la Costa: today, Thursday, from 5pm and on Friday from 10am, in the last session before the final."
+        "titulo": "Club coaches leave the UNO today at 7am",
+        "texto": "The official coaches leave the UNO today at 7am (check-in from 5.30am) and the supporters' groups' coaches at midday, to speed up the border crossing. A physical ID card or valid passport is required: the Mi Argentina digital ID is not accepted."
       },
       {
-        "titulo": "Club coaches leave the UNO on Friday at 7am",
-        "texto": "According to the club, the official coaches leave on Friday 27th at 7am (check-in from 5.30am) and the supporters' groups' coaches at midday, to speed up the border crossing: more than 6,500 people are travelling. A physical ID card or valid passport is required; the Mi Argentina digital ID is not accepted."
+        "titulo": "Pincha exodus: 35,000 expected in Uruguay",
+        "texto": "More than 170 fans' coaches will pass through Gualeguaychú on the way to the bridge, others crossed by Buquebus ferry and even on three sailing boats from Ensenada. The media estimate around 35,000 Pincha fans in Montevideo for the final."
+      },
+      {
+        "titulo": "Piovi: \"We will go on the attack\"",
+        "texto": "After the first session in Montevideo, Ezequiel Piovi said the squad have already studied Palmeiras and warned: \"On Saturday we will go on the attack, as we have done so far\". For him, it is the biggest match of his career."
+      },
+      {
+        "titulo": "Last session, behind closed doors",
+        "texto": "The squad train today from 10am at Montevideo City Torque's complex in Ciudad de la Costa, in the last session before the final. As all week, with no press or public."
       },
       {
         "titulo": "Andújar and Boselli to walk out with the Cup",
         "texto": "Two 2009 champions will carry the trophy onto the Centenario pitch minutes before kick-off: Mariano Andújar, that campaign's record-breaking goalkeeper, and Mauro Boselli, its top scorer with 8 goals."
       },
       {
+        "titulo": "Medina picks Baltasar's replacement today",
+        "texto": "Fabricio Pérez is the front-runner to replace the suspended Baltasar Rodríguez, with Cetré as the alternative; Medina also tried a back five with Gastón Benedetti. Correa travelled among the 27 in the squad but still has no confirmed medical clearance."
+      },
+      {
         "titulo": "Abel praises the Pincha, Barboza talks big",
         "texto": "Abel Ferreira praised the Pincha: \"They are an extremely competitive side, with very experienced players\". More provocatively, Argentine defender Alexander Barboza said he will win the final \"in his other home, Uruguay\". Paulinho, injured since October, remains a doubt."
-      },
-      {
-        "titulo": "Medina travelled with a 27-man squad, Correa included",
-        "texto": "The squad list for the final has 27 players and includes Joaquín Correa, who is training with the ball and could get some minutes. The suspended Baltasar Rodríguez and youngsters Pierani, Pereyra and Van der Tuin also travelled."
-      },
-      {
-        "titulo": "Without Baltasar: Fabricio Pérez, Cetré or a back five",
-        "texto": "According to 0221, Fabricio Pérez is the favourite to replace Baltasar Rodríguez, with Cetré as the alternative; in City Bell Medina also tried Gastón Benedetti in a back five. The line-up will be settled on Friday, in the last training session."
-      },
-      {
-        "titulo": "The squad welcomed the cycling fans",
-        "texto": "Facundo Mensegues and Brian Froidevaux reached Montevideo after pedalling more than 600 kilometres from La Plata, and the players welcomed them at the team base."
       }
     ],
     "linea": [
+      {
+        "texto": "35,000 Pincha fans expected in Montevideo: the caravan heading to the final."
+      },
+      {
+        "texto": "More than 170 coaches of Estudiantes fans will pass through Gualeguaychú."
+      },
+      {
+        "texto": "On three sailing boats from Ensenada: fans who crossed the River Plate for the final."
+      },
+      {
+        "texto": "Estudiantes and Palmeiras prepare behind closed doors in Montevideo."
+      },
+      {
+        "texto": "Piovi, after the first session in Uruguay: \"We will go on the attack, as we have so far\"."
+      },
       {
         "texto": "Video: the players welcomed the fans who cycled to Montevideo."
       },
@@ -62,21 +77,6 @@
       },
       {
         "texto": "The Pincha landed in Uruguay for the final against Palmeiras."
-      },
-      {
-        "texto": "Scenes in Montevideo: the squad's arrival at the hotel among the fans."
-      },
-      {
-        "texto": "From the La Plata send-off to the welcome in Uruguay."
-      },
-      {
-        "texto": "The Pincha arrived in Uruguay with 27 players and Correa working to be fit."
-      },
-      {
-        "texto": "The squad list for the Copa Libertadores final."
-      },
-      {
-        "texto": "Verón will watch the final from the stands, just another fan."
       }
     ]
   },
