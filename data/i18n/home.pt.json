@@ -1,14 +1,14 @@
 {
   "hoy": {
-    "titular": "Dia de êxodo: os ônibus partem para Montevidéu e o Pincha faz o último treino antes da final",
+    "titular": "Dia de êxodo: os ônibus partiram para Montevidéu e o Pincha faz o último treino antes da final",
     "foto": {
       "alt": "A torcida do Estudiantes lota a arquibancada do UNO."
     },
-    "resumen": "Os ônibus oficiais saem do UNO às 7h e cerca de 35 mil torcedores do Pincha são esperados no Uruguai. O elenco faz hoje o último treino no CT do Montevideo City Torque e Medina define o time para a final de sábado contra o Palmeiras.",
+    "resumen": "Desde a manhã, quase 130 ônibus saem do UNO e mais de 35 mil torcedores do Pincha são esperados no Uruguai. O elenco faz hoje o último treino no CT do Montevideo City Torque e Medina define o time para a final de sábado contra o Palmeiras.",
     "siete": [
       {
-        "titulo": "Ônibus do clube saem hoje às 7h do UNO",
-        "texto": "Os ônibus oficiais saem hoje às 7h do UNO (credenciamento a partir das 5h30) e os das torcidas organizadas, às 12h, para agilizar a passagem pela fronteira. É preciso RG físico ou passaporte válido: o documento digital do Mi Argentina não vale."
+        "titulo": "Os ônibus partiram: quase 130 saindo do UNO",
+        "texto": "A saída dos ônibus começou nesta manhã no UNO e continua perto do meio-dia com os das torcidas organizadas, para agilizar a passagem pela fronteira. Para cruzar é preciso RG físico ou passaporte válido: o documento digital do Mi Argentina não vale."
       },
       {
         "titulo": "Êxodo pincha: 35 mil esperados no Uruguai",
@@ -36,6 +36,15 @@
       }
     ],
     "linea": [
+      {
+        "texto": "Começou a mobilização: quase 130 ônibus partem do UNO rumo ao Uruguai."
+      },
+      {
+        "texto": "Quase 130 ônibus e uma mobilização histórica de torcedores rumo a Montevidéu."
+      },
+      {
+        "texto": "Final contra o Palmeiras: horário, TV e prováveis escalações."
+      },
       {
         "texto": "35 mil torcedores do Pincha esperados em Montevidéu: a caravana rumo à final."
       },
@@ -68,15 +77,6 @@
       },
       {
         "texto": "O Pincha já está instalado em Montevidéu para os últimos treinos antes da final."
-      },
-      {
-        "texto": "Um Pincha muito protegido em Montevidéu, com Federico D'Elía como bandeira: \"É um clube mágico\"."
-      },
-      {
-        "texto": "Vídeo: a emoção da despedida e a chegada do Pincha ao Uruguai."
-      },
-      {
-        "texto": "O Pincha desembarcou no Uruguai para a final contra o Palmeiras."
       }
     ]
   },

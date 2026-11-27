@@ -1,14 +1,14 @@
 {
   "hoy": {
-    "titular": "远征之日：球迷大巴驶向蒙得维的亚，Pincha进行决赛前最后一练",
+    "titular": "远征之日：球迷大巴已驶向蒙得维的亚，Pincha进行决赛前最后一练",
     "foto": {
       "alt": "Estudiantes球迷坐满了el UNO的看台。"
     },
-    "resumen": "官方大巴早上7点从el UNO出发，预计约3.5万名Pincha球迷将前往乌拉圭。球队今天在Montevideo City Torque训练基地进行最后一次训练，Medina将确定周六对阵帕尔梅拉斯（Palmeiras）决赛的阵容。",
+    "resumen": "从今天早上起，近130辆大巴从el UNO出发，预计超过3.5万名Pincha球迷将前往乌拉圭。球队今天在Montevideo City Torque训练基地进行最后一次训练，Medina将确定周六对阵帕尔梅拉斯（Palmeiras）决赛的阵容。",
     "siete": [
       {
-        "titulo": "俱乐部大巴今早7点从el UNO出发",
-        "texto": "官方大巴今天早上7点从el UNO出发（5点30分开始登记），球迷团体的大巴12点出发，以便加快过境速度。需携带实体身份证或有效护照：Mi Argentina电子身份证无效。"
+        "titulo": "大巴出发：近130辆从el UNO驶出",
+        "texto": "大巴今早开始从el UNO出发，球迷团体的大巴将在中午前后出发，以便加快过境速度。过境需携带实体身份证或有效护照：Mi Argentina电子身份证无效。"
       },
       {
         "titulo": "Pincha大远征：预计3.5万人奔赴乌拉圭",
@@ -36,6 +36,15 @@
       }
     ],
     "linea": [
+      {
+        "texto": "大规模出征开始：近130辆大巴从el UNO驶向乌拉圭。"
+      },
+      {
+        "texto": "近130辆大巴，球迷历史性奔赴蒙得维的亚。"
+      },
+      {
+        "texto": "对阵Palmeiras的决赛：开球时间、转播和可能首发。"
+      },
       {
         "texto": "预计3.5万名Pincha球迷前往蒙得维的亚：奔赴决赛的车队。"
       },
@@ -68,15 +77,6 @@
       },
       {
         "texto": "Pincha已在蒙得维的亚安顿下来，进行决赛前的最后训练。"
-      },
-      {
-        "texto": "Pincha在蒙得维的亚受到严密安保，Federico D'Elía化身旗手：“这是一家神奇的俱乐部”。"
-      },
-      {
-        "texto": "视频：Pincha告别时的感人场面与抵达乌拉圭。"
-      },
-      {
-        "texto": "Pincha抵达乌拉圭，备战对阵Palmeiras的决赛。"
       }
     ]
   },

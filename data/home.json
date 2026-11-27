@@ -1,18 +1,18 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-27T00:07:00-03:00",
+  "actualizado": "2026-11-27T08:07:00-03:00",
   "hoy": {
-    "titular": "Día de éxodo: salen los micros a Montevideo y el Pincha hace su última práctica antes de la final",
+    "titular": "Día de éxodo: partieron los micros a Montevideo y el Pincha hace su última práctica antes de la final",
     "foto": {
       "id": "2026-05-25_accesos-y-recomendaciones-ante-dim_1",
       "alt": "La hinchada de Estudiantes llena la tribuna del estadio UNO."
     },
-    "resumen": "Los micros oficiales salen a las 7 desde el UNO y se esperan unos 35 mil pinchas en Uruguay. El plantel hace hoy la última práctica en el predio del Montevideo City Torque y Medina define el equipo para la final del sábado ante Palmeiras.",
+    "resumen": "Desde la mañana salen del UNO casi 130 micros y se esperan más de 35 mil pinchas en Uruguay. El plantel hace hoy la última práctica en el predio del Montevideo City Torque y Medina define el equipo para la final del sábado ante Palmeiras.",
     "siete": [
       {
         "tema": "micros-oficiales",
-        "titulo": "Hoy salen los micros del club: a las 7 desde el UNO",
-        "texto": "Los micros oficiales salen hoy a las 7 desde el UNO (acreditación desde las 5.30) y los de agrupaciones, a las 12, para agilizar el paso por la frontera. Hace falta DNI físico o pasaporte vigente: el DNI digital de Mi Argentina no sirve.",
+        "titulo": "Partieron los micros: casi 130 desde el UNO",
+        "texto": "La salida de los micros arrancó esta mañana en el UNO y sigue cerca del mediodía con los de agrupaciones, para agilizar el paso por la frontera. Para cruzar hace falta DNI físico o pasaporte vigente: el DNI digital de Mi Argentina no sirve.",
         "vence": "2026-11-27T23:59:00-03:00"
       },
       {
@@ -47,6 +47,24 @@
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-27T08:05:00-03:00",
+        "texto": "Arrancó la movilización: casi 130 micros parten desde el UNO rumbo a Uruguay.",
+        "fuente": "Punto Capital",
+        "url": "https://www.puntocapitalnoticias.com/estudiantes-moviliza-a-miles-de-hinchas-rumbo-a-uruguay-casi-130-micros-parten-desde-uno-para-la-final-de-la-libertadores/"
+      },
+      {
+        "hora": "2026-11-27T07:36:00-03:00",
+        "texto": "Casi 130 micros y una movilización histórica de hinchas hacia Montevideo.",
+        "fuente": "Infocielo",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTjJNN0tMVDVrX3dBRWJ1Z09TTGlLeHJyR0RhQUo1aHpNVFd4YUpqb2U1bWJaemtLdlVaaHpWeTlSTWdZbXhyV0x6RktjcUM2M1pLUzJZZnZITHNweDRwSnRrOG5tN2NjNWs3Umh3NlkxZVlSN0cxX3ZSRUNJdDhITEtDb3JSdkt5RHpNZERZbVNiZ0hIeVJmY2Q3S1BrRnhjVHVIWVAzS2JpeWVlSGdqQUJ4QU1SUE03WnpwTjl2Ykd1QlZuX2xLZmE0bjBqcDBDNUZ4Z2d3?oc=5"
+      },
+      {
+        "hora": "2026-11-27T02:03:00-03:00",
+        "texto": "Final ante Palmeiras: horario, TV y formaciones probables.",
+        "fuente": "La Nación",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeXE4QjgtdG5WaXdKcmpSa2hLT3gyMDVhZ1pQUE53QzEwZll5Um5TemhwN0VJdzIzczk3Wm14em1VTTlOclpTT0U0RzIwVzFCWlZjamh5T1pZZ01fVFRPVkpPNVpIdi0zNmlFZG9HTVdoZUdBeGZ0UG1VNTRjWTR4TGNXTkZLSllpLUVLQ1U2VTJZS2FnVTNhMTh5RVMyeUo2N1RLckVia2dGaEtkbl8tcE9yYlRXVHgydHhIZEgwUWlRNTFxejBuOG1jQmdrUG0wYmFRT0hRWHhsb2l4cEdVU3Z6My0?oc=5"
+      },
       {
         "hora": "2026-11-26T23:10:00-03:00",
         "texto": "Se esperan 35 mil hinchas del Pincha en Montevideo: la caravana rumbo a la final.",
@@ -112,24 +130,6 @@
         "texto": "El Pincha ya está instalado en Montevideo para los últimos entrenamientos antes de la final.",
         "fuente": "Punto Capital",
         "url": "https://www.puntocapitalnoticias.com/el-pincha-ya-esta-en-montevideo-y-se-prepara-para-la-final-de-la-libertadores/"
-      },
-      {
-        "hora": "2026-11-26T07:27:00-03:00",
-        "texto": "Un Pincha muy custodiado en Montevideo, con Federico D'Elía como bandera: \"Es un club mágico\".",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-copa-montevideo-con-mas-seguridad-que-el-papa-y-federico-delia-como-bandera-es-un-club-nid26112026/"
-      },
-      {
-        "hora": "2026-11-26T03:45:00-03:00",
-        "texto": "Video: la emoción de la despedida y la llegada del Pincha a Uruguay.",
-        "fuente": "El Día",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2Itbnl5Q2tVSVl2M2VEVWJUS1BIelBOOThYTE5vaGNVWHp6b090WURfSDBxNlA0S052UWQ4WEt5NG5LY0NDWFVoTXpJMURtUkgtbGVqU1pOd3VWcHdKaHV5TzdOcDk0b0hTWEZKcFNPSDI5Z0c5X2tjc01OcGpONmdOWFNMbFNXYUx5NjhTMXBjUlRYdV8wV1pVTndlLUllOVNjY1U4eWhweElt?oc=5"
-      },
-      {
-        "hora": "2026-11-25T23:27:00-03:00",
-        "texto": "El Pincha aterrizó en Uruguay para la final ante Palmeiras.",
-        "fuente": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOajZqMm9WczQyZHZlNmNDeVR0dy10aDRiZWdLUG5acm82OTJ2RlZuUFNFYTNYRFJzUmVjUmdYc1hmSGJNYjZpbWRjVWxOVnQtWEVZbzJ2UW1uUDZzV3JudlFsZjB5TFR1MmVfWlFwbHpWdy1Zdko1Z3lrdXQwNGxEcWdJc1lEaURhb2daNTFXVzNPOU5FYTh2dGxxYWUybDZFRzM4UW5oOFM2RVluU25na0MtcVcwdVFUNklSLUg0UDBJcWxFNHhFdUtCcw?oc=5"
       }
     ]
   },
@@ -374,6 +374,9 @@
     }
   },
   "fuentes": [
+    "https://www.puntocapitalnoticias.com/estudiantes-moviliza-a-miles-de-hinchas-rumbo-a-uruguay-casi-130-micros-parten-desde-uno-para-la-final-de-la-libertadores/",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTjJNN0tMVDVrX3dBRWJ1Z09TTGlLeHJyR0RhQUo1aHpNVFd4YUpqb2U1bWJaemtLdlVaaHpWeTlSTWdZbXhyV0x6RktjcUM2M1pLUzJZZnZITHNweDRwSnRrOG5tN2NjNWs3Umh3NlkxZVlSN0cxX3ZSRUNJdDhITEtDb3JSdkt5RHpNZERZbVNiZ0hIeVJmY2Q3S1BrRnhjVHVIWVAzS2JpeWVlSGdqQUJ4QU1SUE03WnpwTjl2Ykd1QlZuX2xLZmE0bjBqcDBDNUZ4Z2d3?oc=5",
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeXE4QjgtdG5WaXdKcmpSa2hLT3gyMDVhZ1pQUE53QzEwZll5Um5TemhwN0VJdzIzczk3Wm14em1VTTlOclpTT0U0RzIwVzFCWlZjamh5T1pZZ01fVFRPVkpPNVpIdi0zNmlFZG9HTVdoZUdBeGZ0UG1VNTRjWTR4TGNXTkZLSllpLUVLQ1U2VTJZS2FnVTNhMTh5RVMyeUo2N1RLckVia2dGaEtkbl8tcE9yYlRXVHgydHhIZEgwUWlRNTFxejBuOG1jQmdrUG0wYmFRT0hRWHhsb2l4cEdVU3Z6My0?oc=5",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko5Q1E1UnkxUFRfU1R2VjZnZG9LZkNfOGxnVkVhVUNRNlpMQVZ4bkhFM2ZlaFRCQnFxMUlfMThWbkdQdGR5RmxnS0plWVl6bEFkNXJDcUpKa2RDYnVwbTBqUjh0WS15QTJIbDdxQ1BnVkp2bTBBcVBlU1MzeUxBc0ZROFhsNHJjUVI4TDVhc2J5Yko0TTJsSUxlR3FnX0xyaHpCOXNPUDZ5RWhIUUhqX1BPSzR1T2Z0cUNYX1FxUnJNWWxHWDVpaFI3WXRhdGNmTFBZLW4yS21WVWJv?oc=5",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVktacXlsNzVsejh4dlN1WGdEYUlvWFpPVS1kUThSd3BoNHhCcGxPdUQtUE03VVdCMkx6TzMtOTZBNDUwZnE0aURoWHd4S1RQYllWVWdfVDNlTHExSVJYYWtOUE5icEcyTFVfVEZwQzZRel93S29wSzFta3FPOTVEcjh5R2dVbGUtNG9TVVdrbFpHVS1LWmlMY3k5Z1B6YzhJMVJMeV9FX3lDRXBWc0VNRlJ6ZllYczZEbE9jX1h6RDktbUNjUmJZZU5fcU9FLVFNT1lB0gHuAUFVX3lxTE9STGdfWWdqTG03SnM3NVI5V0dLSU8wX2hIdE5MTEpnZnZBQUFRZmdUb3BPVXJXdWdadmE0U0NTMDFQTzllOGtLUWNldXlnNFk3bzJ2bHkxX2hVcUZrbkY2UTFnNGZpU0RlR2FLYlZCeEFrQ3Q1dkxPNndkaGUwRHVVRnN1dmo5QUtfRXQ0LUFfR3h0WUNkNlhKOHhnZWtRN2M5MEt2X1NjTE1ZVkN0ZGY3UFpDRXBQTVgzcXhkVi1mUTkydFh0dXo0RWhKV0Jkemhjam5MeEpZbXB5NzZMc3lkVnplUlc3N1BsT1JRN3c?oc=5",
     "https://www.0221.com.ar/estudiantes/en-veleros-y-ensenada-hinchas-estudiantes-viajaron-uruguay-la-final-la-copa-libertadores-n138102",

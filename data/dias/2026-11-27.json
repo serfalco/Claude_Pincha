@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-27",
   "titular": {
-    "es": "Día de éxodo: salen los micros a Montevideo y el Pincha hace su última práctica antes de la final",
-    "en": "Exodus day: the coaches leave for Montevideo and the Pincha hold their last session before the final",
-    "pt": "Dia de êxodo: os ônibus partem para Montevidéu e o Pincha faz o último treino antes da final",
-    "zh": "远征之日：球迷大巴驶向蒙得维的亚，Pincha进行决赛前最后一练",
-    "hi": "पलायन का दिन: बसें मोंटेवीडियो के लिए रवाना, Pincha फ़ाइनल से पहले आख़िरी अभ्यास करेगा"
+    "es": "Día de éxodo: partieron los micros a Montevideo y el Pincha hace su última práctica antes de la final",
+    "en": "Exodus day: the coaches have left for Montevideo and the Pincha hold their last session before the final",
+    "pt": "Dia de êxodo: os ônibus partiram para Montevidéu e o Pincha faz o último treino antes da final",
+    "zh": "远征之日：球迷大巴已驶向蒙得维的亚，Pincha进行决赛前最后一练",
+    "hi": "पलायन का दिन: बसें मोंटेवीडियो के लिए रवाना हुईं, Pincha फ़ाइनल से पहले आख़िरी अभ्यास करेगा"
   },
   "resumen": {
-    "es": "Los micros oficiales salen a las 7 desde el UNO y se esperan unos 35 mil pinchas en Uruguay. El plantel hace hoy la última práctica en el predio del Montevideo City Torque y Medina define el equipo para la final del sábado ante Palmeiras.",
-    "en": "The official coaches leave the UNO at 7am and around 35,000 Pincha fans are expected in Uruguay. The squad hold their last session today at Montevideo City Torque's complex and Medina settles the line-up for Saturday's final against Palmeiras.",
-    "pt": "Os ônibus oficiais saem do UNO às 7h e cerca de 35 mil torcedores do Pincha são esperados no Uruguai. O elenco faz hoje o último treino no CT do Montevideo City Torque e Medina define o time para a final de sábado contra o Palmeiras.",
-    "zh": "官方大巴早上7点从el UNO出发，预计约3.5万名Pincha球迷将前往乌拉圭。球队今天在Montevideo City Torque训练基地进行最后一次训练，Medina将确定周六对阵帕尔梅拉斯（Palmeiras）决赛的阵容。",
-    "hi": "आधिकारिक बसें सुबह 7 बजे el UNO से निकलेंगी और उरुग्वे में लगभग 35,000 Pincha प्रशंसकों के पहुंचने की उम्मीद है। टीम आज Montevideo City Torque के परिसर में आख़िरी अभ्यास करेगी और Medina शनिवार को Palmeiras के ख़िलाफ़ फ़ाइनल के लिए टीम तय करेंगे।"
+    "es": "Desde la mañana salen del UNO casi 130 micros y se esperan más de 35 mil pinchas en Uruguay. El plantel hace hoy la última práctica en el predio del Montevideo City Torque y Medina define el equipo para la final del sábado ante Palmeiras.",
+    "en": "Almost 130 coaches are leaving the UNO from this morning and more than 35,000 Pincha fans are expected in Uruguay. The squad hold their last session today at Montevideo City Torque's complex and Medina settles the line-up for Saturday's final against Palmeiras.",
+    "pt": "Desde a manhã, quase 130 ônibus saem do UNO e mais de 35 mil torcedores do Pincha são esperados no Uruguai. O elenco faz hoje o último treino no CT do Montevideo City Torque e Medina define o time para a final de sábado contra o Palmeiras.",
+    "zh": "从今天早上起，近130辆大巴从el UNO出发，预计超过3.5万名Pincha球迷将前往乌拉圭。球队今天在Montevideo City Torque训练基地进行最后一次训练，Medina将确定周六对阵帕尔梅拉斯（Palmeiras）决赛的阵容。",
+    "hi": "आज सुबह से लगभग 130 बसें el UNO से निकल रही हैं और उरुग्वे में 35,000 से ज़्यादा Pincha प्रशंसकों के पहुंचने की उम्मीद है। टीम आज Montevideo City Torque के परिसर में आख़िरी अभ्यास करेगी और Medina शनिवार को Palmeiras के ख़िलाफ़ फ़ाइनल के लिए टीम तय करेंगे।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -41,18 +41,18 @@
     {
       "tema": "micros-oficiales",
       "titulo": {
-        "es": "Hoy salen los micros del club: a las 7 desde el UNO",
-        "en": "Club coaches leave the UNO today at 7am",
-        "pt": "Ônibus do clube saem hoje às 7h do UNO",
-        "zh": "俱乐部大巴今早7点从el UNO出发",
-        "hi": "क्लब की बसें आज सुबह 7 बजे el UNO से"
+        "es": "Partieron los micros: casi 130 desde el UNO",
+        "en": "The coaches are off: almost 130 from the UNO",
+        "pt": "Os ônibus partiram: quase 130 saindo do UNO",
+        "zh": "大巴出发：近130辆从el UNO驶出",
+        "hi": "बसें रवाना: el UNO से लगभग 130"
       },
       "texto": {
-        "es": "Los micros oficiales salen hoy a las 7 desde el UNO (acreditación desde las 5.30) y los de agrupaciones, a las 12, para agilizar el paso por la frontera. Hace falta DNI físico o pasaporte vigente: el DNI digital de Mi Argentina no sirve.",
-        "en": "The official coaches leave the UNO today at 7am (check-in from 5.30am) and the supporters' groups' coaches at midday, to speed up the border crossing. A physical ID card or valid passport is required: the Mi Argentina digital ID is not accepted.",
-        "pt": "Os ônibus oficiais saem hoje às 7h do UNO (credenciamento a partir das 5h30) e os das torcidas organizadas, às 12h, para agilizar a passagem pela fronteira. É preciso RG físico ou passaporte válido: o documento digital do Mi Argentina não vale.",
-        "zh": "官方大巴今天早上7点从el UNO出发（5点30分开始登记），球迷团体的大巴12点出发，以便加快过境速度。需携带实体身份证或有效护照：Mi Argentina电子身份证无效。",
-        "hi": "आधिकारिक बसें आज सुबह 7 बजे el UNO से निकलेंगी (पंजीकरण सुबह 5.30 से) और समर्थक समूहों की बसें दोपहर 12 बजे, ताकि सीमा पार करना आसान हो। भौतिक पहचान पत्र या वैध पासपोर्ट ज़रूरी है: Mi Argentina का डिजिटल पहचान पत्र मान्य नहीं है।"
+        "es": "La salida de los micros arrancó esta mañana en el UNO y sigue cerca del mediodía con los de agrupaciones, para agilizar el paso por la frontera. Para cruzar hace falta DNI físico o pasaporte vigente: el DNI digital de Mi Argentina no sirve.",
+        "en": "The coaches started leaving the UNO this morning, with the supporters' groups' coaches following around midday to speed up the border crossing. A physical ID card or valid passport is required to cross: the Mi Argentina digital ID is not accepted.",
+        "pt": "A saída dos ônibus começou nesta manhã no UNO e continua perto do meio-dia com os das torcidas organizadas, para agilizar a passagem pela fronteira. Para cruzar é preciso RG físico ou passaporte válido: o documento digital do Mi Argentina não vale.",
+        "zh": "大巴今早开始从el UNO出发，球迷团体的大巴将在中午前后出发，以便加快过境速度。过境需携带实体身份证或有效护照：Mi Argentina电子身份证无效。",
+        "hi": "बसों का निकलना आज सुबह el UNO से शुरू हुआ और समर्थक समूहों की बसें दोपहर के आसपास निकलेंगी, ताकि सीमा पार करना आसान हो। सीमा पार करने के लिए भौतिक पहचान पत्र या वैध पासपोर्ट ज़रूरी है: Mi Argentina का डिजिटल पहचान पत्र मान्य नहीं है।"
       }
     },
     {
@@ -168,5 +168,42 @@
       "hi": "Estudiantes के प्रशंसकों से el UNO का स्टैंड भरा हुआ।"
     }
   },
-  "linea": []
+  "linea": [
+    {
+      "hora": "2026-11-27T08:05:00-03:00",
+      "fuente": "Punto Capital",
+      "url": "https://www.puntocapitalnoticias.com/estudiantes-moviliza-a-miles-de-hinchas-rumbo-a-uruguay-casi-130-micros-parten-desde-uno-para-la-final-de-la-libertadores/",
+      "texto": {
+        "es": "Arrancó la movilización: casi 130 micros parten desde el UNO rumbo a Uruguay.",
+        "en": "The exodus is under way: almost 130 coaches leave the UNO for Uruguay.",
+        "pt": "Começou a mobilização: quase 130 ônibus partem do UNO rumo ao Uruguai.",
+        "zh": "大规模出征开始：近130辆大巴从el UNO驶向乌拉圭。",
+        "hi": "पलायन शुरू: लगभग 130 बसें el UNO से उरुग्वे के लिए रवाना।"
+      }
+    },
+    {
+      "hora": "2026-11-27T07:36:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTjJNN0tMVDVrX3dBRWJ1Z09TTGlLeHJyR0RhQUo1aHpNVFd4YUpqb2U1bWJaemtLdlVaaHpWeTlSTWdZbXhyV0x6RktjcUM2M1pLUzJZZnZITHNweDRwSnRrOG5tN2NjNWs3Umh3NlkxZVlSN0cxX3ZSRUNJdDhITEtDb3JSdkt5RHpNZERZbVNiZ0hIeVJmY2Q3S1BrRnhjVHVIWVAzS2JpeWVlSGdqQUJ4QU1SUE03WnpwTjl2Ykd1QlZuX2xLZmE0bjBqcDBDNUZ4Z2d3?oc=5",
+      "texto": {
+        "es": "Casi 130 micros y una movilización histórica de hinchas hacia Montevideo.",
+        "en": "Almost 130 coaches and a historic fan movement towards Montevideo.",
+        "pt": "Quase 130 ônibus e uma mobilização histórica de torcedores rumo a Montevidéu.",
+        "zh": "近130辆大巴，球迷历史性奔赴蒙得维的亚。",
+        "hi": "लगभग 130 बसें और मोंटेवीडियो की ओर प्रशंसकों का ऐतिहासिक सफ़र।"
+      }
+    },
+    {
+      "hora": "2026-11-27T02:03:00-03:00",
+      "fuente": "La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeXE4QjgtdG5WaXdKcmpSa2hLT3gyMDVhZ1pQUE53QzEwZll5Um5TemhwN0VJdzIzczk3Wm14em1VTTlOclpTT0U0RzIwVzFCWlZjamh5T1pZZ01fVFRPVkpPNVpIdi0zNmlFZG9HTVdoZUdBeGZ0UG1VNTRjWTR4TGNXTkZLSllpLUVLQ1U2VTJZS2FnVTNhMTh5RVMyeUo2N1RLckVia2dGaEtkbl8tcE9yYlRXVHgydHhIZEgwUWlRNTFxejBuOG1jQmdrUG0wYmFRT0hRWHhsb2l4cEdVU3Z6My0?oc=5",
+      "texto": {
+        "es": "Final ante Palmeiras: horario, TV y formaciones probables.",
+        "en": "Final against Palmeiras: kick-off time, TV and probable line-ups.",
+        "pt": "Final contra o Palmeiras: horário, TV e prováveis escalações.",
+        "zh": "对阵Palmeiras的决赛：开球时间、转播和可能首发。",
+        "hi": "Palmeiras के ख़िलाफ़ फ़ाइनल: समय, टीवी और संभावित टीमें।"
+      }
+    }
+  ]
 }

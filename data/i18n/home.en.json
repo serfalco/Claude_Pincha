@@ -1,14 +1,14 @@
 {
   "hoy": {
-    "titular": "Exodus day: the coaches leave for Montevideo and the Pincha hold their last session before the final",
+    "titular": "Exodus day: the coaches have left for Montevideo and the Pincha hold their last session before the final",
     "foto": {
       "alt": "Estudiantes fans fill the stand at the UNO."
     },
-    "resumen": "The official coaches leave the UNO at 7am and around 35,000 Pincha fans are expected in Uruguay. The squad hold their last session today at Montevideo City Torque's complex and Medina settles the line-up for Saturday's final against Palmeiras.",
+    "resumen": "Almost 130 coaches are leaving the UNO from this morning and more than 35,000 Pincha fans are expected in Uruguay. The squad hold their last session today at Montevideo City Torque's complex and Medina settles the line-up for Saturday's final against Palmeiras.",
     "siete": [
       {
-        "titulo": "Club coaches leave the UNO today at 7am",
-        "texto": "The official coaches leave the UNO today at 7am (check-in from 5.30am) and the supporters' groups' coaches at midday, to speed up the border crossing. A physical ID card or valid passport is required: the Mi Argentina digital ID is not accepted."
+        "titulo": "The coaches are off: almost 130 from the UNO",
+        "texto": "The coaches started leaving the UNO this morning, with the supporters' groups' coaches following around midday to speed up the border crossing. A physical ID card or valid passport is required to cross: the Mi Argentina digital ID is not accepted."
       },
       {
         "titulo": "Pincha exodus: 35,000 expected in Uruguay",
@@ -36,6 +36,15 @@
       }
     ],
     "linea": [
+      {
+        "texto": "The exodus is under way: almost 130 coaches leave the UNO for Uruguay."
+      },
+      {
+        "texto": "Almost 130 coaches and a historic fan movement towards Montevideo."
+      },
+      {
+        "texto": "Final against Palmeiras: kick-off time, TV and probable line-ups."
+      },
       {
         "texto": "35,000 Pincha fans expected in Montevideo: the caravan heading to the final."
       },
@@ -68,15 +77,6 @@
       },
       {
         "texto": "The Pincha are settled in Montevideo for the final training sessions before the final."
-      },
-      {
-        "texto": "A heavily guarded Pincha in Montevideo, with Federico D'Elía as flag-bearer: \"It's a magical club\"."
-      },
-      {
-        "texto": "Video: the emotional send-off and the Pincha's arrival in Uruguay."
-      },
-      {
-        "texto": "The Pincha landed in Uruguay for the final against Palmeiras."
       }
     ]
   },
