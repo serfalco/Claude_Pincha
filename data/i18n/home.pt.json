@@ -1,41 +1,56 @@
 {
   "hoy": {
-    "titular": "Dia de êxodo: os ônibus partiram para Montevidéu e o Pincha faz o último treino antes da final",
+    "titular": "Tudo pronto: o Pincha encerrou o treino e Montevidéu já se pinta de vermelho e branco",
     "foto": {
       "alt": "A torcida do Estudiantes lota a arquibancada do UNO."
     },
-    "resumen": "Desde a manhã, quase 130 ônibus saem do UNO e mais de 35 mil torcedores do Pincha são esperados no Uruguai. O elenco faz hoje o último treino no CT do Montevideo City Torque e Medina define o time para a final de sábado contra o Palmeiras.",
+    "resumen": "O elenco fez em Montevidéu o último treino e Fabricio Pérez se encaminha para substituir Baltasar Rodríguez. Os primeiros torcedores do Pincha já tomam a cidade e o grosso da caravana atravessa entre a madrugada e a manhã de sábado.",
     "siete": [
       {
-        "titulo": "Os ônibus partiram: quase 130 saindo do UNO",
-        "texto": "A saída dos ônibus começou nesta manhã no UNO e continua perto do meio-dia com os das torcidas organizadas, para agilizar a passagem pela fronteira. Para cruzar é preciso RG físico ou passaporte válido: o documento digital do Mi Argentina não vale."
+        "titulo": "Fabricio Pérez, o escolhido para a vaga de Baltasar",
+        "texto": "No último treino em Montevidéu, Medina escalou Muslera; Mancuso, Núñez, González Pírez e Rojo; Fabricio Pérez, Piovi, Castro e Tobio Burgos; Tiago Palacios e Carrillo. A linha de cinco com Gastón Benedetti fica como alternativa, desde o início ou durante o jogo."
       },
       {
-        "titulo": "Êxodo pincha: 35 mil esperados no Uruguai",
-        "texto": "Mais de 170 ônibus de torcedores vão passar por Gualeguaychú rumo à ponte, outros cruzaram de Buquebus e até em três veleiros saindo de Ensenada. A imprensa calcula cerca de 35 mil torcedores do Pincha em Montevidéu para a final."
+        "titulo": "Montevidéu já se pinta de vermelho e branco",
+        "texto": "Os primeiros torcedores do Pincha tomam a rambla, o centro e o Parque Rodó, a área destinada à torcida do Estudiantes. O grosso da caravana atravessa entre a madrugada e a manhã de sábado: são esperados cerca de 35 mil no Uruguai."
+      },
+      {
+        "titulo": "Correa disponível: deve começar no banco",
+        "texto": "Joaquín Correa treinou com os companheiros depois da lesão muscular sofrida contra o Flamengo e estará à disposição de Medina como alternativa. A tendência é que comece a final entre os reservas."
+      },
+      {
+        "titulo": "DJ na abertura, funk no intervalo",
+        "texto": "A Conmebol confirmou que o DJ uruguaio Diego Maciel vai animar a abertura com músicas dos dois clubes, e o brasileiro Pedro Sampaio fará o primeiro show de intervalo de uma final, de sete minutos. Mariano Andújar entrará com a Taça pelo Estudiantes."
+      },
+      {
+        "titulo": "Verón já está em Montevidéu",
+        "texto": "O presidente viajou com a família, vai se juntar à delegação no hotel do elenco e verá a final da arquibancada do Centenario."
       },
       {
         "titulo": "Piovi: \"Vamos para cima\"",
         "texto": "Depois do primeiro treino em Montevidéu, Ezequiel Piovi contou que o elenco já analisou o Palmeiras e avisou: \"No sábado vamos para cima, como fizemos até agora\". Para ele, é o jogo mais importante da carreira."
       },
       {
-        "titulo": "Último treino, com portões fechados",
-        "texto": "O elenco treina hoje a partir das 10h no CT do Montevideo City Torque, em Ciudad de la Costa, no último treino antes da final. Como em toda a semana, sem imprensa nem público."
-      },
-      {
-        "titulo": "Andújar e Boselli entrarão com a Taça",
-        "texto": "Dois campeões de 2009 levarão o troféu ao gramado do Centenário minutos antes do início: Mariano Andújar, o goleiro recordista daquela Copa, e Mauro Boselli, artilheiro com 8 gols."
-      },
-      {
-        "titulo": "Medina define hoje o substituto de Baltasar",
-        "texto": "Fabricio Pérez é o principal candidato à vaga de Baltasar Rodríguez, suspenso, com Cetré como alternativa; Medina também testou linha de cinco com Gastón Benedetti. Correa viajou entre os 27 relacionados, mas segue sem liberação médica confirmada."
-      },
-      {
-        "titulo": "Abel elogia o Pincha e Barboza confia no título",
-        "texto": "Abel Ferreira elogiou o Pincha: \"É uma equipe extremamente competitiva, com jogadores muito experientes\". Mais provocador, o zagueiro argentino Alexander Barboza garantiu que vai ganhar a final \"na sua outra casa, o Uruguai\". Paulinho, lesionado desde outubro, segue em dúvida."
+        "titulo": "Giay: \"O Estudiantes é um clube muito grande\"",
+        "texto": "O lateral argentino do Palmeiras, que treinou em Montevidéu ao lado do Flaco López, elogiou o Pincha antes da final, e Abel Ferreira o definiu como \"uma equipe fluida\". Paulinho, lesionado desde outubro, segue em dúvida."
       }
     ],
     "linea": [
+      {
+        "texto": "Mesmo estádio, mesmo rival, 58 anos depois: o Pincha vai atrás da quinta."
+      },
+      {
+        "texto": "O Pincha treinou pênaltis pensando em todos os cenários e no goleiro Carlos Miguel."
+      },
+      {
+        "texto": "Chegam os primeiros torcedores e Montevidéu começa a se pintar de vermelho e branco."
+      },
+      {
+        "texto": "O DJ uruguaio Diego Maciel vai animar a abertura da final."
+      },
+      {
+        "texto": "Último treino em Montevidéu: o time que Medina pensa para a final."
+      },
       {
         "texto": "Começou a mobilização: quase 130 ônibus partem do UNO rumo ao Uruguai."
       },
@@ -62,21 +77,6 @@
       },
       {
         "texto": "Vídeo: os jogadores receberam os torcedores que foram de bicicleta a Montevidéu."
-      },
-      {
-        "texto": "Abel Ferreira: \"O Estudiantes é uma equipe extremamente competitiva\"."
-      },
-      {
-        "texto": "Andújar e Boselli, campeões de 2009, entrarão com a Taça antes da final."
-      },
-      {
-        "texto": "Barboza, do Palmeiras, já se vê campeão \"na sua outra casa, o Uruguai\"."
-      },
-      {
-        "texto": "A programação de Estudiantes e Palmeiras em Montevidéu até a final."
-      },
-      {
-        "texto": "O Pincha já está instalado em Montevidéu para os últimos treinos antes da final."
       }
     ]
   },

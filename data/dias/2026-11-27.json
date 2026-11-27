@@ -1,18 +1,18 @@
 {
   "fecha": "2026-11-27",
   "titular": {
-    "es": "Día de éxodo: partieron los micros a Montevideo y el Pincha hace su última práctica antes de la final",
-    "en": "Exodus day: the coaches have left for Montevideo and the Pincha hold their last session before the final",
-    "pt": "Dia de êxodo: os ônibus partiram para Montevidéu e o Pincha faz o último treino antes da final",
-    "zh": "远征之日：球迷大巴已驶向蒙得维的亚，Pincha进行决赛前最后一练",
-    "hi": "पलायन का दिन: बसें मोंटेवीडियो के लिए रवाना हुईं, Pincha फ़ाइनल से पहले आख़िरी अभ्यास करेगा"
+    "es": "Todo listo: el Pincha cerró la práctica y Montevideo ya se pinta de rojo y blanco",
+    "en": "All set: the Pincha wrap up training and Montevideo turns red and white",
+    "pt": "Tudo pronto: o Pincha encerrou o treino e Montevidéu já se pinta de vermelho e branco",
+    "zh": "一切就绪：Pincha完成最后训练，蒙得维的亚已染上红白色",
+    "hi": "सब तैयार: Pincha ने आख़िरी अभ्यास पूरा किया, मोंटेवीडियो लाल-सफ़ेद रंग में रंगने लगा"
   },
   "resumen": {
-    "es": "Desde la mañana salen del UNO casi 130 micros y se esperan más de 35 mil pinchas en Uruguay. El plantel hace hoy la última práctica en el predio del Montevideo City Torque y Medina define el equipo para la final del sábado ante Palmeiras.",
-    "en": "Almost 130 coaches are leaving the UNO from this morning and more than 35,000 Pincha fans are expected in Uruguay. The squad hold their last session today at Montevideo City Torque's complex and Medina settles the line-up for Saturday's final against Palmeiras.",
-    "pt": "Desde a manhã, quase 130 ônibus saem do UNO e mais de 35 mil torcedores do Pincha são esperados no Uruguai. O elenco faz hoje o último treino no CT do Montevideo City Torque e Medina define o time para a final de sábado contra o Palmeiras.",
-    "zh": "从今天早上起，近130辆大巴从el UNO出发，预计超过3.5万名Pincha球迷将前往乌拉圭。球队今天在Montevideo City Torque训练基地进行最后一次训练，Medina将确定周六对阵帕尔梅拉斯（Palmeiras）决赛的阵容。",
-    "hi": "आज सुबह से लगभग 130 बसें el UNO से निकल रही हैं और उरुग्वे में 35,000 से ज़्यादा Pincha प्रशंसकों के पहुंचने की उम्मीद है। टीम आज Montevideo City Torque के परिसर में आख़िरी अभ्यास करेगी और Medina शनिवार को Palmeiras के ख़िलाफ़ फ़ाइनल के लिए टीम तय करेंगे।"
+    "es": "El plantel completó en Montevideo la última práctica y Fabricio Pérez se perfila para reemplazar a Baltasar Rodríguez. Los primeros pinchas ya copan la ciudad y el grueso de la caravana cruza entre la madrugada y la mañana del sábado.",
+    "en": "The squad completed their last session in Montevideo and Fabricio Pérez is lined up to replace Baltasar Rodríguez. The first Pincha fans have already taken over the city, with the bulk of the caravan crossing overnight and on Saturday morning.",
+    "pt": "O elenco fez em Montevidéu o último treino e Fabricio Pérez se encaminha para substituir Baltasar Rodríguez. Os primeiros torcedores do Pincha já tomam a cidade e o grosso da caravana atravessa entre a madrugada e a manhã de sábado.",
+    "zh": "球队在蒙得维的亚完成最后一练，Fabricio Pérez有望顶替Baltasar Rodríguez。首批Pincha球迷已涌入城市，大部队将在周六凌晨至上午过境。",
+    "hi": "टीम ने मोंटेवीडियो में आख़िरी अभ्यास पूरा किया और Fabricio Pérez, Baltasar Rodríguez की जगह लेने के लिए सबसे आगे हैं। पहले Pincha प्रशंसक शहर में छा चुके हैं और काफ़िले का बड़ा हिस्सा शनिवार तड़के से सुबह तक सीमा पार करेगा।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -39,37 +39,89 @@
   },
   "siete": [
     {
-      "tema": "micros-oficiales",
+      "tema": "equipo-sin-baltasar",
+      "novedad": "Medina cerró la última práctica con Fabricio Pérez en el equipo",
       "titulo": {
-        "es": "Partieron los micros: casi 130 desde el UNO",
-        "en": "The coaches are off: almost 130 from the UNO",
-        "pt": "Os ônibus partiram: quase 130 saindo do UNO",
-        "zh": "大巴出发：近130辆从el UNO驶出",
-        "hi": "बसें रवाना: el UNO से लगभग 130"
+        "es": "Fabricio Pérez, el elegido para el lugar de Baltasar",
+        "en": "Fabricio Pérez picked to fill Baltasar's place",
+        "pt": "Fabricio Pérez, o escolhido para a vaga de Baltasar",
+        "zh": "Fabricio Pérez入选，顶替Baltasar",
+        "hi": "Baltasar की जगह Fabricio Pérez चुने गए"
       },
       "texto": {
-        "es": "La salida de los micros arrancó esta mañana en el UNO y sigue cerca del mediodía con los de agrupaciones, para agilizar el paso por la frontera. Para cruzar hace falta DNI físico o pasaporte vigente: el DNI digital de Mi Argentina no sirve.",
-        "en": "The coaches started leaving the UNO this morning, with the supporters' groups' coaches following around midday to speed up the border crossing. A physical ID card or valid passport is required to cross: the Mi Argentina digital ID is not accepted.",
-        "pt": "A saída dos ônibus começou nesta manhã no UNO e continua perto do meio-dia com os das torcidas organizadas, para agilizar a passagem pela fronteira. Para cruzar é preciso RG físico ou passaporte válido: o documento digital do Mi Argentina não vale.",
-        "zh": "大巴今早开始从el UNO出发，球迷团体的大巴将在中午前后出发，以便加快过境速度。过境需携带实体身份证或有效护照：Mi Argentina电子身份证无效。",
-        "hi": "बसों का निकलना आज सुबह el UNO से शुरू हुआ और समर्थक समूहों की बसें दोपहर के आसपास निकलेंगी, ताकि सीमा पार करना आसान हो। सीमा पार करने के लिए भौतिक पहचान पत्र या वैध पासपोर्ट ज़रूरी है: Mi Argentina का डिजिटल पहचान पत्र मान्य नहीं है।"
+        "es": "En la última práctica en Montevideo, Medina paró a Muslera; Mancuso, Núñez, González Pírez y Rojo; Fabricio Pérez, Piovi, Castro y Tobio Burgos; Tiago Palacios y Carrillo. La línea de cinco con Gastón Benedetti queda como variante, de entrada o durante el partido.",
+        "en": "In the last session in Montevideo, Medina lined up Muslera; Mancuso, Núñez, González Pírez and Rojo; Fabricio Pérez, Piovi, Castro and Tobio Burgos; Tiago Palacios and Carrillo. A back five with Gastón Benedetti remains an option, from the start or during the match.",
+        "pt": "No último treino em Montevidéu, Medina escalou Muslera; Mancuso, Núñez, González Pírez e Rojo; Fabricio Pérez, Piovi, Castro e Tobio Burgos; Tiago Palacios e Carrillo. A linha de cinco com Gastón Benedetti fica como alternativa, desde o início ou durante o jogo.",
+        "zh": "在蒙得维的亚的最后一练中，Medina排出Muslera；Mancuso、Núñez、González Pírez和Rojo；Fabricio Pérez、Piovi、Castro和Tobio Burgos；Tiago Palacios和Carrillo。由Gastón Benedetti组成的五后卫仍是备选，可首发使用也可赛中调整。",
+        "hi": "मोंटेवीडियो में आख़िरी अभ्यास में Medina ने उतारा: Muslera; Mancuso, Núñez, González Pírez और Rojo; Fabricio Pérez, Piovi, Castro और Tobio Burgos; Tiago Palacios और Carrillo। Gastón Benedetti के साथ पाँच डिफ़ेंडरों वाली लाइन विकल्प बनी हुई है, शुरुआत से या मैच के दौरान।"
       }
     },
     {
       "tema": "exodo-montevideo",
       "titulo": {
-        "es": "Éxodo pincha: se esperan 35 mil en Uruguay",
-        "en": "Pincha exodus: 35,000 expected in Uruguay",
-        "pt": "Êxodo pincha: 35 mil esperados no Uruguai",
-        "zh": "Pincha大远征：预计3.5万人奔赴乌拉圭",
-        "hi": "Pincha का पलायन: उरुग्वे में 35,000 की उम्मीद"
+        "es": "Montevideo ya se pinta de rojo y blanco",
+        "en": "Montevideo turns red and white",
+        "pt": "Montevidéu já se pinta de vermelho e branco",
+        "zh": "蒙得维的亚染上红白色",
+        "hi": "मोंटेवीडियो लाल-सफ़ेद रंग में रंगने लगा"
       },
       "texto": {
-        "es": "Más de 170 micros de hinchas pasarán por Gualeguaychú rumbo al puente, otros cruzaron en Buquebus y hasta en tres veleros desde Ensenada. Los medios calculan unos 35 mil pinchas en Montevideo para la final.",
-        "en": "More than 170 fans' coaches will pass through Gualeguaychú on the way to the bridge, others crossed by Buquebus ferry and even on three sailing boats from Ensenada. The media estimate around 35,000 Pincha fans in Montevideo for the final.",
-        "pt": "Mais de 170 ônibus de torcedores vão passar por Gualeguaychú rumo à ponte, outros cruzaram de Buquebus e até em três veleiros saindo de Ensenada. A imprensa calcula cerca de 35 mil torcedores do Pincha em Montevidéu para a final.",
-        "zh": "超过170辆球迷大巴将途经Gualeguaychú前往边境大桥，还有球迷乘Buquebus渡轮过河，甚至有人从Ensenada乘三艘帆船出发。媒体估计约3.5万名Pincha球迷将在蒙得维的亚观看决赛。",
-        "hi": "प्रशंसकों की 170 से ज़्यादा बसें पुल की ओर जाते हुए Gualeguaychú से गुज़रेंगी, कुछ Buquebus फ़ेरी से और कुछ Ensenada से तीन पाल-नौकाओं में पहुंचे। मीडिया के अनुमान के मुताबिक़ फ़ाइनल के लिए मोंटेवीडियो में लगभग 35,000 Pincha प्रशंसक होंगे।"
+        "es": "Los primeros pinchas copan la rambla, el centro y Parque Rodó, la zona destinada a los hinchas de Estudiantes. El grueso de la caravana cruza entre la madrugada y la mañana del sábado: se esperan unos 35 mil en Uruguay.",
+        "en": "The first Pincha fans have taken over the rambla, the city centre and Parque Rodó, the area set aside for Estudiantes supporters. The bulk of the caravan crosses overnight and on Saturday morning: around 35,000 are expected in Uruguay.",
+        "pt": "Os primeiros torcedores do Pincha tomam a rambla, o centro e o Parque Rodó, a área destinada à torcida do Estudiantes. O grosso da caravana atravessa entre a madrugada e a manhã de sábado: são esperados cerca de 35 mil no Uruguai.",
+        "zh": "首批Pincha球迷已占领海滨大道、市中心和划给Estudiantes球迷的Parque Rodó区域。大部队将在周六凌晨至上午过境，预计约3.5万人抵达乌拉圭。",
+        "hi": "पहले Pincha प्रशंसक रैम्बला, शहर के केंद्र और Estudiantes समर्थकों के लिए तय Parque Rodó इलाक़े में छा गए हैं। काफ़िले का बड़ा हिस्सा शनिवार तड़के से सुबह तक सीमा पार करेगा: उरुग्वे में लगभग 35,000 प्रशंसकों की उम्मीद है।"
+      }
+    },
+    {
+      "tema": "correa-lesion",
+      "titulo": {
+        "es": "Correa, disponible: arrancaría en el banco",
+        "en": "Correa available, likely to start on the bench",
+        "pt": "Correa disponível: deve começar no banco",
+        "zh": "Correa可以出战，预计替补待命",
+        "hi": "Correa उपलब्ध, बेंच से शुरुआत संभव"
+      },
+      "texto": {
+        "es": "Joaquín Correa se entrenó a la par de sus compañeros tras el desgarro sufrido ante Flamengo y estará a disposición de Medina como alternativa. La tendencia es que empiece la final entre los suplentes.",
+        "en": "Joaquín Correa trained alongside his team-mates after the tear he suffered against Flamengo and will be available to Medina as an option. He is expected to start the final among the substitutes.",
+        "pt": "Joaquín Correa treinou com os companheiros depois da lesão muscular sofrida contra o Flamengo e estará à disposição de Medina como alternativa. A tendência é que comece a final entre os reservas.",
+        "zh": "Joaquín Correa在对Flamengo时肌肉撕裂后已随队合练，将作为Medina的备选。预计他将在决赛中替补出发。",
+        "hi": "Flamengo के ख़िलाफ़ लगी मांसपेशी की चोट के बाद Joaquín Correa ने साथियों के साथ अभ्यास किया और Medina के लिए विकल्प के तौर पर उपलब्ध रहेंगे। उम्मीद है कि वे फ़ाइनल की शुरुआत सब्स्टीट्यूट के रूप में करेंगे।"
+      }
+    },
+    {
+      "tema": "show-final",
+      "titulo": {
+        "es": "DJ en la previa, funk en el entretiempo",
+        "en": "A DJ before kick-off, funk at half-time",
+        "pt": "DJ na abertura, funk no intervalo",
+        "zh": "赛前DJ，中场放克",
+        "hi": "मैच से पहले DJ, हाफ़-टाइम में फ़ंक"
+      },
+      "texto": {
+        "es": "La Conmebol confirmó que el DJ uruguayo Diego Maciel animará la apertura con canciones de los dos equipos, y el brasileño Pedro Sampaio hará el primer show de entretiempo de una final, de siete minutos. Mariano Andújar entrará con la Copa por Estudiantes.",
+        "en": "CONMEBOL confirmed that Uruguayan DJ Diego Maciel will open the ceremony with songs from both clubs, and Brazil's Pedro Sampaio will put on the first half-time show in a final, lasting seven minutes. Mariano Andújar will walk out with the Cup for Estudiantes.",
+        "pt": "A Conmebol confirmou que o DJ uruguaio Diego Maciel vai animar a abertura com músicas dos dois clubes, e o brasileiro Pedro Sampaio fará o primeiro show de intervalo de uma final, de sete minutos. Mariano Andújar entrará com a Taça pelo Estudiantes.",
+        "zh": "南美足联确认乌拉圭DJ Diego Maciel将在开幕式上播放两队相关歌曲，巴西歌手Pedro Sampaio将带来决赛史上首场中场秀，时长七分钟。Mariano Andújar将代表Estudiantes捧杯入场。",
+        "hi": "Conmebol ने पुष्टि की कि उरुग्वे के DJ Diego Maciel दोनों क्लबों के गानों से उद्घाटन समारोह सजाएंगे, और ब्राज़ील के Pedro Sampaio किसी फ़ाइनल का पहला हाफ़-टाइम शो करेंगे, सात मिनट का। Estudiantes की ओर से Mariano Andújar कप लेकर उतरेंगे।"
+      }
+    },
+    {
+      "tema": "veron-montevideo",
+      "titulo": {
+        "es": "Verón ya está en Montevideo",
+        "en": "Verón is already in Montevideo",
+        "pt": "Verón já está em Montevidéu",
+        "zh": "Verón已抵达蒙得维的亚",
+        "hi": "Verón मोंटेवीडियो पहुंच चुके हैं"
+      },
+      "texto": {
+        "es": "El presidente viajó con su familia, se sumará a la delegación en el hotel del plantel y verá la final desde la platea del Centenario.",
+        "en": "The club president travelled with his family, will join the delegation at the squad's hotel and will watch the final from the stands at the Centenario.",
+        "pt": "O presidente viajou com a família, vai se juntar à delegação no hotel do elenco e verá a final da arquibancada do Centenario.",
+        "zh": "俱乐部主席携家人前往，将在球队酒店与代表团会合，并在Centenario看台观看决赛。",
+        "hi": "क्लब अध्यक्ष परिवार के साथ पहुंचे, टीम के होटल में प्रतिनिधिमंडल से जुड़ेंगे और Centenario के स्टैंड से फ़ाइनल देखेंगे।"
       }
     },
     {
@@ -90,71 +142,20 @@
       }
     },
     {
-      "tema": "viaje-montevideo",
-      "titulo": {
-        "es": "Última práctica, a puertas cerradas",
-        "en": "Last session, behind closed doors",
-        "pt": "Último treino, com portões fechados",
-        "zh": "最后一练，闭门进行",
-        "hi": "आख़िरी अभ्यास, बंद दरवाज़ों में"
-      },
-      "texto": {
-        "es": "El plantel entrena hoy desde las 10 en el predio del Montevideo City Torque, en Ciudad de la Costa, en la última práctica antes de la final. Como toda la semana, sin prensa ni público.",
-        "en": "The squad train today from 10am at Montevideo City Torque's complex in Ciudad de la Costa, in the last session before the final. As all week, with no press or public.",
-        "pt": "O elenco treina hoje a partir das 10h no CT do Montevideo City Torque, em Ciudad de la Costa, no último treino antes da final. Como em toda a semana, sem imprensa nem público.",
-        "zh": "球队今天10点在Ciudad de la Costa的Montevideo City Torque训练基地进行决赛前最后一次训练。和整周一样，不对媒体和公众开放。",
-        "hi": "टीम आज सुबह 10 बजे से Ciudad de la Costa में Montevideo City Torque के परिसर में फ़ाइनल से पहले का आख़िरी अभ्यास करेगी। पूरे हफ़्ते की तरह, न मीडिया न दर्शक।"
-      }
-    },
-    {
-      "tema": "andujar-boselli-copa",
-      "titulo": {
-        "es": "Andújar y Boselli entrarán con la Copa",
-        "en": "Andújar and Boselli to walk out with the Cup",
-        "pt": "Andújar e Boselli entrarão com a Taça",
-        "zh": "Andújar与Boselli将捧杯入场",
-        "hi": "Andújar और Boselli कप लेकर उतरेंगे"
-      },
-      "texto": {
-        "es": "Dos campeones de 2009 llevarán el trofeo al campo del Centenario minutos antes del arranque: Mariano Andújar, el arquero récord de aquella Copa, y Mauro Boselli, su goleador con 8 goles.",
-        "en": "Two 2009 champions will carry the trophy onto the Centenario pitch minutes before kick-off: Mariano Andújar, that campaign's record-breaking goalkeeper, and Mauro Boselli, its top scorer with 8 goals.",
-        "pt": "Dois campeões de 2009 levarão o troféu ao gramado do Centenário minutos antes do início: Mariano Andújar, o goleiro recordista daquela Copa, e Mauro Boselli, artilheiro com 8 gols.",
-        "zh": "两位2009年冠军成员将在开球前几分钟把奖杯带上Centenario球场：当年创纪录的门将Mariano Andújar，以及以8球成为最佳射手的Mauro Boselli。",
-        "hi": "2009 के दो चैंपियन किक-ऑफ़ से कुछ मिनट पहले ट्रॉफ़ी को Centenario के मैदान पर लाएंगे: उस अभियान के रिकॉर्डधारी गोलकीपर Mariano Andújar और 8 गोल के साथ टॉप स्कोरर रहे Mauro Boselli।"
-      }
-    },
-    {
-      "tema": "equipo-sin-baltasar",
-      "titulo": {
-        "es": "Medina define hoy al reemplazante de Baltasar",
-        "en": "Medina picks Baltasar's replacement today",
-        "pt": "Medina define hoje o substituto de Baltasar",
-        "zh": "Medina今天确定Baltasar的替代者",
-        "hi": "Medina आज Baltasar का विकल्प तय करेंगे"
-      },
-      "texto": {
-        "es": "Fabricio Pérez es el principal candidato para el lugar de Baltasar Rodríguez, suspendido, con Cetré como alternativa; Medina también probó línea de cinco con Gastón Benedetti. Correa viajó entre los 27 convocados, pero sigue sin alta confirmada.",
-        "en": "Fabricio Pérez is the front-runner to replace the suspended Baltasar Rodríguez, with Cetré as the alternative; Medina also tried a back five with Gastón Benedetti. Correa travelled among the 27 in the squad but still has no confirmed medical clearance.",
-        "pt": "Fabricio Pérez é o principal candidato à vaga de Baltasar Rodríguez, suspenso, com Cetré como alternativa; Medina também testou linha de cinco com Gastón Benedetti. Correa viajou entre os 27 relacionados, mas segue sem liberação médica confirmada.",
-        "zh": "Fabricio Pérez是顶替停赛的Baltasar Rodríguez的头号人选，Cetré为备选；Medina还演练了让Gastón Benedetti出场的五后卫阵型。Correa随27人大名单出征，但仍未获得确认的伤愈许可。",
-        "hi": "निलंबित Baltasar Rodríguez की जगह के लिए Fabricio Pérez सबसे आगे हैं और Cetré विकल्प हैं; Medina ने Gastón Benedetti के साथ पाँच डिफ़ेंडरों की लाइन भी आज़माई। Correa 27 खिलाड़ियों की टीम के साथ गए हैं, लेकिन उन्हें अब तक पक्की मेडिकल मंज़ूरी नहीं मिली है।"
-      }
-    },
-    {
       "tema": "palmeiras-previa-final",
       "titulo": {
-        "es": "Abel elogia al Pincha y Barboza se tiene fe",
-        "en": "Abel praises the Pincha, Barboza talks big",
-        "pt": "Abel elogia o Pincha e Barboza confia no título",
-        "zh": "Abel称赞Pincha，Barboza信心十足",
-        "hi": "Abel ने Pincha की तारीफ़ की, Barboza को जीत का भरोसा"
+        "es": "Giay: \"Estudiantes es un club muy grande\"",
+        "en": "Giay: \"Estudiantes are a very big club\"",
+        "pt": "Giay: \"O Estudiantes é um clube muito grande\"",
+        "zh": "Giay：“Estudiantes是一家非常伟大的俱乐部”",
+        "hi": "Giay: \"Estudiantes बहुत बड़ा क्लब है\""
       },
       "texto": {
-        "es": "Abel Ferreira elogió al Pincha: \"Es un equipo extremadamente competitivo, con jugadores muy experimentados\". Más picante, el defensor argentino Alexander Barboza aseguró que ganará la final \"en su otra casa, Uruguay\". Paulinho, con una lesión desde octubre, sigue en duda.",
-        "en": "Abel Ferreira praised the Pincha: \"They are an extremely competitive side, with very experienced players\". More provocatively, Argentine defender Alexander Barboza said he will win the final \"in his other home, Uruguay\". Paulinho, injured since October, remains a doubt.",
-        "pt": "Abel Ferreira elogiou o Pincha: \"É uma equipe extremamente competitiva, com jogadores muito experientes\". Mais provocador, o zagueiro argentino Alexander Barboza garantiu que vai ganhar a final \"na sua outra casa, o Uruguai\". Paulinho, lesionado desde outubro, segue em dúvida.",
-        "zh": "Abel Ferreira称赞Pincha：“这是一支极具竞争力的球队，球员经验非常丰富。”更具挑衅意味的是，阿根廷后卫Alexander Barboza表示将“在第二个家乌拉圭”赢下决赛。自10月起伤停的Paulinho仍然存疑。",
-        "hi": "Abel Ferreira ने Pincha की तारीफ़ की: \"यह बेहद प्रतिस्पर्धी टीम है, बहुत अनुभवी खिलाड़ियों के साथ\"। ज़्यादा उकसाने वाले अंदाज़ में अर्जेंटीनी डिफ़ेंडर Alexander Barboza ने कहा कि वे फ़ाइनल \"अपने दूसरे घर, उरुग्वे में\" जीतेंगे। अक्टूबर से चोटिल Paulinho पर अब भी संदेह है।"
+        "es": "El lateral argentino de Palmeiras, que entrenó en Montevideo junto al Flaco López, elogió al Pincha antes de la final, y Abel Ferreira lo definió como \"un equipo fluido\". Paulinho, con una lesión desde octubre, sigue en duda.",
+        "en": "Palmeiras' Argentine full-back, who trained in Montevideo alongside Flaco López, praised the Pincha ahead of the final, and Abel Ferreira described them as \"a fluid side\". Paulinho, injured since October, remains a doubt.",
+        "pt": "O lateral argentino do Palmeiras, que treinou em Montevidéu ao lado do Flaco López, elogiou o Pincha antes da final, e Abel Ferreira o definiu como \"uma equipe fluida\". Paulinho, lesionado desde outubro, segue em dúvida.",
+        "zh": "帕尔梅拉斯（Palmeiras）的阿根廷边后卫Giay与Flaco López一起在蒙得维的亚训练，他在决赛前称赞Pincha；Abel Ferreira则称对手是“一支流畅的球队”。自10月起受伤的Paulinho仍存疑。",
+        "hi": "Palmeiras के अर्जेंटीनी फ़ुल-बैक Giay ने मोंटेवीडियो में Flaco López के साथ अभ्यास किया और फ़ाइनल से पहले Pincha की तारीफ़ की; Abel Ferreira ने इसे \"एक सहज खेलने वाली टीम\" बताया। अक्टूबर से चोटिल Paulinho पर अब भी संदेह है।"
       }
     }
   ],
@@ -169,6 +170,66 @@
     }
   },
   "linea": [
+    {
+      "hora": "2026-11-27T17:49:00-03:00",
+      "fuente": "Perfil",
+      "url": "https://www.perfil.com/deportes/el-mismo-estadio-el-mismo-rival-pero-58-anos-despues-estudiantes-va-por-su-quinta-copa-libertadores-a6V1m9d1",
+      "texto": {
+        "es": "Mismo estadio, mismo rival, 58 años después: el Pincha va por la quinta.",
+        "en": "Same stadium, same opponents, 58 years on: the Pincha go for a fifth.",
+        "pt": "Mesmo estádio, mesmo rival, 58 anos depois: o Pincha vai atrás da quinta.",
+        "zh": "同一座球场、同一个对手，58年后：Pincha冲击第五冠。",
+        "hi": "वही स्टेडियम, वही विरोधी, 58 साल बाद: Pincha पांचवें ख़िताब की तलाश में।"
+      }
+    },
+    {
+      "hora": "2026-11-27T16:47:00-03:00",
+      "fuente": "Infocielo",
+      "url": "https://www.infocielo.com/deportes/estudiantes-practico-penales-pensando-en-todos-los-escenarios-de-la-final-y-en-el-gigante-carlos-miguel",
+      "texto": {
+        "es": "El Pincha practicó penales pensando en todos los escenarios y en el arquero Carlos Miguel.",
+        "en": "The Pincha practised penalties with every scenario in mind, and goalkeeper Carlos Miguel.",
+        "pt": "O Pincha treinou pênaltis pensando em todos os cenários e no goleiro Carlos Miguel.",
+        "zh": "Pincha针对各种情况练习点球，也针对门将Carlos Miguel。",
+        "hi": "Pincha ने हर स्थिति और गोलकीपर Carlos Miguel को ध्यान में रखकर पेनल्टी का अभ्यास किया।"
+      }
+    },
+    {
+      "hora": "2026-11-27T15:38:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/montevideo-se-tine-de-rojo-y-blanco-los-primeros-hinchas-de-estudiantes-comienzan-a-llegar-a-uruguay-deportes_1795804702",
+      "texto": {
+        "es": "Llegan los primeros hinchas y Montevideo empieza a pintarse de rojo y blanco.",
+        "en": "The first fans arrive and Montevideo starts turning red and white.",
+        "pt": "Chegam os primeiros torcedores e Montevidéu começa a se pintar de vermelho e branco.",
+        "zh": "首批球迷抵达，蒙得维的亚开始染上红白色。",
+        "hi": "पहले प्रशंसक पहुंचे और मोंटेवीडियो लाल-सफ़ेद होने लगा।"
+      }
+    },
+    {
+      "hora": "2026-11-27T15:13:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/se-revelo-quien-dara-el-show-la-final-la-copa-libertadores-estudiantes-y-palmeiras-n138151",
+      "texto": {
+        "es": "El DJ uruguayo Diego Maciel animará la previa de la final.",
+        "en": "Uruguayan DJ Diego Maciel will warm up the crowd before the final.",
+        "pt": "O DJ uruguaio Diego Maciel vai animar a abertura da final.",
+        "zh": "乌拉圭DJ Diego Maciel将为决赛暖场。",
+        "hi": "उरुग्वे के DJ Diego Maciel फ़ाइनल से पहले माहौल बनाएंगे।"
+      }
+    },
+    {
+      "hora": "2026-11-27T12:28:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/ultimo-entrenamiento-de-estudiantes-previo-a-la-final-que-equipo-piensa-medina-para-manana-deportes_1795793290",
+      "texto": {
+        "es": "Última práctica en Montevideo: el equipo que piensa Medina para la final.",
+        "en": "Last session in Montevideo: the line-up Medina has in mind for the final.",
+        "pt": "Último treino em Montevidéu: o time que Medina pensa para a final.",
+        "zh": "蒙得维的亚最后一练：Medina心中的决赛阵容。",
+        "hi": "मोंटेवीडियो में आख़िरी अभ्यास: फ़ाइनल के लिए Medina की सोची हुई टीम।"
+      }
+    },
     {
       "hora": "2026-11-27T08:05:00-03:00",
       "fuente": "Punto Capital",

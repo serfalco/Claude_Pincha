@@ -1,24 +1,39 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-27T08:07:00-03:00",
+  "actualizado": "2026-11-27T18:07:00-03:00",
   "hoy": {
-    "titular": "Día de éxodo: partieron los micros a Montevideo y el Pincha hace su última práctica antes de la final",
+    "titular": "Todo listo: el Pincha cerró la práctica y Montevideo ya se pinta de rojo y blanco",
     "foto": {
       "id": "2026-05-25_accesos-y-recomendaciones-ante-dim_1",
       "alt": "La hinchada de Estudiantes llena la tribuna del estadio UNO."
     },
-    "resumen": "Desde la mañana salen del UNO casi 130 micros y se esperan más de 35 mil pinchas en Uruguay. El plantel hace hoy la última práctica en el predio del Montevideo City Torque y Medina define el equipo para la final del sábado ante Palmeiras.",
+    "resumen": "El plantel completó en Montevideo la última práctica y Fabricio Pérez se perfila para reemplazar a Baltasar Rodríguez. Los primeros pinchas ya copan la ciudad y el grueso de la caravana cruza entre la madrugada y la mañana del sábado.",
     "siete": [
       {
-        "tema": "micros-oficiales",
-        "titulo": "Partieron los micros: casi 130 desde el UNO",
-        "texto": "La salida de los micros arrancó esta mañana en el UNO y sigue cerca del mediodía con los de agrupaciones, para agilizar el paso por la frontera. Para cruzar hace falta DNI físico o pasaporte vigente: el DNI digital de Mi Argentina no sirve.",
-        "vence": "2026-11-27T23:59:00-03:00"
+        "tema": "equipo-sin-baltasar",
+        "novedad": "Medina cerró la última práctica con Fabricio Pérez en el equipo",
+        "titulo": "Fabricio Pérez, el elegido para el lugar de Baltasar",
+        "texto": "En la última práctica en Montevideo, Medina paró a Muslera; Mancuso, Núñez, González Pírez y Rojo; Fabricio Pérez, Piovi, Castro y Tobio Burgos; Tiago Palacios y Carrillo. La línea de cinco con Gastón Benedetti queda como variante, de entrada o durante el partido."
       },
       {
         "tema": "exodo-montevideo",
-        "titulo": "Éxodo pincha: se esperan 35 mil en Uruguay",
-        "texto": "Más de 170 micros de hinchas pasarán por Gualeguaychú rumbo al puente, otros cruzaron en Buquebus y hasta en tres veleros desde Ensenada. Los medios calculan unos 35 mil pinchas en Montevideo para la final."
+        "titulo": "Montevideo ya se pinta de rojo y blanco",
+        "texto": "Los primeros pinchas copan la rambla, el centro y Parque Rodó, la zona destinada a los hinchas de Estudiantes. El grueso de la caravana cruza entre la madrugada y la mañana del sábado: se esperan unos 35 mil en Uruguay."
+      },
+      {
+        "tema": "correa-lesion",
+        "titulo": "Correa, disponible: arrancaría en el banco",
+        "texto": "Joaquín Correa se entrenó a la par de sus compañeros tras el desgarro sufrido ante Flamengo y estará a disposición de Medina como alternativa. La tendencia es que empiece la final entre los suplentes."
+      },
+      {
+        "tema": "show-final",
+        "titulo": "DJ en la previa, funk en el entretiempo",
+        "texto": "La Conmebol confirmó que el DJ uruguayo Diego Maciel animará la apertura con canciones de los dos equipos, y el brasileño Pedro Sampaio hará el primer show de entretiempo de una final, de siete minutos. Mariano Andújar entrará con la Copa por Estudiantes."
+      },
+      {
+        "tema": "veron-montevideo",
+        "titulo": "Verón ya está en Montevideo",
+        "texto": "El presidente viajó con su familia, se sumará a la delegación en el hotel del plantel y verá la final desde la platea del Centenario."
       },
       {
         "tema": "piovi-final",
@@ -26,27 +41,42 @@
         "texto": "Tras la primera práctica en Montevideo, Ezequiel Piovi contó que el plantel ya analizó a Palmeiras y avisó: \"El sábado vamos a ir al frente como lo hicimos hasta ahora\". Para él, es el partido más importante de su carrera."
       },
       {
-        "tema": "viaje-montevideo",
-        "titulo": "Última práctica, a puertas cerradas",
-        "texto": "El plantel entrena hoy desde las 10 en el predio del Montevideo City Torque, en Ciudad de la Costa, en la última práctica antes de la final. Como toda la semana, sin prensa ni público."
-      },
-      {
-        "tema": "andujar-boselli-copa",
-        "titulo": "Andújar y Boselli entrarán con la Copa",
-        "texto": "Dos campeones de 2009 llevarán el trofeo al campo del Centenario minutos antes del arranque: Mariano Andújar, el arquero récord de aquella Copa, y Mauro Boselli, su goleador con 8 goles."
-      },
-      {
-        "tema": "equipo-sin-baltasar",
-        "titulo": "Medina define hoy al reemplazante de Baltasar",
-        "texto": "Fabricio Pérez es el principal candidato para el lugar de Baltasar Rodríguez, suspendido, con Cetré como alternativa; Medina también probó línea de cinco con Gastón Benedetti. Correa viajó entre los 27 convocados, pero sigue sin alta confirmada."
-      },
-      {
         "tema": "palmeiras-previa-final",
-        "titulo": "Abel elogia al Pincha y Barboza se tiene fe",
-        "texto": "Abel Ferreira elogió al Pincha: \"Es un equipo extremadamente competitivo, con jugadores muy experimentados\". Más picante, el defensor argentino Alexander Barboza aseguró que ganará la final \"en su otra casa, Uruguay\". Paulinho, con una lesión desde octubre, sigue en duda."
+        "titulo": "Giay: \"Estudiantes es un club muy grande\"",
+        "texto": "El lateral argentino de Palmeiras, que entrenó en Montevideo junto al Flaco López, elogió al Pincha antes de la final, y Abel Ferreira lo definió como \"un equipo fluido\". Paulinho, con una lesión desde octubre, sigue en duda."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-27T17:49:00-03:00",
+        "texto": "Mismo estadio, mismo rival, 58 años después: el Pincha va por la quinta.",
+        "fuente": "Perfil",
+        "url": "https://www.perfil.com/deportes/el-mismo-estadio-el-mismo-rival-pero-58-anos-despues-estudiantes-va-por-su-quinta-copa-libertadores-a6V1m9d1"
+      },
+      {
+        "hora": "2026-11-27T16:47:00-03:00",
+        "texto": "El Pincha practicó penales pensando en todos los escenarios y en el arquero Carlos Miguel.",
+        "fuente": "Infocielo",
+        "url": "https://www.infocielo.com/deportes/estudiantes-practico-penales-pensando-en-todos-los-escenarios-de-la-final-y-en-el-gigante-carlos-miguel"
+      },
+      {
+        "hora": "2026-11-27T15:38:00-03:00",
+        "texto": "Llegan los primeros hinchas y Montevideo empieza a pintarse de rojo y blanco.",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/montevideo-se-tine-de-rojo-y-blanco-los-primeros-hinchas-de-estudiantes-comienzan-a-llegar-a-uruguay-deportes_1795804702"
+      },
+      {
+        "hora": "2026-11-27T15:13:00-03:00",
+        "texto": "El DJ uruguayo Diego Maciel animará la previa de la final.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/se-revelo-quien-dara-el-show-la-final-la-copa-libertadores-estudiantes-y-palmeiras-n138151"
+      },
+      {
+        "hora": "2026-11-27T12:28:00-03:00",
+        "texto": "Última práctica en Montevideo: el equipo que piensa Medina para la final.",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/ultimo-entrenamiento-de-estudiantes-previo-a-la-final-que-equipo-piensa-medina-para-manana-deportes_1795793290"
+      },
       {
         "hora": "2026-11-27T08:05:00-03:00",
         "texto": "Arrancó la movilización: casi 130 micros parten desde el UNO rumbo a Uruguay.",
@@ -100,36 +130,6 @@
         "texto": "Video: los jugadores recibieron a los hinchas que llegaron a Montevideo en bicicleta.",
         "fuente": "0221",
         "url": "https://www.0221.com.ar/estudiantes/video-el-plantel-estudiantes-recibio-los-hinchas-que-llegaron-montevideo-pedaleando-n138094"
-      },
-      {
-        "hora": "2026-11-26T16:38:00-03:00",
-        "texto": "Abel Ferreira: \"Estudiantes es un equipo extremadamente competitivo\".",
-        "fuente": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1164409/deportes/abel-ferreira-elogio-estudiantes-antes-final-copa-libertadores-equipo-extremadamente-competitivo.html"
-      },
-      {
-        "hora": "2026-11-26T15:17:00-03:00",
-        "texto": "Andújar y Boselli, campeones de 2009, entrarán con la Copa antes de la final.",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/andujar-y-boselli-ingresaran-con-la-copa-libertadores-en-la-previa-de-la-final-entre-estudiantes-y-palmeiras-deportes_1795717039"
-      },
-      {
-        "hora": "2026-11-26T11:03:00-03:00",
-        "texto": "Barboza, de Palmeiras, ya se ve campeón \"en su otra casa, Uruguay\".",
-        "fuente": "Olé",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFUxSUM2RjBrZWtobkxhenJMSXEySjI0QkwyLVotQkJQVGUyN002aDFvTDNRSE5ORTUyUF92cDZ2Tm9sWDE5RHZYZ0x6NktEYTFaVktYUzJyZEwwdVN4MTA4Nll6dTkzbHhVVXc0enp6Yi1lQnZHdVMwZFR3X0dRdnMyMlJmU2ctcnRJZzV3YUstb1o1Zngzenk5YXV0cFRfSzVXQS1Bemo5ZEJCdktEd3FGV2FmZw?oc=5"
-      },
-      {
-        "hora": "2026-11-26T09:58:00-03:00",
-        "texto": "El cronograma de Estudiantes y Palmeiras en Montevideo hasta la final.",
-        "fuente": "Doble Amarilla",
-        "url": "https://www.dobleamarilla.com.ar/america/estudiantes-y-palmeiras-llegaron-a-montevideo-y-se-preparan-para-la-final-de-la-copa-libertadores--el-cronograma-para-los-proximos-dias_a6b08202c413cc92b98a70fac"
-      },
-      {
-        "hora": "2026-11-26T07:53:00-03:00",
-        "texto": "El Pincha ya está instalado en Montevideo para los últimos entrenamientos antes de la final.",
-        "fuente": "Punto Capital",
-        "url": "https://www.puntocapitalnoticias.com/el-pincha-ya-esta-en-montevideo-y-se-prepara-para-la-final-de-la-libertadores/"
       }
     ]
   },

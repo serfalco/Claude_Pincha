@@ -1,41 +1,56 @@
 {
   "hoy": {
-    "titular": "Exodus day: the coaches have left for Montevideo and the Pincha hold their last session before the final",
+    "titular": "All set: the Pincha wrap up training and Montevideo turns red and white",
     "foto": {
       "alt": "Estudiantes fans fill the stand at the UNO."
     },
-    "resumen": "Almost 130 coaches are leaving the UNO from this morning and more than 35,000 Pincha fans are expected in Uruguay. The squad hold their last session today at Montevideo City Torque's complex and Medina settles the line-up for Saturday's final against Palmeiras.",
+    "resumen": "The squad completed their last session in Montevideo and Fabricio Pérez is lined up to replace Baltasar Rodríguez. The first Pincha fans have already taken over the city, with the bulk of the caravan crossing overnight and on Saturday morning.",
     "siete": [
       {
-        "titulo": "The coaches are off: almost 130 from the UNO",
-        "texto": "The coaches started leaving the UNO this morning, with the supporters' groups' coaches following around midday to speed up the border crossing. A physical ID card or valid passport is required to cross: the Mi Argentina digital ID is not accepted."
+        "titulo": "Fabricio Pérez picked to fill Baltasar's place",
+        "texto": "In the last session in Montevideo, Medina lined up Muslera; Mancuso, Núñez, González Pírez and Rojo; Fabricio Pérez, Piovi, Castro and Tobio Burgos; Tiago Palacios and Carrillo. A back five with Gastón Benedetti remains an option, from the start or during the match."
       },
       {
-        "titulo": "Pincha exodus: 35,000 expected in Uruguay",
-        "texto": "More than 170 fans' coaches will pass through Gualeguaychú on the way to the bridge, others crossed by Buquebus ferry and even on three sailing boats from Ensenada. The media estimate around 35,000 Pincha fans in Montevideo for the final."
+        "titulo": "Montevideo turns red and white",
+        "texto": "The first Pincha fans have taken over the rambla, the city centre and Parque Rodó, the area set aside for Estudiantes supporters. The bulk of the caravan crosses overnight and on Saturday morning: around 35,000 are expected in Uruguay."
+      },
+      {
+        "titulo": "Correa available, likely to start on the bench",
+        "texto": "Joaquín Correa trained alongside his team-mates after the tear he suffered against Flamengo and will be available to Medina as an option. He is expected to start the final among the substitutes."
+      },
+      {
+        "titulo": "A DJ before kick-off, funk at half-time",
+        "texto": "CONMEBOL confirmed that Uruguayan DJ Diego Maciel will open the ceremony with songs from both clubs, and Brazil's Pedro Sampaio will put on the first half-time show in a final, lasting seven minutes. Mariano Andújar will walk out with the Cup for Estudiantes."
+      },
+      {
+        "titulo": "Verón is already in Montevideo",
+        "texto": "The club president travelled with his family, will join the delegation at the squad's hotel and will watch the final from the stands at the Centenario."
       },
       {
         "titulo": "Piovi: \"We will go on the attack\"",
         "texto": "After the first session in Montevideo, Ezequiel Piovi said the squad have already studied Palmeiras and warned: \"On Saturday we will go on the attack, as we have done so far\". For him, it is the biggest match of his career."
       },
       {
-        "titulo": "Last session, behind closed doors",
-        "texto": "The squad train today from 10am at Montevideo City Torque's complex in Ciudad de la Costa, in the last session before the final. As all week, with no press or public."
-      },
-      {
-        "titulo": "Andújar and Boselli to walk out with the Cup",
-        "texto": "Two 2009 champions will carry the trophy onto the Centenario pitch minutes before kick-off: Mariano Andújar, that campaign's record-breaking goalkeeper, and Mauro Boselli, its top scorer with 8 goals."
-      },
-      {
-        "titulo": "Medina picks Baltasar's replacement today",
-        "texto": "Fabricio Pérez is the front-runner to replace the suspended Baltasar Rodríguez, with Cetré as the alternative; Medina also tried a back five with Gastón Benedetti. Correa travelled among the 27 in the squad but still has no confirmed medical clearance."
-      },
-      {
-        "titulo": "Abel praises the Pincha, Barboza talks big",
-        "texto": "Abel Ferreira praised the Pincha: \"They are an extremely competitive side, with very experienced players\". More provocatively, Argentine defender Alexander Barboza said he will win the final \"in his other home, Uruguay\". Paulinho, injured since October, remains a doubt."
+        "titulo": "Giay: \"Estudiantes are a very big club\"",
+        "texto": "Palmeiras' Argentine full-back, who trained in Montevideo alongside Flaco López, praised the Pincha ahead of the final, and Abel Ferreira described them as \"a fluid side\". Paulinho, injured since October, remains a doubt."
       }
     ],
     "linea": [
+      {
+        "texto": "Same stadium, same opponents, 58 years on: the Pincha go for a fifth."
+      },
+      {
+        "texto": "The Pincha practised penalties with every scenario in mind, and goalkeeper Carlos Miguel."
+      },
+      {
+        "texto": "The first fans arrive and Montevideo starts turning red and white."
+      },
+      {
+        "texto": "Uruguayan DJ Diego Maciel will warm up the crowd before the final."
+      },
+      {
+        "texto": "Last session in Montevideo: the line-up Medina has in mind for the final."
+      },
       {
         "texto": "The exodus is under way: almost 130 coaches leave the UNO for Uruguay."
       },
@@ -62,21 +77,6 @@
       },
       {
         "texto": "Video: the players welcomed the fans who cycled to Montevideo."
-      },
-      {
-        "texto": "Abel Ferreira: \"Estudiantes are an extremely competitive side\"."
-      },
-      {
-        "texto": "Andújar and Boselli, 2009 champions, will walk out with the Cup before the final."
-      },
-      {
-        "texto": "Palmeiras' Barboza already sees himself as champion \"in his other home, Uruguay\"."
-      },
-      {
-        "texto": "Estudiantes' and Palmeiras' schedule in Montevideo up to the final."
-      },
-      {
-        "texto": "The Pincha are settled in Montevideo for the final training sessions before the final."
       }
     ]
   },

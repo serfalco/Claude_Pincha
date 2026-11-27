@@ -1,41 +1,56 @@
 {
   "hoy": {
-    "titular": "远征之日：球迷大巴已驶向蒙得维的亚，Pincha进行决赛前最后一练",
+    "titular": "一切就绪：Pincha完成最后训练，蒙得维的亚已染上红白色",
     "foto": {
       "alt": "Estudiantes球迷坐满了el UNO的看台。"
     },
-    "resumen": "从今天早上起，近130辆大巴从el UNO出发，预计超过3.5万名Pincha球迷将前往乌拉圭。球队今天在Montevideo City Torque训练基地进行最后一次训练，Medina将确定周六对阵帕尔梅拉斯（Palmeiras）决赛的阵容。",
+    "resumen": "球队在蒙得维的亚完成最后一练，Fabricio Pérez有望顶替Baltasar Rodríguez。首批Pincha球迷已涌入城市，大部队将在周六凌晨至上午过境。",
     "siete": [
       {
-        "titulo": "大巴出发：近130辆从el UNO驶出",
-        "texto": "大巴今早开始从el UNO出发，球迷团体的大巴将在中午前后出发，以便加快过境速度。过境需携带实体身份证或有效护照：Mi Argentina电子身份证无效。"
+        "titulo": "Fabricio Pérez入选，顶替Baltasar",
+        "texto": "在蒙得维的亚的最后一练中，Medina排出Muslera；Mancuso、Núñez、González Pírez和Rojo；Fabricio Pérez、Piovi、Castro和Tobio Burgos；Tiago Palacios和Carrillo。由Gastón Benedetti组成的五后卫仍是备选，可首发使用也可赛中调整。"
       },
       {
-        "titulo": "Pincha大远征：预计3.5万人奔赴乌拉圭",
-        "texto": "超过170辆球迷大巴将途经Gualeguaychú前往边境大桥，还有球迷乘Buquebus渡轮过河，甚至有人从Ensenada乘三艘帆船出发。媒体估计约3.5万名Pincha球迷将在蒙得维的亚观看决赛。"
+        "titulo": "蒙得维的亚染上红白色",
+        "texto": "首批Pincha球迷已占领海滨大道、市中心和划给Estudiantes球迷的Parque Rodó区域。大部队将在周六凌晨至上午过境，预计约3.5万人抵达乌拉圭。"
+      },
+      {
+        "titulo": "Correa可以出战，预计替补待命",
+        "texto": "Joaquín Correa在对Flamengo时肌肉撕裂后已随队合练，将作为Medina的备选。预计他将在决赛中替补出发。"
+      },
+      {
+        "titulo": "赛前DJ，中场放克",
+        "texto": "南美足联确认乌拉圭DJ Diego Maciel将在开幕式上播放两队相关歌曲，巴西歌手Pedro Sampaio将带来决赛史上首场中场秀，时长七分钟。Mariano Andújar将代表Estudiantes捧杯入场。"
+      },
+      {
+        "titulo": "Verón已抵达蒙得维的亚",
+        "texto": "俱乐部主席携家人前往，将在球队酒店与代表团会合，并在Centenario看台观看决赛。"
       },
       {
         "titulo": "Piovi：“我们会主动进攻”",
         "texto": "在蒙得维的亚的首堂训练课后，Ezequiel Piovi表示球队已经研究过Palmeiras，并放话：“周六我们会像一直以来那样主动进攻。”他认为这是自己职业生涯中最重要的一场比赛。"
       },
       {
-        "titulo": "最后一练，闭门进行",
-        "texto": "球队今天10点在Ciudad de la Costa的Montevideo City Torque训练基地进行决赛前最后一次训练。和整周一样，不对媒体和公众开放。"
-      },
-      {
-        "titulo": "Andújar与Boselli将捧杯入场",
-        "texto": "两位2009年冠军成员将在开球前几分钟把奖杯带上Centenario球场：当年创纪录的门将Mariano Andújar，以及以8球成为最佳射手的Mauro Boselli。"
-      },
-      {
-        "titulo": "Medina今天确定Baltasar的替代者",
-        "texto": "Fabricio Pérez是顶替停赛的Baltasar Rodríguez的头号人选，Cetré为备选；Medina还演练了让Gastón Benedetti出场的五后卫阵型。Correa随27人大名单出征，但仍未获得确认的伤愈许可。"
-      },
-      {
-        "titulo": "Abel称赞Pincha，Barboza信心十足",
-        "texto": "Abel Ferreira称赞Pincha：“这是一支极具竞争力的球队，球员经验非常丰富。”更具挑衅意味的是，阿根廷后卫Alexander Barboza表示将“在第二个家乌拉圭”赢下决赛。自10月起伤停的Paulinho仍然存疑。"
+        "titulo": "Giay：“Estudiantes是一家非常伟大的俱乐部”",
+        "texto": "帕尔梅拉斯（Palmeiras）的阿根廷边后卫Giay与Flaco López一起在蒙得维的亚训练，他在决赛前称赞Pincha；Abel Ferreira则称对手是“一支流畅的球队”。自10月起受伤的Paulinho仍存疑。"
       }
     ],
     "linea": [
+      {
+        "texto": "同一座球场、同一个对手，58年后：Pincha冲击第五冠。"
+      },
+      {
+        "texto": "Pincha针对各种情况练习点球，也针对门将Carlos Miguel。"
+      },
+      {
+        "texto": "首批球迷抵达，蒙得维的亚开始染上红白色。"
+      },
+      {
+        "texto": "乌拉圭DJ Diego Maciel将为决赛暖场。"
+      },
+      {
+        "texto": "蒙得维的亚最后一练：Medina心中的决赛阵容。"
+      },
       {
         "texto": "大规模出征开始：近130辆大巴从el UNO驶向乌拉圭。"
       },
@@ -62,21 +77,6 @@
       },
       {
         "texto": "视频：球员们迎接骑自行车到蒙得维的亚的球迷。"
-      },
-      {
-        "texto": "Abel Ferreira：“Estudiantes是一支极具竞争力的球队。”"
-      },
-      {
-        "texto": "2009年冠军Andújar和Boselli将在决赛前捧杯入场。"
-      },
-      {
-        "texto": "Palmeiras的Barboza已自视冠军：“在第二个家乌拉圭”。"
-      },
-      {
-        "texto": "Estudiantes和Palmeiras在蒙得维的亚直到决赛的日程。"
-      },
-      {
-        "texto": "Pincha已在蒙得维的亚安顿下来，进行决赛前的最后训练。"
       }
     ]
   },
