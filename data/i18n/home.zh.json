@@ -1,41 +1,62 @@
 {
   "hoy": {
-    "titular": "一切就绪：Pincha完成最后训练，蒙得维的亚已染上红白色",
+    "titular": "决战日到来：Pincha冲击第五座解放者杯",
     "foto": {
       "alt": "Estudiantes球迷坐满了el UNO的看台。"
     },
-    "resumen": "球队在蒙得维的亚完成最后一练，Fabricio Pérez有望顶替Baltasar Rodríguez。首批Pincha球迷已涌入城市，大部队将在周六凌晨至上午过境。",
+    "resumen": "Estudiantes与帕尔梅拉斯今天在Centenario球场争夺冠军，Fabricio Pérez将顶替Baltasar Rodríguez。Medina表示非常相信自己的球队，球迷们已经占领了蒙得维的亚。",
     "siete": [
+      {
+        "titulo": "决战日到来：Pincha冲击第五冠",
+        "texto": "Estudiantes与帕尔梅拉斯在Centenario球场进行Copa Libertadores单场决赛，球场和对手都与1968年决赛相同。若战平将进入加时赛和点球大战；主裁判为Jesús Valenzuela。"
+      },
+      {
+        "titulo": "Medina：“这是纯粹的燃料”",
+        "texto": "在最后一次新闻发布会上，主教练感谢球迷的支持，称这是“这类比赛的纯粹燃料”，并表示：“我非常相信我们的球队和球员。”他特别提到帕尔梅拉斯的个人能力、攻防转换和定位球。"
+      },
+      {
+        "titulo": "球迷节举旗助威，Pocitos海滩狂欢",
+        "texto": "周五，数百名Pincha球迷挤满蒙得维的亚球迷节，与帕尔梅拉斯球迷展开歌声对决，狂欢一直延续到Pocitos海滩。其余车队将在凌晨至上午过境：预计约3.5万人抵达乌拉圭。"
+      },
       {
         "titulo": "Fabricio Pérez入选，顶替Baltasar",
         "texto": "在蒙得维的亚的最后一练中，Medina排出Muslera；Mancuso、Núñez、González Pírez和Rojo；Fabricio Pérez、Piovi、Castro和Tobio Burgos；Tiago Palacios和Carrillo。由Gastón Benedetti组成的五后卫仍是备选，可首发使用也可赛中调整。"
       },
       {
-        "titulo": "蒙得维的亚染上红白色",
-        "texto": "首批Pincha球迷已占领海滨大道、市中心和划给Estudiantes球迷的Parque Rodó区域。大部队将在周六凌晨至上午过境，预计约3.5万人抵达乌拉圭。"
+        "titulo": "Carrillo回应Barboza",
+        "texto": "帕尔梅拉斯阿根廷籍后卫Alexander Barboza曾断言“绿猪”将夺冠。Pincha队长在蒙得维的亚带着讽刺回应：“为此恭喜你……”"
       },
       {
         "titulo": "Correa可以出战，预计替补待命",
         "texto": "Joaquín Correa在对Flamengo时肌肉撕裂后已随队合练，将作为Medina的备选。预计他将在决赛中替补出发。"
       },
       {
-        "titulo": "赛前DJ，中场放克",
-        "texto": "南美足联确认乌拉圭DJ Diego Maciel将在开幕式上播放两队相关歌曲，巴西歌手Pedro Sampaio将带来决赛史上首场中场秀，时长七分钟。Mariano Andújar将代表Estudiantes捧杯入场。"
-      },
-      {
-        "titulo": "Verón已抵达蒙得维的亚",
-        "texto": "俱乐部主席携家人前往，将在球队酒店与代表团会合，并在Centenario看台观看决赛。"
-      },
-      {
-        "titulo": "Piovi：“我们会主动进攻”",
-        "texto": "在蒙得维的亚的首堂训练课后，Ezequiel Piovi表示球队已经研究过Palmeiras，并放话：“周六我们会像一直以来那样主动进攻。”他认为这是自己职业生涯中最重要的一场比赛。"
-      },
-      {
-        "titulo": "Giay：“Estudiantes是一家非常伟大的俱乐部”",
-        "texto": "帕尔梅拉斯（Palmeiras）的阿根廷边后卫Giay与Flaco López一起在蒙得维的亚训练，他在决赛前称赞Pincha；Abel Ferreira则称对手是“一支流畅的球队”。自10月起受伤的Paulinho仍存疑。"
+        "titulo": "帕尔梅拉斯迎回Murilo和Piquerez",
+        "texto": "两名后卫在备战收官训练中毫无限制地参加训练，Murilo更有可能首发。Abel Ferreira在中场的Evangelista和Andreas Pereira之间、锋线的Vitor Roque和Mauricio之间犹豫；Paulinho仍存疑。"
       }
     ],
     "linea": [
+      {
+        "texto": "Medina展望决赛：“支持的话语是纯粹的燃料”。"
+      },
+      {
+        "texto": "Carrillo回击断言帕尔梅拉斯将夺冠的Barboza。"
+      },
+      {
+        "texto": "数百名球迷挤满蒙得维的亚球迷节举旗助威。"
+      },
+      {
+        "texto": "Medina：“这类比赛显然没有压力”。"
+      },
+      {
+        "texto": "Pincha球迷在Pocitos海滩的狂欢。"
+      },
+      {
+        "texto": "球迷节人山人海，与帕尔梅拉斯球迷歌声对决。"
+      },
+      {
+        "texto": "帕尔梅拉斯带着Murilo和Piquerez结束备战，并敲定两处人选疑问。"
+      },
       {
         "texto": "同一座球场、同一个对手，58年后：Pincha冲击第五冠。"
       },
@@ -56,27 +77,6 @@
       },
       {
         "texto": "近130辆大巴，球迷历史性奔赴蒙得维的亚。"
-      },
-      {
-        "texto": "对阵Palmeiras的决赛：开球时间、转播和可能首发。"
-      },
-      {
-        "texto": "预计3.5万名Pincha球迷前往蒙得维的亚：奔赴决赛的车队。"
-      },
-      {
-        "texto": "超过170辆载有Estudiantes球迷的大巴将途经Gualeguaychú。"
-      },
-      {
-        "texto": "从Ensenada乘三艘帆船：横渡拉普拉塔河去看决赛的球迷。"
-      },
-      {
-        "texto": "Estudiantes和Palmeiras在蒙得维的亚闭门备战。"
-      },
-      {
-        "texto": "Piovi在乌拉圭首练后表示：“我们会像一直以来那样主动进攻。”"
-      },
-      {
-        "texto": "视频：球员们迎接骑自行车到蒙得维的亚的球迷。"
       }
     ]
   },

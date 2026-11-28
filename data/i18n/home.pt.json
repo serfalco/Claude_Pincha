@@ -1,41 +1,62 @@
 {
   "hoy": {
-    "titular": "Tudo pronto: o Pincha encerrou o treino e Montevidéu já se pinta de vermelho e branco",
+    "titular": "Chegou o dia: o Pincha vai atrás da quinta Libertadores",
     "foto": {
       "alt": "A torcida do Estudiantes lota a arquibancada do UNO."
     },
-    "resumen": "O elenco fez em Montevidéu o último treino e Fabricio Pérez se encaminha para substituir Baltasar Rodríguez. Os primeiros torcedores do Pincha já tomam a cidade e o grosso da caravana atravessa entre a madrugada e a manhã de sábado.",
+    "resumen": "Estudiantes e Palmeiras decidem hoje a Copa no Centenario, com Fabricio Pérez no lugar de Baltasar Rodríguez. Medina diz que acredita muito no seu time, e os torcedores já tomaram Montevidéu.",
     "siete": [
+      {
+        "titulo": "Chegou o dia: o Pincha vai atrás da quinta",
+        "texto": "Estudiantes e Palmeiras decidem a Copa Libertadores em jogo único no Centenario, o mesmo estádio e o mesmo adversário da final de 1968. Se houver empate, prorrogação e pênaltis; o árbitro é Jesús Valenzuela."
+      },
+      {
+        "titulo": "Medina: \"São combustível puro\"",
+        "texto": "Na última coletiva, o técnico agradeceu o apoio dos torcedores, que é \"combustível puro para estes jogos\", e afirmou: \"Acredito muito no nosso time, nos nossos jogadores\". Do Palmeiras, destacou as individualidades, as transições e a bola parada."
+      },
+      {
+        "titulo": "Bandeiraço no Fan Fest e festa em Pocitos",
+        "texto": "Centenas de torcedores do Pincha lotaram na sexta o Fan Fest de Montevidéu, com duelo de cantos com os palmeirenses, e a festa continuou na praia de Pocitos. O resto da caravana cruza entre a madrugada e a manhã: são esperados cerca de 35 mil no Uruguai."
+      },
       {
         "titulo": "Fabricio Pérez, o escolhido para a vaga de Baltasar",
         "texto": "No último treino em Montevidéu, Medina escalou Muslera; Mancuso, Núñez, González Pírez e Rojo; Fabricio Pérez, Piovi, Castro e Tobio Burgos; Tiago Palacios e Carrillo. A linha de cinco com Gastón Benedetti fica como alternativa, desde o início ou durante o jogo."
       },
       {
-        "titulo": "Montevidéu já se pinta de vermelho e branco",
-        "texto": "Os primeiros torcedores do Pincha tomam a rambla, o centro e o Parque Rodó, a área destinada à torcida do Estudiantes. O grosso da caravana atravessa entre a madrugada e a manhã de sábado: são esperados cerca de 35 mil no Uruguai."
+        "titulo": "Carrillo responde a Barboza",
+        "texto": "Alexander Barboza, zagueiro argentino do Palmeiras, tinha garantido que o Verdão será campeão. O capitão do Pincha respondeu com ironia de Montevidéu: \"Parabéns por isso...\""
       },
       {
         "titulo": "Correa disponível: deve começar no banco",
         "texto": "Joaquín Correa treinou com os companheiros depois da lesão muscular sofrida contra o Flamengo e estará à disposição de Medina como alternativa. A tendência é que comece a final entre os reservas."
       },
       {
-        "titulo": "DJ na abertura, funk no intervalo",
-        "texto": "A Conmebol confirmou que o DJ uruguaio Diego Maciel vai animar a abertura com músicas dos dois clubes, e o brasileiro Pedro Sampaio fará o primeiro show de intervalo de uma final, de sete minutos. Mariano Andújar entrará com a Taça pelo Estudiantes."
-      },
-      {
-        "titulo": "Verón já está em Montevidéu",
-        "texto": "O presidente viajou com a família, vai se juntar à delegação no hotel do elenco e verá a final da arquibancada do Centenario."
-      },
-      {
-        "titulo": "Piovi: \"Vamos para cima\"",
-        "texto": "Depois do primeiro treino em Montevidéu, Ezequiel Piovi contou que o elenco já analisou o Palmeiras e avisou: \"No sábado vamos para cima, como fizemos até agora\". Para ele, é o jogo mais importante da carreira."
-      },
-      {
-        "titulo": "Giay: \"O Estudiantes é um clube muito grande\"",
-        "texto": "O lateral argentino do Palmeiras, que treinou em Montevidéu ao lado do Flaco López, elogiou o Pincha antes da final, e Abel Ferreira o definiu como \"uma equipe fluida\". Paulinho, lesionado desde outubro, segue em dúvida."
+        "titulo": "Palmeiras recupera Murilo e Piquerez",
+        "texto": "Os dois defensores treinaram sem limitações no encerramento da preparação, e Murilo tem mais chances de começar. Abel Ferreira tem dúvidas entre Evangelista e Andreas Pereira no meio e entre Vitor Roque e Mauricio no ataque; Paulinho segue em dúvida."
       }
     ],
     "linea": [
+      {
+        "texto": "Medina projeta a final: \"As mensagens de apoio são combustível puro\"."
+      },
+      {
+        "texto": "Carrillo responde a Barboza, que garantiu que o Palmeiras será campeão."
+      },
+      {
+        "texto": "Centenas de torcedores lotaram o Fan Fest de Montevidéu com um bandeiraço."
+      },
+      {
+        "texto": "Medina: \"Pressão neste tipo de jogo obviamente não existe\"."
+      },
+      {
+        "texto": "A festa dos torcedores do Pincha na praia de Pocitos."
+      },
+      {
+        "texto": "Fan Fest lotado e duelo de cantos com a torcida do Palmeiras."
+      },
+      {
+        "texto": "Palmeiras encerra a preparação com Murilo e Piquerez e define duas dúvidas."
+      },
       {
         "texto": "Mesmo estádio, mesmo rival, 58 anos depois: o Pincha vai atrás da quinta."
       },
@@ -56,27 +77,6 @@
       },
       {
         "texto": "Quase 130 ônibus e uma mobilização histórica de torcedores rumo a Montevidéu."
-      },
-      {
-        "texto": "Final contra o Palmeiras: horário, TV e prováveis escalações."
-      },
-      {
-        "texto": "35 mil torcedores do Pincha esperados em Montevidéu: a caravana rumo à final."
-      },
-      {
-        "texto": "Mais de 170 ônibus com torcedores do Estudiantes vão passar por Gualeguaychú."
-      },
-      {
-        "texto": "Em três veleiros saindo de Ensenada: torcedores que cruzaram o Rio da Prata para a final."
-      },
-      {
-        "texto": "Estudiantes e Palmeiras se preparam com portões fechados em Montevidéu."
-      },
-      {
-        "texto": "Piovi, depois do primeiro treino no Uruguai: \"Vamos para cima, como até agora\"."
-      },
-      {
-        "texto": "Vídeo: os jogadores receberam os torcedores que foram de bicicleta a Montevidéu."
       }
     ]
   },

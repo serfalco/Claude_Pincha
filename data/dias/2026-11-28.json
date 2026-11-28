@@ -1,0 +1,172 @@
+{
+  "fecha": "2026-11-28",
+  "titular": {
+    "es": "Llegó el día: el Pincha va por la quinta Libertadores",
+    "en": "The day is here: the Pincha go for a fifth Libertadores",
+    "pt": "Chegou o dia: o Pincha vai atrás da quinta Libertadores",
+    "zh": "决战日到来：Pincha冲击第五座解放者杯",
+    "hi": "दिन आ गया: Pincha पाँचवें Libertadores ख़िताब की तलाश में"
+  },
+  "resumen": {
+    "es": "Estudiantes y Palmeiras definen hoy la Copa en el Centenario, con Fabricio Pérez como reemplazo de Baltasar Rodríguez. Medina dice que cree mucho en su equipo y los hinchas ya coparon Montevideo.",
+    "en": "Estudiantes and Palmeiras decide the Cup today at the Centenario, with Fabricio Pérez replacing Baltasar Rodríguez. Medina says he believes strongly in his side, and the fans have already taken over Montevideo.",
+    "pt": "Estudiantes e Palmeiras decidem hoje a Copa no Centenario, com Fabricio Pérez no lugar de Baltasar Rodríguez. Medina diz que acredita muito no seu time, e os torcedores já tomaram Montevidéu.",
+    "zh": "Estudiantes与帕尔梅拉斯今天在Centenario球场争夺冠军，Fabricio Pérez将顶替Baltasar Rodríguez。Medina表示非常相信自己的球队，球迷们已经占领了蒙得维的亚。",
+    "hi": "Estudiantes और Palmeiras आज Centenario में कप का फ़ैसला करेंगे, Baltasar Rodríguez की जगह Fabricio Pérez खेलेंगे। Medina ने कहा कि उन्हें अपनी टीम पर पूरा भरोसा है, और प्रशंसक पहले ही Montevideo पर छा गए हैं।"
+  },
+  "ultimo": {
+    "rival": "Independiente Rivadavia",
+    "golesPropios": 3,
+    "golesRival": 2,
+    "fecha": "2026-11-12T20:00:00-03:00",
+    "torneo": "Supercopa Argentina · Final (alargue)",
+    "condicion": "neutral",
+    "goles": [
+      {
+        "jugador": "Carrillo",
+        "min": "55"
+      },
+      {
+        "jugador": "Villalba",
+        "min": "68",
+        "ec": true
+      },
+      {
+        "jugador": "Alario",
+        "min": "96"
+      }
+    ]
+  },
+  "siete": [
+    {
+      "tema": "final-dia",
+      "titulo": {
+        "es": "Llegó el día: el Pincha va por la quinta",
+        "en": "The day is here: the Pincha go for a fifth",
+        "pt": "Chegou o dia: o Pincha vai atrás da quinta",
+        "zh": "决战日到来：Pincha冲击第五冠",
+        "hi": "दिन आ गया: Pincha पाँचवें ख़िताब की तलाश में"
+      },
+      "texto": {
+        "es": "Estudiantes y Palmeiras definen la Copa Libertadores a partido único en el Centenario, el mismo estadio y el mismo rival de la final de 1968. Si hay empate, alargue y penales; arbitra Jesús Valenzuela.",
+        "en": "Estudiantes and Palmeiras decide the Copa Libertadores in a one-off final at the Centenario, the same stadium and the same opponents as the 1968 final. If it is level, extra time and penalties; Jesús Valenzuela is the referee.",
+        "pt": "Estudiantes e Palmeiras decidem a Copa Libertadores em jogo único no Centenario, o mesmo estádio e o mesmo adversário da final de 1968. Se houver empate, prorrogação e pênaltis; o árbitro é Jesús Valenzuela.",
+        "zh": "Estudiantes与帕尔梅拉斯在Centenario球场进行Copa Libertadores单场决赛，球场和对手都与1968年决赛相同。若战平将进入加时赛和点球大战；主裁判为Jesús Valenzuela。",
+        "hi": "Estudiantes और Palmeiras, Centenario में एक ही मैच के फ़ाइनल में Copa Libertadores का फ़ैसला करेंगे — वही स्टेडियम और वही प्रतिद्वंद्वी जो 1968 के फ़ाइनल में थे। बराबरी पर एक्स्ट्रा टाइम और पेनल्टी; रेफ़री Jesús Valenzuela होंगे।"
+      }
+    },
+    {
+      "tema": "medina-previa-final",
+      "titulo": {
+        "es": "Medina: \"Son combustible puro\"",
+        "en": "Medina: \"They are pure fuel\"",
+        "pt": "Medina: \"São combustível puro\"",
+        "zh": "Medina：“这是纯粹的燃料”",
+        "hi": "Medina: \"ये शुद्ध ईंधन हैं\""
+      },
+      "texto": {
+        "es": "En la última conferencia, el DT agradeció el aliento de los hinchas, que \"son combustible puro para estos partidos\", y avisó: \"Creo mucho en nuestro equipo, en nuestros futbolistas\". De Palmeiras destacó las individualidades, las transiciones y la pelota parada.",
+        "en": "At his final press conference, the head coach thanked the fans for their support, which is \"pure fuel for these matches\", and said: \"I believe strongly in our team, in our players\". He singled out Palmeiras' individual quality, transitions and set pieces.",
+        "pt": "Na última coletiva, o técnico agradeceu o apoio dos torcedores, que é \"combustível puro para estes jogos\", e afirmou: \"Acredito muito no nosso time, nos nossos jogadores\". Do Palmeiras, destacou as individualidades, as transições e a bola parada.",
+        "zh": "在最后一次新闻发布会上，主教练感谢球迷的支持，称这是“这类比赛的纯粹燃料”，并表示：“我非常相信我们的球队和球员。”他特别提到帕尔梅拉斯的个人能力、攻防转换和定位球。",
+        "hi": "आख़िरी प्रेस कॉन्फ़्रेंस में कोच ने प्रशंसकों के समर्थन का शुक्रिया अदा किया, जो \"इन मैचों के लिए शुद्ध ईंधन\" है, और कहा: \"मुझे अपनी टीम और अपने खिलाड़ियों पर बहुत भरोसा है।\" Palmeiras के बारे में उन्होंने व्यक्तिगत प्रतिभा, ट्रांज़िशन और सेट पीस को अहम बताया।"
+      }
+    },
+    {
+      "tema": "exodo-montevideo",
+      "titulo": {
+        "es": "Banderazo en el Fan Fest y fiesta en Pocitos",
+        "en": "Flag rally at the Fan Fest and a party in Pocitos",
+        "pt": "Bandeiraço no Fan Fest e festa em Pocitos",
+        "zh": "球迷节举旗助威，Pocitos海滩狂欢",
+        "hi": "फ़ैन फ़ेस्ट में झंडा रैली, Pocitos में जश्न"
+      },
+      "texto": {
+        "es": "Cientos de pinchas coparon el viernes el Fan Fest de Montevideo, con duelo de cantitos con los de Palmeiras, y la fiesta siguió en la playa de Pocitos. El resto de la caravana cruza entre la madrugada y la mañana: se esperan unos 35 mil en Uruguay.",
+        "en": "Hundreds of Pincha fans packed the Montevideo Fan Fest on Friday, trading chants with Palmeiras supporters, and the party carried on at Pocitos beach. The rest of the caravan crosses overnight and in the morning: around 35,000 are expected in Uruguay.",
+        "pt": "Centenas de torcedores do Pincha lotaram na sexta o Fan Fest de Montevidéu, com duelo de cantos com os palmeirenses, e a festa continuou na praia de Pocitos. O resto da caravana cruza entre a madrugada e a manhã: são esperados cerca de 35 mil no Uruguai.",
+        "zh": "周五，数百名Pincha球迷挤满蒙得维的亚球迷节，与帕尔梅拉斯球迷展开歌声对决，狂欢一直延续到Pocitos海滩。其余车队将在凌晨至上午过境：预计约3.5万人抵达乌拉圭。",
+        "hi": "शुक्रवार को सैकड़ों Pincha प्रशंसकों ने Montevideo का फ़ैन फ़ेस्ट भर दिया, Palmeiras समर्थकों के साथ नारों का मुक़ाबला हुआ, और जश्न Pocitos बीच पर जारी रहा। बाक़ी काफ़िला रात से सुबह तक पार करेगा: उरुग्वे में लगभग 35,000 प्रशंसकों के पहुँचने की उम्मीद है।"
+      }
+    },
+    {
+      "tema": "equipo-sin-baltasar",
+      "titulo": {
+        "es": "Fabricio Pérez, el elegido para el lugar de Baltasar",
+        "en": "Fabricio Pérez picked to fill Baltasar's place",
+        "pt": "Fabricio Pérez, o escolhido para a vaga de Baltasar",
+        "zh": "Fabricio Pérez入选，顶替Baltasar",
+        "hi": "Baltasar की जगह Fabricio Pérez चुने गए"
+      },
+      "texto": {
+        "es": "En la última práctica en Montevideo, Medina paró a Muslera; Mancuso, Núñez, González Pírez y Rojo; Fabricio Pérez, Piovi, Castro y Tobio Burgos; Tiago Palacios y Carrillo. La línea de cinco con Gastón Benedetti queda como variante, de entrada o durante el partido.",
+        "en": "In the last session in Montevideo, Medina lined up Muslera; Mancuso, Núñez, González Pírez and Rojo; Fabricio Pérez, Piovi, Castro and Tobio Burgos; Tiago Palacios and Carrillo. A back five with Gastón Benedetti remains an option, from the start or during the match.",
+        "pt": "No último treino em Montevidéu, Medina escalou Muslera; Mancuso, Núñez, González Pírez e Rojo; Fabricio Pérez, Piovi, Castro e Tobio Burgos; Tiago Palacios e Carrillo. A linha de cinco com Gastón Benedetti fica como alternativa, desde o início ou durante o jogo.",
+        "zh": "在蒙得维的亚的最后一练中，Medina排出Muslera；Mancuso、Núñez、González Pírez和Rojo；Fabricio Pérez、Piovi、Castro和Tobio Burgos；Tiago Palacios和Carrillo。由Gastón Benedetti组成的五后卫仍是备选，可首发使用也可赛中调整。",
+        "hi": "मोंटेवीडियो में आख़िरी अभ्यास में Medina ने उतारा: Muslera; Mancuso, Núñez, González Pírez और Rojo; Fabricio Pérez, Piovi, Castro और Tobio Burgos; Tiago Palacios और Carrillo। Gastón Benedetti के साथ पाँच डिफ़ेंडरों वाली लाइन विकल्प बनी हुई है, शुरुआत से या मैच के दौरान।"
+      }
+    },
+    {
+      "tema": "carrillo-barboza",
+      "titulo": {
+        "es": "Carrillo le contestó a Barboza",
+        "en": "Carrillo answers Barboza",
+        "pt": "Carrillo responde a Barboza",
+        "zh": "Carrillo回应Barboza",
+        "hi": "Carrillo का Barboza को जवाब"
+      },
+      "texto": {
+        "es": "Alexander Barboza, defensor argentino de Palmeiras, había asegurado que el Verdão será campeón. El capitán del Pincha le respondió con ironía desde Montevideo: \"Felicitaciones por eso...\"",
+        "en": "Alexander Barboza, Palmeiras' Argentine defender, had claimed the Verdão will be champions. The Pincha captain replied with irony from Montevideo: \"Congratulations on that...\"",
+        "pt": "Alexander Barboza, zagueiro argentino do Palmeiras, tinha garantido que o Verdão será campeão. O capitão do Pincha respondeu com ironia de Montevidéu: \"Parabéns por isso...\"",
+        "zh": "帕尔梅拉斯阿根廷籍后卫Alexander Barboza曾断言“绿猪”将夺冠。Pincha队长在蒙得维的亚带着讽刺回应：“为此恭喜你……”",
+        "hi": "Palmeiras के अर्जेंटीनी डिफ़ेंडर Alexander Barboza ने दावा किया था कि Verdão चैंपियन बनेगा। Pincha के कप्तान ने Montevideo से व्यंग्य भरा जवाब दिया: \"इसके लिए बधाई...\""
+      }
+    },
+    {
+      "tema": "correa-lesion",
+      "titulo": {
+        "es": "Correa, disponible: arrancaría en el banco",
+        "en": "Correa available, likely to start on the bench",
+        "pt": "Correa disponível: deve começar no banco",
+        "zh": "Correa可以出战，预计替补待命",
+        "hi": "Correa उपलब्ध, बेंच से शुरुआत संभव"
+      },
+      "texto": {
+        "es": "Joaquín Correa se entrenó a la par de sus compañeros tras el desgarro sufrido ante Flamengo y estará a disposición de Medina como alternativa. La tendencia es que empiece la final entre los suplentes.",
+        "en": "Joaquín Correa trained alongside his team-mates after the tear he suffered against Flamengo and will be available to Medina as an option. He is expected to start the final among the substitutes.",
+        "pt": "Joaquín Correa treinou com os companheiros depois da lesão muscular sofrida contra o Flamengo e estará à disposição de Medina como alternativa. A tendência é que comece a final entre os reservas.",
+        "zh": "Joaquín Correa在对Flamengo时肌肉撕裂后已随队合练，将作为Medina的备选。预计他将在决赛中替补出发。",
+        "hi": "Flamengo के ख़िलाफ़ लगी मांसपेशी की चोट के बाद Joaquín Correa ने साथियों के साथ अभ्यास किया और Medina के लिए विकल्प के तौर पर उपलब्ध रहेंगे। उम्मीद है कि वे फ़ाइनल की शुरुआत सब्स्टीट्यूट के रूप में करेंगे।"
+      }
+    },
+    {
+      "tema": "palmeiras-previa-final",
+      "titulo": {
+        "es": "Palmeiras recupera a Murilo y Piquerez",
+        "en": "Palmeiras get Murilo and Piquerez back",
+        "pt": "Palmeiras recupera Murilo e Piquerez",
+        "zh": "帕尔梅拉斯迎回Murilo和Piquerez",
+        "hi": "Palmeiras को Murilo और Piquerez वापस मिले"
+      },
+      "texto": {
+        "es": "Los dos defensores se entrenaron sin limitaciones en el cierre de la preparación y Murilo tiene más chances de arrancar. Abel Ferreira duda entre Evangelista y Andreas Pereira en el medio y entre Vitor Roque y Mauricio arriba; Paulinho sigue en duda.",
+        "en": "Both defenders trained without restrictions as preparations wrapped up, and Murilo is more likely to start. Abel Ferreira is torn between Evangelista and Andreas Pereira in midfield and between Vitor Roque and Mauricio up front; Paulinho remains a doubt.",
+        "pt": "Os dois defensores treinaram sem limitações no encerramento da preparação, e Murilo tem mais chances de começar. Abel Ferreira tem dúvidas entre Evangelista e Andreas Pereira no meio e entre Vitor Roque e Mauricio no ataque; Paulinho segue em dúvida.",
+        "zh": "两名后卫在备战收官训练中毫无限制地参加训练，Murilo更有可能首发。Abel Ferreira在中场的Evangelista和Andreas Pereira之间、锋线的Vitor Roque和Mauricio之间犹豫；Paulinho仍存疑。",
+        "hi": "दोनों डिफ़ेंडरों ने तैयारी के आख़िरी सत्र में बिना किसी रोक के अभ्यास किया, और Murilo के शुरुआत करने की संभावना ज़्यादा है। Abel Ferreira मिडफ़ील्ड में Evangelista और Andreas Pereira, और आगे Vitor Roque और Mauricio के बीच दुविधा में हैं; Paulinho पर अब भी संदेह है।"
+      }
+    }
+  ],
+  "foto": {
+    "id": "2026-05-25_accesos-y-recomendaciones-ante-dim_1",
+    "alt": {
+      "es": "La hinchada de Estudiantes llena la tribuna del estadio UNO.",
+      "en": "Estudiantes fans fill the stand at the UNO.",
+      "pt": "A torcida do Estudiantes lota a arquibancada do UNO.",
+      "zh": "Estudiantes球迷坐满了el UNO的看台。",
+      "hi": "Estudiantes के प्रशंसकों से el UNO का स्टैंड भरा हुआ।"
+    }
+  },
+  "linea": []
+}

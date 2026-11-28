@@ -1,24 +1,38 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-27T18:07:00-03:00",
+  "actualizado": "2026-11-28T00:07:00-03:00",
   "hoy": {
-    "titular": "Todo listo: el Pincha cerró la práctica y Montevideo ya se pinta de rojo y blanco",
+    "titular": "Llegó el día: el Pincha va por la quinta Libertadores",
     "foto": {
       "id": "2026-05-25_accesos-y-recomendaciones-ante-dim_1",
       "alt": "La hinchada de Estudiantes llena la tribuna del estadio UNO."
     },
-    "resumen": "El plantel completó en Montevideo la última práctica y Fabricio Pérez se perfila para reemplazar a Baltasar Rodríguez. Los primeros pinchas ya copan la ciudad y el grueso de la caravana cruza entre la madrugada y la mañana del sábado.",
+    "resumen": "Estudiantes y Palmeiras definen hoy la Copa en el Centenario, con Fabricio Pérez como reemplazo de Baltasar Rodríguez. Medina dice que cree mucho en su equipo y los hinchas ya coparon Montevideo.",
     "siete": [
       {
+        "tema": "final-dia",
+        "titulo": "Llegó el día: el Pincha va por la quinta",
+        "texto": "Estudiantes y Palmeiras definen la Copa Libertadores a partido único en el Centenario, el mismo estadio y el mismo rival de la final de 1968. Si hay empate, alargue y penales; arbitra Jesús Valenzuela."
+      },
+      {
+        "tema": "medina-previa-final",
+        "titulo": "Medina: \"Son combustible puro\"",
+        "texto": "En la última conferencia, el DT agradeció el aliento de los hinchas, que \"son combustible puro para estos partidos\", y avisó: \"Creo mucho en nuestro equipo, en nuestros futbolistas\". De Palmeiras destacó las individualidades, las transiciones y la pelota parada."
+      },
+      {
+        "tema": "exodo-montevideo",
+        "titulo": "Banderazo en el Fan Fest y fiesta en Pocitos",
+        "texto": "Cientos de pinchas coparon el viernes el Fan Fest de Montevideo, con duelo de cantitos con los de Palmeiras, y la fiesta siguió en la playa de Pocitos. El resto de la caravana cruza entre la madrugada y la mañana: se esperan unos 35 mil en Uruguay."
+      },
+      {
         "tema": "equipo-sin-baltasar",
-        "novedad": "Medina cerró la última práctica con Fabricio Pérez en el equipo",
         "titulo": "Fabricio Pérez, el elegido para el lugar de Baltasar",
         "texto": "En la última práctica en Montevideo, Medina paró a Muslera; Mancuso, Núñez, González Pírez y Rojo; Fabricio Pérez, Piovi, Castro y Tobio Burgos; Tiago Palacios y Carrillo. La línea de cinco con Gastón Benedetti queda como variante, de entrada o durante el partido."
       },
       {
-        "tema": "exodo-montevideo",
-        "titulo": "Montevideo ya se pinta de rojo y blanco",
-        "texto": "Los primeros pinchas copan la rambla, el centro y Parque Rodó, la zona destinada a los hinchas de Estudiantes. El grueso de la caravana cruza entre la madrugada y la mañana del sábado: se esperan unos 35 mil en Uruguay."
+        "tema": "carrillo-barboza",
+        "titulo": "Carrillo le contestó a Barboza",
+        "texto": "Alexander Barboza, defensor argentino de Palmeiras, había asegurado que el Verdão será campeón. El capitán del Pincha le respondió con ironía desde Montevideo: \"Felicitaciones por eso...\""
       },
       {
         "tema": "correa-lesion",
@@ -26,27 +40,54 @@
         "texto": "Joaquín Correa se entrenó a la par de sus compañeros tras el desgarro sufrido ante Flamengo y estará a disposición de Medina como alternativa. La tendencia es que empiece la final entre los suplentes."
       },
       {
-        "tema": "show-final",
-        "titulo": "DJ en la previa, funk en el entretiempo",
-        "texto": "La Conmebol confirmó que el DJ uruguayo Diego Maciel animará la apertura con canciones de los dos equipos, y el brasileño Pedro Sampaio hará el primer show de entretiempo de una final, de siete minutos. Mariano Andújar entrará con la Copa por Estudiantes."
-      },
-      {
-        "tema": "veron-montevideo",
-        "titulo": "Verón ya está en Montevideo",
-        "texto": "El presidente viajó con su familia, se sumará a la delegación en el hotel del plantel y verá la final desde la platea del Centenario."
-      },
-      {
-        "tema": "piovi-final",
-        "titulo": "Piovi: \"Vamos a ir al frente\"",
-        "texto": "Tras la primera práctica en Montevideo, Ezequiel Piovi contó que el plantel ya analizó a Palmeiras y avisó: \"El sábado vamos a ir al frente como lo hicimos hasta ahora\". Para él, es el partido más importante de su carrera."
-      },
-      {
         "tema": "palmeiras-previa-final",
-        "titulo": "Giay: \"Estudiantes es un club muy grande\"",
-        "texto": "El lateral argentino de Palmeiras, que entrenó en Montevideo junto al Flaco López, elogió al Pincha antes de la final, y Abel Ferreira lo definió como \"un equipo fluido\". Paulinho, con una lesión desde octubre, sigue en duda."
+        "titulo": "Palmeiras recupera a Murilo y Piquerez",
+        "texto": "Los dos defensores se entrenaron sin limitaciones en el cierre de la preparación y Murilo tiene más chances de arrancar. Abel Ferreira duda entre Evangelista y Andreas Pereira en el medio y entre Vitor Roque y Mauricio arriba; Paulinho sigue en duda."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-27T23:41:00-03:00",
+        "texto": "Medina palpitó la final: \"Los mensajes de aliento son combustible puro\".",
+        "fuente": "Canal 26",
+        "url": "https://www.canal26.com/deportes/2026/11/28/alexander-medina-palpito-la-final-de-estudiantes-ante-palmeiras-y-dejo-una-frase-para-los-hinchas-son-combustible-puro/"
+      },
+      {
+        "hora": "2026-11-27T21:52:00-03:00",
+        "texto": "Carrillo le respondió a Barboza, que había asegurado que Palmeiras será campeón.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/11/28/la-respuesta-de-carrillo-a-una-ex-figura-de-river-que-aseguro-que-palmeiras-le-va-a-ganar-la-copa-libertadores-a-estudiantes/"
+      },
+      {
+        "hora": "2026-11-27T21:15:00-03:00",
+        "texto": "Cientos de hinchas coparon el Fan Fest de Montevideo con un banderazo.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/cientos-hinchas-estudiantes-coparon-el-fan-fest-montevideo-un-banderazo-pura-ilusion-n138180"
+      },
+      {
+        "hora": "2026-11-27T20:51:00-03:00",
+        "texto": "Medina: \"Presión en este tipo de partidos obviamente que no hay\".",
+        "fuente": "Perfil",
+        "url": "https://442.perfil.com/noticias/futbol/copa-libertadores-alexander-medina-palpito-la-final-entre-estudiantes-y-palmeiras.phtml"
+      },
+      {
+        "hora": "2026-11-27T20:46:00-03:00",
+        "texto": "La fiesta de los hinchas del Pincha en la playa de Pocitos.",
+        "fuente": "Clarín",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZnJPbF9Malh4RFI0MHlNX2lTcE9FRVhMUnh0dDNJaFYyRVNRbDdncnpkQTA0OEtjZDh1QU5RMFRjWHB6Z1RhVHpPNU5JWmU4cFFPbG9aRkV2WlVzR2VWakpBQldoWUlSTEJUVWJEeUJCWXRfLTJ6dnVneTVYRzhEY0xkZFNKMXJPclEyc0piLS16ODVCMk9CS2lIQmtEZXc0TTlnTXFNNDNQbTBlS24wZHZYaw?oc=5"
+      },
+      {
+        "hora": "2026-11-27T20:42:00-03:00",
+        "texto": "Fan Fest repleto y duelo de cantitos con los hinchas de Palmeiras.",
+        "fuente": "El Día",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdVo3RnQyWWJ4bVRyMmZOSWFHQ1Z1ODJaMlBTcHZMTjJyRmN5UmRPRDlwZXZFRjQ5VGRPRjd5c2RNb2FwS0xucGdnQy1LWjRoQlVTUy1xektqUUhvMHprNGE1RFV2Rnk2WWFwRDg1aWNwWmgwaHJzTExWN2NmeV9FWFd4Wm5iQzlZc2lMSmVTUWFZSXVrRzFHcTBYYmFJcWtGWG40QW1ueTYxUjZBM3Y0NGd1X3d5X0s3Yk00UzBBTGY3aGx4Q3ZFREl4Wm5wUldCY0hyMEJYVXdaQ2NvVHB6N0RQQVFaWTV5S2c?oc=5"
+      },
+      {
+        "hora": "2026-11-27T19:01:00-03:00",
+        "texto": "Palmeiras cerró la preparación con Murilo y Piquerez y define dos dudas.",
+        "fuente": "Gazeta Esportiva",
+        "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-encerra-preparacao-para-final-da-libertadores-com-dois-reforcos-veja-provavel-escalacao/"
+      },
       {
         "hora": "2026-11-27T17:49:00-03:00",
         "texto": "Mismo estadio, mismo rival, 58 años después: el Pincha va por la quinta.",
@@ -88,48 +129,6 @@
         "texto": "Casi 130 micros y una movilización histórica de hinchas hacia Montevideo.",
         "fuente": "Infocielo",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTjJNN0tMVDVrX3dBRWJ1Z09TTGlLeHJyR0RhQUo1aHpNVFd4YUpqb2U1bWJaemtLdlVaaHpWeTlSTWdZbXhyV0x6RktjcUM2M1pLUzJZZnZITHNweDRwSnRrOG5tN2NjNWs3Umh3NlkxZVlSN0cxX3ZSRUNJdDhITEtDb3JSdkt5RHpNZERZbVNiZ0hIeVJmY2Q3S1BrRnhjVHVIWVAzS2JpeWVlSGdqQUJ4QU1SUE03WnpwTjl2Ykd1QlZuX2xLZmE0bjBqcDBDNUZ4Z2d3?oc=5"
-      },
-      {
-        "hora": "2026-11-27T02:03:00-03:00",
-        "texto": "Final ante Palmeiras: horario, TV y formaciones probables.",
-        "fuente": "La Nación",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeXE4QjgtdG5WaXdKcmpSa2hLT3gyMDVhZ1pQUE53QzEwZll5Um5TemhwN0VJdzIzczk3Wm14em1VTTlOclpTT0U0RzIwVzFCWlZjamh5T1pZZ01fVFRPVkpPNVpIdi0zNmlFZG9HTVdoZUdBeGZ0UG1VNTRjWTR4TGNXTkZLSllpLUVLQ1U2VTJZS2FnVTNhMTh5RVMyeUo2N1RLckVia2dGaEtkbl8tcE9yYlRXVHgydHhIZEgwUWlRNTFxejBuOG1jQmdrUG0wYmFRT0hRWHhsb2l4cEdVU3Z6My0?oc=5"
-      },
-      {
-        "hora": "2026-11-26T23:10:00-03:00",
-        "texto": "Se esperan 35 mil hinchas del Pincha en Montevideo: la caravana rumbo a la final.",
-        "fuente": "Olé",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQWdMX0tVTzlDdVVfUjN3TXNTZ3lTZElFa1FSWFd2TlZfQUktSDFGNnVlUy1jalNPTnhWWm9LMDBYSGx6ZmgtN1VPVzNnX2daUzZGMlgxM21SMFNXMU9WVk5FRl9RQnRlMl9oS3IzYVFISkRmTDZJMXhHWHR3bUVLaU5UamhxdklDVVVGWW43OExzOXVJUVNWYlZoRjZmZWdMdERuZWdzb1FKemRhOVRBOXctaFY3T1RoRDlIb0lkN3NNajFZSVpaQzlZbVdWQQ?oc=5"
-      },
-      {
-        "hora": "2026-11-26T22:37:00-03:00",
-        "texto": "Más de 170 micros con hinchas de Estudiantes pasarán por Gualeguaychú.",
-        "fuente": "Elonce",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUGZ4WHY4UmlVemdFMWtWYmVCVC1sdG4ta3JoblR2akstYkRRQm9JWE00WldsTVF4NXkwNjJ5VTZpeWxtZ2xkbGI1S1VXTHVFUlhIMUNLWXhWV21lTU1TQkpaVURfXzdwb3VtcDZpSHpOTkhnTnByMGszRUM1UTVudEJqSXpVVTRrUEZoMGk3MTcwTW9SbVhrX0NhaFlBemQycjNHRGY5bzVVZGcwR2ZFcFhGbUpYV251VDRrTW1Bc3U1ZHk4WDBDaXRFNUZvZXpLdTI0NlF1MGwwZHlFVThEdGdkMGZ5Z9IB3wFBVV95cUxORlVpbnZ4anVoaW5SdS1uNFNyclM1SUE2QU5tcUlCcVRyekN2aHVWUVJFZTBIQ3cxRVpWQkdoQ1hjR1ROYWl3YmcwcHdRSTJHTWt3VTFDeV9KVVRHZnJuYlpzV0dRZ3RvNmloOERwRUtwZXRpLWFnb1FKZ3k3YUY4ODJLSTZ6aGhUV1VhMC15VlpHODd4VHZSTy1lTk5qWk5SNzFzMzVKQWdMbnpFci1YT2RpSk1RTjdzOFdfYnduc1l4eEhGMVZEWVlCSDVld1FVdUFvS2hGcnNUMUZlWlhn?oc=5"
-      },
-      {
-        "hora": "2026-11-26T20:46:00-03:00",
-        "texto": "En tres veleros y desde Ensenada: hinchas que cruzaron el Río de la Plata para la final.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/en-veleros-y-ensenada-hinchas-estudiantes-viajaron-uruguay-la-final-la-copa-libertadores-n138102"
-      },
-      {
-        "hora": "2026-11-26T20:15:00-03:00",
-        "texto": "Estudiantes y Palmeiras se preparan a puertas cerradas en Montevideo.",
-        "fuente": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVktacXlsNzVsejh4dlN1WGdEYUlvWFpPVS1kUThSd3BoNHhCcGxPdUQtUE03VVdCMkx6TzMtOTZBNDUwZnE0aURoWHd4S1RQYllWVWdfVDNlTHExSVJYYWtOUE5icEcyTFVfVEZwQzZRel93S29wSzFta3FPOTVEcjh5R2dVbGUtNG9TVVdrbFpHVS1LWmlMY3k5Z1B6YzhJMVJMeV9FX3lDRXBWc0VNRlJ6ZllYczZEbE9jX1h6RDktbUNjUmJZZU5fcU9FLVFNT1lB0gHuAUFVX3lxTE9STGdfWWdqTG03SnM3NVI5V0dLSU8wX2hIdE5MTEpnZnZBQUFRZmdUb3BPVXJXdWdadmE0U0NTMDFQTzllOGtLUWNldXlnNFk3bzJ2bHkxX2hVcUZrbkY2UTFnNGZpU0RlR2FLYlZCeEFrQ3Q1dkxPNndkaGUwRHVVRnN1dmo5QUtfRXQ0LUFfR3h0WUNkNlhKOHhnZWtRN2M5MEt2X1NjTE1ZVkN0ZGY3UFpDRXBQTVgzcXhkVi1mUTkydFh0dXo0RWhKV0Jkemhjam5MeEpZbXB5NzZMc3lkVnplUlc3N1BsT1JRN3c?oc=5"
-      },
-      {
-        "hora": "2026-11-26T19:16:00-03:00",
-        "texto": "Piovi, tras la primera práctica en Uruguay: \"Vamos a ir al frente como hasta ahora\".",
-        "fuente": "Infocielo",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko5Q1E1UnkxUFRfU1R2VjZnZG9LZkNfOGxnVkVhVUNRNlpMQVZ4bkhFM2ZlaFRCQnFxMUlfMThWbkdQdGR5RmxnS0plWVl6bEFkNXJDcUpKa2RDYnVwbTBqUjh0WS15QTJIbDdxQ1BnVkp2bTBBcVBlU1MzeUxBc0ZROFhsNHJjUVI4TDVhc2J5Yko0TTJsSUxlR3FnX0xyaHpCOXNPUDZ5RWhIUUhqX1BPSzR1T2Z0cUNYX1FxUnJNWWxHWDVpaFI3WXRhdGNmTFBZLW4yS21WVWJv?oc=5"
-      },
-      {
-        "hora": "2026-11-26T17:46:00-03:00",
-        "texto": "Video: los jugadores recibieron a los hinchas que llegaron a Montevideo en bicicleta.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/video-el-plantel-estudiantes-recibio-los-hinchas-que-llegaron-montevideo-pedaleando-n138094"
       }
     ]
   },

@@ -1,41 +1,62 @@
 {
   "hoy": {
-    "titular": "All set: the Pincha wrap up training and Montevideo turns red and white",
+    "titular": "The day is here: the Pincha go for a fifth Libertadores",
     "foto": {
       "alt": "Estudiantes fans fill the stand at the UNO."
     },
-    "resumen": "The squad completed their last session in Montevideo and Fabricio Pérez is lined up to replace Baltasar Rodríguez. The first Pincha fans have already taken over the city, with the bulk of the caravan crossing overnight and on Saturday morning.",
+    "resumen": "Estudiantes and Palmeiras decide the Cup today at the Centenario, with Fabricio Pérez replacing Baltasar Rodríguez. Medina says he believes strongly in his side, and the fans have already taken over Montevideo.",
     "siete": [
+      {
+        "titulo": "The day is here: the Pincha go for a fifth",
+        "texto": "Estudiantes and Palmeiras decide the Copa Libertadores in a one-off final at the Centenario, the same stadium and the same opponents as the 1968 final. If it is level, extra time and penalties; Jesús Valenzuela is the referee."
+      },
+      {
+        "titulo": "Medina: \"They are pure fuel\"",
+        "texto": "At his final press conference, the head coach thanked the fans for their support, which is \"pure fuel for these matches\", and said: \"I believe strongly in our team, in our players\". He singled out Palmeiras' individual quality, transitions and set pieces."
+      },
+      {
+        "titulo": "Flag rally at the Fan Fest and a party in Pocitos",
+        "texto": "Hundreds of Pincha fans packed the Montevideo Fan Fest on Friday, trading chants with Palmeiras supporters, and the party carried on at Pocitos beach. The rest of the caravan crosses overnight and in the morning: around 35,000 are expected in Uruguay."
+      },
       {
         "titulo": "Fabricio Pérez picked to fill Baltasar's place",
         "texto": "In the last session in Montevideo, Medina lined up Muslera; Mancuso, Núñez, González Pírez and Rojo; Fabricio Pérez, Piovi, Castro and Tobio Burgos; Tiago Palacios and Carrillo. A back five with Gastón Benedetti remains an option, from the start or during the match."
       },
       {
-        "titulo": "Montevideo turns red and white",
-        "texto": "The first Pincha fans have taken over the rambla, the city centre and Parque Rodó, the area set aside for Estudiantes supporters. The bulk of the caravan crosses overnight and on Saturday morning: around 35,000 are expected in Uruguay."
+        "titulo": "Carrillo answers Barboza",
+        "texto": "Alexander Barboza, Palmeiras' Argentine defender, had claimed the Verdão will be champions. The Pincha captain replied with irony from Montevideo: \"Congratulations on that...\""
       },
       {
         "titulo": "Correa available, likely to start on the bench",
         "texto": "Joaquín Correa trained alongside his team-mates after the tear he suffered against Flamengo and will be available to Medina as an option. He is expected to start the final among the substitutes."
       },
       {
-        "titulo": "A DJ before kick-off, funk at half-time",
-        "texto": "CONMEBOL confirmed that Uruguayan DJ Diego Maciel will open the ceremony with songs from both clubs, and Brazil's Pedro Sampaio will put on the first half-time show in a final, lasting seven minutes. Mariano Andújar will walk out with the Cup for Estudiantes."
-      },
-      {
-        "titulo": "Verón is already in Montevideo",
-        "texto": "The club president travelled with his family, will join the delegation at the squad's hotel and will watch the final from the stands at the Centenario."
-      },
-      {
-        "titulo": "Piovi: \"We will go on the attack\"",
-        "texto": "After the first session in Montevideo, Ezequiel Piovi said the squad have already studied Palmeiras and warned: \"On Saturday we will go on the attack, as we have done so far\". For him, it is the biggest match of his career."
-      },
-      {
-        "titulo": "Giay: \"Estudiantes are a very big club\"",
-        "texto": "Palmeiras' Argentine full-back, who trained in Montevideo alongside Flaco López, praised the Pincha ahead of the final, and Abel Ferreira described them as \"a fluid side\". Paulinho, injured since October, remains a doubt."
+        "titulo": "Palmeiras get Murilo and Piquerez back",
+        "texto": "Both defenders trained without restrictions as preparations wrapped up, and Murilo is more likely to start. Abel Ferreira is torn between Evangelista and Andreas Pereira in midfield and between Vitor Roque and Mauricio up front; Paulinho remains a doubt."
       }
     ],
     "linea": [
+      {
+        "texto": "Medina previews the final: \"Messages of support are pure fuel\"."
+      },
+      {
+        "texto": "Carrillo hits back at Barboza, who claimed Palmeiras will be champions."
+      },
+      {
+        "texto": "Hundreds of fans packed the Montevideo Fan Fest for a flag rally."
+      },
+      {
+        "texto": "Medina: \"Obviously there is no pressure in matches like this\"."
+      },
+      {
+        "texto": "Pincha fans party on Pocitos beach."
+      },
+      {
+        "texto": "A packed Fan Fest and a chanting duel with Palmeiras fans."
+      },
+      {
+        "texto": "Palmeiras wrap up preparations with Murilo and Piquerez and settle two doubts."
+      },
       {
         "texto": "Same stadium, same opponents, 58 years on: the Pincha go for a fifth."
       },
@@ -56,27 +77,6 @@
       },
       {
         "texto": "Almost 130 coaches and a historic fan movement towards Montevideo."
-      },
-      {
-        "texto": "Final against Palmeiras: kick-off time, TV and probable line-ups."
-      },
-      {
-        "texto": "35,000 Pincha fans expected in Montevideo: the caravan heading to the final."
-      },
-      {
-        "texto": "More than 170 coaches of Estudiantes fans will pass through Gualeguaychú."
-      },
-      {
-        "texto": "On three sailing boats from Ensenada: fans who crossed the River Plate for the final."
-      },
-      {
-        "texto": "Estudiantes and Palmeiras prepare behind closed doors in Montevideo."
-      },
-      {
-        "texto": "Piovi, after the first session in Uruguay: \"We will go on the attack, as we have so far\"."
-      },
-      {
-        "texto": "Video: the players welcomed the fans who cycled to Montevideo."
       }
     ]
   },

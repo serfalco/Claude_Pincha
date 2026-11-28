@@ -37,6 +37,16 @@
       }
     ]
   },
+  "foto": {
+    "id": "2026-05-25_accesos-y-recomendaciones-ante-dim_1",
+    "alt": {
+      "es": "La hinchada de Estudiantes llena la tribuna del estadio UNO.",
+      "en": "Estudiantes fans fill the stand at the UNO.",
+      "pt": "A torcida do Estudiantes lota a arquibancada do UNO.",
+      "zh": "Estudiantes球迷坐满了el UNO的看台。",
+      "hi": "Estudiantes के प्रशंसकों से el UNO का स्टैंड भरा हुआ।"
+    }
+  },
   "siete": [
     {
       "tema": "equipo-sin-baltasar",
@@ -159,17 +169,91 @@
       }
     }
   ],
-  "foto": {
-    "id": "2026-05-25_accesos-y-recomendaciones-ante-dim_1",
-    "alt": {
-      "es": "La hinchada de Estudiantes llena la tribuna del estadio UNO.",
-      "en": "Estudiantes fans fill the stand at the UNO.",
-      "pt": "A torcida do Estudiantes lota a arquibancada do UNO.",
-      "zh": "Estudiantes球迷坐满了el UNO的看台。",
-      "hi": "Estudiantes के प्रशंसकों से el UNO का स्टैंड भरा हुआ।"
-    }
-  },
   "linea": [
+    {
+      "hora": "2026-11-27T23:41:00-03:00",
+      "fuente": "Canal 26",
+      "url": "https://www.canal26.com/deportes/2026/11/28/alexander-medina-palpito-la-final-de-estudiantes-ante-palmeiras-y-dejo-una-frase-para-los-hinchas-son-combustible-puro/",
+      "texto": {
+        "es": "Medina palpitó la final: \"Los mensajes de aliento son combustible puro\".",
+        "en": "Medina previews the final: \"Messages of support are pure fuel\".",
+        "pt": "Medina projeta a final: \"As mensagens de apoio são combustível puro\".",
+        "zh": "Medina展望决赛：“支持的话语是纯粹的燃料”。",
+        "hi": "Medina ने फ़ाइनल से पहले कहा: \"समर्थन के संदेश शुद्ध ईंधन हैं\"।"
+      }
+    },
+    {
+      "hora": "2026-11-27T21:52:00-03:00",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/deportes/2026/11/28/la-respuesta-de-carrillo-a-una-ex-figura-de-river-que-aseguro-que-palmeiras-le-va-a-ganar-la-copa-libertadores-a-estudiantes/",
+      "texto": {
+        "es": "Carrillo le respondió a Barboza, que había asegurado que Palmeiras será campeón.",
+        "en": "Carrillo hits back at Barboza, who claimed Palmeiras will be champions.",
+        "pt": "Carrillo responde a Barboza, que garantiu que o Palmeiras será campeão.",
+        "zh": "Carrillo回击断言帕尔梅拉斯将夺冠的Barboza。",
+        "hi": "Carrillo ने Barboza को जवाब दिया, जिन्होंने Palmeiras के चैंपियन बनने का दावा किया था।"
+      }
+    },
+    {
+      "hora": "2026-11-27T21:15:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/cientos-hinchas-estudiantes-coparon-el-fan-fest-montevideo-un-banderazo-pura-ilusion-n138180",
+      "texto": {
+        "es": "Cientos de hinchas coparon el Fan Fest de Montevideo con un banderazo.",
+        "en": "Hundreds of fans packed the Montevideo Fan Fest for a flag rally.",
+        "pt": "Centenas de torcedores lotaram o Fan Fest de Montevidéu com um bandeiraço.",
+        "zh": "数百名球迷挤满蒙得维的亚球迷节举旗助威。",
+        "hi": "सैकड़ों प्रशंसकों ने झंडा रैली के साथ Montevideo का फ़ैन फ़ेस्ट भर दिया।"
+      }
+    },
+    {
+      "hora": "2026-11-27T20:51:00-03:00",
+      "fuente": "Perfil",
+      "url": "https://442.perfil.com/noticias/futbol/copa-libertadores-alexander-medina-palpito-la-final-entre-estudiantes-y-palmeiras.phtml",
+      "texto": {
+        "es": "Medina: \"Presión en este tipo de partidos obviamente que no hay\".",
+        "en": "Medina: \"Obviously there is no pressure in matches like this\".",
+        "pt": "Medina: \"Pressão neste tipo de jogo obviamente não existe\".",
+        "zh": "Medina：“这类比赛显然没有压力”。",
+        "hi": "Medina: \"ऐसे मैचों में ज़ाहिर है कोई दबाव नहीं होता\"।"
+      }
+    },
+    {
+      "hora": "2026-11-27T20:46:00-03:00",
+      "fuente": "Clarín",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZnJPbF9Malh4RFI0MHlNX2lTcE9FRVhMUnh0dDNJaFYyRVNRbDdncnpkQTA0OEtjZDh1QU5RMFRjWHB6Z1RhVHpPNU5JWmU4cFFPbG9aRkV2WlVzR2VWakpBQldoWUlSTEJUVWJEeUJCWXRfLTJ6dnVneTVYRzhEY0xkZFNKMXJPclEyc0piLS16ODVCMk9CS2lIQmtEZXc0TTlnTXFNNDNQbTBlS24wZHZYaw?oc=5",
+      "texto": {
+        "es": "La fiesta de los hinchas del Pincha en la playa de Pocitos.",
+        "en": "Pincha fans party on Pocitos beach.",
+        "pt": "A festa dos torcedores do Pincha na praia de Pocitos.",
+        "zh": "Pincha球迷在Pocitos海滩的狂欢。",
+        "hi": "Pocitos बीच पर Pincha प्रशंसकों का जश्न।"
+      }
+    },
+    {
+      "hora": "2026-11-27T20:42:00-03:00",
+      "fuente": "El Día",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdVo3RnQyWWJ4bVRyMmZOSWFHQ1Z1ODJaMlBTcHZMTjJyRmN5UmRPRDlwZXZFRjQ5VGRPRjd5c2RNb2FwS0xucGdnQy1LWjRoQlVTUy1xektqUUhvMHprNGE1RFV2Rnk2WWFwRDg1aWNwWmgwaHJzTExWN2NmeV9FWFd4Wm5iQzlZc2lMSmVTUWFZSXVrRzFHcTBYYmFJcWtGWG40QW1ueTYxUjZBM3Y0NGd1X3d5X0s3Yk00UzBBTGY3aGx4Q3ZFREl4Wm5wUldCY0hyMEJYVXdaQ2NvVHB6N0RQQVFaWTV5S2c?oc=5",
+      "texto": {
+        "es": "Fan Fest repleto y duelo de cantitos con los hinchas de Palmeiras.",
+        "en": "A packed Fan Fest and a chanting duel with Palmeiras fans.",
+        "pt": "Fan Fest lotado e duelo de cantos com a torcida do Palmeiras.",
+        "zh": "球迷节人山人海，与帕尔梅拉斯球迷歌声对决。",
+        "hi": "भरा हुआ फ़ैन फ़ेस्ट और Palmeiras प्रशंसकों के साथ नारों का मुक़ाबला।"
+      }
+    },
+    {
+      "hora": "2026-11-27T19:01:00-03:00",
+      "fuente": "Gazeta Esportiva",
+      "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-encerra-preparacao-para-final-da-libertadores-com-dois-reforcos-veja-provavel-escalacao/",
+      "texto": {
+        "es": "Palmeiras cerró la preparación con Murilo y Piquerez y define dos dudas.",
+        "en": "Palmeiras wrap up preparations with Murilo and Piquerez and settle two doubts.",
+        "pt": "Palmeiras encerra a preparação com Murilo e Piquerez e define duas dúvidas.",
+        "zh": "帕尔梅拉斯带着Murilo和Piquerez结束备战，并敲定两处人选疑问。",
+        "hi": "Palmeiras ने Murilo और Piquerez के साथ तैयारी पूरी की और दो दुविधाएँ सुलझाईं।"
+      }
+    },
     {
       "hora": "2026-11-27T17:49:00-03:00",
       "fuente": "Perfil",
