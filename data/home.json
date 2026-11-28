@@ -1,13 +1,13 @@
 {
   "simulado": false,
-  "actualizado": "2026-11-28T00:07:00-03:00",
+  "actualizado": "2026-11-28T08:07:00-03:00",
   "hoy": {
     "titular": "Llegó el día: el Pincha va por la quinta Libertadores",
     "foto": {
       "id": "2026-05-25_accesos-y-recomendaciones-ante-dim_1",
       "alt": "La hinchada de Estudiantes llena la tribuna del estadio UNO."
     },
-    "resumen": "Estudiantes y Palmeiras definen hoy la Copa en el Centenario, con Fabricio Pérez como reemplazo de Baltasar Rodríguez. Medina dice que cree mucho en su equipo y los hinchas ya coparon Montevideo.",
+    "resumen": "Estudiantes y Palmeiras definen hoy a las 17 la Copa en el Centenario, con Fabricio Pérez como reemplazo de Baltasar Rodríguez. En la madrugada llegaron los micros y se esperan más de 30 mil pinchas en Montevideo.",
     "siete": [
       {
         "tema": "final-dia",
@@ -21,8 +21,8 @@
       },
       {
         "tema": "exodo-montevideo",
-        "titulo": "Banderazo en el Fan Fest y fiesta en Pocitos",
-        "texto": "Cientos de pinchas coparon el viernes el Fan Fest de Montevideo, con duelo de cantitos con los de Palmeiras, y la fiesta siguió en la playa de Pocitos. El resto de la caravana cruza entre la madrugada y la mañana: se esperan unos 35 mil en Uruguay."
+        "titulo": "Invasión pincha en Montevideo",
+        "texto": "En la madrugada llegaron los hinchas de los 160 micros, demorados en la frontera: la salida se había corrido de las 7 a las 10.30 y recién a la medianoche la mayoría había cruzado. Se esperan más de 30 mil pinchas en el Centenario."
       },
       {
         "tema": "equipo-sin-baltasar",
@@ -40,12 +40,36 @@
         "texto": "Joaquín Correa se entrenó a la par de sus compañeros tras el desgarro sufrido ante Flamengo y estará a disposición de Medina como alternativa. La tendencia es que empiece la final entre los suplentes."
       },
       {
-        "tema": "palmeiras-previa-final",
-        "titulo": "Palmeiras recupera a Murilo y Piquerez",
-        "texto": "Los dos defensores se entrenaron sin limitaciones en el cierre de la preparación y Murilo tiene más chances de arrancar. Abel Ferreira duda entre Evangelista y Andreas Pereira en el medio y entre Vitor Roque y Mauricio arriba; Paulinho sigue en duda."
+        "tema": "mundial-clubes-2029",
+        "titulo": "Con la Copa, al Mundial de Clubes 2029",
+        "texto": "Además de la quinta estrella, la final reparte un lugar en el Mundial de Clubes 2029: si le gana a Palmeiras, el Pincha sella su boleto como campeón de América."
       }
     ],
     "linea": [
+      {
+        "hora": "2026-11-28T07:26:00-03:00",
+        "texto": "Casi 16 millones de dólares en premios acumulados, y cuánto más suma si sale campeón.",
+        "fuente": "0221",
+        "url": "https://www.0221.com.ar/estudiantes/los-millones-dolares-que-lleva-acumulados-estudiantes-la-copa-libertadores-y-cuantos-podria-ganar-n138133"
+      },
+      {
+        "hora": "2026-11-28T03:35:00-03:00",
+        "texto": "Si gana la Libertadores, el Pincha sella su lugar en el Mundial de Clubes 2029.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/deportes/2026/11/28/como-esta-la-clasificacion-rumbo-al-mundial-de-clubes-2029-estudiantes-de-la-plata-sellara-su-boleto-si-gana-la-libertadores/"
+      },
+      {
+        "hora": "2026-11-28T02:11:00-03:00",
+        "texto": "Invasión pincha: en la madrugada llegaron a Montevideo los hinchas de los 160 micros.",
+        "fuente": "El Día",
+        "url": "https://www.eldia.com/deportes/el-partido-de-sus-vidas-invasion-pincha-en-montevideo-deportes_1795842716"
+      },
+      {
+        "hora": "2026-11-28T00:00:00-03:00",
+        "texto": "Claudio Vivas, el que descubrió a Carrillo y a Rojo en las inferiores, alentará por el Pincha.",
+        "fuente": "Diario Hoy",
+        "url": "https://diariohoy.net/el-clasico/claudio-vivas-el-descubridor-de-carrillo-y-rojo-alentara-por-estudiantes-290703"
+      },
       {
         "hora": "2026-11-27T23:41:00-03:00",
         "texto": "Medina palpitó la final: \"Los mensajes de aliento son combustible puro\".",
@@ -105,30 +129,6 @@
         "texto": "Llegan los primeros hinchas y Montevideo empieza a pintarse de rojo y blanco.",
         "fuente": "El Día",
         "url": "https://www.eldia.com/deportes/montevideo-se-tine-de-rojo-y-blanco-los-primeros-hinchas-de-estudiantes-comienzan-a-llegar-a-uruguay-deportes_1795804702"
-      },
-      {
-        "hora": "2026-11-27T15:13:00-03:00",
-        "texto": "El DJ uruguayo Diego Maciel animará la previa de la final.",
-        "fuente": "0221",
-        "url": "https://www.0221.com.ar/estudiantes/se-revelo-quien-dara-el-show-la-final-la-copa-libertadores-estudiantes-y-palmeiras-n138151"
-      },
-      {
-        "hora": "2026-11-27T12:28:00-03:00",
-        "texto": "Última práctica en Montevideo: el equipo que piensa Medina para la final.",
-        "fuente": "El Día",
-        "url": "https://www.eldia.com/deportes/ultimo-entrenamiento-de-estudiantes-previo-a-la-final-que-equipo-piensa-medina-para-manana-deportes_1795793290"
-      },
-      {
-        "hora": "2026-11-27T08:05:00-03:00",
-        "texto": "Arrancó la movilización: casi 130 micros parten desde el UNO rumbo a Uruguay.",
-        "fuente": "Punto Capital",
-        "url": "https://www.puntocapitalnoticias.com/estudiantes-moviliza-a-miles-de-hinchas-rumbo-a-uruguay-casi-130-micros-parten-desde-uno-para-la-final-de-la-libertadores/"
-      },
-      {
-        "hora": "2026-11-27T07:36:00-03:00",
-        "texto": "Casi 130 micros y una movilización histórica de hinchas hacia Montevideo.",
-        "fuente": "Infocielo",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTjJNN0tMVDVrX3dBRWJ1Z09TTGlLeHJyR0RhQUo1aHpNVFd4YUpqb2U1bWJaemtLdlVaaHpWeTlSTWdZbXhyV0x6RktjcUM2M1pLUzJZZnZITHNweDRwSnRrOG5tN2NjNWs3Umh3NlkxZVlSN0cxX3ZSRUNJdDhITEtDb3JSdkt5RHpNZERZbVNiZ0hIeVJmY2Q3S1BrRnhjVHVIWVAzS2JpeWVlSGdqQUJ4QU1SUE03WnpwTjl2Ykd1QlZuX2xLZmE0bjBqcDBDNUZ4Z2d3?oc=5"
       }
     ]
   },

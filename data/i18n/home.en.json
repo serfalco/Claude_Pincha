@@ -4,7 +4,7 @@
     "foto": {
       "alt": "Estudiantes fans fill the stand at the UNO."
     },
-    "resumen": "Estudiantes and Palmeiras decide the Cup today at the Centenario, with Fabricio Pérez replacing Baltasar Rodríguez. Medina says he believes strongly in his side, and the fans have already taken over Montevideo.",
+    "resumen": "Estudiantes and Palmeiras decide the Cup today at 17:00 at the Centenario, with Fabricio Pérez replacing Baltasar Rodríguez. The coaches arrived overnight and more than 30,000 Pincha fans are expected in Montevideo.",
     "siete": [
       {
         "titulo": "The day is here: the Pincha go for a fifth",
@@ -15,8 +15,8 @@
         "texto": "At his final press conference, the head coach thanked the fans for their support, which is \"pure fuel for these matches\", and said: \"I believe strongly in our team, in our players\". He singled out Palmeiras' individual quality, transitions and set pieces."
       },
       {
-        "titulo": "Flag rally at the Fan Fest and a party in Pocitos",
-        "texto": "Hundreds of Pincha fans packed the Montevideo Fan Fest on Friday, trading chants with Palmeiras supporters, and the party carried on at Pocitos beach. The rest of the caravan crosses overnight and in the morning: around 35,000 are expected in Uruguay."
+        "titulo": "Pincha invasion in Montevideo",
+        "texto": "Fans from the 160 coaches arrived in the early hours after border delays: departure had been pushed back from 7:00 to 10:30 and most had only crossed by midnight. More than 30,000 Pincha fans are expected at the Centenario."
       },
       {
         "titulo": "Fabricio Pérez picked to fill Baltasar's place",
@@ -31,11 +31,23 @@
         "texto": "Joaquín Correa trained alongside his team-mates after the tear he suffered against Flamengo and will be available to Medina as an option. He is expected to start the final among the substitutes."
       },
       {
-        "titulo": "Palmeiras get Murilo and Piquerez back",
-        "texto": "Both defenders trained without restrictions as preparations wrapped up, and Murilo is more likely to start. Abel Ferreira is torn between Evangelista and Andreas Pereira in midfield and between Vitor Roque and Mauricio up front; Paulinho remains a doubt."
+        "titulo": "Win the Cup, reach the 2029 Club World Cup",
+        "texto": "As well as a fifth star, the final hands out a place at the 2029 Club World Cup: beat Palmeiras and the Pincha seal their ticket as champions of South America."
       }
     ],
     "linea": [
+      {
+        "texto": "Almost USD 16 million in prize money so far, and how much more comes with the title."
+      },
+      {
+        "texto": "Win the Libertadores and the Pincha seal a place at the 2029 Club World Cup."
+      },
+      {
+        "texto": "Pincha invasion: fans from the 160 coaches reached Montevideo in the early hours."
+      },
+      {
+        "texto": "Claudio Vivas, who discovered Carrillo and Rojo in the academy, will be cheering for the Pincha."
+      },
       {
         "texto": "Medina previews the final: \"Messages of support are pure fuel\"."
       },
@@ -65,18 +77,6 @@
       },
       {
         "texto": "The first fans arrive and Montevideo starts turning red and white."
-      },
-      {
-        "texto": "Uruguayan DJ Diego Maciel will warm up the crowd before the final."
-      },
-      {
-        "texto": "Last session in Montevideo: the line-up Medina has in mind for the final."
-      },
-      {
-        "texto": "The exodus is under way: almost 130 coaches leave the UNO for Uruguay."
-      },
-      {
-        "texto": "Almost 130 coaches and a historic fan movement towards Montevideo."
       }
     ]
   },

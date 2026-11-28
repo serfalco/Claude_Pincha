@@ -4,7 +4,7 @@
     "foto": {
       "alt": "A torcida do Estudiantes lota a arquibancada do UNO."
     },
-    "resumen": "Estudiantes e Palmeiras decidem hoje a Copa no Centenario, com Fabricio Pérez no lugar de Baltasar Rodríguez. Medina diz que acredita muito no seu time, e os torcedores já tomaram Montevidéu.",
+    "resumen": "Estudiantes e Palmeiras decidem hoje, às 17h, a Copa no Centenario, com Fabricio Pérez no lugar de Baltasar Rodríguez. Os ônibus chegaram de madrugada e mais de 30 mil torcedores do Pincha são esperados em Montevidéu.",
     "siete": [
       {
         "titulo": "Chegou o dia: o Pincha vai atrás da quinta",
@@ -15,8 +15,8 @@
         "texto": "Na última coletiva, o técnico agradeceu o apoio dos torcedores, que é \"combustível puro para estes jogos\", e afirmou: \"Acredito muito no nosso time, nos nossos jogadores\". Do Palmeiras, destacou as individualidades, as transições e a bola parada."
       },
       {
-        "titulo": "Bandeiraço no Fan Fest e festa em Pocitos",
-        "texto": "Centenas de torcedores do Pincha lotaram na sexta o Fan Fest de Montevidéu, com duelo de cantos com os palmeirenses, e a festa continuou na praia de Pocitos. O resto da caravana cruza entre a madrugada e a manhã: são esperados cerca de 35 mil no Uruguai."
+        "titulo": "Invasão pincha em Montevidéu",
+        "texto": "De madrugada chegaram os torcedores dos 160 ônibus, atrasados na fronteira: a saída tinha passado das 7h para as 10h30 e só à meia-noite a maioria tinha cruzado. São esperados mais de 30 mil torcedores do Pincha no Centenario."
       },
       {
         "titulo": "Fabricio Pérez, o escolhido para a vaga de Baltasar",
@@ -31,11 +31,23 @@
         "texto": "Joaquín Correa treinou com os companheiros depois da lesão muscular sofrida contra o Flamengo e estará à disposição de Medina como alternativa. A tendência é que comece a final entre os reservas."
       },
       {
-        "titulo": "Palmeiras recupera Murilo e Piquerez",
-        "texto": "Os dois defensores treinaram sem limitações no encerramento da preparação, e Murilo tem mais chances de começar. Abel Ferreira tem dúvidas entre Evangelista e Andreas Pereira no meio e entre Vitor Roque e Mauricio no ataque; Paulinho segue em dúvida."
+        "titulo": "Com a Copa, ao Mundial de Clubes 2029",
+        "texto": "Além da quinta estrela, a final vale uma vaga no Mundial de Clubes 2029: se vencer o Palmeiras, o Pincha garante seu lugar como campeão da América."
       }
     ],
     "linea": [
+      {
+        "texto": "Quase 16 milhões de dólares em prêmios acumulados, e quanto mais soma se for campeão."
+      },
+      {
+        "texto": "Se ganhar a Libertadores, o Pincha garante vaga no Mundial de Clubes 2029."
+      },
+      {
+        "texto": "Invasão pincha: de madrugada chegaram a Montevidéu os torcedores dos 160 ônibus."
+      },
+      {
+        "texto": "Claudio Vivas, que descobriu Carrillo e Rojo na base, vai torcer pelo Pincha."
+      },
       {
         "texto": "Medina projeta a final: \"As mensagens de apoio são combustível puro\"."
       },
@@ -65,18 +77,6 @@
       },
       {
         "texto": "Chegam os primeiros torcedores e Montevidéu começa a se pintar de vermelho e branco."
-      },
-      {
-        "texto": "O DJ uruguaio Diego Maciel vai animar a abertura da final."
-      },
-      {
-        "texto": "Último treino em Montevidéu: o time que Medina pensa para a final."
-      },
-      {
-        "texto": "Começou a mobilização: quase 130 ônibus partem do UNO rumo ao Uruguai."
-      },
-      {
-        "texto": "Quase 130 ônibus e uma mobilização histórica de torcedores rumo a Montevidéu."
       }
     ]
   },

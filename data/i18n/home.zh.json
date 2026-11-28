@@ -4,7 +4,7 @@
     "foto": {
       "alt": "Estudiantes球迷坐满了el UNO的看台。"
     },
-    "resumen": "Estudiantes与帕尔梅拉斯今天在Centenario球场争夺冠军，Fabricio Pérez将顶替Baltasar Rodríguez。Medina表示非常相信自己的球队，球迷们已经占领了蒙得维的亚。",
+    "resumen": "Estudiantes与帕尔梅拉斯今天17点在Centenario球场争夺冠军，Fabricio Pérez将顶替Baltasar Rodríguez。大巴车队凌晨抵达，预计将有超过3万名Pincha球迷齐聚蒙得维的亚。",
     "siete": [
       {
         "titulo": "决战日到来：Pincha冲击第五冠",
@@ -15,8 +15,8 @@
         "texto": "在最后一次新闻发布会上，主教练感谢球迷的支持，称这是“这类比赛的纯粹燃料”，并表示：“我非常相信我们的球队和球员。”他特别提到帕尔梅拉斯的个人能力、攻防转换和定位球。"
       },
       {
-        "titulo": "球迷节举旗助威，Pocitos海滩狂欢",
-        "texto": "周五，数百名Pincha球迷挤满蒙得维的亚球迷节，与帕尔梅拉斯球迷展开歌声对决，狂欢一直延续到Pocitos海滩。其余车队将在凌晨至上午过境：预计约3.5万人抵达乌拉圭。"
+        "titulo": "Pincha球迷大举进入蒙得维的亚",
+        "texto": "160辆大巴的球迷在边境受阻后于凌晨抵达：出发时间从7点推迟到10点30分，直到午夜大部分车辆才过境。预计Centenario球场将有超过3万名Pincha球迷。"
       },
       {
         "titulo": "Fabricio Pérez入选，顶替Baltasar",
@@ -31,11 +31,23 @@
         "texto": "Joaquín Correa在对Flamengo时肌肉撕裂后已随队合练，将作为Medina的备选。预计他将在决赛中替补出发。"
       },
       {
-        "titulo": "帕尔梅拉斯迎回Murilo和Piquerez",
-        "texto": "两名后卫在备战收官训练中毫无限制地参加训练，Murilo更有可能首发。Abel Ferreira在中场的Evangelista和Andreas Pereira之间、锋线的Vitor Roque和Mauricio之间犹豫；Paulinho仍存疑。"
+        "titulo": "夺冠即晋级2029年世俱杯",
+        "texto": "除了第五颗星，这场决赛还关乎2029年世俱杯的席位：只要击败帕尔梅拉斯，Pincha就将以南美冠军身份锁定参赛资格。"
       }
     ],
     "linea": [
+      {
+        "texto": "已累计近1600万美元奖金，夺冠还能再拿多少。"
+      },
+      {
+        "texto": "若夺得解放者杯，Pincha将锁定2029年世俱杯席位。"
+      },
+      {
+        "texto": "Pincha球迷大举进城：160辆大巴的球迷凌晨抵达蒙得维的亚。"
+      },
+      {
+        "texto": "在青训中发掘Carrillo和Rojo的Claudio Vivas将为Pincha助威。"
+      },
       {
         "texto": "Medina展望决赛：“支持的话语是纯粹的燃料”。"
       },
@@ -65,18 +77,6 @@
       },
       {
         "texto": "首批球迷抵达，蒙得维的亚开始染上红白色。"
-      },
-      {
-        "texto": "乌拉圭DJ Diego Maciel将为决赛暖场。"
-      },
-      {
-        "texto": "蒙得维的亚最后一练：Medina心中的决赛阵容。"
-      },
-      {
-        "texto": "大规模出征开始：近130辆大巴从el UNO驶向乌拉圭。"
-      },
-      {
-        "texto": "近130辆大巴，球迷历史性奔赴蒙得维的亚。"
       }
     ]
   },

@@ -8,11 +8,11 @@
     "hi": "दिन आ गया: Pincha पाँचवें Libertadores ख़िताब की तलाश में"
   },
   "resumen": {
-    "es": "Estudiantes y Palmeiras definen hoy la Copa en el Centenario, con Fabricio Pérez como reemplazo de Baltasar Rodríguez. Medina dice que cree mucho en su equipo y los hinchas ya coparon Montevideo.",
-    "en": "Estudiantes and Palmeiras decide the Cup today at the Centenario, with Fabricio Pérez replacing Baltasar Rodríguez. Medina says he believes strongly in his side, and the fans have already taken over Montevideo.",
-    "pt": "Estudiantes e Palmeiras decidem hoje a Copa no Centenario, com Fabricio Pérez no lugar de Baltasar Rodríguez. Medina diz que acredita muito no seu time, e os torcedores já tomaram Montevidéu.",
-    "zh": "Estudiantes与帕尔梅拉斯今天在Centenario球场争夺冠军，Fabricio Pérez将顶替Baltasar Rodríguez。Medina表示非常相信自己的球队，球迷们已经占领了蒙得维的亚。",
-    "hi": "Estudiantes और Palmeiras आज Centenario में कप का फ़ैसला करेंगे, Baltasar Rodríguez की जगह Fabricio Pérez खेलेंगे। Medina ने कहा कि उन्हें अपनी टीम पर पूरा भरोसा है, और प्रशंसक पहले ही Montevideo पर छा गए हैं।"
+    "es": "Estudiantes y Palmeiras definen hoy a las 17 la Copa en el Centenario, con Fabricio Pérez como reemplazo de Baltasar Rodríguez. En la madrugada llegaron los micros y se esperan más de 30 mil pinchas en Montevideo.",
+    "en": "Estudiantes and Palmeiras decide the Cup today at 17:00 at the Centenario, with Fabricio Pérez replacing Baltasar Rodríguez. The coaches arrived overnight and more than 30,000 Pincha fans are expected in Montevideo.",
+    "pt": "Estudiantes e Palmeiras decidem hoje, às 17h, a Copa no Centenario, com Fabricio Pérez no lugar de Baltasar Rodríguez. Os ônibus chegaram de madrugada e mais de 30 mil torcedores do Pincha são esperados em Montevidéu.",
+    "zh": "Estudiantes与帕尔梅拉斯今天17点在Centenario球场争夺冠军，Fabricio Pérez将顶替Baltasar Rodríguez。大巴车队凌晨抵达，预计将有超过3万名Pincha球迷齐聚蒙得维的亚。",
+    "hi": "Estudiantes और Palmeiras आज 17:00 बजे Centenario में कप का फ़ैसला करेंगे, Baltasar Rodríguez की जगह Fabricio Pérez खेलेंगे। बसें तड़के पहुँचीं और Montevideo में 30,000 से ज़्यादा Pincha प्रशंसकों के आने की उम्मीद है।"
   },
   "ultimo": {
     "rival": "Independiente Rivadavia",
@@ -75,18 +75,18 @@
     {
       "tema": "exodo-montevideo",
       "titulo": {
-        "es": "Banderazo en el Fan Fest y fiesta en Pocitos",
-        "en": "Flag rally at the Fan Fest and a party in Pocitos",
-        "pt": "Bandeiraço no Fan Fest e festa em Pocitos",
-        "zh": "球迷节举旗助威，Pocitos海滩狂欢",
-        "hi": "फ़ैन फ़ेस्ट में झंडा रैली, Pocitos में जश्न"
+        "es": "Invasión pincha en Montevideo",
+        "en": "Pincha invasion in Montevideo",
+        "pt": "Invasão pincha em Montevidéu",
+        "zh": "Pincha球迷大举进入蒙得维的亚",
+        "hi": "Montevideo में Pincha का सैलाब"
       },
       "texto": {
-        "es": "Cientos de pinchas coparon el viernes el Fan Fest de Montevideo, con duelo de cantitos con los de Palmeiras, y la fiesta siguió en la playa de Pocitos. El resto de la caravana cruza entre la madrugada y la mañana: se esperan unos 35 mil en Uruguay.",
-        "en": "Hundreds of Pincha fans packed the Montevideo Fan Fest on Friday, trading chants with Palmeiras supporters, and the party carried on at Pocitos beach. The rest of the caravan crosses overnight and in the morning: around 35,000 are expected in Uruguay.",
-        "pt": "Centenas de torcedores do Pincha lotaram na sexta o Fan Fest de Montevidéu, com duelo de cantos com os palmeirenses, e a festa continuou na praia de Pocitos. O resto da caravana cruza entre a madrugada e a manhã: são esperados cerca de 35 mil no Uruguai.",
-        "zh": "周五，数百名Pincha球迷挤满蒙得维的亚球迷节，与帕尔梅拉斯球迷展开歌声对决，狂欢一直延续到Pocitos海滩。其余车队将在凌晨至上午过境：预计约3.5万人抵达乌拉圭。",
-        "hi": "शुक्रवार को सैकड़ों Pincha प्रशंसकों ने Montevideo का फ़ैन फ़ेस्ट भर दिया, Palmeiras समर्थकों के साथ नारों का मुक़ाबला हुआ, और जश्न Pocitos बीच पर जारी रहा। बाक़ी काफ़िला रात से सुबह तक पार करेगा: उरुग्वे में लगभग 35,000 प्रशंसकों के पहुँचने की उम्मीद है।"
+        "es": "En la madrugada llegaron los hinchas de los 160 micros, demorados en la frontera: la salida se había corrido de las 7 a las 10.30 y recién a la medianoche la mayoría había cruzado. Se esperan más de 30 mil pinchas en el Centenario.",
+        "en": "Fans from the 160 coaches arrived in the early hours after border delays: departure had been pushed back from 7:00 to 10:30 and most had only crossed by midnight. More than 30,000 Pincha fans are expected at the Centenario.",
+        "pt": "De madrugada chegaram os torcedores dos 160 ônibus, atrasados na fronteira: a saída tinha passado das 7h para as 10h30 e só à meia-noite a maioria tinha cruzado. São esperados mais de 30 mil torcedores do Pincha no Centenario.",
+        "zh": "160辆大巴的球迷在边境受阻后于凌晨抵达：出发时间从7点推迟到10点30分，直到午夜大部分车辆才过境。预计Centenario球场将有超过3万名Pincha球迷。",
+        "hi": "160 बसों के प्रशंसक सीमा पर देरी के बाद तड़के पहुँचे: रवानगी 7 बजे से खिसककर 10:30 हो गई थी और आधी रात तक ही ज़्यादातर बसें सीमा पार कर पाईं। Centenario में 30,000 से ज़्यादा Pincha प्रशंसकों के पहुँचने की उम्मीद है।"
       }
     },
     {
@@ -141,20 +141,20 @@
       }
     },
     {
-      "tema": "palmeiras-previa-final",
+      "tema": "mundial-clubes-2029",
       "titulo": {
-        "es": "Palmeiras recupera a Murilo y Piquerez",
-        "en": "Palmeiras get Murilo and Piquerez back",
-        "pt": "Palmeiras recupera Murilo e Piquerez",
-        "zh": "帕尔梅拉斯迎回Murilo和Piquerez",
-        "hi": "Palmeiras को Murilo और Piquerez वापस मिले"
+        "es": "Con la Copa, al Mundial de Clubes 2029",
+        "en": "Win the Cup, reach the 2029 Club World Cup",
+        "pt": "Com a Copa, ao Mundial de Clubes 2029",
+        "zh": "夺冠即晋级2029年世俱杯",
+        "hi": "कप जीतो, 2029 क्लब वर्ल्ड कप में पहुँचो"
       },
       "texto": {
-        "es": "Los dos defensores se entrenaron sin limitaciones en el cierre de la preparación y Murilo tiene más chances de arrancar. Abel Ferreira duda entre Evangelista y Andreas Pereira en el medio y entre Vitor Roque y Mauricio arriba; Paulinho sigue en duda.",
-        "en": "Both defenders trained without restrictions as preparations wrapped up, and Murilo is more likely to start. Abel Ferreira is torn between Evangelista and Andreas Pereira in midfield and between Vitor Roque and Mauricio up front; Paulinho remains a doubt.",
-        "pt": "Os dois defensores treinaram sem limitações no encerramento da preparação, e Murilo tem mais chances de começar. Abel Ferreira tem dúvidas entre Evangelista e Andreas Pereira no meio e entre Vitor Roque e Mauricio no ataque; Paulinho segue em dúvida.",
-        "zh": "两名后卫在备战收官训练中毫无限制地参加训练，Murilo更有可能首发。Abel Ferreira在中场的Evangelista和Andreas Pereira之间、锋线的Vitor Roque和Mauricio之间犹豫；Paulinho仍存疑。",
-        "hi": "दोनों डिफ़ेंडरों ने तैयारी के आख़िरी सत्र में बिना किसी रोक के अभ्यास किया, और Murilo के शुरुआत करने की संभावना ज़्यादा है। Abel Ferreira मिडफ़ील्ड में Evangelista और Andreas Pereira, और आगे Vitor Roque और Mauricio के बीच दुविधा में हैं; Paulinho पर अब भी संदेह है।"
+        "es": "Además de la quinta estrella, la final reparte un lugar en el Mundial de Clubes 2029: si le gana a Palmeiras, el Pincha sella su boleto como campeón de América.",
+        "en": "As well as a fifth star, the final hands out a place at the 2029 Club World Cup: beat Palmeiras and the Pincha seal their ticket as champions of South America.",
+        "pt": "Além da quinta estrela, a final vale uma vaga no Mundial de Clubes 2029: se vencer o Palmeiras, o Pincha garante seu lugar como campeão da América.",
+        "zh": "除了第五颗星，这场决赛还关乎2029年世俱杯的席位：只要击败帕尔梅拉斯，Pincha就将以南美冠军身份锁定参赛资格。",
+        "hi": "पाँचवें सितारे के साथ यह फ़ाइनल 2029 क्लब वर्ल्ड कप की जगह भी तय करेगा: Palmeiras को हराते ही Pincha दक्षिण अमेरिका के चैंपियन के रूप में अपना टिकट पक्का कर लेगा।"
       }
     }
   ],
@@ -168,5 +168,54 @@
       "hi": "Estudiantes के प्रशंसकों से el UNO का स्टैंड भरा हुआ।"
     }
   },
-  "linea": []
+  "linea": [
+    {
+      "hora": "2026-11-28T07:26:00-03:00",
+      "fuente": "0221",
+      "url": "https://www.0221.com.ar/estudiantes/los-millones-dolares-que-lleva-acumulados-estudiantes-la-copa-libertadores-y-cuantos-podria-ganar-n138133",
+      "texto": {
+        "es": "Casi 16 millones de dólares en premios acumulados, y cuánto más suma si sale campeón.",
+        "en": "Almost USD 16 million in prize money so far, and how much more comes with the title.",
+        "pt": "Quase 16 milhões de dólares em prêmios acumulados, e quanto mais soma se for campeão.",
+        "zh": "已累计近1600万美元奖金，夺冠还能再拿多少。",
+        "hi": "अब तक लगभग 1.6 करोड़ डॉलर की इनामी राशि, और चैंपियन बनने पर कितनी और मिलेगी।"
+      }
+    },
+    {
+      "hora": "2026-11-28T03:35:00-03:00",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/deportes/2026/11/28/como-esta-la-clasificacion-rumbo-al-mundial-de-clubes-2029-estudiantes-de-la-plata-sellara-su-boleto-si-gana-la-libertadores/",
+      "texto": {
+        "es": "Si gana la Libertadores, el Pincha sella su lugar en el Mundial de Clubes 2029.",
+        "en": "Win the Libertadores and the Pincha seal a place at the 2029 Club World Cup.",
+        "pt": "Se ganhar a Libertadores, o Pincha garante vaga no Mundial de Clubes 2029.",
+        "zh": "若夺得解放者杯，Pincha将锁定2029年世俱杯席位。",
+        "hi": "Libertadores जीतने पर Pincha 2029 क्लब वर्ल्ड कप में अपनी जगह पक्की कर लेगा।"
+      }
+    },
+    {
+      "hora": "2026-11-28T02:11:00-03:00",
+      "fuente": "El Día",
+      "url": "https://www.eldia.com/deportes/el-partido-de-sus-vidas-invasion-pincha-en-montevideo-deportes_1795842716",
+      "texto": {
+        "es": "Invasión pincha: en la madrugada llegaron a Montevideo los hinchas de los 160 micros.",
+        "en": "Pincha invasion: fans from the 160 coaches reached Montevideo in the early hours.",
+        "pt": "Invasão pincha: de madrugada chegaram a Montevidéu os torcedores dos 160 ônibus.",
+        "zh": "Pincha球迷大举进城：160辆大巴的球迷凌晨抵达蒙得维的亚。",
+        "hi": "Pincha का सैलाब: 160 बसों के प्रशंसक तड़के Montevideo पहुँचे।"
+      }
+    },
+    {
+      "hora": "2026-11-28T00:00:00-03:00",
+      "fuente": "Diario Hoy",
+      "url": "https://diariohoy.net/el-clasico/claudio-vivas-el-descubridor-de-carrillo-y-rojo-alentara-por-estudiantes-290703",
+      "texto": {
+        "es": "Claudio Vivas, el que descubrió a Carrillo y a Rojo en las inferiores, alentará por el Pincha.",
+        "en": "Claudio Vivas, who discovered Carrillo and Rojo in the academy, will be cheering for the Pincha.",
+        "pt": "Claudio Vivas, que descobriu Carrillo e Rojo na base, vai torcer pelo Pincha.",
+        "zh": "在青训中发掘Carrillo和Rojo的Claudio Vivas将为Pincha助威。",
+        "hi": "अकादमी में Carrillo और Rojo को खोजने वाले Claudio Vivas, Pincha का समर्थन करेंगे।"
+      }
+    }
+  ]
 }
